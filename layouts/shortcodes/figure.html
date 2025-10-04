@@ -2,7 +2,7 @@
 {{ $alt := .Get "alt" | default "" }}
 {{ $caption := .Get "caption" }}
 <figure class="my-6">
-  <img src="{{ $src }}" alt="{{ $alt }}" class="w-full rounded shadow">
+  <img src="{{ $src }}" alt="{{ $alt }}" class="w-full rounded shadow" loading="lazy" decoding="async" role="img">
   {{ if $caption }}
   <figcaption class="text-sm text-gray-600 mt-2">{{ $caption }}</figcaption>
   {{ end }}
