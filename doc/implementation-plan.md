@@ -27,13 +27,13 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
    - Acceptance: `curl -s https://<dev-site>/sitemap.xml` returns valid sitemap; Rich Results test shows Organization structured data.
    - ETA: 2-4 hours
 
-4) Accessibility sweep (A11y)
+4) Accessibility sweep (A11y) [x]
    - What: Keyboard nav, skip link, proper heading order, alt text on images, `aria` labels. Fix any issues found by `axe` or Lighthouse.
    - Files: `layouts/_default/*.html`, shortcodes (e.g., `figure.html`) and content image alt text.
    - Acceptance: Lighthouse A11y score >= 90; no critical violations in `axe-core` scan.
    - ETA: 4-8 hours
 
-5) Performance baseline
+5) Performance baseline [x]
    - What: Optimize images, enable lazy-loading, ensure Tailwind (CDN) approach is acceptable; plan a compiled CSS pipeline later.
    - Tools: Lighthouse, PageSpeed Insights
    - Acceptance: Lighthouse Performance >= 50 (initial), improvement plan documented.
@@ -70,6 +70,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
     - Why: Improves discoverability by search engines and generative models that rely on structured content.
     - Acceptance: Clear content hierarchy; JSON-LD validated; improved SERP features over time.
     - ETA: ongoing (per page)
+    - note: Added Bergen neighborhood keywords (Åsane, Fana, Laksevåg) to meta descriptions for local SEO [x]
 
 11) Automated link and spelling checks
     - What: Add a GitHub Action to run a link-checker for site content and a spell-check GitHub Action for markdown.
@@ -82,7 +83,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
     - ETA: 1 day
 
 ## QA and testing
-- Add Lighthouse checks into CI (optional) to measure performance, accessibility, SEO baseline per PR.
+- Add Lighthouse checks into CI (optional) to measure performance, accessibility, SEO baseline per PR. [x]
 - Run `hugo --minify` in CI (done). Add smoke tests: check home page contains expected links (use a tiny script or `html-validate`).
 
 ## Operational tasks
