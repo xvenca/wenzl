@@ -44,8 +44,8 @@
         }
         </script>
     
-    <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
+    {{ $css := resources.Get "css/main.min.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.Permalink }}">
     
     <style>
         body { font-size: 16px; }

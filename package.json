@@ -1,0 +1,13 @@
+{
+  "name": "wenzel-hugo",
+  "version": "1.0.0",
+  "description": "Hugo site for wenzel.no with Tailwind CSS",
+  "scripts": {
+    "build-css": "tailwindcss -i ./assets/css/main.css -o ./assets/css/main.min.css --minify",
+    "watch-css": "tailwindcss -i ./assets/css/main.css -o ./assets/css/main.min.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "@tailwindcss/typography": "^0.5.10"
+  }
+}
