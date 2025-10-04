@@ -1,5 +1,13 @@
 # Wenzel.no Web Project
 
+<!-- Status badges -->
+[![CI](https://img.shields.io/github/actions/workflow/status/xvenca/wenzl/.github/workflows/ci.yml?branch=main)](https://github.com/xvenca/wenzl/actions/workflows/ci.yml)
+[![Deploy](https://img.shields.io/github/actions/workflow/status/xvenca/wenzl/.github/workflows/deploy.yml?branch=main)](https://github.com/xvenca/wenzl/actions/workflows/deploy.yml)
+[![Pages Status](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https://xvenca.github.io/wenzl/)](https://xvenca.github.io/wenzl/)
+[![Last Commit](https://img.shields.io/github/last-commit/xvenca/wenzl)](https://github.com/xvenca/wenzl/commits/main)
+[![Dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen)](https://github.com/xvenca/wenzl/security/dependabot)
+
+
 ## Overview
 This project is for the website **wenzel.no**, a personal showcase of local craftsmanship and farming activities based in Bergen, Norway. The site will serve as a digital portfolio, similar to an Instagram feed, highlighting unique products and services without any pricing or sales focus. The website must be available in **Norwegian (Bokmål)** and **English**, with a simple, minimalist design emphasizing visuals and authenticity.
 
