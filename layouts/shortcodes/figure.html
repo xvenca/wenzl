@@ -2,7 +2,29 @@
 {{ $alt := .Get "alt" | default "" }}
 {{ $caption := .Get "caption" }}
 <figure class="my-6">
-  <img src="{{ $src }}" alt="{{ $alt }}" class="w-full rounded shadow" loading="lazy" decoding="async" role="img">
+  {{ $src := .Get "src" }}
+  {{ $alt := .Get "alt" | default "" }}
+  {{ $caption := .Get "caption" }}
+  {{ $sizes := .Get "sizes" | default "100vw" }}
+
+  {{/* Try page resource first, then site resources (assets/), else fallback to static path */}}
+  {{ $res := .Page.Resources.GetMatch $src }}
+  {{ if not $res }}
+    {{ $res = site.Resources.GetMatch $src }}
+  {{ end }}
+
+  {{ if $res }}
+    {{ $widths := slice 480 768 1200 }}
+    {{ $srcset := slice }}
+    {{ range $w := $widths }}
+      {{ $img := $res.Fit (printf "%dx" $w) }}
+      {{ $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) }}
+    {{ end }}
+    <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
+  {{ else }}
+    <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
+  {{ end }}
+
   {{ if $caption }}
   <figcaption class="text-sm text-gray-600 mt-2">{{ $caption }}</figcaption>
   {{ end }}
