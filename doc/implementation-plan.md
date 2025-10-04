@@ -44,8 +44,9 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
 6) Image optimization and pipeline
    - What: Replace SVG placeholders with compressed photos; use Hugo image processing in templates to produce responsive `srcset` and resized images. Add `static/images/optimized/` or use page bundles.
    - Files: `layouts/_default/single.html`, `figure.html`, content frontmatter updates
-   - Acceptance: Images served at appropriate sizes with `srcset`; average image <200KB.
-   - ETA: 1-2 days
+      - Acceptance: Images served at appropriate sizes with `srcset`; average image <200KB.
+      - ETA: 1-2 days
+      - note: `figure` shortcode updated to generate responsive `srcset` when images are available as page or site resources (assets). Implementation committed 2025-10-04; content needs images moved to page bundles or `assets/images/` to exercise processing.
 
 7) Tailwind build pipeline (production)
    - What: Move from CDN tailwind to compiled CSS with Purge (remove unused classes). Add `package.json`, `tailwind.config.js`, PostCSS, and an npm build step. Wire into CI to produce `assets/main.css` used by templates.
@@ -112,6 +113,8 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
 4. Add simple Lighthouse check to CI and enable branch protection (operational).
 
 If you want, I can take the first sprint items and implement them autonomously. Tell me which of these I should do first and I'll start.  
+
+<!-- CI trigger: update 2025-10-04 to force GitHub Actions run -->
 
 ---
 Last updated: 2025-10-04
