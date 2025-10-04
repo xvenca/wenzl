@@ -1,0 +1,67 @@
+baseURL = "https://wenzel.no/"
+languageCode = "no"
+title = "Wenzel.no"
+defaultContentLanguage = "no"
+
+[params]
+  description = "Local crafts and farming from Bergen, Norway"
+  email = "info@wenzel.no"
+  phone = "+47 926 20569"
+  images = ["/images/hero.svg"]
+
+[languages]
+  [languages.no]
+    languageName = "Norsk"
+    contentDir = "content/no"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+
+[[menu.main]]
+  name = "Hjem"
+  url = "/"
+  weight = 1
+  [menu.main.params]
+    en = "Home"
+
+[[menu.main]]
+  name = "Birøkt"
+  url = "/birokt/"
+  weight = 2
+  [menu.main.params]
+    en = "Beekeeping"
+
+[[menu.main]]
+  name = "Turistartikler"
+  url = "/turistartikler/"
+  weight = 3
+  [menu.main.params]
+    en = "Tourism Items"
+
+[[menu.main]]
+  name = "Gård"
+  url = "/gard/"
+  weight = 4
+  [menu.main.params]
+    en = "Farm"
+
+[[menu.main]]
+  name = "Østerssopp"
+  url = "/osterssopp/"
+  weight = 5
+  [menu.main.params]
+    en = "Oyster Mushrooms"
+
+[[menu.main]]
+  name = "App"
+  url = "/app/"
+  weight = 6
+
+[[menu.main]]
+  name = "Kontakt"
+  url = "/kontakt/"
+  weight = 7
+  [menu.main.params]
+    en = "Contact"

@@ -1,0 +1,5 @@
+{{ $url := .Get "url" | default .Page.Permalink }}
+{{ $size := .Get "size" | default "160" }}
+{{/* Simple QR-like placeholder SVG (not a real QR). For a real QR code use a generator or a shortcode that uses an external tool. */}}
+{{ $svg := printf `<svg xmlns="http://www.w3.org/2000/svg" width="%[1]s" height="%[1]s" viewBox="0 0 %[1]s %[1]s"><rect width="100%%" height="100%%" fill="#fff"/><text x="50%%" y="50%%" dominant-baseline="middle" text-anchor="middle" font-size="12" fill="#000">%s</text></svg>` $size $url }}
+<img src="data:image/svg+xml;utf8,{{ $svg | urlquery }}" alt="QR: {{ $url }}" width="{{ $size }}" height="{{ $size }}">

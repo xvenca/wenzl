@@ -27,7 +27,7 @@ The website will consist of the following sections, each with a focus on visuals
   ```yaml
   title: "Wenzel.no"
   description: "Local crafts and farming from Bergen"
-  image: "/images/hero.jpg"
+  image: "/images/hero.svg"
   ```
 
 ### 2. Beekeeping (Včelařství / Birøkt)
@@ -43,7 +43,7 @@ The website will consist of the following sections, each with a focus on visuals
   ```yaml
   title: "Birøkt / Beekeeping"
   description: "Free swarm collection, pollination, and handcrafted beehives"
-  image: "/images/beekeeping.jpg"
+  image: "/images/beekeeping.svg"
   ```
 
 ### 3. Tourism Items (Turistické předměty / Turistartikler)
@@ -57,7 +57,7 @@ The website will consist of the following sections, each with a focus on visuals
   ```yaml
   title: "Turistartikler / Tourism Items"
   description: "Handcrafted souvenirs with a Bergen touch"
-  image: "/images/tourism.jpg"
+  image: "/images/tourism.svg"
   ```
 
 ### 4. Farm (Farma / Gård)
@@ -72,7 +72,7 @@ The website will consist of the following sections, each with a focus on visuals
   ```yaml
   title: "Gård / Farm"
   description: "Chickens, eggs, and community farming"
-  image: "/images/farm.jpg"
+  image: "/images/farm.svg"
   ```
 
 ### 5. Oyster Mushrooms (Hlíva ústřičná / Østerssopp)
@@ -87,7 +87,7 @@ The website will consist of the following sections, each with a focus on visuals
   ```yaml
   title: "Østerssopp / Oyster Mushrooms"
   description: "Locally grown mushrooms with a unique twist"
-  image: "/images/mushrooms.jpg"
+  image: "/images/mushrooms.svg"
   ```
 
 ### 6. Beekeeping App (Aplikace pro včelaře / App for birøktere)
@@ -101,7 +101,7 @@ The website will consist of the following sections, each with a focus on visuals
   ```yaml
   title: "App for birøktere / Beekeeping App"
   description: "Coming soon: a free app for Norwegian beekeepers"
-  image: "/images/app.jpg"
+  image: "/images/app.svg"
   ```
 
 ### 7. Contact
@@ -116,7 +116,7 @@ The website will consist of the following sections, each with a focus on visuals
   ```yaml
   title: "Kontakt / Contact"
   description: "Get in touch for collaborations or inquiries"
-  image: "/images/contact.jpg"
+  image: "/images/contact.svg"
   ```
 
 ## Technical Requirements
@@ -124,7 +124,7 @@ The website will consist of the following sections, each with a focus on visuals
 - **Content Format**: All content in markdown files, organized in `content/no/` and `content/en/` directories for bilingual support.
 - **Languages**: Norwegian (Bokmål) and English, with a language toggle (e.g., NO/EN) in the navigation.
 - **Design**: Minimalist, mobile-friendly, image-heavy (Instagram-like). Use Tailwind CSS for styling.
-- **Assets**: Store images in `static/images/` (e.g., hero.jpg, beekeeping.jpg). Use placeholders until real photos are provided.
+- **Assets**: Store images in `static/images/` (e.g., hero.svg, beekeeping.svg). Use placeholders until real photos are provided.
 - **QR Code**: Generate a QR code linking to the homepage for the Oyster Mushroom section (e.g., using a Hugo shortcode or static image).
 - **No Backend**: Fully static, no database or server-side processing.
 - **Hosting**: Deploy on an independent European server (e.g., Netlify with a European provider or a local Norwegian host).
@@ -163,6 +163,15 @@ The website will consist of the following sections, each with a focus on visuals
    │   │   ├── mushrooms.jpg
    │   │   ├── app.jpg
    │   │   ├── contact.jpg
+  ├── static/
+  │   ├── images/
+  │   │   ├── hero.svg
+  │   │   ├── beekeeping.svg
+  │   │   ├── tourism.svg
+  │   │   ├── farm.svg
+  │   │   ├── mushrooms.svg
+  │   │   ├── app.svg
+  │   │   ├── contact.svg
    ├── themes/
    │   ├── [your-theme]/
    ├── config.toml
@@ -182,7 +191,7 @@ The website will consist of the following sections, each with a focus on visuals
    [params]
      title = "Wenzel.no"
      description = "Local crafts and farming from Bergen, Norway"
-     images = ["/images/hero.jpg"]
+  images = ["/images/hero.svg"]
    [menu]
      [[menu.main]]
        name = "Hjem"
@@ -217,3 +226,17 @@ The website will consist of the following sections, each with a focus on visuals
 6. Generate a QR code for the Oyster Mushroom section.
 7. Test responsiveness and performance (aim for <2s load time).
 8. Deploy on an independent European server (e.g., Netlify with a European provider or a local Norwegian host).
+
+## Try it locally
+
+Run the development server and open http://localhost:1313/:
+
+```powershell
+hugo server -D
+```
+
+Build the production site into `public/`:
+
+```powershell
+hugo --minify
+```

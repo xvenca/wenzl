@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <header class="mb-8">
+    {{ with .Params.image }}
+      <img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded shadow" />
+    {{ end }}
+    <h1 class="text-3xl font-bold mt-4">{{ .Site.Title }}</h1>
+    <p class="text-gray-600">{{ .Site.Params.description }}</p>
+  </header>
+
+  <section class="grid gap-6">
+    {{ range .Pages }}
+      <article class="p-4 border rounded">
+        <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="text-gray-700">{{ .Summary }}</p>
+      </article>
+    {{ end }}
+  </section>
+{{ end }}
