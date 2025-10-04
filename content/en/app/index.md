@@ -1,21 +1,16 @@
 ---
 title: "App for beekeepers"
-description: "Coming soon: a free app for Norwegian beekeepers"
+description: "A simple tool to track your hives — in development"
 image: "app.png"
 ---
 
 # App for beekeepers
 
-## Upcoming app for beekeepers
-Track your bees, take notes and manage your hives locally. An app designed specifically for Norwegian beekeepers and our conditions.
+We are developing a straightforward app to help beekeepers record inspections, log observations and manage hive tasks. Designed for practical, offline-friendly use.
 
-## Free for Norwegian beekeepers
-The app will be free for all Norwegian beekeepers. Coming soon to Google Play and the App Store.
+## Planned features
+- Inspection logs and notes
+- Simple health and treatment records
+- Harvest tracking and export
 
-## Features
-- Hive activity tracking
-- Notes and observations
-- Local data storage
-- Tailored for Norwegian seasons and conditions
-
-*Stay tuned — the app launches soon!*
+The app will be free of ads and aimed at small-scale beekeepers. Sign up for updates.

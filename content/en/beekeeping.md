@@ -1,21 +1,23 @@
 ---
 title: "Beekeeping"
-description: "Free swarm collection, pollination, and handcrafted beehives"
+description: "Local beekeeping services and handcrafted hives"
 image: "/images/beekeeping.svg"
 ---
 
 # Beekeeping in Bergen
 
-## Free Swarm Collection
-Got a swarm? I'll come and take it away for free! Call me at +47 926 20569 if you discover a bee swarm in the Bergen area.
+I keep bees with a focus on colony health, biodiversity and small-scale production. My work is based in and around Bergen, where local flora contributes to distinctive honey and resilient colonies.
 
-## Pollination Services
-Need bees for your farm? I can bring bees for pollination of fruit trees and crops. This helps both your plants and my bees.
+## Swarm collection — free and safe
+If you find a swarm in a garden or urban area, I collect it free of charge and relocate it to a suitable home. Call **+47 926 20569** to arrange pickup.
 
-## Handcrafted Beehives
-I make sturdy beehives from solid wood. Each beehive is built to last and give the bees the best home.
+## Pollination support
+I provide pollination assistance for local growers and hobby orchards during the flowering season — a practical way to boost yields while supporting pollinator health.
 
-## Special Heart-Shaped Frames
-Unique frames for love-shaped honeycombs - "Med z lásky" (Honey from Love). Perfect for beekeepers who want to create something special.
+## Handcrafted hives
+I build durable wooden hives designed for ease of maintenance and long service life — made for local conditions.
 
-*Contact me for collaboration or questions about beekeeping in the Bergen area.*
+## Advice and short courses
+I offer short introductions and hands-on advice for new beekeepers, from hive placement to winter preparation.
+
+Contact me for collaboration or questions about beekeeping in the Bergen area.

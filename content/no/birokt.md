@@ -1,21 +1,23 @@
 ---
 title: "Birøkt"
-description: "Gratis sværminnsamling, pollinering og håndlagde bikuber"
+description: "Bier, bistand og håndverk fra Bergen"
 image: "/images/beekeeping.svg"
 ---
 
-# Birøkt i Bergen
+# Birøkt i og rundt Bergen
 
-## Gratis sværminnsamling
-Har du en sverm? Jeg kommer og henter den gratis! Ring meg på +47 926 20569 hvis du oppdager en bisverm i Bergen-området.
+Jeg driver lokal birøkt med fokus på bienes helse, biologisk mangfold og småskala produksjon. Arbeidet foregår i og rundt Bergen, der klima og naturområder gir gode forutsetninger for velfungerende bestøvning og honningproduksjon.
 
-## Pollineringstjenester
-Trenger du bier for gården din? Jeg kan bringe bier for pollinering av frukttrær og avlinger. Dette hjelper både dine planter og mine bier.
+## Sværminnsamling — gratis og sikkert
+Oppdager du en sverm i bynære strøk eller i hageområder? Jeg henter sværmer kostnadsfritt og flytter dem trygt til et egnet sted. Kontakt meg på **+47 926 20569** for rask avtale.
 
-## Håndlagde bikuber
-Jeg lager solide bikuber av massivt tre. Hver bikube er bygget for å vare og gi biene det beste hjemmet.
+## Støtte til pollinering
+Jeg tilbyr skreddersydd bistand for gårder og private hager i Bergen som trenger ekstra pollinering i blomstringsperioden. Dette er nyttig for frukttrær, bær og grønnsaker.
 
-## Spesielle hjerteformede rammer
-Unike rammer for hjerteformede honningkaker - "Med z lásky" (Honning fra kjærlighet). Perfekt for birøktere som vil skape noe spesielt.
+## Håndlagde og vedlikeholdsvennlige bikuber
+Jeg bygger robuste bikuber i tre, tilpasset lokale forhold. Kubene er enkle å vedlikeholde og designet for lang levetid.
 
-*Kontakt meg for samarbeid eller spørsmål om birøkt i Bergen-området.*
+## Kurs og rådgivning
+Jeg holder korte introduksjonskurs og rådgivning for nye birøktere — fra plassering av kuber til høsting og vinterstell.
+
+Ta kontakt for spørsmål, samarbeid eller besøk — jeg svarer gjerne på henvendelser fra hele Bergensområdet.

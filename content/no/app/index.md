@@ -1,21 +1,17 @@
 ---
 title: "App for birøktere"
-description: "Snart tilgjengelig: en gratis app for norske birøktere"
+description: "Verktøy for å følge kubene dine — under utvikling"
 image: "app.png"
 ---
 
 # App for birøktere
 
-## Kommende app for birøktere
-Spor biene dine, ta notater og administrer bikubene dine lokalt. En app designet spesielt for norske birøktere og våre forhold.
+Vi utvikler en enkel og robust app for norske birøktere — laget med lokale behov i tankene. Appen vil hjelpe deg å loggføre observasjoner, planlegge stell og følge utviklingen i kubene over sesongen.
 
-## Gratis for norske birøktere
-Appen vil være gratis tilgjengelig for alle norske birøktere. Snart på Google Play og App Store.
+## Hva blir tilgjengelig
+- Loggføring av inspeksjoner og notater
+- Enkel registrering av sykdom og behandling
+- Oversikt over avlinger og honningproduksjon
+- Eksporter data for deling eller arkivering
 
-## Funksjoner
-- Sporing av bikubeaktivitet
-- Notater og observasjoner
-- Lokal administrasjon av data
-- Tilpasset norske forhold og sesonger
-
-*Hold deg oppdatert - appen lanseres snart!*
+Appen målsettes å være fri for annonser og tilgjengelig for norske birøktere. Følg med for lanseringsdetaljer.

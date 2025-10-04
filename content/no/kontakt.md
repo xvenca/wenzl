@@ -1,21 +1,16 @@
 ---
 title: "Kontakt"
-description: "Ta kontakt for samarbeid eller spørsmål"
+description: "Kontakt for samarbeid, spørsmål eller bestilling"
 image: "/images/contact.svg"
 ---
 
 # Kontakt
 
-## Vil du samarbeide eller lære mer?
-
-Ta gjerne kontakt! Jeg er alltid interessert i nye prosjekter, samarbeid og å dele kunnskap om håndverk, gårdsdrift og birøkt.
-
-## Kontaktinformasjon
+Har du en forespørsel, et prosjektforslag eller bare et spørsmål? Jeg svarer raskt og foretrekker direkte dialog via e-post eller telefon.
 
 **E-post:** info@wenzel.no  
 **Telefon:** +47 926 20569
 
-## Fra Bergen
-Basert i Bergen, Norge. Jeg jobber lokalt og prioriterer kortreiste løsninger og samfunnsengasjement.
+Jeg holder til i Bergen og samarbeider med lokale aktører. Ta gjerne kontakt for møter, befaringer eller workshops.
 
-*Jeg svarer gjerne på spørsmål om birøkt, gårdsdrift, håndverk eller samarbeidsprosjekter.*
+For presserelaterte saker eller større samarbeid, oppgi kort hva henvendelsen gjelder i e-posten så kommer jeg tilbake med tilgjengelige tider.

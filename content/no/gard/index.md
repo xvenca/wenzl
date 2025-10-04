@@ -1,21 +1,20 @@
 ---
 title: "Gård"
-description: "Høner, egg og samfunnsgårdsdrift"
+description: "Småskala gårdsdrift og fellesskap i Bergen"
 image: "farm.png"
 ---
 
-# Gård
+# Gård og lokalt landbruk
 
-## Hønseoppdrett
-Jeg holder glade høner og deler eggene med samfunnet. Hønene mine lever fritt og får den beste omsorgen.
+Gården drives med grønn omtanke og en praktisk tilnærming til lokalsamfunnets behov. Vi vektlegger dyrevelferd, kortreiste løsninger og deling av kunnskap.
 
-## Eggklekking
-Har du et hønsehus? Jeg kan levere egg for klekking og hjelpe deg med å komme i gang med egne høner.
+## Hønsehold og egg
+Vi har frittgående høner som får et godt tilpasset kosthold og omsorg. Eggene brukes i fellesskapet og som en del av lokale initiativer — perfekt for bondens marked eller små lokale butikker i Bergen.
 
-## Samarbeid
-La oss samarbeide - du holder høner, jeg leverer egg. Sammen kan vi skape et sterkt lokalsamfunn rundt gårdsdrift.
+## Eggklekking og rådgivning
+Tilbyr hjelp til klekking og oppstart for de som ønsker egne hønsehold. Praktiske råd og støtte gjennom sesongen.
 
-## Samfunnstanke
-Gården min handler om mer enn bare produksjon - det handler om å dele kunnskap, ressurser og skape forbindelser i lokalsamfunnet.
+## Samarbeidsprosjekter
+Vi samarbeider med naboer og lokale grupper for å utveksle ressurser og kunnskap. Ønsker du å være med i et felles prosjekt rundt hønsehold eller småskala produksjon? Ta kontakt.
 
-*Alt gjøres med fokus på dyrevelferd og bærekraft.*
+All drift skjer med fokus på bærekraft og dyrevelferd.

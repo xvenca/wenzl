@@ -1,21 +1,16 @@
 ---
 title: "Turistartikler"
-description: "Håndlagde suvenirer med Bergen-touch"
+description: "Håndlagde suvenirer inspirert av Bergen"
 image: "/images/tourism.svg"
 ---
 
-# Turistartikler
+# Håndlagde suvenirer fra Bergen
 
-## Håndlagde laserskårne gjenstander
-Jeg lager unike suvenirer som plantestativ, dekorative kart og tilpassede design. Hver gjenstand er laget med omtanke for Bergen og våre besøkende.
+Jeg designer og lager små håndverk og suvenirer med lokal forankring. Produktene passer godt i gavebutikker, galleriutsalg eller som minne etter et besøk i Bergen.
 
-## Bergen-inspirerte design
-Designene mine reflekterer Bergen og det lokale miljøet. Fra kart over våre vakre områder til funksjonelle gjenstander som plantestativ - alt laget med kjærlighet for turister og lokalbefolkning.
+## Eksempler
+- Dekorative kart og bysilhuetter
+- Plantestativ og interiørdetaljer
+- Tilpassede gaver og bestillingsarbeid
 
-## Eksempler på produkter
-- Dekorative kart over Bergen
-- Plantestativ i unike design
-- Tilpassede suvenirer
-- Spesialdesign som "brigišky" og "gunlehalte"
-
-*Se bildene for å få en følelse av håndverket og kvaliteten.*
+Alle varer lages i små serier med fokus på kvalitet og varighet. Kontakt meg for bestilling eller visning av portefølje.

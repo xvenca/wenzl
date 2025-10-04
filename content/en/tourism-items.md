@@ -1,21 +1,16 @@
 ---
 title: "Tourism Items"
-description: "Handcrafted souvenirs with a Bergen touch"
+description: "Handcrafted souvenirs inspired by Bergen"
 image: "/images/tourism.svg"
 ---
 
-# Tourism Items
+# Handcrafted souvenirs from Bergen
 
-## Handcrafted Laser-Cut Items
-I create unique souvenirs like plant stands, decorative maps, and custom designs. Each item is made with care for Bergen and our visitors.
+I design and produce small handmade items rooted in local motifs. Ideal for gift shops, galleries or visitors looking for a tasteful memento.
 
-## Bergen-Inspired Designs
-My designs reflect Bergen and the local environment. From maps of our beautiful areas to functional items like plant stands - all made with love for tourists and locals.
+## Examples
+- Decorative maps and city silhouettes
+- Plant stands and interior accents
+- Custom and bespoke gifts
 
-## Product Examples
-- Decorative maps of Bergen
-- Plant stands in unique designs
-- Custom souvenirs
-- Special designs like "brigišky" and "gunlehalte"
-
-*See the photos to get a feel for the craftsmanship and quality.*
+All items are made in small runs with a focus on durability and workmanship. Contact for orders or a portfolio preview.

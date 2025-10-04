@@ -1,23 +1,22 @@
 ---
 title: "Østerssopp"
-description: "Lokalt dyrket sopp med en unik vri"
+description: "Bærekraftig, lokal dyrking av østerssopp nær Bergen"
 image: "/images/mushrooms.svg"
 ---
 
-# Østerssopp
+# Østerssopp – dyrket lokalt
 
-## Dyrking av østerssopp
-Jeg dyrker østerssopp med omhu og kjærlighet. Hver sopp får tid til å utvikle seg naturlig for best mulig smak og kvalitet.
+Jeg dyrker østerssopp med fokus på naturlig smak og bærekraft. Produksjonen foregår i mindre skala, og hvert parti kontrolleres for kvalitet.
 
-## Skogintegrasjon
-Finn min trestubben i skogen med en QR-kode som leder hit! Dette er en unik måte å koble naturen med teknologien på.
+## Hvor finner du oss?
+Se etter trestubber merket med en QR-kode i enkelte skogsområder rundt Bergen — skann koden for mer informasjon og små overraskelser.
 
-## Samfunnsidé
-Plukket du sopp? Støtt arbeidet mitt hvis du liker det. Dette handler om å dele naturens gaver med lokalsamfunnet.
+## Del og støtt lokalsamfunnet
+Er du glad i sopp? Støtt lokale initiativer ved å dele erfaringer eller delta på workshops. Alt overskudd går tilbake til drift og lokalt engasjement.
 
-## Den unike stubben
+## Bestill eller besøk
+Ta kontakt for informasjon om tilgjengelighet eller for å avtale besøk. Jeg deler gjerne tips om dyrking og oppskrifter.
+
 {{< qrcode url="https://wenzel.no" >}}
 
-*QR-koden på stubben i skogen fører deg tilbake hit - en liten overraskelse for de som oppdager den!*
-
-*Alle sopp dyrkes lokalt og bærekraftig.*
+Alle sopper dyrkes lokalt og med omtanke for miljøet.

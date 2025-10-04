@@ -1,21 +1,20 @@
 ---
 title: "Farm"
-description: "Chickens, eggs, and community farming"
+description: "Small-scale farming and community initiatives in Bergen"
 image: "farm.png"
 ---
 
-# Farm
+# Farm and local food
 
-## Chicken Farming
-I raise happy chickens and share their eggs with the community. My chickens live freely and receive the best care.
+The farm focuses on sustainable practices and community engagement. We prioritise animal welfare, seasonal production and sharing skills locally.
 
-## Egg Hatching
-Got a coop? I can provide eggs for hatching and help you start with your own chickens.
+## Chickens and eggs
+Free-range hens are kept with careful attention to welfare. Eggs are distributed through local channels and community initiatives.
 
-## Collaboration
-Let's work together - you raise chickens, I'll supply eggs. Together we can create a strong local community around farming.
+## Hatching & starter support
+I assist with hatching and initial setup for those starting small backyard flocks — practical, step-by-step help.
 
-## Community Focus
-My farm is about more than just production - it's about sharing knowledge, resources, and creating connections in the local community.
+## Community projects
+We collaborate with neighbours and local groups on small-scale projects that promote food resilience and knowledge sharing.
 
-*Everything is done with focus on animal welfare and sustainability.*
+All operations are carried out with sustainability and animal welfare in mind.
