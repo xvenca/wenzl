@@ -21,4 +21,8 @@ Jeg bygger robuste bikuber i tre, tilpasset lokale forhold. Kubene er enkle å v
 ## Kurs og rådgivning
 Jeg holder korte introduksjonskurs og rådgivning for nye birøktere — fra plassering av kuber til høsting og vinterstell.
 
+{{< figure src="images/roj.png" alt="Roj av bier" caption="Sværm etter flytting" >}}
+
+{{< figure src="images/srdce-vcely.jfif" alt="Hjerte og bier" caption="Kjærlighet til biene" >}}
+
 Ta kontakt for spørsmål, samarbeid eller besøk — jeg svarer gjerne på henvendelser fra hele Bergensområdet.

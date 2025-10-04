@@ -12,6 +12,8 @@ I keep bees with a focus on colony health, biodiversity and small-scale producti
 ## Swarm collection — free and safe
 If you find a swarm in a garden or urban area, I collect it free of charge and relocate it to a suitable home. Call **+47 926 20569** to arrange pickup.
 
+{{< figure src="images/roj.png" alt="Swarm of bees" caption="Swarm relocation" >}}
+
 ## Pollination support
 I provide pollination assistance for local growers and hobby orchards during the flowering season — a practical way to boost yields while supporting pollinator health.
 
