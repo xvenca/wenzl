@@ -4,5 +4,8 @@
   <p><strong>Phone:</strong> <a href="tel:{{ $c.phone }}">{{ $c.phone }}</a></p>
   <p><strong>Location:</strong> {{ $c.address }}</p>
   {{ with $c.notes }}<p class="text-sm text-gray-600">{{ . }}</p>{{ end }}
-  {{ with $c.cta }}<p class="mt-2 font-semibold">{{ . }}</p>{{ end }}
+  {{ $lang := .Page.Site.Language.Lang }}
+  {{ $key := printf "cta_%s" $lang }}
+  {{ $cta := index $c $key | default $c.cta }}
+  {{ with $cta }}<p class="mt-2 font-semibold">{{ . }}</p>{{ end }}
 </div>
