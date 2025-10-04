@@ -2,6 +2,7 @@
 title: "App for beekeepers"
 description: "A simple tool to track your hives — in development"
 image: "app.png"
+alt: "Screenshot of beekeeper app interface"
 ---
 
 # App for beekeepers

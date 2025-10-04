@@ -2,6 +2,7 @@
 title: "Gård"
 description: "Småskala gårdsdrift og fellesskap i Bergen"
 image: "farm.png"
+alt: "Gård med høner og grønnsaker i Bergen"
 ---
 
 # Gård og lokalt landbruk

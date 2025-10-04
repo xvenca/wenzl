@@ -2,6 +2,7 @@
 title: "Wenzel.no"
 description: "Lokale håndverk og gårdsdrift fra Bergen"
 image: "/images/hero.svg"
+alt: "Lokale håndverk og gårdsdrift fra Bergen"
 ---
 
 # Velkommen til Wenzel.no

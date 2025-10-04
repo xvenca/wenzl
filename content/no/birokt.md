@@ -2,6 +2,7 @@
 title: "Birøkt"
 description: "Bier, bistand og håndverk fra Bergen"
 image: "/images/beekeeping.svg"
+alt: "Bikuber og birøktutstyr"
 ---
 
 # Birøkt i og rundt Bergen

@@ -2,6 +2,7 @@
 title: "App for birøktere"
 description: "Verktøy for å følge kubene dine — under utvikling"
 image: "app.png"
+alt: "Skjermbilde av app for birøktere"
 ---
 
 # App for birøktere

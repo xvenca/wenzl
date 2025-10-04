@@ -2,6 +2,7 @@
 title: "Farm"
 description: "Small-scale farming and community initiatives in Bergen"
 image: "farm.png"
+alt: "Farm with chickens and vegetables in Bergen"
 ---
 
 # Farm and local food

@@ -2,6 +2,7 @@
 title: "Wenzel.no"
 description: "Local crafts and farming from Bergen"
 image: "/images/hero.svg"
+alt: "Local crafts and farming from Bergen"
 ---
 
 # Welcome to Wenzel.no

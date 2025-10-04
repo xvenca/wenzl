@@ -2,6 +2,7 @@
 title: "Beekeeping"
 description: "Local beekeeping services and handcrafted hives"
 image: "/images/beekeeping.svg"
+alt: "Beehives and beekeeping equipment"
 ---
 
 # Beekeeping in Bergen
