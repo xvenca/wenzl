@@ -1,6 +1,6 @@
 ---
 title: "Gård"
-description: "Småskala gårdsdrift og fellesskap i Bergen"
+description: "Småskala gårdsdrift og fellesskap i Bergen, spesielt Åsane og omkringliggende områder"
 image: "farm.png"
 alt: "Gård med høner og grønnsaker i Bergen"
 ---

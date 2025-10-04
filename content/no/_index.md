@@ -1,6 +1,6 @@
 ---
 title: "Wenzel.no"
-description: "Lokale håndverk og gårdsdrift fra Bergen"
+description: "Lokale håndverk og gårdsdrift fra Bergen, med fokus på birøkt, turistartikler og bærekraftig landbruk i Åsane, Fana og Laksevåg"
 image: "/images/hero.svg"
 alt: "Lokale håndverk og gårdsdrift fra Bergen"
 ---

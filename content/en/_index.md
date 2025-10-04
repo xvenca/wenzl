@@ -1,6 +1,6 @@
 ---
 title: "Wenzel.no"
-description: "Local crafts and farming from Bergen"
+description: "Local crafts and farming from Bergen, focusing on beekeeping, tourism items and sustainable agriculture in Åsane, Fana and Laksevåg"
 image: "/images/hero.svg"
 alt: "Local crafts and farming from Bergen"
 ---

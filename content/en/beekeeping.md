@@ -1,6 +1,6 @@
 ---
 title: "Beekeeping"
-description: "Local beekeeping services and handcrafted hives"
+description: "Local beekeeping services and handcrafted hives in Bergen, including Fana and Laksevåg"
 image: "/images/beekeeping.svg"
 alt: "Beehives and beekeeping equipment"
 ---

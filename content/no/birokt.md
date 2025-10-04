@@ -1,6 +1,6 @@
 ---
 title: "Birøkt"
-description: "Bier, bistand og håndverk fra Bergen"
+description: "Bier, bistand og håndverk fra Bergen, inkludert Fana og Laksevåg"
 image: "/images/beekeeping.svg"
 alt: "Bikuber og birøktutstyr"
 ---
