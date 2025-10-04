@@ -40,4 +40,16 @@
 - Key directories: `content/no/`, `content/en/`, `static/images/`, `config.toml`.
 
 ---
+Project tasks and priorities (single source of truth)
+
+- The file `doc/implementation-plan.md` is the canonical task list. Treat it as a lightweight internal Jira: create, update, and resolve tasks there.
+- When you complete work, update that file to mark tasks as done (add `[x]` or the word `done` near the task). The repository has an automation that regenerates status badges from that file.
+- If you open PRs, reference the task by number and update the plan with the PR link and status.
+
+AI agent responsibilities
+
+- Read `doc/implementation-plan.md` before making changes. Use its P0/P1/P2 priorities to pick the next work item.
+- When implementing a task, add a short line under the task with a `PR:` link and `status:` (e.g., `PR: #12 status: in-review`).
+- After merging, mark the task done in `doc/implementation-plan.md`.
+
 If any conventions or workflows are unclear, ask the user for clarification or examples from the codebase.
