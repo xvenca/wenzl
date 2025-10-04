@@ -44,8 +44,15 @@
         }
         </script>
     
-    {{ $css := resources.Get "css/main.min.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $css.Permalink }}">
+        {{ $css := resources.Get "css/main.min.css" }}
+        {{ if $css }}
+            {{ $min := resources.Minify $css }}
+            {{ $fp := resources.Fingerprint $min "sha256" }}
+            <link rel="stylesheet" href="{{ $fp.Permalink }}">
+        {{ else }}
+            <!-- Fallback to CDN during dev/build until local CSS is built -->
+            <script src="https://cdn.tailwindcss.com"></script>
+        {{ end }}
     
     <style>
         body { font-size: 16px; }
