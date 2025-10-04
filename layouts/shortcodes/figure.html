@@ -1,12 +1,9 @@
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" | default "" }}
 {{ $caption := .Get "caption" }}
-<figure class="my-6">
-  {{ $src := .Get "src" }}
-  {{ $alt := .Get "alt" | default "" }}
-  {{ $caption := .Get "caption" }}
-  {{ $sizes := .Get "sizes" | default "100vw" }}
+{{ $sizes := .Get "sizes" | default "100vw" }}
 
+<figure class="my-6">
   {{/* Try page resource first, then site resources (assets/), else fallback to static path */}}
   {{ $res := .Page.Resources.GetMatch $src }}
   {{ if not $res }}
@@ -18,12 +15,15 @@
       <img src="{{ $res.RelPermalink }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
     {{ else }}
       {{ $widths := slice 480 768 1200 }}
-      {{ $srcset := slice }}
-      {{ range $w := $widths }}
-  {{ $img := $res.Resize (printf "%dx" $w) }}
-        {{ $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) }}
-      {{ end }}
-      <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
+      <picture>
+        {{ range $w := $widths }}
+          {{ $webp := ($res.Resize (printf "%dx webp" $w)) }}
+          {{ $jpg := ($res.Resize (printf "%dx" $w)) }}
+          <source srcset="{{ $webp.RelPermalink }}" type="image/webp" media="(max-width: {{ $w }}px)">
+        {{ end }}
+        {{ $fallback := $res.Resize "1200x" }}
+        <img src="{{ $fallback.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
+      </picture>
     {{ end }}
   {{ else }}
     <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">

@@ -22,13 +22,25 @@
         <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ "index.xml" | relURL }}">
 
         {{/* JSON-LD */}}
+        {{ $c := site.Data.contact }}
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "Organization",
+            "@type": "LocalBusiness",
             "name": "{{ .Site.Title }}",
             "url": "{{ .Site.BaseURL }}",
-            "contactPoint": [{ "@type": "ContactPoint", "contactType": "customer support", "email": "{{ .Site.Params.email }}" }]
+            "telephone": "{{ $c.phone }}",
+            "email": "{{ $c.email }}",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bergen",
+                "addressCountry": "NO"
+            },
+            "description": "{{ .Site.Params.description }}",
+            "serviceArea": {
+                "@type": "Place",
+                "name": "Bergen, Norway"
+            }
         }
         </script>
     
@@ -96,8 +108,9 @@
     <!-- Footer -->
     <footer class="bg-gray-50 mt-16">
         <div class="max-w-4xl mx-auto px-4 py-8 text-center text-gray-600">
-            <p class="mb-2">{{ .Site.Params.email }} | {{ .Site.Params.phone }}</p>
-            <p class="text-sm">Bergen, Norge - {{ if eq .Site.Language.Lang "en" }}Local crafts and farming{{ else }}Lokale håndverk og gårdsdrift{{ end }}</p>
+            {{ $c := site.Data.contact }}
+            <p class="mb-2"><a href="mailto:{{ $c.email }}">{{ $c.email }}</a> | <a href="tel:{{ $c.phone }}">{{ $c.phone }}</a></p>
+            <p class="text-sm">{{ $c.address }} - {{ if eq .Site.Language.Lang "en" }}Local crafts and farming{{ else }}Lokale håndverk og gårdsdrift{{ end }}</p>
         </div>
     </footer>
 
