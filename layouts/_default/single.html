@@ -8,7 +8,27 @@
 <article class="prose prose-lg max-w-none">
   {{ with .Params.image }}
     <div class="mb-8">
-      <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg">
+  {{ $imgPath := . }}
+      {{ $res := $.Page.Resources.GetMatch $imgPath }}
+      {{ if not $res }}
+        {{ $res = resources.GetMatch $imgPath }}
+      {{ end }}
+
+      {{ if $res }}
+        {{ if eq $res.MediaType.SubType "svg" }}
+          <img src="{{ $res.RelPermalink }}" sizes="100vw" alt="{{ $.Title }}" class="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" loading="lazy" decoding="async">
+        {{ else }}
+          {{ $widths := slice 480 768 1200 }}
+          {{ $srcset := slice }}
+          {{ range $w := $widths }}
+            {{ $img := $res.Resize (printf "%dx" $w) }}
+            {{ $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) }}
+          {{ end }}
+          <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="100vw" alt="{{ $.Title }}" class="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" loading="lazy" decoding="async">
+        {{ end }}
+      {{ else }}
+        <img src="{{ $imgPath }}" alt="{{ $.Title }}" class="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" loading="lazy" decoding="async">
+      {{ end }}
     </div>
   {{ end }}
 

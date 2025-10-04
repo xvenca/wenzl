@@ -10,17 +10,21 @@
   {{/* Try page resource first, then site resources (assets/), else fallback to static path */}}
   {{ $res := .Page.Resources.GetMatch $src }}
   {{ if not $res }}
-    {{ $res = site.Resources.GetMatch $src }}
+    {{ $res = resources.GetMatch $src }}
   {{ end }}
 
   {{ if $res }}
-    {{ $widths := slice 480 768 1200 }}
-    {{ $srcset := slice }}
-    {{ range $w := $widths }}
-      {{ $img := $res.Fit (printf "%dx" $w) }}
-      {{ $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) }}
+    {{ if eq $res.MediaType.SubType "svg" }}
+      <img src="{{ $res.RelPermalink }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
+    {{ else }}
+      {{ $widths := slice 480 768 1200 }}
+      {{ $srcset := slice }}
+      {{ range $w := $widths }}
+  {{ $img := $res.Resize (printf "%dx" $w) }}
+        {{ $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) }}
+      {{ end }}
+      <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
     {{ end }}
-    <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
   {{ else }}
     <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
   {{ end }}

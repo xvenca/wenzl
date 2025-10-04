@@ -18,6 +18,10 @@ defaultContentLanguage = "no"
     languageName = "English"
     contentDir = "content/en"
     weight = 2
+  [languages.cs]
+    languageName = "Čeština"
+    contentDir = "content/cs"
+    weight = 3
 
 [[menu.main]]
   name = "Hjem"
