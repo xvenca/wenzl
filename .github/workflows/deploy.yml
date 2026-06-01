@@ -1,11 +1,8 @@
-name: Deploy to GitHub Pages
+name: Deploy to FTP host
 
 on:
   push:
     branches: [ main ]
-
-permissions:
-  contents: write
 
 jobs:
   build-and-deploy:
@@ -21,14 +18,27 @@ jobs:
         with:
           hugo-version: 'latest'
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build CSS
+        run: npm run build-css
+
       - name: Build
         run: hugo --minify
 
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to FTP server
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          # Use commit message to track deploys
-          commit_message: "site: deploy from main via Actions"
+          server: wenzl.no
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          local-dir: ./public/
+          # Change this if domene.no expects a subdirectory such as /www/ or /public_html/.
+          server-dir: ./
