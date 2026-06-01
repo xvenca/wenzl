@@ -8,7 +8,7 @@ translationKey: "about"
 
 ## Dźwięk, od którego wszystko się zaczęło
 
-Od dzieciństwa dźwięk pszczół był dla mnie muzyką. W **Oborze**, wsi na Morawach, gdzie dorastałem, drzewa brzęczały przez całe lato, a lipa przed naszym domem rodzinnym była zawsze pełna pszczół. Ten dźwięk do dziś cieszy moją duszę — i jest powodem, dla którego robię to, co robię.
+Od dzieciństwa dźwięk pszczół był dla mnie muzyką. W **Oborze**, wsi na Morawach, gdzie dorastałem, drzewa brzęczały w czasie kwitnienia, a lipa przed naszym domem rodzinnym wypełniała się pszczołami, gdy zakwitała. Ten dźwięk do dziś cieszy moją duszę — i jest powodem, dla którego robię to, co robię.
 
 ## Korzenie w Oborze
 

@@ -1,6 +1,6 @@
 ---
 title: "Członkostwo i współpraca"
-description: "Organizacje, do których należę — w Norwegii i w Czechach."
+description: "Organizacje, do których należę, z którymi współpracuję albo z których wyrastają moje pszczelarskie korzenie — w Norwegii i w Czechach."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -16,12 +16,12 @@ memberships:
     logo: "/images/bergen-fellesverksted-logo.png"
     url: "https://www.bergenfellesverksted.no/"
     desc: "Otwarty warsztat członkowski w Bergen wyposażony do pracy w drewnie. To właśnie tutaj buduję swoje ule ręcznie."
-  - name: "Boskovice Beekeepers' Association"
-    role: "Członek"
+  - name: "Podstawowa organizacja Czeskiego Związku Pszczelarzy w Boskovicach"
+    role: "Moja rodzinna organizacja pszczelarska"
     location: "Boskovice, Czechy"
     logo: "/images/vcelari-boskovice-logo.png"
     url: "https://vceliweb.webnode.cz/o-nas/"
-    desc: "Lokalna organizacja pszczelarzy w Boskovicach, w której do dziś figuruję jako członek. To właśnie na jednym ze spotkań usłyszałem po raz pierwszy wykład doc. Přidala o warrozie — spotkanie, które skierowało mnie ku akademickiemu pszczelarstwu."
+    desc: "Lokalna organizacja pszczelarzy w Boskovicach, z której wyrastają moje pszczelarskie korzenie. To właśnie na jednym ze spotkań usłyszałem po raz pierwszy wykład doc. Přidala o warrozie — spotkanie, które skierowało mnie ku akademickiemu pszczelarstwu."
 ---
 
-Pszczelarstwo to wspólnota. Oto organizacje, do których należę i z którymi współpracuję — zarówno w **Norwegii**, gdzie dziś trzymam pszczoły, jak i w **Czechach**, skąd pochodzą moje korzenie.
+Pszczelarstwo to wspólnota. Oto organizacje, do których należę, z którymi współpracuję albo z których wyrastają moje pszczelarskie korzenie — zarówno w **Norwegii**, gdzie dziś trzymam pszczoły, jak i w **Czechach**, skąd pochodzą moje korzenie.

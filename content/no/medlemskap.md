@@ -1,6 +1,6 @@
 ---
 title: "Medlemskap og samarbeid"
-description: "Organisasjonene jeg er tilknyttet — i Norge og i Tsjekkia."
+description: "Organisasjonene jeg er medlem av, samarbeider med eller har birøkterrøttene mine i — i Norge og i Tsjekkia."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -16,12 +16,12 @@ memberships:
     logo: "/images/bergen-fellesverksted-logo.png"
     url: "https://www.bergenfellesverksted.no/"
     desc: "Et åpent medlemsverksted i Bergen med utstyr for trearbeid. Det er her jeg bygger bikubene mine for hånd."
-  - name: "Birøkterforeningen i Boskovice"
-    role: "Medlem"
+  - name: "Grunnorganisasjonen til Tsjekkias birøkterforbund i Boskovice"
+    role: "Min hjemlige birøkterforening"
     location: "Boskovice, Tsjekkia"
     logo: "/images/vcelari-boskovice-logo.png"
     url: "https://vceliweb.webnode.cz/o-nas/"
-    desc: "Den lokale birøkterforeningen i Boskovice, der jeg fremdeles står oppført som medlem. Det var på et møte her jeg første gang hørte doc. Přidal forelese om varroa — møtet som førte meg inn i den akademiske birøkten."
+    desc: "Den lokale birøkterforeningen i Boskovice, der birøkterrøttene mine ligger. Det var på et møte her jeg første gang hørte doc. Přidal forelese om varroa — møtet som førte meg inn i den akademiske birøkten."
 ---
 
-Birøkt er et fellesskap. Her er organisasjonene jeg er medlem av og samarbeider med — både i **Norge**, der jeg holder bier i dag, og i **Tsjekkia**, der røttene mine ligger.
+Birøkt er et fellesskap. Her er organisasjonene jeg er medlem av, samarbeider med eller har birøkterrøttene mine i — både i **Norge**, der jeg holder bier i dag, og i **Tsjekkia**, der røttene mine ligger.

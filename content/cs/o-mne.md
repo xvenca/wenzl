@@ -8,7 +8,7 @@ translationKey: "about"
 
 ## Zvuk, který všechno začal
 
-Od dětství je pro mě bzukot včel hudbou. V **Oboře**, vesnici na Moravě, kde jsem vyrůstal, hučely stromy celé léto a lípa před naším rodným domem byla vždy plná včel. Ten zvuk mi dodnes raduje duši — a je důvodem, proč dělám to, co dělám.
+Od dětství je pro mě bzukot včel hudbou. V **Oboře**, vesnici na Moravě, kde jsem vyrůstal, hučely stromy v době květu a lípa před naším rodným domem bývala plná včel, když rozkvetla. Ten zvuk mi dodnes raduje duši — a je důvodem, proč dělám to, co dělám.
 
 ## Kořeny v Oboře
 

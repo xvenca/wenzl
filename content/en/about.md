@@ -8,7 +8,7 @@ translationKey: "about"
 
 ## The sound that started everything
 
-Since childhood, the sound of bees has been music to me. In **Obora**, the village in Moravia where I grew up, the trees hummed all summer long, and the linden in front of our family home was always alive with bees. That sound still gladdens my soul today — and it is the reason I do what I do.
+Since childhood, the sound of bees has been music to me. In **Obora**, the village in Moravia where I grew up, the trees hummed when they were in bloom, and the linden in front of our family home would fill with bees when it flowered. That sound still gladdens my soul today — and it is the reason I do what I do.
 
 ## Roots in Obora
 

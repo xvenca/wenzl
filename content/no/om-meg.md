@@ -8,7 +8,7 @@ translationKey: "about"
 
 ## Lyden som startet alt
 
-Helt fra barndommen har lyden av bier vært musikk for meg. I **Obora**, landsbyen i Mähren der jeg vokste opp, summet trærne gjennom hele sommeren, og linden foran barndomshjemmet vårt var alltid full av bier. Den lyden gleder fortsatt sjelen min — og det er grunnen til at jeg gjør det jeg gjør.
+Helt fra barndommen har lyden av bier vært musikk for meg. I **Obora**, landsbyen i Mähren der jeg vokste opp, summet trærne når de sto i blomst, og linden foran barndomshjemmet vårt var full av bier når den blomstret. Den lyden gleder fortsatt sjelen min — og det er grunnen til at jeg gjør det jeg gjør.
 
 ## Røttene i Obora
 

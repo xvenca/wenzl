@@ -8,7 +8,7 @@ translationKey: "about"
 
 ## Der Klang, mit dem alles begann
 
-Seit meiner Kindheit ist der Klang der Bienen Musik für mich. In **Obora**, dem Dorf in Mähren, in dem ich aufgewachsen bin, summten die Bäume den ganzen Sommer, und die Linde vor unserem Elternhaus war immer voller Bienen. Dieser Klang erfreut meine Seele bis heute — und er ist der Grund, warum ich tue, was ich tue.
+Seit meiner Kindheit ist der Klang der Bienen Musik für mich. In **Obora**, dem Dorf in Mähren, in dem ich aufgewachsen bin, summten die Bäume zur Blütezeit, und die Linde vor unserem Elternhaus war voller Bienen, wenn sie blühte. Dieser Klang erfreut meine Seele bis heute — und er ist der Grund, warum ich tue, was ich tue.
 
 ## Wurzeln in Obora
 
