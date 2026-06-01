@@ -1,8 +1,10 @@
----
+﻿---
+draft: true
 title: "Turistartikler"
 description: "Håndlagde suvenirer inspirert av Bergen"
 image: "/images/tourism.svg"
 ---
+draft: true
 
 # Håndlagde suvenirer fra Bergen
 

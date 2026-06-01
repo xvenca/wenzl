@@ -1,8 +1,6 @@
 ---
-title: "Wenzel.no"
-description: "Místní řemesla, farmaření a včelařství z Bergen, Norsko"
+title: "wenzl.no"
+description: "Certifikovaný včelař v Bergenu — přírodní včelaření, odchyt rojů, opylování a dřevěné ležany vlastní výroby"
+image: "/images/hero.jpg"
+alt: "Martin Venclů u úlů v Bergenu"
 ---
-
-# Vítejte
-
-Toto je česká ukázka stránek Wenzel.no.

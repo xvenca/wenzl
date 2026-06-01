@@ -2,6 +2,7 @@
 title: "Kontakt"
 description: "Kontakt for samarbeid, spørsmål eller bestilling"
 image: "/images/contact.svg"
+translationKey: "contact"
 ---
 
 # Kontakt

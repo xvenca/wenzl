@@ -2,6 +2,7 @@
 title: "Contact"
 description: "Get in touch for enquiries, orders or collaborations"
 image: "/images/contact.svg"
+translationKey: "contact"
 ---
 
 # Contact

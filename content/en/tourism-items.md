@@ -1,8 +1,10 @@
----
+﻿---
+draft: true
 title: "Tourism Items"
 description: "Handcrafted souvenirs inspired by Bergen"
 image: "/images/tourism.svg"
 ---
+draft: true
 
 # Handcrafted souvenirs from Bergen
 

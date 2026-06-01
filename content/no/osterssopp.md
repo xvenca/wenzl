@@ -1,8 +1,10 @@
----
+﻿---
+draft: true
 title: "Østerssopp"
 description: "Bærekraftig, lokal dyrking av østerssopp nær Bergen"
 image: "/images/mushrooms.svg"
 ---
+draft: true
 
 # Østerssopp – dyrket lokalt
 

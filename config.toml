@@ -1,71 +1,106 @@
 baseURL = "https://wenzel.no/"
 languageCode = "no"
-title = "Wenzel.no"
+title = "wenzl.no"
 defaultContentLanguage = "no"
 
 [params]
-  description = "Local crafts and farming from Bergen, Norway"
   email = "info@wenzel.no"
   phone = "+47 926 20569"
-  images = ["/images/hero.svg"]
+  images = ["/images/birokt-hero.jpg"]
 
 [languages]
   [languages.no]
     languageName = "Norsk"
     contentDir = "content/no"
     weight = 1
+    [languages.no.params]
+      description = "Sertifisert birøkter i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde bikuber i tre"
+    [[languages.no.menu.main]]
+      identifier = "home"
+      name = "Hjem"
+      url = "/"
+      weight = 1
+    [[languages.no.menu.main]]
+      identifier = "beekeeping"
+      name = "Birøkt"
+      url = "/birokt/"
+      weight = 2
+    [[languages.no.menu.main]]
+      identifier = "about"
+      name = "Om meg"
+      url = "/om-meg/"
+      weight = 3
+    [[languages.no.menu.main]]
+      identifier = "membership"
+      name = "Medlemskap"
+      url = "/medlemskap/"
+      weight = 4
+    [[languages.no.menu.main]]
+      identifier = "contact"
+      name = "Kontakt"
+      url = "/kontakt/"
+      weight = 5
+
   [languages.en]
     languageName = "English"
     contentDir = "content/en"
     weight = 2
+    [languages.en.params]
+      description = "Certified beekeeper in Bergen — natural beekeeping, swarm collection, pollination and handcrafted wooden hives"
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/en/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "beekeeping"
+      name = "Beekeeping"
+      url = "/en/beekeeping/"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/en/about/"
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "membership"
+      name = "Membership"
+      url = "/en/membership/"
+      weight = 4
+    [[languages.en.menu.main]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/en/contact/"
+      weight = 5
+
   [languages.cs]
     languageName = "Čeština"
     contentDir = "content/cs"
     weight = 3
-
-[[menu.main]]
-  name = "Hjem"
-  url = "/"
-  weight = 1
-  [menu.main.params]
-    en = "Home"
-
-[[menu.main]]
-  name = "Birøkt"
-  url = "/birokt/"
-  weight = 2
-  [menu.main.params]
-    en = "Beekeeping"
-
-[[menu.main]]
-  name = "Turistartikler"
-  url = "/turistartikler/"
-  weight = 3
-  [menu.main.params]
-    en = "Tourism Items"
-
-[[menu.main]]
-  name = "Gård"
-  url = "/gard/"
-  weight = 4
-  [menu.main.params]
-    en = "Farm"
-
-[[menu.main]]
-  name = "Østerssopp"
-  url = "/osterssopp/"
-  weight = 5
-  [menu.main.params]
-    en = "Oyster Mushrooms"
-
-[[menu.main]]
-  name = "App"
-  url = "/app/"
-  weight = 6
-
-[[menu.main]]
-  name = "Kontakt"
-  url = "/kontakt/"
-  weight = 7
-  [menu.main.params]
-    en = "Contact"
+    [languages.cs.params]
+      description = "Certifikovaný včelař v Bergenu — přírodní včelaření, odchyt rojů, opylování a dřevěné ležany vlastní výroby"
+    [[languages.cs.menu.main]]
+      identifier = "home"
+      name = "Úvod"
+      url = "/cs/"
+      weight = 1
+    [[languages.cs.menu.main]]
+      identifier = "beekeeping"
+      name = "Včelaření"
+      url = "/cs/beekeeping/"
+      weight = 2
+    [[languages.cs.menu.main]]
+      identifier = "about"
+      name = "O mně"
+      url = "/cs/o-mne/"
+      weight = 3
+    [[languages.cs.menu.main]]
+      identifier = "membership"
+      name = "Členství"
+      url = "/cs/clenstvi/"
+      weight = 4
+    [[languages.cs.menu.main]]
+      identifier = "contact"
+      name = "Kontakt"
+      url = "/cs/contact/"
+      weight = 5

@@ -1,18 +1,143 @@
 {{ define "main" }}
-  <header class="mb-8">
-    {{ with .Params.image }}
-      <img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded shadow" />
-    {{ end }}
-    <h1 class="text-3xl font-bold mt-4">{{ .Site.Title }}</h1>
-    <p class="text-gray-600">{{ .Site.Params.description }}</p>
-  </header>
+{{ $lang := .Site.Language.Lang }}
+{{ $lang_key := $lang }}
+{{ if eq $lang "no" }}{{ $lang_key = "nb" }}{{ end }}
+{{ $services := index site.Data.services $lang_key }}
 
-  <section class="grid gap-6">
-    {{ range .Pages }}
-      <article class="p-4 border rounded">
-        <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p class="text-gray-700">{{ .Summary }}</p>
-      </article>
+<!-- ── Hero ──────────────────────────────────────────────────── -->
+<section class="relative min-h-[520px] md:min-h-[640px] flex items-end overflow-hidden bg-stone-900">
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="{{ $.Params.alt | default $.Site.Title }}"
+         class="absolute inset-0 w-full h-full object-cover opacity-75"
+         loading="eager" decoding="async">
+    {{ else }}
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #451a03 0%, #78350f 35%, #b45309 70%, #d97706 100%);">
+        <svg class="absolute inset-0 w-full h-full opacity-[0.07]" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <defs>
+                <pattern id="honeycomb" x="0" y="0" width="56" height="48" patternUnits="userSpaceOnUse">
+                    <polygon points="28,1 55,14 55,34 28,47 1,34 1,14" fill="none" stroke="white" stroke-width="1"/>
+                </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#honeycomb)"/>
+        </svg>
+    </div>
     {{ end }}
-  </section>
+    <div class="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/50 to-transparent"></div>
+
+    <div class="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 pb-16 pt-24 w-full">
+        <p class="text-amber-400 font-semibold text-xs uppercase tracking-[0.2em] mb-4">Bergen, Norway</p>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
+            {{ if eq $lang "en" }}Beekeeper in Bergen
+            {{ else if eq $lang "cs" }}Včelař v Bergenu
+            {{ else }}Birøkter i Bergen{{ end }}
+        </h1>
+        <p class="text-stone-300 text-lg sm:text-xl max-w-xl mb-10 leading-relaxed">
+            {{ .Site.Params.description }}
+        </p>
+        <div class="flex flex-wrap gap-3">
+            {{ range .Site.Menus.main }}{{ if eq .Identifier "beekeeping" }}
+            <a href="{{ .URL }}"
+               class="inline-flex items-center gap-2 bg-amber-600 hover:bg-amber-500 text-white font-semibold px-6 py-3 rounded-lg transition shadow-lg text-sm sm:text-base">
+                {{ .Name }}
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
+            </a>
+            {{ end }}{{ end }}
+            {{ range .Site.Menus.main }}{{ if eq .Identifier "about" }}
+            <a href="{{ .URL }}"
+               class="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white font-semibold px-6 py-3 rounded-lg border border-white/20 transition text-sm sm:text-base backdrop-blur-sm">
+                {{ .Name }}
+            </a>
+            {{ end }}{{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- ── Services ───────────────────────────────────────────────── -->
+{{ with $services }}
+<section class="bg-white border-b border-amber-100">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-14">
+        <p class="text-xs font-bold text-amber-600 uppercase tracking-[0.2em] mb-2">
+            {{ if eq $lang "en" }}Services{{ else if eq $lang "cs" }}Služby{{ else }}Tjenester{{ end }}
+        </p>
+        <h2 class="text-2xl font-bold text-stone-900 mb-8">
+            {{ if eq $lang "en" }}What I offer{{ else if eq $lang "cs" }}Co nabízím{{ else }}Hva jeg tilbyr{{ end }}
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {{ range . }}
+            <a href="{{ .link }}"
+               class="group bg-amber-50 border border-amber-100 rounded-xl p-6 hover:border-amber-300 hover:bg-white hover:shadow-md transition flex flex-col">
+                <div class="w-10 h-10 rounded-lg bg-amber-100 flex items-center justify-center mb-4 group-hover:bg-amber-200 transition">
+                    {{ if eq .icon "swarm" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
+                    </svg>
+                    {{ else if eq .icon "pollination" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/>
+                    </svg>
+                    {{ else if eq .icon "hive" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                    </svg>
+                    {{ else if eq .icon "city" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
+                    </svg>
+                    {{ else if eq .icon "trap" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                    </svg>
+                    {{ end }}
+                </div>
+                {{ with .badge }}
+                <span class="inline-block text-xs font-semibold bg-amber-200 text-amber-900 px-2 py-0.5 rounded-full mb-2 w-fit">{{ . }}</span>
+                {{ end }}
+                <h3 class="font-bold text-stone-800 group-hover:text-amber-800 transition mb-1.5">{{ .title }}</h3>
+                <p class="text-stone-500 text-sm leading-relaxed flex-1">{{ .desc }}</p>
+                <span class="mt-4 text-amber-600 text-xs font-semibold inline-flex items-center gap-1 group-hover:gap-2 transition-all">
+                    {{ if eq $lang "en" }}Learn more{{ else if eq $lang "cs" }}Více{{ else }}Les mer{{ end }}
+                    <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                    </svg>
+                </span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+<!-- ── Story teaser ───────────────────────────────────────────── -->
+<section class="bg-amber-50">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 py-20 text-center">
+        <svg class="w-9 h-9 text-amber-400 mx-auto mb-6" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 1.5L2 7.25v9.5L12 22.5l10-5.75v-9.5L12 1.5zm0 2.24 8 4.6v8.32l-8 4.6-8-4.6V8.34l8-4.6z"/>
+        </svg>
+        <p class="text-xs font-bold text-amber-600 uppercase tracking-[0.2em] mb-4">
+            {{ if eq $lang "en" }}My story{{ else if eq $lang "cs" }}Můj příběh{{ else }}Min historie{{ end }}
+        </p>
+        <blockquote class="text-2xl sm:text-3xl font-medium text-stone-800 leading-snug mb-6">
+            {{ if eq $lang "en" }}"Since childhood, the sound of bees has been music to me. The linden in front of our house was always alive with bees — that sound still gladdens my soul."
+            {{ else if eq $lang "cs" }}„Od dětství je pro mě bzukot včel hudbou. Lípa před naším domem byla vždy plná včel — ten zvuk mi dodnes raduje duši."
+            {{ else }}"Helt fra barndommen har lyden av bier vært musikk for meg. Linden foran huset vårt var alltid full av bier — den lyden gleder fortsatt sjelen min."{{ end }}
+        </blockquote>
+        <p class="text-stone-500 mb-10 max-w-2xl mx-auto leading-relaxed">
+            {{ if eq $lang "en" }}From a village with centuries of beekeeping tradition, through academic training under a leading varroa expert, to certified natural beekeeping in Bergen. Beekeeping is my family tradition.
+            {{ else if eq $lang "cs" }}Z vesnice se staletou včelařskou tradicí, přes akademické vzdělání u předního odborníka na varroázu, až k certifikovanému přírodnímu včelaření v Bergenu. Včelaření je naše rodinná tradice.
+            {{ else }}Fra en landsby med flere hundre års birøkttradisjon, gjennom akademisk utdanning under en ledende varroa-ekspert, til sertifisert naturlig birøkt i Bergen. Birøkt er familietradisjonen min.{{ end }}
+        </p>
+        {{ range .Site.Menus.main }}{{ if eq .Identifier "about" }}
+        <a href="{{ .URL }}"
+           class="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-600 text-white font-semibold px-8 py-3 rounded-lg transition shadow-md text-sm">
+            {{ if eq $lang "en" }}Read my story{{ else if eq $lang "cs" }}Přečtěte si můj příběh{{ else }}Les hele historien{{ end }}
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+            </svg>
+        </a>
+        {{ end }}{{ end }}
+    </div>
+</section>
+
 {{ end }}

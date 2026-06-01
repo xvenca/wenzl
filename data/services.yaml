@@ -1,0 +1,80 @@
+nb:
+  - icon: swarm
+    title: Svermfangst
+    badge: "Gratis · Bergen"
+    desc: "Oppdaget en sverm på eiendommen? Kontakt meg umiddelbart — jeg henter biesværmer kostnadsfritt i Bergen og omegn."
+    link: "/birokt/#svermfangst-i-bergen"
+  - icon: trap
+    title: Svermfeller
+    badge: "Gratis · hele Norge"
+    desc: "Beskytt bygningen din mot bisværmer. Jeg setter ut lokkekasser som fanger svermer før de slår seg ned i skorstein eller fasade — gratis, i hele Norge."
+    link: "/birokt/#svermfeller"
+  - icon: pollination
+    title: Bestøvning
+    badge: "Bier mot plass"
+    desc: "Jeg plasserer bisamfunn i din hage gratis i sesongen. Du gir bibestanden mat og rom — de sørger for avlingen din."
+    link: "/birokt/#bestøvningstjeneste"
+  - icon: hive
+    title: Bikuber
+    badge: "Håndlaget tre"
+    desc: "Liggebikuber (leisan) er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
+    link: "/birokt/#håndlagde-bikuber-og-treprodukter"
+  - icon: city
+    title: By-birøkt
+    badge: "Kommuner & parker"
+    desc: "Dekorative kuber, informasjonsskilt og rådgivning for birøktervennlige byer, skoler og offentlige rom."
+    link: "/birokt/#birøktervennlige-byer"
+
+en:
+  - icon: swarm
+    title: "Swarm Collection"
+    badge: "Free · Bergen"
+    desc: "Spotted a swarm on your property? Contact me immediately — I collect bee swarms free of charge in Bergen and surrounding areas."
+    link: "/en/beekeeping/#swarm-collection-in-bergen"
+  - icon: trap
+    title: "Swarm Traps"
+    badge: "Free · all Norway"
+    desc: "Protect your building from swarms. I set out bait boxes that catch swarms before they settle in a chimney or facade — free, across all of Norway."
+    link: "/en/beekeeping/#swarm-traps"
+  - icon: pollination
+    title: Pollination
+    badge: "Bees for space"
+    desc: "I place my colonies in your garden free of charge during the season. You provide the space and flowers — the bees do the rest."
+    link: "/en/beekeeping/#pollination-service"
+  - icon: hive
+    title: Beehives
+    badge: Handcrafted
+    desc: "Horizontal hives are uncommon in Norway — I build and experiment with them myself. Solid wooden hives for natural beekeeping."
+    link: "/en/beekeeping/#handcrafted-beehives"
+  - icon: city
+    title: "Urban Beekeeping"
+    badge: "Cities & parks"
+    desc: "Decorative hives, information boards and consulting for bee-friendly cities, schools and public spaces."
+    link: "/en/beekeeping/#bee-friendly-cities"
+
+cs:
+  - icon: swarm
+    title: "Odchyt rojů"
+    badge: "Zdarma · Bergen"
+    desc: "Zaznamenali jste roj? Kontaktujte mě ihned — odchytávám roje zdarma v Bergenu a okolí."
+    link: "/cs/beekeeping/#odchyt-rojů-v-bergenu"
+  - icon: trap
+    title: "Rojové pasti"
+    badge: "Zdarma · celé Norsko"
+    desc: "Ochrana budovy před roji. Rozmístím lákací krabičky, které chytí roj dřív, než se usadí v komíně nebo fasádě — zdarma, po celém Norsku."
+    link: "/cs/beekeeping/#rojové-pasti"
+  - icon: pollination
+    title: Opylování
+    badge: "Včely za prostor"
+    desc: "Umístím svá včelstva na vaši zahradu zdarma. Vy poskytnete prostor a pyl — včely se postarají o zbytek."
+    link: "/cs/beekeeping/#opylovací-služba"
+  - icon: hive
+    title: "Úly"
+    badge: "Vlastní výroba"
+    desc: "Ležany jsou v Norsku neobvyklé — sám je stavím a experimentuji s nimi. Pevné dřevěné úly pro přírodní včelaření."
+    link: "/cs/beekeeping/#tradiční-dřevěné-ležany"
+  - icon: city
+    title: "Včely ve městě"
+    badge: "Obce a parky"
+    desc: "Dekorativní úly, informační tabule a poradenství pro včelám přátelská města, školy a veřejná prostranství."
+    link: "/cs/beekeeping/#včelám-přátelská-města"

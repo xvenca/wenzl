@@ -1,0 +1,158 @@
+{{ define "main" }}
+
+<!-- ── Hero banner ───────────────────────────────────────────── -->
+<section class="relative min-h-[380px] md:min-h-[500px] flex items-end overflow-hidden bg-stone-900">
+    {{ with .Params.image }}
+    {{ $imgPath := . }}
+    {{ $res := $.Page.Resources.GetMatch $imgPath }}
+    {{ if not $res }}{{ $res = resources.GetMatch $imgPath }}{{ end }}
+    {{ if $res }}
+        <img src="{{ $res.RelPermalink }}" alt="{{ $.Params.alt | default $.Title }}"
+             class="absolute inset-0 w-full h-full object-cover opacity-70" loading="eager" decoding="async">
+    {{ else }}
+        <img src="{{ $imgPath }}" alt="{{ $.Params.alt | default $.Title }}"
+             class="absolute inset-0 w-full h-full object-cover opacity-70" loading="eager" decoding="async">
+    {{ end }}
+    {{ else }}
+    <!-- Amber honeycomb fallback -->
+    <div class="absolute inset-0" style="background: linear-gradient(160deg, #451a03 0%, #92400e 45%, #d97706 100%);">
+        <svg class="absolute inset-0 w-full h-full opacity-[0.06]" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <defs>
+                <pattern id="hc" x="0" y="0" width="56" height="48" patternUnits="userSpaceOnUse">
+                    <polygon points="28,1 55,14 55,34 28,47 1,34 1,14" fill="none" stroke="white" stroke-width="1"/>
+                </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#hc)"/>
+        </svg>
+    </div>
+    {{ end }}
+    <div class="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/50 to-transparent"></div>
+
+    <div class="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 pb-14 pt-20 w-full">
+        <!-- Breadcrumb -->
+        <nav class="text-xs text-stone-400 mb-4 flex items-center gap-1.5" aria-label="Breadcrumb">
+            <a href="/" class="hover:text-amber-400 transition">{{ i18n "home" | default "Hjem" }}</a>
+            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+            <span aria-current="page" class="text-stone-300">{{ .Title }}</span>
+        </nav>
+        <h1 class="text-4xl sm:text-5xl font-bold text-white mb-3 leading-tight">{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="text-stone-300 text-lg max-w-2xl leading-relaxed">{{ . }}</p>
+        {{ end }}
+    </div>
+</section>
+
+<!-- ── Service cards ─────────────────────────────────────────── -->
+{{ with .Params.services }}
+<section class="bg-white border-b border-amber-100">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-12">
+        <p class="text-xs font-bold text-amber-600 uppercase tracking-[0.2em] mb-8">
+            {{ if eq $.Site.Language.Lang "en" }}Services{{ else if eq $.Site.Language.Lang "cs" }}Služby{{ else }}Tjenester{{ end }}
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {{ range . }}
+            <div class="group bg-amber-50 border border-amber-100 rounded-xl p-6 hover:border-amber-300 hover:bg-white hover:shadow-md transition">
+                <!-- Icon -->
+                <div class="w-10 h-10 rounded-lg bg-amber-100 flex items-center justify-center mb-4 group-hover:bg-amber-200 transition">
+                    {{ if eq .icon "swarm" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
+                    </svg>
+                    {{ else if eq .icon "pollination" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/>
+                    </svg>
+                    {{ else if eq .icon "hive" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                    </svg>
+                    {{ else if eq .icon "city" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
+                    </svg>
+                    {{ else if eq .icon "health" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+                    </svg>
+                    {{ else if eq .icon "trap" }}
+                    <svg class="w-5 h-5 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                    </svg>
+                    {{ else }}
+                    <svg class="w-5 h-5 text-amber-700" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path d="M12 1.5L2 7.25v9.5L12 22.5l10-5.75v-9.5L12 1.5zm0 2.24 8 4.6v8.32l-8 4.6-8-4.6V8.34l8-4.6z"/>
+                    </svg>
+                    {{ end }}
+                </div>
+                <!-- Badge -->
+                {{ with .badge }}
+                <span class="inline-block text-xs font-semibold bg-amber-200 text-amber-900 px-2 py-0.5 rounded-full mb-2">{{ . }}</span>
+                {{ end }}
+                <!-- Title -->
+                <h3 class="font-bold text-stone-800 mb-1.5 group-hover:text-amber-800 transition">{{ .title }}</h3>
+                <!-- Description -->
+                <p class="text-stone-500 text-sm leading-relaxed">{{ .desc }}</p>
+                {{ with .link }}
+                <a href="{{ . }}" class="mt-3 text-amber-600 text-xs font-semibold inline-flex items-center gap-1 hover:gap-2 transition-all">
+                    {{ if eq $.Site.Language.Lang "en" }}Learn more{{ else if eq $.Site.Language.Lang "cs" }}Více{{ else }}Les mer{{ end }}
+                    <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                    </svg>
+                </a>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+<!-- ── Prose content ──────────────────────────────────────────── -->
+<div class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+    <div class="prose prose-stone prose-lg max-w-none
+                prose-headings:text-amber-800
+                prose-h1:text-3xl prose-h1:mt-0
+                prose-h2:text-2xl prose-h2:border-b prose-h2:border-amber-100 prose-h2:pb-2 prose-h2:mt-10
+                prose-h3:text-xl prose-h3:text-amber-700
+                prose-a:text-amber-700 prose-a:no-underline hover:prose-a:underline
+                prose-strong:text-stone-900
+                prose-hr:border-amber-200
+                prose-blockquote:border-amber-400 prose-blockquote:bg-amber-50 prose-blockquote:text-stone-600 prose-blockquote:px-6 prose-blockquote:py-1 prose-blockquote:rounded-r-lg">
+        {{ .Content }}
+    </div>
+
+    <!-- CTA box -->
+    <div class="mt-12 bg-amber-800 rounded-2xl p-8 text-center shadow-xl">
+        <svg class="w-10 h-10 text-amber-300 mx-auto mb-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 1.5L2 7.25v9.5L12 22.5l10-5.75v-9.5L12 1.5zm0 2.24 8 4.6v8.32l-8 4.6-8-4.6V8.34l8-4.6z"/>
+        </svg>
+        {{ $c := site.Data.contact }}
+        <h2 class="text-white font-bold text-xl mb-2">
+            {{ if eq $.Site.Language.Lang "en" }}Get in touch{{ else if eq $.Site.Language.Lang "cs" }}Kontaktujte mě{{ else }}Ta kontakt{{ end }}
+        </h2>
+        <p class="text-amber-200 text-sm mb-6 max-w-sm mx-auto">
+            {{ if eq $.Site.Language.Lang "en" }}Swarms, pollination, hives or city projects — I reply promptly.
+            {{ else if eq $.Site.Language.Lang "cs" }}Roje, opylování, úly nebo městské projekty — odpovídám rychle.
+            {{ else }}Sværmer, pollinering, kuber eller byprosjekter — jeg svarer raskt.{{ end }}
+        </p>
+        <div class="flex flex-col sm:flex-row gap-3 justify-center">
+            <a href="mailto:{{ $c.email }}"
+               class="bg-white text-amber-900 font-semibold px-6 py-3 rounded-lg hover:bg-amber-50 transition text-sm inline-flex items-center justify-center gap-2">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                </svg>
+                {{ $c.email }}
+            </a>
+            <a href="tel:{{ $c.phone }}"
+               class="border border-white/30 text-white font-semibold px-6 py-3 rounded-lg hover:bg-white/10 transition text-sm inline-flex items-center justify-center gap-2">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                </svg>
+                {{ $c.phone }}
+            </a>
+        </div>
+    </div>
+</div>
+{{ end }}

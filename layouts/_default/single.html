@@ -1,62 +1,80 @@
 {{ define "main" }}
-<nav aria-label="Breadcrumb" class="text-sm mb-4">
-  <a href="/" class="text-green-700 hover:underline">{{ i18n "home" | default "Home" }}</a>
-  <span class="mx-2 text-gray-400">/</span>
-  <span aria-current="page" class="text-gray-600">{{ .Title }}</span>
-</nav>
 
-<article class="prose prose-lg max-w-none">
-  {{ with .Params.image }}
-    <div class="mb-8">
-  {{ $imgPath := . }}
-      {{ $res := $.Page.Resources.GetMatch $imgPath }}
-      {{ if not $res }}
-        {{ $res = resources.GetMatch $imgPath }}
-      {{ end }}
-
-      {{ if $res }}
+<!-- ── Page hero ─────────────────────────────────────────────── -->
+{{ with .Params.image }}
+<div class="relative w-full h-64 md:h-96 overflow-hidden bg-stone-900">
+    {{ $imgPath := . }}
+    {{ $res := $.Page.Resources.GetMatch $imgPath }}
+    {{ if not $res }}{{ $res = resources.GetMatch $imgPath }}{{ end }}
+    {{ if $res }}
         {{ if eq $res.MediaType.SubType "svg" }}
-          <img src="{{ $res.RelPermalink }}" sizes="100vw" alt="{{ $.Params.alt | default $.Title }}" class="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" loading="lazy" decoding="async">
+        <img src="{{ $res.RelPermalink }}" alt="{{ $.Params.alt | default $.Title }}"
+             class="w-full h-full object-cover opacity-80" loading="eager" decoding="async">
         {{ else }}
-          {{ $widths := slice 480 768 1200 }}
-          {{ $srcset := slice }}
-          {{ range $w := $widths }}
+        {{ $widths := slice 480 768 1200 }}
+        {{ $srcset := slice }}
+        {{ range $w := $widths }}
             {{ $img := $res.Resize (printf "%dx" $w) }}
             {{ $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) }}
-          {{ end }}
-          <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="100vw" alt="{{ $.Params.alt | default $.Title }}" class="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" loading="lazy" decoding="async">
         {{ end }}
-      {{ else }}
-        <img src="{{ $imgPath }}" alt="{{ $.Params.alt | default $.Title }}" class="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" loading="lazy" decoding="async">
-      {{ end }}
-    </div>
-  {{ end }}
-
-  <header class="mb-6">
-    <h1 class="text-4xl font-bold text-green-800 mb-2">{{ .Title }}</h1>
-    {{ with .Date }}
-      <time datetime="{{ .Format "2006-01-02" }}" class="text-sm text-gray-500">{{ .Format "02 Jan 2006" }}</time>
+        <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="100vw"
+             alt="{{ $.Params.alt | default $.Title }}"
+             class="w-full h-full object-cover opacity-80" loading="eager" decoding="async">
+        {{ end }}
+    {{ else }}
+    <img src="{{ $imgPath }}" alt="{{ $.Params.alt | default $.Title }}"
+         class="w-full h-full object-cover opacity-80" loading="eager" decoding="async">
     {{ end }}
-    {{ with .Description }}
-      <p class="text-lg text-gray-600 mt-2">{{ . }}</p>
-    {{ end }}
-  </header>
+    <div class="absolute inset-0 bg-gradient-to-t from-stone-900/60 to-transparent"></div>
+</div>
+{{ end }}
 
-  <div class="prose-content">
-    {{ .Content }}
-  </div>
+<!-- ── Content ───────────────────────────────────────────────── -->
+<div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
 
-  {{ with .Params.tags }}
-  <footer class="mt-8">
-    <h2 class="text-sm font-semibold text-gray-700">Tags</h2>
-    <ul class="flex flex-wrap gap-2 mt-2">
-      {{ range . }}
-        <li>
-          <a href="/tags/{{ urlize . }}/" class="text-sm bg-gray-100 px-2 py-1 rounded text-gray-700 hover:bg-gray-200">{{ . }}</a>
-        </li>
-      {{ end }}
-    </ul>
-  </footer>
-  {{ end }}
-</article>
+    <!-- Breadcrumb -->
+    <nav aria-label="Breadcrumb" class="text-xs text-stone-500 mb-6 flex items-center gap-1.5">
+        <a href="/" class="hover:text-amber-700 transition">
+            {{ i18n "home" | default "Hjem" }}
+        </a>
+        <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+        </svg>
+        <span aria-current="page" class="text-stone-700 font-medium">{{ .Title }}</span>
+    </nav>
+
+    <!-- Article -->
+    <article>
+        <header class="mb-8">
+            <h1 class="text-3xl sm:text-4xl font-bold text-amber-900 mb-3 leading-tight">{{ .Title }}</h1>
+            {{ with .Description }}
+            <p class="text-lg text-stone-600 leading-relaxed border-l-4 border-amber-300 pl-4">{{ . }}</p>
+            {{ end }}
+        </header>
+
+        <div class="prose prose-stone prose-lg max-w-none
+                    prose-headings:text-amber-800
+                    prose-h2:border-b prose-h2:border-amber-100 prose-h2:pb-2
+                    prose-a:text-amber-700 prose-a:no-underline hover:prose-a:underline
+                    prose-strong:text-stone-900
+                    prose-blockquote:border-amber-400 prose-blockquote:text-stone-600">
+            {{ .Content }}
+        </div>
+
+        {{ with .Params.tags }}
+        <footer class="mt-10 pt-6 border-t border-amber-100">
+            <ul class="flex flex-wrap gap-2">
+                {{ range . }}
+                <li>
+                    <a href="/tags/{{ urlize . }}/"
+                       class="text-xs bg-amber-100 text-amber-800 px-3 py-1 rounded-full hover:bg-amber-200 transition font-medium">
+                        {{ . }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </footer>
+        {{ end }}
+    </article>
+</div>
 {{ end }}

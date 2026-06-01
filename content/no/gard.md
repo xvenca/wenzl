@@ -1,8 +1,10 @@
----
+﻿---
+draft: true
 title: "Gård"
 description: "Høner, egg og samfunnsgårdsdrift"
 image: "/images/farm.svg"
 ---
+draft: true
 
 # Gård
 

@@ -1,26 +1,156 @@
 ---
-title: "Beekeeping"
-description: "Local beekeeping services and handcrafted hives in Bergen, including Fana and Laksevåg"
-image: "/images/beekeeping.svg"
-alt: "Beehives and beekeeping equipment"
+title: "Beekeeping in Bergen"
+description: "Certified beekeeper in Bergen — natural beekeeping, swarm collection, pollination services and handcrafted traditional wooden hives"
+image: "/images/birokt-hero.jpg"
+alt: "Beekeeper at the hives in Bergen"
+layout: "birokt"
+translationKey: "beekeeping"
+services:
+  - icon: "swarm"
+    title: "Swarm Collection"
+    badge: "Free"
+    desc: "Spotted a swarm on your property? Contact me immediately — I collect bee swarms free of charge in Bergen and surrounding areas."
+    link: "#swarm-collection-in-bergen"
+  - icon: "trap"
+    title: "Swarm Traps"
+    badge: "Free · all Norway"
+    desc: "Protect your building from swarms — I set out bait boxes that catch swarms before they settle in a chimney or facade. Free, across all of Norway."
+    link: "#swarm-traps"
+  - icon: "pollination"
+    title: "Pollination"
+    badge: "Bees for space"
+    desc: "I place my colonies in your garden free of charge during the season. You provide the space and flowers — the bees do the rest."
+    link: "#pollination-service"
+  - icon: "hive"
+    title: "Beehives"
+    badge: "Handcrafted"
+    desc: "Horizontal hives are uncommon in Norway — I build and experiment with them myself. Solid wooden hives for natural beekeeping."
+    link: "#handcrafted-beehives"
+  - icon: "city"
+    title: "Urban Beekeeping"
+    badge: "Cities & parks"
+    desc: "Decorative hives, information boards and consulting for bee-friendly cities, schools and public spaces."
+    link: "#bee-friendly-cities"
 ---
 
-# Beekeeping in Bergen
+## Beekeeper in Bergen
 
-I keep bees with a focus on colony health, biodiversity and small-scale production. My work is based in and around Bergen, where local flora contributes to distinctive honey and resilient colonies.
+My name is **Martin Venclů** and I am a certified beekeeper living in Bergen, Norway. Bees have been part of my life since childhood in **Obora** — a village in South Moravia, Czech Republic, with a centuries-long beekeeping tradition, where the village coat of arms bears a honeycomb and a tree.
 
-## Swarm collection — free and safe
-If you find a swarm in a garden or urban area, I collect it free of charge and relocate it to a suitable home. Call **+47 926 20569** to arrange pickup.
+I practice natural beekeeping: my colonies build freely in empty frames, I leave honey for the bees, and my focus is on building healthy, resilient colonies for future generations rather than maximizing production.
 
-{{< figure src="images/roj.png" alt="Swarm of bees" caption="Swarm relocation" >}}
+---
 
-## Pollination support
-I provide pollination assistance for local growers and hobby orchards during the flowering season — a practical way to boost yields while supporting pollinator health.
+## Swarm Collection in Bergen
 
-## Handcrafted hives
-I build durable wooden hives designed for ease of maintenance and long service life — made for local conditions.
+Did you spot a swarm — a cluster of bees in a tree, under a roof edge, or anywhere on your property? **Contact me right away.**
 
-## Advice and short courses
-I offer short introductions and hands-on advice for new beekeepers, from hive placement to winter preparation.
+I collect bee swarms **free of charge** in Bergen and the surrounding area. A swarm is not dangerous, but the sooner we act, the better for the bees.
 
-Contact me for collaboration or questions about beekeeping in the Bergen area.
+📧 [info@wenzel.no](mailto:info@wenzel.no) · 📞 [+47 926 20569](tel:+4792620569)
+
+---
+
+## Swarm traps
+
+Swarming bees can settle where you least want them — in a chimney, a cavity, or behind a wooden facade. Removing an established colony from a building is expensive and difficult.
+
+I offer a simpler solution: **swarm traps**. These are small bait boxes that attract swarms, so the bees choose the trap instead of your building. The service is **free** — all I need is the owner's permission to place a trap on the property.
+
+If a trap catches a swarm, I collect it, treat the bees professionally in my **"bee hospital"**, and make sure they survive the winter.
+
+**This offer applies across all of Norway.** Where I can't drive, I'll gladly send a trap by post — on the condition that the swarm caught in it becomes mine.
+
+---
+
+## Pollination Service
+
+Bees are the most important pollinators for fruits, berries, and vegetables. **Without bees, no harvest.**
+
+Do you have a garden, smallholding, or allotment in the Bergen region? I offer my colonies for pollination **completely free** — all I ask for is a suitable place to park the hives. Landowners normally pay beekeepers for this service; I do it the other way around.
+
+**What you get:** Vigorous pollination throughout the season.
+**What I get:** A place for my bees to thrive.
+
+---
+
+## Handcrafted Beehives
+
+**Horizontal hives (lying hives) are not part of Norwegian beekeeping tradition** — they are something I brought with me and experiment with here in Norway. I build them myself, by hand in Bergen, in solid wood — I made my own Ukrainian hives here. Wood breathes, insulates and lasts as no factory material can:
+
+### Gregor Horizontal Hive — Norwegian frame size
+Horizontal hive on Norwegian frame dimensions with two supers above for winter colony division. The supers warm up naturally from the colony below — gentle on the bees through the cold season.
+
+### Ukrainian Horizontal Hive — family tradition
+Built after the tradition of my wife's grandfather, who kept bees in Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy.
+
+### Norwegian Horizontal Hive with Thick Walls
+My own design with extra-thick insulating walls — on Norwegian frame size. Available as a functional hive or as a decorative piece for parks and public spaces. *(The yellow hive.)*
+
+Interest in the hives has already begun to arrive — *contact me for prices and delivery times.*
+
+---
+
+## Bee-Friendly Cities
+
+Bees need flowers — and cities can give them. I work with municipalities, schools, and organizations on:
+
+- **Placing decorative traditional beehives** in parks, squares, and public green areas
+- **Information boards and educational materials** about bees and pollination
+- **Urban beekeeping consulting** — which flowers to plant, and when, to keep bees fed throughout the season
+- **Management of urban bee colonies**
+
+I already have an active project in Bergen where bees are present in public spaces, visible and accessible to everyone.
+
+---
+
+## Institutional Cooperation and Apitherapy
+
+I have experience placing bee colonies in institutional settings, including collaboration with **DPS Soli** in Bergen.
+
+I offer:
+
+- Placement and management of bee colonies at hospitals, care facilities, and rehabilitation centers
+- Consulting and construction of **apitherapy houses** — where patients can experience the proximity of bees
+- Ukrainian horizontal hives for apitherapy — this is the hive type traditionally used in apitherapy, and I have the expertise to both build and operate them
+
+---
+
+## My Philosophy
+
+### Wood, not plastic
+Plastic hives are for plastic bees. For millions of years, bees have lived in tree hollows — with natural insulation, breathability and structure that no factory material can replicate. I build and use wooden hives because wood gives bees the conditions they were made for.
+
+### Honey belongs to the bees
+Honey is the bees' food — not a product waiting to be harvested. A healthy, well-tended colony may have surplus honey to share; an exploited colony has none. My default is to leave the honey where it belongs. I take a small portion only when a colony is strong and has genuine surplus.
+
+### Swarming is reproduction
+A swarm is not a failure — it is a success. Swarming is how bees have reproduced for millions of years, and it is the most natural form of colony growth. Where it is safe for the surroundings, I allow my bees to swarm. It strengthens the local bee population and preserves instincts essential to the species' survival.
+
+### Bring bees back to our cities
+It saddens me to walk past a blooming city tree and hear nothing. Growing up in Obora, I learned to know that sound as music: the trees in the village hummed through summer, and the linden in front of our house was always alive with bees — a sound that still gladdens my soul. Let us make our cities places where bees can thrive. Plant flowers that bloom through the whole season. Give bees space in gardens, on rooftops and in parks. Not just for the bees — for ourselves.
+
+### A biological reserve
+I am not building a honey business. My goal is to create a **biological reserve** — healthy, chemical-free colonies kept outside the commercial system and preserved for the generations who come after us.
+
+---
+
+## My Background
+
+### The home of beekeeping — Obora
+
+I grew up in **[Obora](https://www.obecobora.cz/)** — a village in the Blansko district of South Moravia, Czech Republic, founded in **1360**. The village coat of arms bears a honeycomb and a tree, and beekeeping has been part of Obora since time immemorial. As a child I was already connected to bees: the local cooperative **Vcelpo Obora** supplied honey to my kindergarten, and I got my first sting on the playground there.
+
+In 2010, Obora celebrated its **650th anniversary**. That is where I met **Josef Stejskal** from Hutě — a skilled beekeeper and distant relative — who taught me the fundamentals of beekeeping at his apiary and passed on knowledge kept alive through generations. I have been a beekeeper ever since.
+
+### Academic education
+
+After hearing **[doc. Ing. Antonín Přidal, Ph.D.](https://uchhz.af.mendelu.cz/lide-na-mendelu?osoba=3228)** lecture on varroa mites in Boskovice, I contacted him to study under his guidance. I completed the course **[Beekeeping and Bee Product Processing](https://is.mendelu.cz/katalog/syllabus.pl?predmet=162023;lang=cz)** at **Mendel University in Brno** — where doc. Přidal is one of Central Europe's leading experts on *Varroa destructor* and apiculture science.
+
+### Official certification
+
+In Norway, I am a **certified beekeeper** with a certificate issued in **Bergen**.
+
+### Family tradition
+
+Beekeeping is not just my profession — it is my family history. My great-grandfather kept bees in **Voderade near Kunštát**. My wife's grandfather kept bees in **Ukraine** — his tradition lives on in the Ukrainian horizontal hives I build myself. Josef Stejskal, who taught me beekeeping in Obora, is also a distant relative. I carry on a living family beekeeping tradition on both sides.

@@ -14,16 +14,8 @@
     {{ if eq $res.MediaType.SubType "svg" }}
       <img src="{{ $res.RelPermalink }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
     {{ else }}
-      {{ $widths := slice 480 768 1200 }}
-      <picture>
-        {{ range $w := $widths }}
-          {{ $webp := ($res.Resize (printf "%dx webp" $w)) }}
-          {{ $jpg := ($res.Resize (printf "%dx" $w)) }}
-          <source srcset="{{ $webp.RelPermalink }}" type="image/webp" media="(max-width: {{ $w }}px)">
-        {{ end }}
-        {{ $fallback := $res.Resize "1200x" }}
-        <img src="{{ $fallback.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
-      </picture>
+      {{/* Resize/WebP may not be available in non-extended Hugo builds. Use the resource directly to ensure builds succeed. */}}
+      <img src="{{ $res.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
     {{ end }}
   {{ else }}
     <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">

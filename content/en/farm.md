@@ -1,8 +1,10 @@
----
+﻿---
+draft: true
 title: "Farm"
 description: "Chickens, eggs, and community farming"
 image: "/images/farm.svg"
 ---
+draft: true
 
 # Farm
 

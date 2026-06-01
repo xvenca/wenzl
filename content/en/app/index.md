@@ -1,9 +1,11 @@
----
+﻿---
+draft: true
 title: "App for beekeepers"
 description: "A simple tool to track your hives — in development"
 image: "app.png"
 alt: "Screenshot of beekeeper app interface"
 ---
+draft: true
 
 # App for beekeepers
 

@@ -1,9 +1,11 @@
----
+﻿---
+draft: true
 title: "Farm"
 description: "Small-scale farming and community initiatives in Bergen, serving Åsane and surrounding areas"
 image: "farm.png"
 alt: "Farm with chickens and vegetables in Bergen"
 ---
+draft: true
 
 # Farm and local food
 
