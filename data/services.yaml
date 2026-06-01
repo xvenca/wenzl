@@ -18,7 +18,7 @@ nb:
     title: Bikuber
     badge: "Håndlaget tre"
     desc: "Liggebikuber (leisan) er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
-    link: "/birokt/#håndlagde-bikuber-og-treprodukter"
+    link: "/bikuber/"
   - icon: city
     title: By-birøkt
     badge: "Kommuner & parker"
@@ -45,7 +45,7 @@ en:
     title: Beehives
     badge: Handcrafted
     desc: "Horizontal hives are uncommon in Norway — I build and experiment with them myself. Solid wooden hives for natural beekeeping."
-    link: "/en/beekeeping/#handcrafted-beehives"
+    link: "/en/beehives/"
   - icon: city
     title: "Urban Beekeeping"
     badge: "Cities & parks"
@@ -72,7 +72,7 @@ cs:
     title: "Úly"
     badge: "Vlastní výroba"
     desc: "Ležany jsou v Norsku neobvyklé — sám je stavím a experimentuji s nimi. Pevné dřevěné úly pro přírodní včelaření."
-    link: "/cs/beekeeping/#tradiční-dřevěné-ležany"
+    link: "/cs/uly/"
   - icon: city
     title: "Včely ve městě"
     badge: "Obce a parky"
@@ -99,7 +99,7 @@ uk:
     title: "Вулики"
     badge: "Ручна робота"
     desc: "Лежаки незвичні для Норвегії — я сам їх будую і з ними експериментую. Міцні дерев'яні вулики для природного бджільництва."
-    link: "/uk/beekeeping/#handcrafted-beehives"
+    link: "/uk/vulyky/"
   - icon: city
     title: "Міське бджільництво"
     badge: "Міста й парки"
@@ -126,7 +126,7 @@ ru:
     title: "Ульи"
     badge: "Ручная работа"
     desc: "Лежаки необычны для Норвегии — я сам их строю и экспериментирую с ними. Надёжные деревянные ульи для природного пчеловодства."
-    link: "/ru/beekeeping/#handcrafted-beehives"
+    link: "/ru/uli/"
   - icon: city
     title: "Городское пчеловодство"
     badge: "Города и парки"
@@ -153,7 +153,7 @@ pl:
     title: "Ule"
     badge: "Ręczna robota"
     desc: "Leżaki są w Norwegii rzadkością — sam je buduję i z nimi eksperymentuję. Solidne drewniane ule do naturalnej gospodarki pasiecznej."
-    link: "/pl/beekeeping/#handcrafted-beehives"
+    link: "/pl/ule/"
   - icon: city
     title: "Pszczelarstwo miejskie"
     badge: "Miasta i parki"
@@ -180,7 +180,7 @@ de:
     title: "Bienenbeuten"
     badge: "Handgefertigt"
     desc: "Lagerbeuten sind in Norwegen ungewöhnlich — ich baue und erprobe sie selbst. Solide Holzbeuten für naturnahe Imkerei."
-    link: "/de/beekeeping/#handcrafted-beehives"
+    link: "/de/beuten/"
   - icon: city
     title: "Stadtimkerei"
     badge: "Städte und Parks"
@@ -207,7 +207,7 @@ cu:
     title: "Оулии"
     badge: "Рꙋкодѣльно"
     desc: "Лежачии оулии въ Норьвѣгии рѣдки сꙋть — самъ ихъ творѭ и искусствꙋю. Твьрды древѧны оулии ради природьнаго пчеларьства."
-    link: "/cu/beekeeping/#handcrafted-beehives"
+    link: "/cu/oulii/"
   - icon: city
     title: "Градьскоє пчеларьство"
     badge: "Грады и парци"

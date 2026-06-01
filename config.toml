@@ -33,20 +33,25 @@ defaultContentLanguage = "no"
       url = "/birokt/"
       weight = 2
     [[languages.no.menu.main]]
+      identifier = "hives"
+      name = "Bikuber"
+      url = "/bikuber/"
+      weight = 3
+    [[languages.no.menu.main]]
       identifier = "about"
       name = "Om meg"
       url = "/om-meg/"
-      weight = 3
+      weight = 4
     [[languages.no.menu.main]]
       identifier = "membership"
       name = "Medlemskap"
       url = "/medlemskap/"
-      weight = 4
+      weight = 5
     [[languages.no.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/kontakt/"
-      weight = 5
+      weight = 6
 
   [languages.en]
     languageName = "English"
@@ -66,20 +71,25 @@ defaultContentLanguage = "no"
       url = "/en/beekeeping/"
       weight = 2
     [[languages.en.menu.main]]
+      identifier = "hives"
+      name = "Beehives"
+      url = "/en/beehives/"
+      weight = 3
+    [[languages.en.menu.main]]
       identifier = "about"
       name = "About"
       url = "/en/about/"
-      weight = 3
+      weight = 4
     [[languages.en.menu.main]]
       identifier = "membership"
       name = "Membership"
       url = "/en/membership/"
-      weight = 4
+      weight = 5
     [[languages.en.menu.main]]
       identifier = "contact"
       name = "Contact"
       url = "/en/contact/"
-      weight = 5
+      weight = 6
 
   [languages.cs]
     languageName = "Čeština"
@@ -99,20 +109,25 @@ defaultContentLanguage = "no"
       url = "/cs/beekeeping/"
       weight = 2
     [[languages.cs.menu.main]]
+      identifier = "hives"
+      name = "Úly"
+      url = "/cs/uly/"
+      weight = 3
+    [[languages.cs.menu.main]]
       identifier = "about"
       name = "O mně"
       url = "/cs/o-mne/"
-      weight = 3
+      weight = 4
     [[languages.cs.menu.main]]
       identifier = "membership"
       name = "Členství"
       url = "/cs/clenstvi/"
-      weight = 4
+      weight = 5
     [[languages.cs.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/cs/contact/"
-      weight = 5
+      weight = 6
 
   [languages.uk]
     languageName = "Українська"
@@ -132,20 +147,25 @@ defaultContentLanguage = "no"
       url = "/uk/beekeeping/"
       weight = 2
     [[languages.uk.menu.main]]
+      identifier = "hives"
+      name = "Вулики"
+      url = "/uk/vulyky/"
+      weight = 3
+    [[languages.uk.menu.main]]
       identifier = "about"
       name = "Про мене"
       url = "/uk/about/"
-      weight = 3
+      weight = 4
     [[languages.uk.menu.main]]
       identifier = "membership"
       name = "Членство"
       url = "/uk/membership/"
-      weight = 4
+      weight = 5
     [[languages.uk.menu.main]]
       identifier = "contact"
       name = "Контакт"
       url = "/uk/contact/"
-      weight = 5
+      weight = 6
 
   [languages.ru]
     languageName = "Русский"
@@ -165,20 +185,25 @@ defaultContentLanguage = "no"
       url = "/ru/beekeeping/"
       weight = 2
     [[languages.ru.menu.main]]
+      identifier = "hives"
+      name = "Ульи"
+      url = "/ru/uli/"
+      weight = 3
+    [[languages.ru.menu.main]]
       identifier = "about"
       name = "Обо мне"
       url = "/ru/about/"
-      weight = 3
+      weight = 4
     [[languages.ru.menu.main]]
       identifier = "membership"
       name = "Членство"
       url = "/ru/membership/"
-      weight = 4
+      weight = 5
     [[languages.ru.menu.main]]
       identifier = "contact"
       name = "Контакт"
       url = "/ru/contact/"
-      weight = 5
+      weight = 6
 
   [languages.pl]
     languageName = "Polski"
@@ -198,20 +223,25 @@ defaultContentLanguage = "no"
       url = "/pl/beekeeping/"
       weight = 2
     [[languages.pl.menu.main]]
+      identifier = "hives"
+      name = "Ule"
+      url = "/pl/ule/"
+      weight = 3
+    [[languages.pl.menu.main]]
       identifier = "about"
       name = "O mnie"
       url = "/pl/about/"
-      weight = 3
+      weight = 4
     [[languages.pl.menu.main]]
       identifier = "membership"
       name = "Członkostwo"
       url = "/pl/membership/"
-      weight = 4
+      weight = 5
     [[languages.pl.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/pl/contact/"
-      weight = 5
+      weight = 6
 
   [languages.de]
     languageName = "Deutsch"
@@ -231,20 +261,25 @@ defaultContentLanguage = "no"
       url = "/de/beekeeping/"
       weight = 2
     [[languages.de.menu.main]]
+      identifier = "hives"
+      name = "Beuten"
+      url = "/de/beuten/"
+      weight = 3
+    [[languages.de.menu.main]]
       identifier = "about"
       name = "Über mich"
       url = "/de/about/"
-      weight = 3
+      weight = 4
     [[languages.de.menu.main]]
       identifier = "membership"
       name = "Mitgliedschaften"
       url = "/de/membership/"
-      weight = 4
+      weight = 5
     [[languages.de.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/de/contact/"
-      weight = 5
+      weight = 6
 
   [languages.cu]
     languageName = "Словѣньскъ"
@@ -264,17 +299,22 @@ defaultContentLanguage = "no"
       url = "/cu/beekeeping/"
       weight = 2
     [[languages.cu.menu.main]]
+      identifier = "hives"
+      name = "Оулии"
+      url = "/cu/oulii/"
+      weight = 3
+    [[languages.cu.menu.main]]
       identifier = "about"
       name = "О мнѣ"
       url = "/cu/about/"
-      weight = 3
+      weight = 4
     [[languages.cu.menu.main]]
       identifier = "membership"
       name = "Члѣньство"
       url = "/cu/membership/"
-      weight = 4
+      weight = 5
     [[languages.cu.menu.main]]
       identifier = "contact"
       name = "Контактъ"
       url = "/cu/contact/"
-      weight = 5
+      weight = 6
