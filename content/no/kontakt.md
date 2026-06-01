@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Kontakt for samarbeid, spørsmål eller bestilling"
+description: "Kontakt for samarbeid, spørsmål eller interesse for kubene mine"
 image: "/images/contact.svg"
 translationKey: "contact"
 ---

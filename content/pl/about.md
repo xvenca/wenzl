@@ -28,9 +28,9 @@ Moja droga nabrała akademickiego kierunku, gdy usłyszałem wykład **[doc. Ing
 
 ## Pszczelarstwo w Norwegii
 
-Dziś zajmuję się pszczelarstwem w **Norwegii**, mając bazę w **Bergen**, gdzie jestem **certyfikowanym pszczelarzem**. Sam buduję swoje drewniane ule — między innymi ukraińskie leżaki i grubościenny norweski ul zaprojektowany tak, by naśladować wnętrze żywego drzewa. Prowadzę naturalną gospodarkę pasieczną: pozwalam pszczołom budować tak, jak chcą, i nie odbieram im miodu. Miód należy do pszczół.
+Dziś zajmuję się pszczelarstwem w **Norwegii**, mając bazę w **Bergen**, gdzie jestem **certyfikowanym pszczelarzem**. Sam buduję swoje drewniane ule — między innymi ukraińskie leżaki i ocieplany drewniany ul typu Gregor. Ten ul pierwotnie wykonywał mój przyjaciel Jan Gregor, od którego przejąłem pałeczkę i zgodę na dalsze wytwarzanie tych uli; z myślą o deszczowym Bergen ich zewnętrzny płaszcz jest dodatkowo zabezpieczony przed wodą. Prowadzę naturalną gospodarkę pasieczną: pozwalam pszczołom budować tak, jak chcą, i nie odbieram im miodu. Miód należy do pszczół.
 
-Obecnie opiekuję się pięcioma rodzinami i stale buduję kolejne ule — także na zamówienie, bo zainteresowanie już się pojawia.
+Obecnie opiekuję się pięcioma rodzinami i stale buduję kolejne ule. Zgłaszają się już do mnie osoby zainteresowane moimi ulami.
 
 ## Dlaczego to robię
 
@@ -38,4 +38,4 @@ Nie buduję biznesu miodowego. Buduję **rezerwę biologiczną** — zdrowe, nie
 
 ---
 
-*Chcesz współpracować, zamówić ul albo po prostu porozmawiać o pszczołach? [Skontaktuj się ze mną](/pl/contact/) — chętnie odpowiem.*
+*Chcesz współpracować, zapytać o moje ule albo po prostu porozmawiać o pszczołach? [Skontaktuj się ze mną](/pl/contact/) — chętnie odpowiem.*

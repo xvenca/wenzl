@@ -1,13 +1,13 @@
 ---
 title: "Contact"
-description: "Get in touch for enquiries, orders or collaborations"
+description: "Get in touch for enquiries, interest in my hives, or collaborations"
 image: "/images/contact.svg"
 translationKey: "contact"
 ---
 
 # Contact
 
-For enquiries, orders or collaboration proposals, please contact me by email or phone. I respond to messages from the Bergen area and beyond.
+For enquiries, interest in my hives, or collaboration proposals, please contact me by email or phone. I respond to messages from the Bergen area and beyond.
 
 {{< contact >}}
 

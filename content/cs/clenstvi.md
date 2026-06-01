@@ -16,7 +16,6 @@ memberships:
     logo: "/images/bergen-fellesverksted-logo.png"
     url: "https://www.bergenfellesverksted.no/"
     desc: "Otevřená členská dílna v Bergenu vybavená pro práci se dřevem. Právě tady stavím své úly vlastníma rukama."
-  - name: "Včelaři Boskovice"
   - name: "Základní organizace Českého svazu včelařů Boskovice"
     role: "Rodná včelařská organizace"
     location: "Boskovice, Česká republika"

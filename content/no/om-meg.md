@@ -28,9 +28,9 @@ Veien min tok en akademisk vending da jeg hørte **[doc. Ing. Antonín Přidal, 
 
 ## Birøkt i Bergen
 
-I dag holder jeg bier i **Bergen**, der jeg er **sertifisert birøkter**. Jeg bygger mine egne bikuber i tre — blant annet ukrainske liggebikuber og en tykkvegget norsk kube designet for å etterligne hulrommet i et levende tre. Jeg driver naturlig birøkt: jeg lar biene bygge slik de selv vil, og jeg høster ikke honningen deres. Honningen tilhører biene.
+I dag holder jeg bier i **Bergen**, der jeg er **sertifisert birøkter**. Jeg bygger mine egne bikuber i tre — blant annet ukrainske liggebikuber og den isolerte Gregor-kuben i tre. Den ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Jeg driver naturlig birøkt: jeg lar biene bygge slik de selv vil, og jeg høster ikke honningen deres. Honningen tilhører biene.
 
-For tiden steller jeg fem bisamfunn, og jeg bygger stadig flere kuber — også på bestilling, ettersom interessen allerede har begynt å melde seg.
+For tiden steller jeg fem bisamfunn, og jeg bygger stadig flere kuber. Folk har allerede begynt å ta kontakt fordi de er interesserte i kubene mine.
 
 ## Hvorfor jeg gjør dette
 
@@ -38,4 +38,4 @@ Jeg bygger ikke en honningbedrift. Jeg bygger en **biologisk reserve** — frisk
 
 ---
 
-*Vil du samarbeide, bestille en kube eller bare slå av en prat om bier? [Ta kontakt](/kontakt/) — jeg svarer gjerne.*
+*Vil du samarbeide, høre mer om kubene mine eller bare slå av en prat om bier? [Ta kontakt](/kontakt/) — jeg svarer gjerne.*

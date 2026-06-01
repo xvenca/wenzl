@@ -28,9 +28,9 @@ Meine Laufbahn nahm eine akademische Wendung, als ich bei einem Imkertreffen in 
 
 ## Imkerei in Norwegen
 
-Heute imkere ich in **Norwegen** mit Basis in **Bergen**, wo ich **zertifizierter Imker** bin. Ich baue meine Holzbeuten selbst — darunter ukrainische Lagerbeuten und eine dickwandige norwegische Beute, die die Höhlung eines lebenden Baumes nachahmen soll. Ich arbeite naturnah: Ich lasse die Bienen so bauen, wie sie selbst wollen, und ich entnehme ihnen ihren Honig nicht. Der Honig gehört den Bienen.
+Heute imkere ich in **Norwegen** mit Basis in **Bergen**, wo ich **zertifizierter Imker** bin. Ich baue meine Holzbeuten selbst — darunter ukrainische Lagerbeuten und die gedämmte Holzbeute vom Typ Gregor. Diese Beute wurde ursprünglich von meinem Freund Jan Gregor gebaut; von ihm habe ich den Staffelstab und die Erlaubnis übernommen, diese Beuten weiter zu bauen, und für das regnerische Bergen ist die Außenhülle zusätzlich gegen Wasser geschützt. Ich arbeite naturnah: Ich lasse die Bienen so bauen, wie sie selbst wollen, und ich entnehme ihnen ihren Honig nicht. Der Honig gehört den Bienen.
 
-Derzeit betreue ich fünf Völker und baue laufend weitere Beuten — auch auf Bestellung, denn das Interesse daran ist bereits da.
+Derzeit betreue ich fünf Völker und baue laufend weitere Beuten. Es melden sich bereits Menschen bei mir, die sich für meine Beuten interessieren.
 
 ## Warum ich das tue
 
@@ -38,4 +38,4 @@ Ich baue kein Honiggeschäft auf. Ich baue ein **biologisches Reservat** — ges
 
 ---
 
-*Sie möchten zusammenarbeiten, eine Beute bestellen oder einfach über Bienen sprechen? [Kontaktieren Sie mich](/de/contact/) — ich freue mich auf Ihre Nachricht.*
+*Sie möchten zusammenarbeiten, mehr über meine Beuten erfahren oder einfach über Bienen sprechen? [Kontaktieren Sie mich](/de/contact/) — ich freue mich auf Ihre Nachricht.*

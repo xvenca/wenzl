@@ -28,9 +28,9 @@ My path took an academic turn when I heard **[doc. Ing. Antonín Přidal, Ph.D.]
 
 ## Beekeeping in Bergen
 
-Today I keep bees in **Bergen**, where I am a **certified beekeeper**. I build my own hives from wood — including Ukrainian horizontal hives and a thick-walled Norwegian hive designed to imitate the hollow of a living tree. I practice natural beekeeping: I let the bees build as they wish, and I do not harvest their honey. The honey belongs to the bees.
+Today I keep bees in **Bergen**, where I am a **certified beekeeper**. I build my own hives from wood — including Ukrainian horizontal hives and the insulated wooden Gregor-type hive. That hive was originally made by my friend Jan Gregor, from whom I took over the craft and received permission to continue making them; for rainy Bergen, the outer shell is additionally protected against water. I practice natural beekeeping: I let the bees build as they wish, and I do not harvest their honey. The honey belongs to the bees.
 
-I currently tend five colonies, and I keep building more hives — including made to order, as interest has already begun to arrive.
+I currently tend five colonies, and I keep building more hives. People have already started reaching out because they are interested in my hives.
 
 ## Why I do this
 
@@ -38,4 +38,4 @@ I am not building a honey business. I am building a **biological reserve** — h
 
 ---
 
-*Want to collaborate, order a hive, or simply talk about bees? [Get in touch](/en/contact/) — I'll be glad to hear from you.*
+*Want to collaborate, ask about my hives, or simply talk about bees? [Get in touch](/en/contact/) — I'll be glad to hear from you.*

@@ -28,9 +28,9 @@ Moje cesta se akademicky obrátila, když jsem vyslechl přednášku **[doc. Ing
 
 ## Včelaření v Bergenu
 
-Dnes včelařím v **Bergenu**, kde jsem **certifikovaný včelař**. Své úly si stavím sám ze dřeva — mimo jiné ukrajinské ležany a tlustostěnný norský úl navržený tak, aby napodoboval dutinu živého stromu. Věnuji se přírodnímu včelaření: nechávám včely stavět tak, jak samy chtějí, a med jim neberu. Med patří včelám.
+Dnes včelařím v **Bergenu**, kde jsem **certifikovaný včelař**. Své úly si stavím sám ze dřeva — mimo jiné ukrajinské ležany a zateplený dřevěný úl typu Gregor. Ten původně vyráběl můj kamarád Jan Gregor, od kterého jsem převzal štafetu i svolení tyto úly dál vyrábět; pro deštivý Bergen jsou navíc opatřeny ochranou pláště proti vodě. Věnuji se přírodnímu včelaření: nechávám včely stavět tak, jak samy chtějí, a med jim neberu. Med patří včelám.
 
-V současné době pečuji o pět včelstev a stále stavím další úly — i na objednávku, protože zájem se už začal ozývat.
+V současné době pečuji o pět včelstev a stále stavím další úly. Už se mi ozývají lidé, kteří mají o moje úly zájem.
 
 ## Proč to dělám
 
@@ -38,4 +38,4 @@ Nebuduji medařský podnik. Buduji **biologickou rezervu** — zdravá, nechemiz
 
 ---
 
-*Chcete spolupracovat, objednat úl nebo si jen popovídat o včelách? [Ozvěte se](/cs/contact/) — rád se vám budu věnovat.*
+*Chcete spolupracovat, zeptat se na moje úly nebo si jen popovídat o včelách? [Ozvěte se](/cs/contact/) — rád se vám budu věnovat.*

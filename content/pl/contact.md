@@ -1,13 +1,13 @@
 ---
 title: "Kontakt"
-description: "Skontaktuj się ze mną w sprawie współpracy, zamówień lub projektów"
+description: "Skontaktuj się ze mną w sprawie współpracy, zainteresowania moimi ulami lub projektów"
 image: "/images/contact.svg"
 translationKey: "contact"
 ---
 
 # Kontakt
 
-W sprawie współpracy, zamówień lub wspólnych projektów skontaktuj się ze mną mailowo albo telefonicznie. Odpowiadam na wiadomości z rejonu Bergen i z innych części Norwegii.
+W sprawie współpracy, zainteresowania moimi ulami lub wspólnych projektów skontaktuj się ze mną mailowo albo telefonicznie. Odpowiadam na wiadomości z rejonu Bergen i z innych części Norwegii.
 
 {{< contact >}}
 
