@@ -41,5 +41,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           port: 21
           local-dir: ./public/
-          # Change this if domene.no expects a subdirectory such as /www/ or /public_html/.
-          server-dir: ./
+          # domene.no serves this account from /public_html/ (same content was also visible under /www/).
+          server-dir: /public_html/

@@ -14,7 +14,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
    - Owner: Dev
    - Acceptance: Actions pass on push/PR; `gh-pages` contains up-to-date `public/`; site is reachable.
    - ETA: 1-2 hours
-   - status: deploy.yml switched from gh-pages deploy to FTP upload and now targets the `prod` GitHub Environment; pending first successful Actions run against the live host.
+   - status: deploy.yml now uploads via FTP from the `prod` GitHub Environment and targets `/public_html/`; pending live-site verification after the corrected server directory deploy.
 
 2) Content parity & frontmatter hygiene [x]
    - What: Review every `content/*/*.md`. Ensure each file has: `title`, `description`, `image` (or fallback), `tags` (optional), `date` (if applicable). Add `summary` field where necessary.
