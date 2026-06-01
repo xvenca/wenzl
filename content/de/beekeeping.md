@@ -71,15 +71,16 @@ Haben Sie einen Garten, einen kleinen Hof oder eine Parzelle in der Region Berge
 **Lagerbeuten gehören nicht zur norwegischen Imkertradition** — ich habe sie mitgebracht und experimentiere hier in Norwegen mit ihnen. Ich baue sie selbst, von Hand in Bergen, aus massivem Holz. Genau hier habe ich auch meine ukrainischen Lagerbeuten gebaut. Holz atmet, isoliert und hält so, wie es kein industrielles Material kann:
 
 ### Gregor-Lagerbeute — norwegisches Rähmchenmaß
-Lagerbeute im norwegischen Rähmchenmaß mit zwei Honigräumen darüber für die Überwinterung mit geteilter Volkseinheit. Die Aufsätze werden natürlich vom Volk darunter erwärmt — schonend für die Bienen in der kalten Jahreszeit.
+Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei Honigräumen darüber für die Überwinterung mit geteilter Volkseinheit. Sie wurde in Bergen und für die Bedingungen in Bergen entwickelt, um die Bienen im regnerischen Bergenwetter zu schützen und ihnen auch im Winter Komfort zu geben. Dieser Typ wurde ursprünglich von meinem Freund Jan Gregor gebaut; von ihm habe ich den Staffelstab und die Erlaubnis übernommen, diese Beuten weiter zu bauen, und für das regnerische Bergen ist die Außenhülle zusätzlich gegen Wasser geschützt. Die Aufsätze werden natürlich vom Volk darunter erwärmt — schonend für die Bienen in der kalten Jahreszeit.
 
 ### Ukrainische Lagerbeute — Familientradition
 Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet.
 
-### Norwegische Lagerbeute mit dicken Wänden
-Mein eigener Entwurf mit besonders dicken, isolierenden Wänden — im norwegischen Rähmchenmaß. Er kann sowohl als funktionale Beute als auch als dekoratives Objekt für Parks und öffentliche Räume dienen. *(Die gelbe Beute.)*
+### Barrierearme Lagerbeute
+im norwegischen Rähmchenmaß
+Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch dickere Wände aus Massivholz — im norwegischen Rähmchenmaß. Mein Ziel war es, die Imkerei für alle zugänglich zu machen und zugleich das norwegische Rähmchenmaß zu bewahren, damit der Imker auch unter rauen nordischen Bedingungen mit anderen Imkern kompatibel bleibt. Das ist entscheidend, wenn ein schwaches Volk mit Brut aus einem anderen Volk gestärkt werden muss. Als Isolierung kann Schafwolle von lokalen norwegischen Schafen eingelegt werden. Über dem Hauptvolk hat sie keine Honigräume, sondern ein leichtes Aluminiumdach auf Scharnieren, damit die Beute schnell und einfach zugänglich ist. So können auch Kinder, Menschen mit Rückenschmerzen und sogar Rollstuhlfahrer damit imkern. Es ist eine barrierearme Imkerbeute. *(Die gelbe Beute.)*
 
-Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir zu Preisen und Lieferzeiten.*
+Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
 
 ## Bienenfreundliche Städte {#bee-friendly-cities}
 
@@ -137,4 +138,4 @@ In Norwegen bin ich **zertifizierter Imker** mit einem in **Bergen** ausgestellt
 
 ### Familientradition
 
-Die Imkerei ist nicht nur mein Beruf, sondern auch meine Familiengeschichte. Mein Urgroßvater hielt Bienen in **Voderady bei Kunštát**. Der Großvater meiner Frau hielt Bienen in der **Ukraine** — und seine Tradition lebt in den ukrainischen Lagerbeuten weiter, die ich selbst baue. Josef Stejskal, der mich in Obora die Imkerei lehrte, ist ebenfalls ein entfernter Verwandter. Ich setze eine lebendige Familientradition der Imkerei auf beiden Seiten fort.
+Die Imkerei ist nicht nur mein Beruf, sondern auch meine Familiengeschichte. Mein Urgroßvater hielt Bienen in **Voděrady u Kunštátu**. Der Großvater meiner Frau hielt Bienen in der **Ukraine** — und seine Tradition lebt in den ukrainischen Lagerbeuten weiter, die ich selbst baue. Josef Stejskal, der mich in Obora die Imkerei lehrte, ist ebenfalls ein entfernter Verwandter. Ich setze eine lebendige Familientradition der Imkerei auf beiden Seiten fort.

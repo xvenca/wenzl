@@ -20,7 +20,7 @@ In 2010, Obora celebrated its **650th anniversary**. It was there that I met **J
 
 ## A tradition on both sides
 
-Beekeeping runs deep in my family. My **great-grandfather** kept bees in Voderady near Kunštát. My **wife's grandfather** kept bees in Ukraine — and his tradition lives on in the Ukrainian horizontal hives I build with my own hands today. I never met them; they passed before my time. But through Josef Stejskal, and through the hives I build, both family lines come together in what I do.
+Beekeeping runs deep in my family. My **great-grandfather** kept bees in Voděrady u Kunštátu. My **wife's grandfather** kept bees in Ukraine — and his tradition lives on in the Ukrainian horizontal hives I build with my own hands today. I never met them; they passed before my time. But through Josef Stejskal, and through the hives I build, both family lines come together in what I do.
 
 ## From a lecture hall to a calling
 

@@ -20,7 +20,7 @@ V roce 2010 slavila Obora **650 let od založení**. Právě tam jsem potkal **J
 
 ## Tradice z obou stran
 
-Včelaření je v mojí rodině hluboce zakořeněné. Můj **praděd** včelařil ve Voderadech u Kunštátu. **Dědeček mé manželky** včelařil na Ukrajině — a jeho tradice žije dál v ukrajinských ležanech, které dnes stavím vlastníma rukama. Nikdy jsem je nepotkal; odešli dřív, než jsem se narodil. Ale skrze Josefa Stejskala a skrze úly, které stavím, se obě rodové linie setkávají v tom, co dělám.
+Včelaření je v mojí rodině hluboce zakořeněné. Můj **praděd** včelařil ve Voděradech u Kunštátu. **Dědeček mé manželky** včelařil na Ukrajině — a jeho tradice žije dál v ukrajinských ležanech, které dnes stavím vlastníma rukama. Nikdy jsem je nepotkal; odešli dřív, než jsem se narodil. Ale skrze Josefa Stejskala a skrze úly, které stavím, se obě rodové linie setkávají v tom, co dělám.
 
 ## Z přednáškového sálu k poslání
 

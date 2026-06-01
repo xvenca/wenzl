@@ -79,15 +79,16 @@ Máte zahradu, farmu nebo zahrádkářskou kolonii v oblasti Bergenu? Nabízím 
 **Ležany nejsou součástí norské včelařské tradice** — je to něco, co jsem si přinesl a s čím v Norsku experimentuji. Stavím je sám, vlastníma rukama v Bergenu, z masivního dřeva — ukrajinské ležany jsem vyrobil přímo zde. Dřevo dýchá, izoluje a vydrží jako žádný průmyslový materiál:
 
 ### Gregor-ležan — norská rámková míra
-Ležan na norskou rámkovou míru se dvěma nástavky pro zimování oddělků. Nástavky se přirozeně zahřívají od hlavního včelstva pod nimi.
+Zateplený dřevěný ležan typu Gregor na norskou rámkovou míru se dvěma nástavky pro zimování oddělků. Byl vyvinut v Bergenu a pro potřeby Bergenu, aby chránil včely v deštivém bergenském počasí a poskytoval jim komfort i v zimě. Tento typ původně vyráběl můj kamarád Jan Gregor, od kterého jsem převzal štafetu i svolení tyto úly dál vyrábět; pro deštivý Bergen jsou navíc opatřeny ochranou pláště proti vodě. Nástavky se přirozeně zahřívají od hlavního včelstva pod nimi.
 
 ### Ukrajinský ležan — rodinná tradice
 Vyrobený podle tradice dědečka mé manželky. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii.
 
-### Norský ležan s tlustými stěnami
-Vlastní design s extra silnými stěnami napodobujícími dutý strom — na norskou rámkovou míru. *(Žlutý úl.)*
+### Bezbariérový ležan
+na norskou rámkovou míru
+Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silnější stěny z masivního dřeva — na norskou rámkovou míru. Mým cílem bylo zpřístupnit včelaření všem a zároveň zachovat norskou rámkovou míru, aby byl včelař i v drsných severských podmínkách kompatibilní s ostatními včelaři. To je klíčové ve chvíli, kdy je potřeba slabé včelstvo posílit plodem od jiného včelstva. Jako izolaci do něj lze přidat ovčí vlnu od místních norských ovcí. Nad hlavním včelstvem nemá nástavky, ale lehkou hliníkovou střechu na pantech, aby byl rychle a snadno přístupný. Mohou v něm včelařit i děti, lidé s bolestmi zad nebo lidé na invalidním vozíku. Je to bezbariérový včelařský úl. *(Žlutý úl.)*
 
-Zájem o úly se už začal ozývat — *kontaktujte mě pro ceny a termíny dodání.*
+Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
 
 ---
 
@@ -151,4 +152,4 @@ V Norsku jsem **certifikovaný včelař** s osvědčením vydaným v **Bergenu**
 
 ### Rodinná tradice
 
-Včelaření není jen moje odbornost — je to moje rodinná historie. Můj praděd včelařil ve **Voderadech u Kunštátu**. Dědeček mé manželky včelařil na **Ukrajině** — jeho tradice žije dál v ukrajinských ležanech, které sám vyrábím. Josef Stejskal, u kterého jsem se naučil včelařit v Oboře, je navíc mým vzdáleným příbuzným. Navazuji tedy na živou rodinnou včelařskou tradici z obou stran.
+Včelaření není jen moje odbornost — je to moje rodinná historie. Můj praděd včelařil ve **Voděradech u Kunštátu**. Dědeček mé manželky včelařil na **Ukrajině** — jeho tradice žije dál v ukrajinských ležanech, které sám vyrábím. Josef Stejskal, u kterého jsem se naučil včelařit v Oboře, je navíc mým vzdáleným příbuzným. Navazuji tedy na živou rodinnou včelařskou tradici z obou stran.

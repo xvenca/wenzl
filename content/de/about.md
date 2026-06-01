@@ -20,7 +20,7 @@ Im Jahr 2010 feierte Obora sein **650-jähriges Bestehen**. Genau dort begegnete
 
 ## Tradition auf beiden Seiten
 
-Die Imkerei ist tief in meiner Familie verwurzelt. Mein **Urgroßvater** hielt Bienen in Voderady bei Kunštát. Der **Großvater meiner Frau** war Imker in der Ukraine — und seine Tradition lebt in den ukrainischen Lagerbeuten weiter, die ich heute mit meinen eigenen Händen baue. Ich habe beide nie persönlich kennengelernt; sie starben vor meiner Zeit. Doch durch Josef Stejskal und durch die Beuten, die ich baue, treffen beide Familienlinien in meiner Arbeit zusammen.
+Die Imkerei ist tief in meiner Familie verwurzelt. Mein **Urgroßvater** hielt Bienen in Voděrady u Kunštátu. Der **Großvater meiner Frau** war Imker in der Ukraine — und seine Tradition lebt in den ukrainischen Lagerbeuten weiter, die ich heute mit meinen eigenen Händen baue. Ich habe beide nie persönlich kennengelernt; sie starben vor meiner Zeit. Doch durch Josef Stejskal und durch die Beuten, die ich baue, treffen beide Familienlinien in meiner Arbeit zusammen.
 
 ## Vom Hörsaal zur Berufung
 
