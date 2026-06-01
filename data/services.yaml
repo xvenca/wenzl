@@ -3,12 +3,12 @@ nb:
     title: Svermfangst
     badge: "Gratis · Bergen"
     desc: "Oppdaget en sverm på eiendommen? Kontakt meg umiddelbart — jeg henter biesværmer kostnadsfritt i Bergen og omegn."
-    link: "/birokt/#svermfangst-i-bergen"
+    link: "/svermer/#svermfangst-i-bergen"
   - icon: trap
     title: Svermfeller
     badge: "Gratis · hele Norge"
     desc: "Beskytt bygningen din mot bisværmer. Jeg setter ut lokkekasser som fanger svermer før de slår seg ned i skorstein eller fasade — gratis, i hele Norge."
-    link: "/birokt/#svermfeller"
+    link: "/svermer/#svermfeller"
   - icon: pollination
     title: Bestøvning
     badge: "Bier mot plass"
@@ -30,12 +30,12 @@ en:
     title: "Swarm Collection"
     badge: "Free · Bergen"
     desc: "Spotted a swarm on your property? Contact me immediately — I collect bee swarms free of charge in Bergen and surrounding areas."
-    link: "/en/beekeeping/#swarm-collection-in-bergen"
+    link: "/en/swarms/#swarm-collection-in-bergen"
   - icon: trap
     title: "Swarm Traps"
     badge: "Free · all Norway"
     desc: "Protect your building from swarms. I set out bait boxes that catch swarms before they settle in a chimney or facade — free, across all of Norway."
-    link: "/en/beekeeping/#swarm-traps"
+    link: "/en/swarms/#swarm-traps"
   - icon: pollination
     title: Pollination
     badge: "Bees for space"
@@ -57,12 +57,12 @@ cs:
     title: "Odchyt rojů"
     badge: "Zdarma · Bergen"
     desc: "Zaznamenali jste roj? Kontaktujte mě ihned — odchytávám roje zdarma v Bergenu a okolí."
-    link: "/cs/beekeeping/#odchyt-rojů-v-bergenu"
+    link: "/cs/roje/#odchyt-rojů-v-bergenu"
   - icon: trap
     title: "Rojové pasti"
     badge: "Zdarma · celé Norsko"
     desc: "Ochrana budovy před roji. Rozmístím lákací krabičky, které chytí roj dřív, než se usadí v komíně nebo fasádě — zdarma, po celém Norsku."
-    link: "/cs/beekeeping/#rojové-pasti"
+    link: "/cs/roje/#rojové-pasti"
   - icon: pollination
     title: Opylování
     badge: "Včely za prostor"
@@ -84,12 +84,12 @@ uk:
     title: "Відлов роїв"
     badge: "Безкоштовно · Берген"
     desc: "Помітили рій на своїй ділянці? Зв'яжіться зі мною негайно — я безкоштовно відловлюю бджолині рої в Бергені та околицях."
-    link: "/uk/beekeeping/#swarm-collection-in-bergen"
+    link: "/uk/royi/#swarm-collection-in-bergen"
   - icon: trap
     title: "Пастки для роїв"
     badge: "Безкоштовно · вся Норвегія"
     desc: "Захистіть будівлю від роїв. Я розставляю приманкові ящики, які ловлять рої ще до того, як вони оселяться в димоході чи фасаді — безкоштовно по всій Норвегії."
-    link: "/uk/beekeeping/#swarm-traps"
+    link: "/uk/royi/#swarm-traps"
   - icon: pollination
     title: "Запилення"
     badge: "Бджоли за місце"
@@ -111,12 +111,12 @@ ru:
     title: "Отлов роёв"
     badge: "Бесплатно · Берген"
     desc: "Заметили рой на своём участке? Свяжитесь со мной сразу — я бесплатно забираю пчелиные рои в Бергене и окрестностях."
-    link: "/ru/beekeeping/#swarm-collection-in-bergen"
+    link: "/ru/roi/#swarm-collection-in-bergen"
   - icon: trap
     title: "Ловушки для роёв"
     badge: "Бесплатно · вся Норвегия"
     desc: "Защитите здание от роёв. Я устанавливаю приманочные ящики, которые ловят рои до того, как они поселятся в дымоходе или фасаде — бесплатно по всей Норвегии."
-    link: "/ru/beekeeping/#swarm-traps"
+    link: "/ru/roi/#swarm-traps"
   - icon: pollination
     title: "Опыление"
     badge: "Пчёлы за место"
@@ -138,12 +138,12 @@ pl:
     title: "Łapanie rojów"
     badge: "Bezpłatnie · Bergen"
     desc: "Widzisz rój na swojej posesji? Skontaktuj się ze mną od razu — bezpłatnie odławiam roje w Bergen i okolicy."
-    link: "/pl/beekeeping/#swarm-collection-in-bergen"
+    link: "/pl/roje/#swarm-collection-in-bergen"
   - icon: trap
     title: "Pułapki rojowe"
     badge: "Bezpłatnie · cała Norwegia"
     desc: "Chroń budynek przed rojami. Rozstawiam skrzynki wabikowe, które łapią rój, zanim osiedli się w kominie lub fasadzie — bezpłatnie w całej Norwegii."
-    link: "/pl/beekeeping/#swarm-traps"
+    link: "/pl/roje/#swarm-traps"
   - icon: pollination
     title: "Zapylanie"
     badge: "Pszczoły za miejsce"
@@ -165,12 +165,12 @@ de:
     title: "Schwarmfang"
     badge: "Kostenlos · Bergen"
     desc: "Einen Schwarm auf Ihrem Grundstück entdeckt? Melden Sie sich sofort — ich fange Bienenschwärme in Bergen und Umgebung kostenlos ein."
-    link: "/de/beekeeping/#swarm-collection-in-bergen"
+    link: "/de/schwaerme/#swarm-collection-in-bergen"
   - icon: trap
     title: "Schwarmfallen"
     badge: "Kostenlos · ganz Norwegen"
     desc: "Schützen Sie Ihr Gebäude vor Schwärmen. Ich stelle Lockkästen auf, die Schwärme fangen, bevor sie sich im Schornstein oder an der Fassade niederlassen — kostenlos in ganz Norwegen."
-    link: "/de/beekeeping/#swarm-traps"
+    link: "/de/schwaerme/#swarm-traps"
   - icon: pollination
     title: "Bestäubung"
     badge: "Bienen gegen Platz"
@@ -192,12 +192,12 @@ cu:
     title: "Ловлениѥ роевъ"
     badge: "Без мъзды · Бергенъ"
     desc: "Аще рои на имѣнии твоемъ явися, абиѥ ко мнѣ обратися — азъ без мъзды рои въ Бергенѣ и окрѣстъ ловлю."
-    link: "/cu/beekeeping/#swarm-collection-in-bergen"
+    link: "/cu/roi/#swarm-collection-in-bergen"
   - icon: trap
     title: "Сѣти ройныѥ"
     badge: "Без мъзды · вся Норьвѣгїа"
     desc: "Съхрани домъ твой от роевъ. Азъ поставлѭ приманъчьныѥ ящики, иже рои емлютъ, прѣжде даже въ дымницѣ или фасадѣ сѧдутъ — без мъзды по всѣи Норьвѣгии."
-    link: "/cu/beekeeping/#swarm-traps"
+    link: "/cu/roi/#swarm-traps"
   - icon: pollination
     title: "Опылениѥ"
     badge: "Пчелы за мѣсто"

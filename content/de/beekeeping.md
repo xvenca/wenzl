@@ -39,7 +39,7 @@ Ich heiße **Martin Venclů** und bin zertifizierter Imker mit Basis in Bergen. 
 
 Ich arbeite naturnah: Meine Völker bauen frei in leeren Rähmchen, ich lasse ihnen ihren Honig, und mein Ziel ist nicht maximale Produktion, sondern gesunde und widerstandsfähige Völker für kommende Generationen.
 
-## Schwarmfang in Bergen {#swarm-collection-in-bergen}
+## Schwarmfang in Bergen und Umgebung {#swarm-collection-in-bergen}
 
 Sie haben einen Schwarm entdeckt — eine Traube von Bienen in einem Baum, unter einer Dachkante oder irgendwo auf Ihrem Grundstück? **Melden Sie sich sofort bei mir.**
 

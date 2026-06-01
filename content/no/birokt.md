@@ -41,7 +41,7 @@ Jeg arbeider med naturlig birøkt og forvalter mine bikuber med respekt for bien
 
 ---
 
-## Svermfangst i Bergen
+## Svermfangst i Bergen og omegn
 
 Har du sett en sverm — en klynge av bier i et tre, under et takutstikk eller et annet sted på eiendommen? **Kontakt meg umiddelbart.**
 

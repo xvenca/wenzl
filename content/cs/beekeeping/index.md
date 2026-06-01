@@ -41,7 +41,7 @@ Věnuji se přírodnímu včelaření: svá včelstva chovám s respektem k vče
 
 ---
 
-## Odchyt rojů v Bergenu
+## Odchyt rojů v Bergenu a okolí {#odchyt-rojů-v-bergenu}
 
 Zaznamenali jste roj — shluk včel na stromě, pod okapem nebo kdekoli v okolí? **Kontaktujte mě co nejdříve.**
 

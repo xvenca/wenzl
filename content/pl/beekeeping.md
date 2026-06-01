@@ -39,7 +39,7 @@ Nazywam się **Martin Venclů** i jestem certyfikowanym pszczelarzem z bazą w B
 
 Prowadzę naturalną gospodarkę pasieczną: moje rodziny swobodnie budują w pustych ramkach, zostawiam miód pszczołom, a najważniejsze jest dla mnie nie maksymalizowanie produkcji, lecz budowanie zdrowych i odpornych rodzin dla przyszłych pokoleń.
 
-## Łapanie rojów w Bergen {#swarm-collection-in-bergen}
+## Łapanie rojów w Bergen i okolicy {#swarm-collection-in-bergen}
 
 Zobaczyłeś rój — kłąb pszczół na drzewie, pod okapem albo gdziekolwiek na swojej posesji? **Skontaktuj się ze mną od razu.**
 

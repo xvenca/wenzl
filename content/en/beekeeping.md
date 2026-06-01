@@ -41,7 +41,7 @@ I practice natural beekeeping: my colonies build freely in empty frames, I leave
 
 ---
 
-## Swarm Collection in Bergen
+## Swarm Collection in Bergen and Surrounding Areas
 
 Did you spot a swarm — a cluster of bees in a tree, under a roof edge, or anywhere on your property? **Contact me right away.**
 
