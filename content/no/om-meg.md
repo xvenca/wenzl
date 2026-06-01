@@ -14,6 +14,8 @@ Helt fra barndommen har lyden av bier vært musikk for meg. I **Obora**, landsby
 
 **[Obora](https://www.obecobora.cz/)** ble grunnlagt i **1360**, og kommunevåpenet bærer et vokskake og et tre. Birøkt har vært en del av landsbyen siden uminnelige tider. Jeg var omgitt av det før jeg forsto det: det lokale selskapet **Včelpo Obora** leverte honning til barnehagen min, og min aller første sting fikk jeg på lekeplassen i landsbyen.
 
+{{< figure src="/images/obora-znak.png" alt="Kommunevåpenet til Obora" caption="Kommunevåpenet til Obora" width="127px" >}}
+
 ## Læremesteren
 
 I 2010 feiret Obora sitt **650-årsjubileum**. Det var der jeg møtte **Josef Stejskal** fra Hutě — den mest erfarne birøkteren jeg noensinne hadde kjent, og tilfeldigvis en fjern slektning av meg. Han tok meg med til bikuben sin og lærte meg håndverket i praksis, og ga videre kunnskap som har vært holdt levende gjennom generasjoner. Han lærte meg å arbeide rolig og varsomt med biene — så rolig at jeg ofte steller dem helt uten birøkterdrakt. Fordi han er i familie, kan jeg med rette si at jeg lærte grunnlaget for birøkt innenfor min egen familie. Siden den gang har jeg vært birøkter.

@@ -14,6 +14,8 @@ Od dzieciństwa dźwięk pszczół był dla mnie muzyką. W **Oborze**, wsi na M
 
 **[Obora](https://www.obecobora.cz/)** została założona w **1360 roku**, a w swoim herbie ma plaster miodu i drzewo. Pszczelarstwo jest częścią tej wsi od niepamiętnych czasów. Byłem nim otoczony, zanim jeszcze je rozumiałem: lokalna spółdzielnia **Včelpo Obora** dostarczała miód do mojego przedszkola, a pierwsze użądlenie dostałem właśnie na wiejskim placu zabaw.
 
+{{< figure src="/images/obora-znak.png" alt="Herb gminy Obora" caption="Herb gminy Obora" width="127px" >}}
+
 ## Nauczyciel
 
 W 2010 roku Obora obchodziła **650-lecie**. Właśnie tam poznałem **Josefa Stejskala** z Hutí — najbardziej doświadczonego pszczelarza, jakiego kiedykolwiek spotkałem, a przy okazji mojego dalekiego krewnego. Zabrał mnie do swojej pasieki i uczył rzemiosła bezpośrednio w praktyce, przekazując wiedzę żywą od pokoleń. Nauczył mnie pracować z pszczołami spokojnie i delikatnie — tak spokojnie, że często doglądam ich bez żadnego stroju ochronnego. Ponieważ to rodzina, mogę uczciwie powiedzieć, że podstaw pszczelarstwa nauczyłem się we własnym domu. Od tamtej pory jestem pszczelarzem.

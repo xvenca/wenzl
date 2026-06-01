@@ -12,7 +12,9 @@ Od dětství je pro mě bzukot včel hudbou. V **Oboře**, vesnici na Moravě, k
 
 ## Kořeny v Oboře
 
-**[Obora](https://www.obecobora.cz/)** byla založena roku **1360** a ve svém znaku nese plastev medu a strom. Včelaření je součástí vesnice od nepaměti. Byl jsem jím obklopen dřív, než jsem mu rozuměl: místní firma **Včelpo Obora** dodávala med do mojí školky a úplně první žihadlo jsem dostal na vesnickém hřišti.
+**[Obora](https://www.obecobora.cz/)** byla založena roku **1360** a v jejím znaku je plastev medu a strom. Včelaření je součástí vesnice od nepaměti. Byl jsem jím obklopen dřív, než jsem mu rozuměl: místní firma **Včelpo Obora** dodávala med do mojí školky a úplně první žihadlo jsem dostal na vesnickém hřišti.
+
+{{< figure src="/images/obora-znak.png" alt="Znak obce Obora" caption="Znak obce Obora" width="127px" >}}
 
 ## Učitel
 

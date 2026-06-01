@@ -14,6 +14,8 @@ Seit meiner Kindheit ist der Klang der Bienen Musik für mich. In **Obora**, dem
 
 **[Obora](https://www.obecobora.cz/)** wurde **1360** gegründet, und im Wappen des Dorfes erscheinen eine Wabe und ein Baum. Die Imkerei gehört dort seit jeher zum Leben. Ich war schon von ihr umgeben, bevor ich sie verstand: Die örtliche Genossenschaft **Včelpo Obora** belieferte meinen Kindergarten mit Honig, und meinen ersten Bienenstich bekam ich auf dem Dorfspielplatz.
 
+{{< figure src="/images/obora-znak.png" alt="Das Wappen der Gemeinde Obora" caption="Das Wappen der Gemeinde Obora" width="127px" >}}
+
 ## Der Lehrer
 
 Im Jahr 2010 feierte Obora sein **650-jähriges Bestehen**. Genau dort begegnete ich **Josef Stejskal** aus Hutě — dem erfahrensten Imker, den ich je kennengelernt habe, und zugleich einem entfernten Verwandten. Er nahm mich mit auf seinen Bienenstand und brachte mir das Handwerk direkt in der Praxis bei; so gab er Wissen weiter, das über Generationen lebendig geblieben war. Er lehrte mich, ruhig und behutsam mit den Bienen zu arbeiten — so ruhig, dass ich sie oft ganz ohne Schutzanzug betreue. Weil er Familie ist, kann ich ehrlich sagen: Die Grundlagen der Imkerei habe ich in meiner eigenen Familie gelernt. Seitdem bin ich Imker.

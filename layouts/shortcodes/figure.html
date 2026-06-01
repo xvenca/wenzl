@@ -2,8 +2,13 @@
 {{ $alt := .Get "alt" | default "" }}
 {{ $caption := .Get "caption" }}
 {{ $sizes := .Get "sizes" | default "100vw" }}
+{{ $width := .Get "width" }}
+{{ $figureStyle := "" }}
+{{ if $width }}
+  {{ $figureStyle = printf "max-width: %s;" $width | safeCSS }}
+{{ end }}
 
-<figure class="my-6">
+<figure class="my-6"{{ with $figureStyle }} style="{{ . }}"{{ end }}>
   {{/* Try page resource first, then site resources (assets/), else fallback to static path */}}
   {{ $res := .Page.Resources.GetMatch $src }}
   {{ if not $res }}

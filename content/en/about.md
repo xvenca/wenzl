@@ -14,6 +14,8 @@ Since childhood, the sound of bees has been music to me. In **Obora**, the villa
 
 **[Obora](https://www.obecobora.cz/)** was founded in **1360**, and its coat of arms bears a honeycomb and a tree. Beekeeping has been part of the village since time immemorial. I was surrounded by it before I understood it: the local cooperative **Včelpo Obora** supplied the honey for my kindergarten, and my very first bee sting happened on the village playground.
 
+{{< figure src="/images/obora-znak.png" alt="The coat of arms of the municipality of Obora" caption="The coat of arms of the municipality of Obora" width="127px" >}}
+
 ## The teacher
 
 In 2010, Obora celebrated its **650th anniversary**. It was there that I met **Josef Stejskal** from Hutě — the most experienced beekeeper I had ever known, and, as it happens, a distant relative of mine. He took me to his apiary and taught me the craft hands-on, passing down knowledge kept alive across generations. He taught me to work calmly and gently with the bees — so calmly that I often tend them without any protective suit at all. Because he is family, I can truly say I learned the foundations of beekeeping within my own family. I have been a beekeeper ever since.
