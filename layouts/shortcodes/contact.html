@@ -1,11 +1,13 @@
 {{ $c := site.Data.contact }}
+{{ $lang := .Page.Site.Language.Lang }}
+{{ $key := printf "cta_%s" $lang }}
+{{ $addressKey := printf "address_%s" $lang }}
+{{ $cta := index $c $key | default $c.cta }}
+{{ $address := index $c $addressKey | default $c.address }}
 <div class="contact-block">
-  <p><strong>Email:</strong> <a href="mailto:{{ $c.email }}">{{ $c.email }}</a></p>
-  <p><strong>Phone:</strong> <a href="tel:{{ $c.phone }}">{{ $c.phone }}</a></p>
-  <p><strong>Location:</strong> {{ $c.address }}</p>
+  <p><strong>{{ i18n "email_label" | default "Email" }}:</strong> <a href="mailto:{{ $c.email }}">{{ $c.email }}</a></p>
+  <p><strong>{{ i18n "phone_label" | default "Phone" }}:</strong> <a href="tel:{{ $c.phone }}">{{ $c.phone }}</a></p>
+  <p><strong>{{ i18n "location_label" | default "Location" }}:</strong> {{ $address }}</p>
   {{ with $c.notes }}<p class="text-sm text-gray-600">{{ . }}</p>{{ end }}
-  {{ $lang := .Page.Site.Language.Lang }}
-  {{ $key := printf "cta_%s" $lang }}
-  {{ $cta := index $c $key | default $c.cta }}
   {{ with $cta }}<p class="mt-2 font-semibold">{{ . }}</p>{{ end }}
 </div>

@@ -1,6 +1,6 @@
 ---
-title: "Beekeeping in Bergen"
-description: "Certified beekeeper in Bergen — natural beekeeping, swarm collection, pollination services and handcrafted traditional wooden hives"
+title: "Beekeeping in Norway"
+description: "Certified beekeeper in Norway based in Bergen — natural beekeeping, swarm collection, pollination services and handcrafted traditional wooden hives"
 image: "/images/birokt-hero.jpg"
 alt: "Beekeeper at the hives in Bergen"
 layout: "birokt"
@@ -33,9 +33,9 @@ services:
     link: "#bee-friendly-cities"
 ---
 
-## Beekeeper in Bergen
+## Beekeeper in Norway
 
-My name is **Martin Venclů** and I am a certified beekeeper living in Bergen, Norway. Bees have been part of my life since childhood in **Obora** — a village in South Moravia, Czech Republic, with a centuries-long beekeeping tradition, where the village coat of arms bears a honeycomb and a tree.
+My name is **Martin Venclů** and I am a certified beekeeper based in Bergen, with the ambition to develop beekeeping projects in more places across Norway over time. Bees have been part of my life since childhood in **Obora** — a village in South Moravia, Czech Republic, with a centuries-long beekeeping tradition, where the village coat of arms bears a honeycomb and a tree.
 
 I practice natural beekeeping: my colonies build freely in empty frames, I leave honey for the bees, and my focus is on building healthy, resilient colonies for future generations rather than maximizing production.
 

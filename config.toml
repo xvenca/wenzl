@@ -3,6 +3,12 @@ languageCode = "no"
 title = "wenzl.no"
 defaultContentLanguage = "no"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+
 [params]
   email = "info@wenzel.no"
   phone = "+47 926 20569"
@@ -11,10 +17,11 @@ defaultContentLanguage = "no"
 [languages]
   [languages.no]
     languageName = "Norsk"
+    languageCode = "nb-NO"
     contentDir = "content/no"
     weight = 1
     [languages.no.params]
-      description = "Sertifisert birøkter i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde bikuber i tre"
+      description = "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde bikuber i tre"
     [[languages.no.menu.main]]
       identifier = "home"
       name = "Hjem"
@@ -43,10 +50,11 @@ defaultContentLanguage = "no"
 
   [languages.en]
     languageName = "English"
+    languageCode = "en"
     contentDir = "content/en"
     weight = 2
     [languages.en.params]
-      description = "Certified beekeeper in Bergen — natural beekeeping, swarm collection, pollination and handcrafted wooden hives"
+      description = "Certified beekeeper in Norway based in Bergen — natural beekeeping, swarm collection, pollination and handcrafted wooden hives"
     [[languages.en.menu.main]]
       identifier = "home"
       name = "Home"
@@ -75,10 +83,11 @@ defaultContentLanguage = "no"
 
   [languages.cs]
     languageName = "Čeština"
+    languageCode = "cs-CZ"
     contentDir = "content/cs"
     weight = 3
     [languages.cs.params]
-      description = "Certifikovaný včelař v Bergenu — přírodní včelaření, odchyt rojů, opylování a dřevěné ležany vlastní výroby"
+      description = "Certifikovaný včelař v Norsku se základnou v Bergenu — přírodní včelaření, odchyt rojů, opylování a dřevěné ležany vlastní výroby"
     [[languages.cs.menu.main]]
       identifier = "home"
       name = "Úvod"
@@ -103,4 +112,169 @@ defaultContentLanguage = "no"
       identifier = "contact"
       name = "Kontakt"
       url = "/cs/contact/"
+      weight = 5
+
+  [languages.uk]
+    languageName = "Українська"
+    languageCode = "uk-UA"
+    contentDir = "content/uk"
+    weight = 4
+    [languages.uk.params]
+      description = "Сертифікований пасічник у Норвегії з базою в Бергені — природне бджільництво, відлов роїв, запилення та дерев'яні вулики ручної роботи"
+    [[languages.uk.menu.main]]
+      identifier = "home"
+      name = "Головна"
+      url = "/uk/"
+      weight = 1
+    [[languages.uk.menu.main]]
+      identifier = "beekeeping"
+      name = "Бджільництво"
+      url = "/uk/beekeeping/"
+      weight = 2
+    [[languages.uk.menu.main]]
+      identifier = "about"
+      name = "Про мене"
+      url = "/uk/about/"
+      weight = 3
+    [[languages.uk.menu.main]]
+      identifier = "membership"
+      name = "Членство"
+      url = "/uk/membership/"
+      weight = 4
+    [[languages.uk.menu.main]]
+      identifier = "contact"
+      name = "Контакт"
+      url = "/uk/contact/"
+      weight = 5
+
+  [languages.ru]
+    languageName = "Русский"
+    languageCode = "ru-RU"
+    contentDir = "content/ru"
+    weight = 5
+    [languages.ru.params]
+      description = "Сертифицированный пчеловод в Норвегии с базой в Бергене — природное пчеловодство, отлов роёв, опыление и деревянные ульи ручной работы"
+    [[languages.ru.menu.main]]
+      identifier = "home"
+      name = "Главная"
+      url = "/ru/"
+      weight = 1
+    [[languages.ru.menu.main]]
+      identifier = "beekeeping"
+      name = "Пчеловодство"
+      url = "/ru/beekeeping/"
+      weight = 2
+    [[languages.ru.menu.main]]
+      identifier = "about"
+      name = "Обо мне"
+      url = "/ru/about/"
+      weight = 3
+    [[languages.ru.menu.main]]
+      identifier = "membership"
+      name = "Членство"
+      url = "/ru/membership/"
+      weight = 4
+    [[languages.ru.menu.main]]
+      identifier = "contact"
+      name = "Контакт"
+      url = "/ru/contact/"
+      weight = 5
+
+  [languages.pl]
+    languageName = "Polski"
+    languageCode = "pl-PL"
+    contentDir = "content/pl"
+    weight = 6
+    [languages.pl.params]
+      description = "Certyfikowany pszczelarz w Norwegii z bazą w Bergen — naturalna gospodarka pasieczna, łapanie rojów, zapylanie i ręcznie wykonywane drewniane ule"
+    [[languages.pl.menu.main]]
+      identifier = "home"
+      name = "Start"
+      url = "/pl/"
+      weight = 1
+    [[languages.pl.menu.main]]
+      identifier = "beekeeping"
+      name = "Pszczelarstwo"
+      url = "/pl/beekeeping/"
+      weight = 2
+    [[languages.pl.menu.main]]
+      identifier = "about"
+      name = "O mnie"
+      url = "/pl/about/"
+      weight = 3
+    [[languages.pl.menu.main]]
+      identifier = "membership"
+      name = "Członkostwo"
+      url = "/pl/membership/"
+      weight = 4
+    [[languages.pl.menu.main]]
+      identifier = "contact"
+      name = "Kontakt"
+      url = "/pl/contact/"
+      weight = 5
+
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de-DE"
+    contentDir = "content/de"
+    weight = 7
+    [languages.de.params]
+      description = "Zertifizierter Imker in Norwegen mit Basis in Bergen — naturnahe Imkerei, Schwarmfang, Bestäubung und handgefertigte Holzbeuten"
+    [[languages.de.menu.main]]
+      identifier = "home"
+      name = "Start"
+      url = "/de/"
+      weight = 1
+    [[languages.de.menu.main]]
+      identifier = "beekeeping"
+      name = "Imkerei"
+      url = "/de/beekeeping/"
+      weight = 2
+    [[languages.de.menu.main]]
+      identifier = "about"
+      name = "Über mich"
+      url = "/de/about/"
+      weight = 3
+    [[languages.de.menu.main]]
+      identifier = "membership"
+      name = "Mitgliedschaften"
+      url = "/de/membership/"
+      weight = 4
+    [[languages.de.menu.main]]
+      identifier = "contact"
+      name = "Kontakt"
+      url = "/de/contact/"
+      weight = 5
+
+  [languages.cu]
+    languageName = "Словѣньскъ"
+    languageCode = "cu"
+    contentDir = "content/cu"
+    weight = 8
+    [languages.cu.params]
+      description = "Пчеларь въ Норьвѣгии съ основаниѥмъ въ Бергенѣ — природьноє пчеларьство, ловлениѥ роевъ, опылениѥ и древѧныѥ ульи, рꙋкою сътворены"
+    [[languages.cu.menu.main]]
+      identifier = "home"
+      name = "Домъ"
+      url = "/cu/"
+      weight = 1
+    [[languages.cu.menu.main]]
+      identifier = "beekeeping"
+      name = "Пчеларьство"
+      url = "/cu/beekeeping/"
+      weight = 2
+    [[languages.cu.menu.main]]
+      identifier = "about"
+      name = "О мнѣ"
+      url = "/cu/about/"
+      weight = 3
+    [[languages.cu.menu.main]]
+      identifier = "membership"
+      name = "Члѣньство"
+      url = "/cu/membership/"
+      weight = 4
+    [[languages.cu.menu.main]]
+      identifier = "contact"
+      name = "Контактъ"
+      url = "/cu/contact/"
       weight = 5

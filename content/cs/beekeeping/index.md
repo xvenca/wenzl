@@ -1,6 +1,6 @@
 ---
-title: "Včelař v Bergenu"
-description: "Certifikovaný včelař v Bergen — přírodní včelaření, odchyt rojů, opylování a tradiční dřevěné ležany vlastní výroby"
+title: "Včelař v Norsku"
+description: "Certifikovaný včelař v Norsku se základnou v Bergenu — přírodní včelaření, odchyt rojů, opylování a tradiční dřevěné ležany vlastní výroby"
 image: "/images/birokt-hero.jpg"
 alt: "Včelař u úlů v Bergenu"
 layout: "birokt"
@@ -33,9 +33,9 @@ services:
     link: "#včelám-přátelská-města"
 ---
 
-## Včelař v Bergenu
+## Včelař v Norsku
 
-Jmenuji se **Martin Venclů** a jsem certifikovaný včelař žijící v Bergenu v Norsku. Včely jsou součástí mého života od dětství v **Oboře** — obci na Blanensku v jižní Moravě s bohatou včelařskou tradicí sahající staletí zpět. Obora nese ve svém znaku plastev medu a strom.
+Jmenuji se **Martin Venclů** a jsem certifikovaný včelař se základnou v Bergenu, s cílem postupně rozvíjet včelařské projekty i na dalších místech v Norsku. Včely jsou součástí mého života od dětství v **Oboře** — obci na Blanensku v jižní Moravě s bohatou včelařskou tradicí sahající staletí zpět. Obora nese ve svém znaku plastev medu a strom.
 
 Věnuji se přírodnímu včelaření: svá včelstva chovám s respektem k včelám, med jim nechávám a zaměřuji se na budování zdravých včelstev pro budoucí generace.
 

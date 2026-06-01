@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="text-center py-20">
-    <h1 class="text-4xl font-bold mb-4">404 — Page not found</h1>
-    <p class="text-gray-600 mb-6">The page you requested could not be found. Try returning to the <a href="/">homepage</a>.</p>
+    <h1 class="text-4xl font-bold mb-4">{{ i18n "page_not_found_title" | default "404 — Page not found" }}</h1>
+    <p class="text-gray-600 mb-6">{{ i18n "page_not_found_body" | default "The page you requested could not be found. Try returning to the" }} <a href="{{ .Site.Home.RelPermalink }}">{{ i18n "homepage_label" | default "homepage" }}</a>.</p>
   </div>
 {{ end }}

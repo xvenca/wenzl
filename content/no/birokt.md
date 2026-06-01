@@ -1,6 +1,6 @@
 ---
-title: "Birøkt i Bergen"
-description: "Sertifisert birøkter i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde tradisjonelle bikuber"
+title: "Birøkt i Norge"
+description: "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde tradisjonelle bikuber"
 image: "/images/birokt-hero.jpg"
 alt: "Birøkter ved bikubene i Bergen"
 layout: "birokt"
@@ -33,9 +33,9 @@ services:
     link: "#birøktervennlige-byer"
 ---
 
-## Birøkter i Bergen
+## Birøkter i Norge
 
-Jeg heter **Martin Venclů** og er en sertifisert birøkter bosatt i Bergen. Bier har vært en del av livet mitt siden barndommen i **Obora** — en tsjekkisk landsby i Sør-Mähren der birøkt har tradisjoner som strekker seg hundrevis av år tilbake, og der kommunevåpenet bærer et vokskake og et tre.
+Jeg heter **Martin Venclů** og er en sertifisert birøkter med base i Bergen, med mål om å utvikle birøkt flere steder i Norge over tid. Bier har vært en del av livet mitt siden barndommen i **Obora** — en tsjekkisk landsby i Sør-Mähren der birøkt har tradisjoner som strekker seg hundrevis av år tilbake, og der kommunevåpenet bærer et vokskake og et tre.
 
 Jeg arbeider med naturlig birøkt og forvalter mine bikuber med respekt for biene — uten å ta honning, uten kjemikalier, og med fokus på å bygge sunne bisamfunn for fremtiden.
 
