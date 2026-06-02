@@ -2,7 +2,7 @@
 title: "Om meg"
 description: "Fra en landsby med flere hundre års birøkttradisjon til en sertifisert birøkter i Bergen som driver naturlig birøkt — historien om hvordan bier ble livet mitt."
 image: "/images/hero.jpg"
-alt: "Martin Venclu ved bikubene i Bergen"
+alt: "Martin Venclů ved bikubene i Bergen"
 translationKey: "about"
 ---
 

@@ -2,7 +2,7 @@
 title: "Sobre mí"
 description: "De un pueblo con siglos de tradición apícola a un apicultor certificado en Bergen que practica la apicultura natural — la historia de cómo las abejas se convirtieron en mi vida."
 image: "/images/hero.jpg"
-alt: "Martin Venclu junto a las colmenas en Bergen"
+alt: "Martin Venclů junto a las colmenas en Bergen"
 translationKey: "about"
 ---
 

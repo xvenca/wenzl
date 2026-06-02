@@ -2,7 +2,7 @@
 title: "About me"
 description: "From a village with centuries of beekeeping tradition to a certified beekeeper in Bergen who practices natural beekeeping — the story of how bees became my life."
 image: "/images/hero.jpg"
-alt: "Martin Venclu at the hives in Bergen"
+alt: "Martin Venclů at the hives in Bergen"
 translationKey: "about"
 ---
 
