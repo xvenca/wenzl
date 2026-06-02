@@ -1,7 +1,8 @@
 ---
 title: "Kontakt"
 description: "Skontaktuj się ze mną w sprawie współpracy, zainteresowania moimi ulami lub projektów"
-image: "/images/contact.svg"
+image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
+alt: "Martin pracujący przy ulu nad Bergen"
 translationKey: "contact"
 ---
 

@@ -49,6 +49,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
       - Acceptance: Images served at appropriate sizes with `srcset`; average image <200KB.
       - ETA: 1-2 days
       - note: `figure` shortcode updated to generate responsive `srcset` when images are available as page or site resources (assets). Implementation committed 2025-10-04; content needs images moved to page bundles or `assets/images/` to exercise processing.
+   - status: contact pages now use a real beekeeping photo instead of the placeholder contact SVG.
 
 7) Tailwind build pipeline (production)
    - What: Move from CDN tailwind to compiled CSS with Purge (remove unused classes). Add `package.json`, `tailwind.config.js`, PostCSS, and an npm build step. Wire into CI to produce `assets/main.css` used by templates.

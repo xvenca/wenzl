@@ -1,7 +1,8 @@
 ---
 title: "Contacto"
 description: "Ponte en contacto para consultas, interés en mis colmenas o colaboraciones"
-image: "/images/contact.svg"
+image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
+alt: "Martin trabajando con una colmena sobre Bergen"
 translationKey: "contact"
 ---
 
