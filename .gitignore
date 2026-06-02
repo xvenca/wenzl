@@ -3,3 +3,6 @@ public/
 node_modules/
 .env
 *.log
+.claude/
+tmp_*.html
+resources/_gen/images/images/
