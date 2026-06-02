@@ -43,20 +43,25 @@ defaultContentLanguage = "no"
       url = "/bikuber/"
       weight = 4
     [[languages.no.menu.main]]
+      identifier = "pollinators"
+      name = "Byer for bier"
+      url = "/pollinatorer/"
+      weight = 5
+    [[languages.no.menu.main]]
       identifier = "about"
       name = "Om meg"
       url = "/om-meg/"
-      weight = 5
+      weight = 6
     [[languages.no.menu.main]]
       identifier = "membership"
       name = "Medlemskap"
       url = "/medlemskap/"
-      weight = 6
+      weight = 7
     [[languages.no.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/kontakt/"
-      weight = 7
+      weight = 8
 
   [languages.en]
     languageName = "English"
@@ -86,20 +91,25 @@ defaultContentLanguage = "no"
       url = "/en/beehives/"
       weight = 4
     [[languages.en.menu.main]]
+      identifier = "pollinators"
+      name = "Cities for Bees"
+      url = "/en/pollinators/"
+      weight = 5
+    [[languages.en.menu.main]]
       identifier = "about"
       name = "About"
       url = "/en/about/"
-      weight = 5
+      weight = 6
     [[languages.en.menu.main]]
       identifier = "membership"
       name = "Membership"
       url = "/en/membership/"
-      weight = 6
+      weight = 7
     [[languages.en.menu.main]]
       identifier = "contact"
       name = "Contact"
       url = "/en/contact/"
-      weight = 7
+      weight = 8
 
   [languages.cs]
     languageName = "Čeština"
@@ -129,20 +139,25 @@ defaultContentLanguage = "no"
       url = "/cs/uly/"
       weight = 4
     [[languages.cs.menu.main]]
+      identifier = "pollinators"
+      name = "Města pro včely"
+      url = "/cs/opylovaci/"
+      weight = 5
+    [[languages.cs.menu.main]]
       identifier = "about"
       name = "O mně"
       url = "/cs/o-mne/"
-      weight = 5
+      weight = 6
     [[languages.cs.menu.main]]
       identifier = "membership"
       name = "Členství"
       url = "/cs/clenstvi/"
-      weight = 6
+      weight = 7
     [[languages.cs.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/cs/contact/"
-      weight = 7
+      weight = 8
 
   [languages.uk]
     languageName = "Українська"
@@ -172,20 +187,25 @@ defaultContentLanguage = "no"
       url = "/uk/vulyky/"
       weight = 4
     [[languages.uk.menu.main]]
+      identifier = "pollinators"
+      name = "Міста для бджіл"
+      url = "/uk/zapyliuvachi/"
+      weight = 5
+    [[languages.uk.menu.main]]
       identifier = "about"
       name = "Про мене"
       url = "/uk/about/"
-      weight = 5
+      weight = 6
     [[languages.uk.menu.main]]
       identifier = "membership"
       name = "Членство"
       url = "/uk/membership/"
-      weight = 6
+      weight = 7
     [[languages.uk.menu.main]]
       identifier = "contact"
       name = "Контакт"
       url = "/uk/contact/"
-      weight = 7
+      weight = 8
 
   [languages.ru]
     languageName = "Русский"
@@ -215,20 +235,25 @@ defaultContentLanguage = "no"
       url = "/ru/uli/"
       weight = 4
     [[languages.ru.menu.main]]
+      identifier = "pollinators"
+      name = "Города для пчёл"
+      url = "/ru/opyliteli/"
+      weight = 5
+    [[languages.ru.menu.main]]
       identifier = "about"
       name = "Обо мне"
       url = "/ru/about/"
-      weight = 5
+      weight = 6
     [[languages.ru.menu.main]]
       identifier = "membership"
       name = "Членство"
       url = "/ru/membership/"
-      weight = 6
+      weight = 7
     [[languages.ru.menu.main]]
       identifier = "contact"
       name = "Контакт"
       url = "/ru/contact/"
-      weight = 7
+      weight = 8
 
   [languages.pl]
     languageName = "Polski"
@@ -258,20 +283,25 @@ defaultContentLanguage = "no"
       url = "/pl/ule/"
       weight = 4
     [[languages.pl.menu.main]]
+      identifier = "pollinators"
+      name = "Miasta dla pszczół"
+      url = "/pl/zapylacze/"
+      weight = 5
+    [[languages.pl.menu.main]]
       identifier = "about"
       name = "O mnie"
       url = "/pl/about/"
-      weight = 5
+      weight = 6
     [[languages.pl.menu.main]]
       identifier = "membership"
       name = "Członkostwo"
       url = "/pl/membership/"
-      weight = 6
+      weight = 7
     [[languages.pl.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/pl/contact/"
-      weight = 7
+      weight = 8
 
   [languages.de]
     languageName = "Deutsch"
@@ -301,20 +331,25 @@ defaultContentLanguage = "no"
       url = "/de/beuten/"
       weight = 4
     [[languages.de.menu.main]]
+      identifier = "pollinators"
+      name = "Städte für Bienen"
+      url = "/de/bestaeuber/"
+      weight = 5
+    [[languages.de.menu.main]]
       identifier = "about"
       name = "Über mich"
       url = "/de/about/"
-      weight = 5
+      weight = 6
     [[languages.de.menu.main]]
       identifier = "membership"
       name = "Mitgliedschaften"
       url = "/de/membership/"
-      weight = 6
+      weight = 7
     [[languages.de.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/de/contact/"
-      weight = 7
+      weight = 8
 
   [languages.cu]
     languageName = "Словѣньскъ"
@@ -344,17 +379,22 @@ defaultContentLanguage = "no"
       url = "/cu/oulii/"
       weight = 4
     [[languages.cu.menu.main]]
+      identifier = "pollinators"
+      name = "Грады ради пчелъ"
+      url = "/cu/opyliteli/"
+      weight = 5
+    [[languages.cu.menu.main]]
       identifier = "about"
       name = "О мнѣ"
       url = "/cu/about/"
-      weight = 5
+      weight = 6
     [[languages.cu.menu.main]]
       identifier = "membership"
       name = "Члѣньство"
       url = "/cu/membership/"
-      weight = 6
+      weight = 7
     [[languages.cu.menu.main]]
       identifier = "contact"
       name = "Контактъ"
       url = "/cu/contact/"
-      weight = 7
+      weight = 8

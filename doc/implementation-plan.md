@@ -70,21 +70,27 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
    - ETA: 2-4 hours
    - status: done locally; validated with `hugo --minify` pending commit/push.
 
+11) Pollinators in cities topic [x]
+   - What: Add a separate multilingual page and menu entry for pollinator-friendly cities with planting, habitat, and gentle maintenance guidance.
+   - Acceptance: All language variants have a dedicated page; main navigation links to it; homepage city cards point there instead of the general beekeeping page.
+   - ETA: 3-5 hours
+   - status: done locally; validated with `hugo --minify` pending commit/push.
+
 ## P2 — Longer-term and polish
 
-11) Content enhancements for AI-readability
+12) Content enhancements for AI-readability
     - What: Structure content for AI crawlers: add explicit `summary`, clear H1/H2/H3 hierarchy, descriptive alt text, add JSON-LD `FAQ` or `HowTo` where relevant, produce a `/human.txt` and `/ai.txt` (optional) describing site purpose and license.
     - Why: Improves discoverability by search engines and generative models that rely on structured content.
     - Acceptance: Clear content hierarchy; JSON-LD validated; improved SERP features over time.
     - ETA: ongoing (per page)
     - note: Added Bergen neighborhood keywords (Åsane, Fana, Laksevåg) to meta descriptions for local SEO [x]
 
-12) Automated link and spelling checks
+13) Automated link and spelling checks
     - What: Add a GitHub Action to run a link-checker for site content and a spell-check GitHub Action for markdown.
     - Acceptance: Daily check runs; failing links reported in PRs.
     - ETA: 0.5 day
 
-13) Privacy & analytics (European-friendly)
+14) Privacy & analytics (European-friendly)
     - What: Add lightweight, privacy-first analytics (Plausible self-hosted or Matomo) or server logs; publish a short privacy policy. Avoid Google Analytics unless you want it.
     - Acceptance: Analytics capture basic visits without third-party trackers; privacy text present on `/kontakt` or `/privacy`.
     - ETA: 1 day

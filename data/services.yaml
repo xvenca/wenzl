@@ -20,10 +20,10 @@ nb:
     desc: "Liggebikuber (leisan) er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
     link: "/bikuber/"
   - icon: city
-    title: By-birøkt
-    badge: "Kommuner & parker"
-    desc: "Dekorative kuber, informasjonsskilt og rådgivning for birøktervennlige byer, skoler og offentlige rom."
-    link: "/birokt/#birøktervennlige-byer"
+    title: Byer for bier
+    badge: "Kommuner & nabolag"
+    desc: "Hjelp bier, humler, sommerfugler og andre pollinatorer med blomstrende balkonger, tak, bakgårder, vertikale hager og mer skånsom skjøtsel."
+    link: "/pollinatorer/"
 
 en:
   - icon: swarm
@@ -47,10 +47,10 @@ en:
     desc: "Horizontal hives are uncommon in Norway — I build and experiment with them myself. Solid wooden hives for natural beekeeping."
     link: "/en/beehives/"
   - icon: city
-    title: "Urban Beekeeping"
-    badge: "Cities & parks"
-    desc: "Decorative hives, information boards and consulting for bee-friendly cities, schools and public spaces."
-    link: "/en/beekeeping/#bee-friendly-cities"
+    title: "Cities for Bees"
+    badge: "Cities & neighborhoods"
+    desc: "Help bees, bumblebees, butterflies and other pollinators with flowering balconies, rooftops, courtyards, vertical gardens and gentler land care."
+    link: "/en/pollinators/"
 
 cs:
   - icon: swarm
@@ -74,10 +74,10 @@ cs:
     desc: "Ležany jsou v Norsku neobvyklé — sám je stavím a experimentuji s nimi. Pevné dřevěné úly pro přírodní včelaření."
     link: "/cs/uly/"
   - icon: city
-    title: "Včely ve městě"
-    badge: "Obce a parky"
-    desc: "Dekorativní úly, informační tabule a poradenství pro včelám přátelská města, školy a veřejná prostranství."
-    link: "/cs/beekeeping/#včelám-přátelská-města"
+    title: "Města pro včely"
+    badge: "Obce a čtvrti"
+    desc: "Pomozte včelám, čmelákům, motýlům i dalším opylovačům kvetoucími balkony, střechami, dvory, vertikálními zahradami a šetrnější údržbou zeleně."
+    link: "/cs/opylovaci/"
 
 uk:
   - icon: swarm
@@ -101,10 +101,10 @@ uk:
     desc: "Лежаки незвичні для Норвегії — я сам їх будую і з ними експериментую. Міцні дерев'яні вулики для природного бджільництва."
     link: "/uk/vulyky/"
   - icon: city
-    title: "Міське бджільництво"
-    badge: "Міста й парки"
-    desc: "Декоративні вулики, інформаційні таблички та консультації для дружніх до бджіл міст, шкіл і громадських просторів."
-    link: "/uk/beekeeping/#bee-friendly-cities"
+    title: "Міста для бджіл"
+    badge: "Міста й громади"
+    desc: "Допоможіть бджолам, джмелям, метеликам та іншим запилювачам квітучими балконами, дахами, дворами, вертикальними садами й дбайливішим доглядом за зеленню."
+    link: "/uk/zapyliuvachi/"
 
 ru:
   - icon: swarm
@@ -128,10 +128,10 @@ ru:
     desc: "Лежаки необычны для Норвегии — я сам их строю и экспериментирую с ними. Надёжные деревянные ульи для природного пчеловодства."
     link: "/ru/uli/"
   - icon: city
-    title: "Городское пчеловодство"
-    badge: "Города и парки"
-    desc: "Декоративные ульи, информационные таблички и консультации для дружелюбных к пчёлам городов, школ и общественных пространств."
-    link: "/ru/beekeeping/#bee-friendly-cities"
+    title: "Города для пчёл"
+    badge: "Города и районы"
+    desc: "Помогите пчёлам, шмелям, бабочкам и другим опылителям цветущими балконами, крышами, дворами, вертикальными садами и более бережным уходом за зеленью."
+    link: "/ru/opyliteli/"
 
 pl:
   - icon: swarm
@@ -155,10 +155,10 @@ pl:
     desc: "Leżaki są w Norwegii rzadkością — sam je buduję i z nimi eksperymentuję. Solidne drewniane ule do naturalnej gospodarki pasiecznej."
     link: "/pl/ule/"
   - icon: city
-    title: "Pszczelarstwo miejskie"
-    badge: "Miasta i parki"
-    desc: "Dekoracyjne ule, tablice informacyjne i doradztwo dla miast, szkół i przestrzeni publicznych przyjaznych pszczołom."
-    link: "/pl/beekeeping/#bee-friendly-cities"
+    title: "Miasta dla pszczół"
+    badge: "Miasta i dzielnice"
+    desc: "Pomóż pszczołom, trzmielom, motylom i innym zapylaczom dzięki kwitnącym balkonům, dachom, podwórzom, ogrodom wertykalnym i łagodniejszej pielęgnacji zieleni."
+    link: "/pl/zapylacze/"
 
 de:
   - icon: swarm
@@ -182,10 +182,10 @@ de:
     desc: "Lagerbeuten sind in Norwegen ungewöhnlich — ich baue und erprobe sie selbst. Solide Holzbeuten für naturnahe Imkerei."
     link: "/de/beuten/"
   - icon: city
-    title: "Stadtimkerei"
-    badge: "Städte und Parks"
-    desc: "Dekorative Beuten, Informationstafeln und Beratung für bienenfreundliche Städte, Schulen und öffentliche Räume."
-    link: "/de/beekeeping/#bee-friendly-cities"
+    title: "Städte für Bienen"
+    badge: "Städte und Quartiere"
+    desc: "Helfen Sie Bienen, Hummeln, Schmetterlingen und anderen Bestäubern mit blühenden Balkonen, Dächern, Innenhöfen, vertikalen Gärten und schonender Pflege."
+    link: "/de/bestaeuber/"
 
 cu:
   - icon: swarm
@@ -209,7 +209,7 @@ cu:
     desc: "Лежачии оулии въ Норьвѣгии рѣдки сꙋть — самъ ихъ творѭ и искусствꙋю. Твьрды древѧны оулии ради природьнаго пчеларьства."
     link: "/cu/oulii/"
   - icon: city
-    title: "Градьскоє пчеларьство"
-    badge: "Грады и парци"
-    desc: "Оулии украшены, дъсци извѣстны и съвѣтъ ради градовъ, школъ и общихъ мѣстъ, дружествꙋющихъ пчеламъ."
-    link: "/cu/beekeeping/#bee-friendly-cities"
+    title: "Грады ради пчелъ"
+    badge: "Грады и обитища"
+    desc: "Помозѣте пчеламъ, чъмєлємъ, мотыльємъ и инымъ опылителємъ цвѣтꙋщими балконы, кръвами, дворы, врьтикальными садъми и кротъкою попечениѥю о зелени."
+    link: "/cu/opyliteli/"
