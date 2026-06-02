@@ -21,6 +21,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
    - Owner: Content lead / Dev
    - Acceptance: No missing frontmatter keys; Hugo builds without warnings about missing fields; social preview metadata uses image/fallback.
    - ETA: 3-6 hours
+   - status: membership/affiliation pages now use local organization logo assets and include Mendel University in Brno as alma mater.
 
 3) SEO basics / structured metadata
    - What: Add JSON-LD for Organization and Website, ensure meta tags (we added OG/Twitter). Add `sitemap.xml` (Hugo generates it by default) and verify `/robots.txt`.
