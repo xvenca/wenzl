@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: [ main ]
 
+permissions:
+  contents: read
+
 jobs:
   build:
     name: Build and verify
@@ -43,5 +46,5 @@ jobs:
         uses: treosh/lighthouse-ci-action@v10
         with:
           configPath: .lighthouserc.json
-          uploadArtifacts: true
+          uploadArtifacts: false
           temporaryPublicStorage: true
