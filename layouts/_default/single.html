@@ -61,6 +61,26 @@
             {{ .Content }}
         </div>
 
+        {{/* Photo gallery — front-matter driven, only renders images that exist */}}
+        {{ with .Params.gallery }}
+        {{ $shown := slice }}
+        {{ range . }}{{ if fileExists (printf "static%s" .image) }}{{ $shown = $shown | append . }}{{ end }}{{ end }}
+        {{ with $shown }}
+        <section class="mt-12">
+            {{ with $.Params.gallery_title }}<h2 class="text-2xl font-bold text-amber-800 border-b border-amber-100 pb-2 mb-6">{{ . }}</h2>{{ end }}
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {{ range . }}
+                <figure class="overflow-hidden rounded-xl border border-amber-100 bg-white shadow-sm">
+                    <img src="{{ .image }}" alt="{{ .caption | default $.Title }}" loading="lazy" decoding="async"
+                         class="w-full h-60 object-cover">
+                    {{ with .caption }}<figcaption class="px-4 py-3 text-sm text-stone-600 leading-snug">{{ . }}</figcaption>{{ end }}
+                </figure>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+        {{ end }}
+
         {{ with .Params.tags }}
         <footer class="mt-10 pt-6 border-t border-amber-100">
             <ul class="flex flex-wrap gap-2">

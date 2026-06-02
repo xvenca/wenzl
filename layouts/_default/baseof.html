@@ -27,17 +27,39 @@
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "LocalBusiness",
-        "name": "{{ .Site.Title }}",
-        "url": "{{ .Site.BaseURL }}",
-        "telephone": "{{ $c.phone }}",
-        "email": "{{ $c.email }}",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Bergen",
-            "addressCountry": "NO"
-        },
-        "description": "{{ .Site.Params.description }}"
+        "@graph": [
+            {
+                "@type": ["LocalBusiness", "ProfessionalService"],
+                "@id": "{{ .Site.BaseURL }}#business",
+                "name": "wenzl.no",
+                "url": "{{ .Site.BaseURL }}",
+                "image": "{{ (index .Site.Params.images 0) | absURL }}",
+                "telephone": "{{ $c.phone }}",
+                "email": "{{ $c.email }}",
+                "description": "{{ .Site.Params.description }}",
+                "address": { "@type": "PostalAddress", "addressLocality": "Bergen", "addressCountry": "NO" },
+                "areaServed": { "@type": "Country", "name": "Norway" },
+                "founder": { "@id": "{{ .Site.BaseURL }}#martin" },
+                "knowsLanguage": ["nb", "en", "cs", "uk", "ru", "pl", "de", "es"],
+                "makesOffer": [
+                    { "@type": "Offer", "price": "0", "priceCurrency": "NOK", "itemOffered": { "@type": "Service", "name": "Swarm collection (Bergen)" } },
+                    { "@type": "Offer", "price": "0", "priceCurrency": "NOK", "itemOffered": { "@type": "Service", "name": "Swarm traps / building protection (all Norway)" } },
+                    { "@type": "Offer", "price": "0", "priceCurrency": "NOK", "itemOffered": { "@type": "Service", "name": "Pollination (bees for garden space)" } },
+                    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "Handcrafted wooden beehives" } }
+                ]
+            },
+            {
+                "@type": "Person",
+                "@id": "{{ .Site.BaseURL }}#martin",
+                "name": "Martin Venclů",
+                "jobTitle": "Certified beekeeper",
+                "worksFor": { "@id": "{{ .Site.BaseURL }}#business" },
+                "knowsAbout": ["beekeeping", "swarm removal", "pollination", "beehive construction", "natural beekeeping", "apitherapy"],
+                "alumniOf": { "@type": "CollegeOrUniversity", "name": "Mendel University in Brno" },
+                "memberOf": { "@type": "Organization", "name": "Norges Birøkterlag", "url": "https://norbi.no/" },
+                "address": { "@type": "PostalAddress", "addressLocality": "Bergen", "addressCountry": "NO" }
+            }
+        ]
     }
     </script>
 

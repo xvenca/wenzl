@@ -213,3 +213,30 @@ cu:
     badge: "Грады и обитища"
     desc: "Помозѣте пчеламъ, чъмєлємъ, мотыльємъ и инымъ опылителємъ цвѣтꙋщими балконы, кръвами, дворы, врьтикальными садъми и кротъкою попечениѥю о зелени."
     link: "/cu/opyliteli/"
+
+es:
+  - icon: swarm
+    title: "Recogida de enjambres"
+    badge: "Gratis · Bergen"
+    desc: "¿Has visto un enjambre en tu propiedad? Contáctame de inmediato — recojo enjambres de abejas de forma gratuita en Bergen y alrededores."
+    link: "/es/enjambres/#swarm-collection-in-bergen"
+  - icon: trap
+    title: "Trampas para enjambres"
+    badge: "Gratis · toda Noruega"
+    desc: "Protege tu edificio de los enjambres. Coloco cajas cebo que capturan los enjambres antes de que se instalen en una chimenea o fachada — gratis, en toda Noruega."
+    link: "/es/enjambres/#swarm-traps"
+  - icon: pollination
+    title: "Polinización"
+    badge: "Abejas por espacio"
+    desc: "Coloco mis colonias en tu jardín gratis durante la temporada. Tú das el espacio y las flores — las abejas hacen el resto."
+    link: "/es/apicultura/#pollination-service"
+  - icon: hive
+    title: "Colmenas"
+    badge: "Hecho a mano"
+    desc: "Las colmenas horizontales son poco comunes en Noruega — las construyo yo mismo y experimento con ellas. Colmenas de madera sólidas para la apicultura natural."
+    link: "/es/colmenas/"
+  - icon: city
+    title: "Ciudades para abejas"
+    badge: "Municipios y barrios"
+    desc: "Ayuda a abejas, abejorros, mariposas y otros polinizadores con balcones floridos, tejados, patios, jardines verticales y un cuidado más suave del verde."
+    link: "/es/polinizadores/"

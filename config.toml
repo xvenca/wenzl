@@ -351,11 +351,59 @@ defaultContentLanguage = "no"
       url = "/de/contact/"
       weight = 8
 
+  [languages.es]
+    languageName = "Español"
+    languageCode = "es-ES"
+    contentDir = "content/es"
+    weight = 8
+    [languages.es.params]
+      description = "Apicultor certificado en Noruega con base en Bergen — apicultura natural, recogida de enjambres, polinización y colmenas de madera hechas a mano"
+    [[languages.es.menu.main]]
+      identifier = "home"
+      name = "Inicio"
+      url = "/es/"
+      weight = 1
+    [[languages.es.menu.main]]
+      identifier = "beekeeping"
+      name = "Apicultura"
+      url = "/es/apicultura/"
+      weight = 2
+    [[languages.es.menu.main]]
+      identifier = "swarms"
+      name = "Enjambres"
+      url = "/es/enjambres/"
+      weight = 3
+    [[languages.es.menu.main]]
+      identifier = "hives"
+      name = "Colmenas"
+      url = "/es/colmenas/"
+      weight = 4
+    [[languages.es.menu.main]]
+      identifier = "pollinators"
+      name = "Ciudades para abejas"
+      url = "/es/polinizadores/"
+      weight = 5
+    [[languages.es.menu.main]]
+      identifier = "about"
+      name = "Sobre mí"
+      url = "/es/sobre-mi/"
+      weight = 6
+    [[languages.es.menu.main]]
+      identifier = "membership"
+      name = "Afiliaciones"
+      url = "/es/afiliaciones/"
+      weight = 7
+    [[languages.es.menu.main]]
+      identifier = "contact"
+      name = "Contacto"
+      url = "/es/contacto/"
+      weight = 8
+
   [languages.cu]
     languageName = "Словѣньскъ"
     languageCode = "cu"
     contentDir = "content/cu"
-    weight = 8
+    weight = 9
     [languages.cu.params]
       description = "Пчеларь въ Норьвѣгии съ основаниѥмъ въ Бергенѣ — природьноє пчеларьство, ловлениѥ роевъ, опылениѥ и древѧныѥ ульи, рꙋкою сътворены"
     [[languages.cu.menu.main]]

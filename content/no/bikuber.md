@@ -4,6 +4,16 @@ description: "Håndlagde liggebikuber i norsk rammemål — Gregor-kuben, ukrain
 image: "/images/birokt-hero.jpg"
 alt: "Håndlagde bikuber i tre i Bergen"
 translationKey: "hives"
+gallery_title: "Den gule kuben — bygging og bruk"
+gallery:
+  - image: "/images/hive-yellow-field.jpg"
+    caption: "Den gule, universelt tilgjengelige kuben ute i felt nær Bergen — ved siden av en tradisjonell kube."
+  - image: "/images/hive-yellow-front.jpg"
+    caption: "Bygget for hånd ved Bergen Fellesverksted, med aluminiumstak og solide hengsler."
+  - image: "/images/hive-yellow-open.jpg"
+    caption: "Det hengslede taket gjør hele kuben rask og enkel å åpne."
+  - image: "/images/hive-yellow-topbars.jpg"
+    caption: "Lett topptilgang — skånsom røkting uten tunge løft."
 ---
 
 Jeg bygger mine egne liggebikuber i tre i Bergen. Liggebikuber er ikke en del av norsk birøkttradisjon, og nettopp derfor er det viktig for meg å utvikle dem videre på en måte som fungerer i norsk klima og i naturlig birøkt. Tre puster, isolerer og varer slik intet industrielt materiale kan.

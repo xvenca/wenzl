@@ -4,6 +4,16 @@ description: "Handcrafted wooden horizontal hives in Norwegian frame size — Gr
 image: "/images/birokt-hero.jpg"
 alt: "Handcrafted wooden beehives in Bergen"
 translationKey: "hives"
+gallery_title: "The yellow hive — building and use"
+gallery:
+  - image: "/images/hive-yellow-field.jpg"
+    caption: "The yellow accessible hive out in the field near Bergen — beside a traditional hive."
+  - image: "/images/hive-yellow-front.jpg"
+    caption: "Built by hand at Bergen Fellesverksted, with an aluminium roof and solid hinges."
+  - image: "/images/hive-yellow-open.jpg"
+    caption: "The hinged roof makes the whole hive quick and easy to open."
+  - image: "/images/hive-yellow-topbars.jpg"
+    caption: "Easy top access — gentle tending without heavy lifting."
 ---
 
 I build my own wooden horizontal hives in Bergen. Horizontal hives are not part of Norwegian beekeeping tradition, which is exactly why I care about developing them further in a way that makes sense for Norwegian weather and natural beekeeping. Wood breathes, insulates, and lasts in a way no industrial material truly can.
