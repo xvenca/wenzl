@@ -2,7 +2,6 @@
 draft: true
 title: "Oyster Mushrooms"
 description: "Locally grown mushrooms with a unique twist"
-image: "/images/mushrooms.svg"
 ---
 draft: true
 

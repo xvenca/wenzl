@@ -2,7 +2,6 @@
 draft: true
 title: "App for birøktere"
 description: "Snart tilgjengelig: en gratis app for norske birøktere"
-image: "/images/app.svg"
 ---
 draft: true
 

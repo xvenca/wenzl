@@ -2,7 +2,6 @@
 draft: true
 title: "Beekeeping App"
 description: "Coming soon: a free app for Norwegian beekeepers"
-image: "/images/app.svg"
 ---
 draft: true
 

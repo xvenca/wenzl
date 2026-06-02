@@ -2,7 +2,6 @@
 draft: true
 title: "Farma"
 description: "Kuřata, vejce a komunitní farmaření"
-image: "/images/farm.svg"
 ---
 draft: true
 
