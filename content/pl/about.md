@@ -1,6 +1,6 @@
 ---
 title: "O mnie"
-description: "Od wsi z wielowiekową tradycją pszczelarską po certyfikowane naturalne pszczelarstwo w Norwegii — historia o tym, jak pszczoły stały się moim życiem."
+description: "Od wsi z wielowiekową tradycją pszczelarską do certyfikowanego pszczelarza w Norwegii, który prowadzi naturalną gospodarkę pasieczną — historia o tym, jak pszczoły stały się moim życiem."
 image: "/images/hero.jpg"
 alt: "Martin Venclů przy ulach w Bergen"
 translationKey: "about"

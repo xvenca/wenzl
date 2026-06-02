@@ -27,6 +27,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
    - Files: `layouts/_default/baseof.html`, `config.toml` (params), `static/robots.txt` (exists)
    - Acceptance: `curl -s https://<dev-site>/sitemap.xml` returns valid sitemap; Rich Results test shows Organization structured data.
    - ETA: 2-4 hours
+   - status: corrected remaining source-domain URL references for sitemap and QR code targets; pending deploy validation on the live site.
 
 4) Accessibility sweep (A11y) [x]
    - What: Keyboard nav, skip link, proper heading order, alt text on images, `aria` labels. Fix any issues found by `axe` or Lighthouse.

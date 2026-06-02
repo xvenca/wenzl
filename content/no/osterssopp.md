@@ -19,6 +19,6 @@ Er du glad i sopp? Støtt lokale initiativer ved å dele erfaringer eller delta 
 ## Bestill eller besøk
 Ta kontakt for informasjon om tilgjengelighet eller for å avtale besøk. Jeg deler gjerne tips om dyrking og oppskrifter.
 
-{{< qrcode url="https://wenzel.no" >}}
+{{< qrcode url="https://wenzl.no" >}}
 
 Alle sopper dyrkes lokalt og med omtanke for miljøet.

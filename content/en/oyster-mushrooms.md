@@ -18,8 +18,7 @@ Find my wooden stump in the woods with a QR code linking here! This is a unique 
 Picked some mushrooms? Support my work if you like it. This is about sharing nature's gifts with the local community.
 
 ## The Unique Stump
-{{< qrcode url="https://wenzel.no" >}}
-
+{{< qrcode url="https://wenzl.no" >}}
 *The QR code on the stump in the forest leads you back here - a small surprise for those who discover it!*
 
 *All mushrooms are grown locally and sustainably.*

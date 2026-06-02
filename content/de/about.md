@@ -1,6 +1,6 @@
 ---
 title: "Über mich"
-description: "Von einem Dorf mit jahrhundertealter Imkertradition zur zertifizierten naturnahen Imkerei in Norwegen — die Geschichte, wie die Bienen mein Leben wurden."
+description: "Von einem Dorf mit jahrhundertealter Imkertradition zu einem zertifizierten Imker in Norwegen, der naturnah imkert — die Geschichte, wie die Bienen mein Leben wurden."
 image: "/images/hero.jpg"
 alt: "Martin Venclů bei den Bienenstöcken in Bergen"
 translationKey: "about"
