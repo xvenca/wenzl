@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="rYuh7ygpRD6apmQvawbwX1lao52SqSL2ux16ZnGM9Lk">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <link rel="canonical" href="{{ .Permalink }}">
@@ -94,11 +95,11 @@
                 </a>
 
                 <!-- Desktop nav -->
-                <nav class="hidden lg:flex items-center gap-0.5 flex-1 justify-center" aria-label="{{ i18n "main_menu" | default "Main menu" }}">
+                <nav class="hidden md:flex items-center gap-0 flex-1 min-w-0 justify-start lg:justify-center overflow-x-auto [scrollbar-width:none] [&::-webkit-scrollbar]:hidden" aria-label="{{ i18n "main_menu" | default "Main menu" }}">
                     {{ range .Site.Menus.main.ByWeight }}
                     {{ $active := or (eq $.RelPermalink .URL) (and (ne .URL "/") (ne .URL (printf "/%s/" $.Site.Language.Lang)) (hasPrefix $.RelPermalink .URL)) }}
                     <a href="{{ .URL }}"
-                       class="px-3 py-1.5 rounded-md text-sm font-medium whitespace-nowrap transition {{ if $active }}bg-amber-100 text-amber-900{{ else }}text-stone-600 hover:text-amber-800 hover:bg-amber-50{{ end }}">
+                       class="shrink-0 px-2.5 py-1.5 rounded-md text-sm font-medium whitespace-nowrap transition {{ if $active }}bg-amber-100 text-amber-900{{ else }}text-stone-600 hover:text-amber-800 hover:bg-amber-50{{ end }}">
                         {{ .Name }}
                     </a>
                     {{ end }}
@@ -126,7 +127,7 @@
                     </details>
 
                     <button id="mobile-menu-button"
-                            class="lg:hidden p-2 rounded-md text-stone-600 hover:text-amber-800 hover:bg-amber-50 transition"
+                            class="md:hidden p-2 rounded-md text-stone-600 hover:text-amber-800 hover:bg-amber-50 transition"
                             aria-label="{{ i18n "open_menu" | default "Open menu" }}"
                             aria-expanded="false"
                             aria-controls="mobile-menu">
@@ -141,7 +142,7 @@
             </div>
 
             <!-- Mobile menu -->
-            <div id="mobile-menu" class="hidden lg:hidden pb-4" role="navigation" aria-label="{{ i18n "mobile_menu" | default "Mobile menu" }}">
+            <div id="mobile-menu" class="hidden md:hidden pb-4" role="navigation" aria-label="{{ i18n "mobile_menu" | default "Mobile menu" }}">
                 <div class="border-t border-amber-100 pt-3 space-y-0.5">
                     {{ range .Site.Menus.main.ByWeight }}
                     <a href="{{ .URL }}"
