@@ -10,7 +10,7 @@ defaultContentLanguage = "no"
         block = true
 
 [params]
-  email = "info@wenzel.no"
+  email = "info@wenzl.no"
   phone = "+47 926 20569"
   images = ["/images/birokt-hero.jpg"]
 

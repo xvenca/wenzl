@@ -12,7 +12,7 @@ Did you spot a swarm — a cluster of bees in a tree, under a roof edge, or anyw
 
 I collect bee swarms **free of charge** in Bergen and the surrounding area. A swarm is not dangerous, but the sooner we act, the better for the bees.
 
-📧 [info@wenzel.no](mailto:info@wenzel.no) · 📞 [+47 926 20569](tel:+4792620569)
+📧 [info@wenzl.no](mailto:info@wenzl.no) · 📞 [+47 926 20569](tel:+4792620569)
 
 ## Swarm traps {#swarm-traps}
 
