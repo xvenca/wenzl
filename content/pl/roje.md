@@ -20,7 +20,7 @@ Rój może osiąść tam, gdzie najmniej tego chcesz — w kominie, pustce ście
 
 To nie jest teoria. W 2025 roku zadzwoniono do mnie do budynku mieszkalnego w Bergen, bo rój, który mieszkał już w tym budynku od kilku dni, co jakiś czas wylatywał na zewnątrz i przeszkadzał mieszkańcom. Gdy przyjechałem, zobaczyłem, że pszczoły zdążyły już zasiedlić drewnianą elewację domu. Kiedy potem rozebrano elewację, matki nie znaleziono.
 
-Na tym etapie zwykłe złapanie roju już nie wystarczało. Musieliśmy wezwać profesjonalną firmę pszczelarską, która współpracuje ze specjalistyczną firmą budowlaną mającą uprawnienia do rozbierania części budynków zasiedlonych przez pszczoły i do pracy na wysokości.
+Na tym etapie zwykłe złapanie roju już nie wystarczało. Musieliśmy wezwać profesjonalną firmę pszczelarską, która współpracuje ze specjalistyczną firmą budowlaną mającą uprawnienia do rozbierania części budynków zasiedlonych przez pszczoły i do pracy na wysokości. Trzeba było też zamówić samochodową platformę roboczą, żeby przy elewacji dało się pracować bezpiecznie.
 
 ### Bergen 2025: rój w drewnianej elewacji
 

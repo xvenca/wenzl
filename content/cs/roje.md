@@ -20,7 +20,7 @@ Rojící se včely se mohou usadit tam, kde je nejméně chcete — v komíně, 
 
 To není teorie. V roce 2025 mi zavolali k bytovému domu v Bergenu, protože roj, který už v té budově několik dní bydlel, čas od času vyletoval ven a obtěžoval obyvatele. Když jsem přijel na místo, zjistil jsem, že včely už osídlily dřevěnou fasádu domu. Když se pak fasáda rozebrala, matka se nenašla.
 
-V tu chvíli už nestačil běžný odchyt roje. Museli jsme volat profesionální včelařskou firmu, která spolupracuje se specializovanou stavební firmou s oprávněním rozebírat budovy osídlené včelami a pracovat ve výškách.
+V tu chvíli už nestačil běžný odchyt roje. Museli jsme volat profesionální včelařskou firmu, která spolupracuje se specializovanou stavební firmou s oprávněním rozebírat budovy osídlené včelami a pracovat ve výškách. Bylo také nutné objednat nákladní pracovní plošinu, ze které se dalo u fasády bezpečně pracovat.
 
 ### Bergen 2025: roj v dřevěné fasádě
 
