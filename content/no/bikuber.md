@@ -18,9 +18,9 @@ Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Tykkve
 
 ## Universelt tilgjengelig liggebikube
 
-norsk rammemål
+med standard norsk rammemål
 
-Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere vegger i massivt tre — på norsk rammemål. Målet mitt var å gjøre birøkt tilgjengelig for alle og samtidig bevare norsk rammemål, slik at birøkteren også under harde nordlige forhold forblir kompatibel med andre birøktere. Det er avgjørende når et svakt samfunn må styrkes med yngel fra et annet samfunn. Som isolasjon kan den fylles med ull fra lokale norske sauer. I stedet for oppsatser over hovedsamfunnet har den et lett aluminiumstak på hengsler, slik at kuben er rask og enkel å åpne. Både barn, mennesker med ryggsmerter og til og med rullestolbrukere kan røkte bier i den. Det er en universelt tilgjengelig bikube. *(Den gule kuben.)*
+Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere vegger i massivt tre og standard norsk rammemål. Målet mitt var å gjøre birøkt tilgjengelig for alle og samtidig sørge for at kuben bruker vanlige norske rammer, slik at den er kompatibel med andre birøktere også under harde nordlige forhold. Det er avgjørende når et svakt samfunn må styrkes med yngel fra et annet samfunn. Som isolasjon kan den fylles med ull fra lokale norske sauer. I stedet for oppsatser over hovedsamfunnet har den et lett aluminiumstak på hengsler, slik at kuben er rask og enkel å åpne. Både barn, mennesker med ryggsmerter og til og med rullestolbrukere kan røkte bier i den. Det er en universelt tilgjengelig bikube. *(Den gule kuben.)*
 
 {{< hive-gallery field="Den gule, universelt tilgjengelige kuben ute i felt nær Bergen — ved siden av en Gregor kube." front="Bygget for hånd ved Bergen Fellesverksted, med aluminiumstak og solide hengsler." open="Det hengslede taket gjør hele kuben rask og enkel å åpne." topbars="Lett topptilgang — skånsom røkting uten tunge løft." >}}
 
