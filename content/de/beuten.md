@@ -1,4 +1,4 @@
----
+﻿---
 title: "Beuten"
 description: "Handgefertigte Holz-Lagerbeuten im norwegischen Rähmchenmaß — Gregor-Beute, ukrainische Lagerbeute und eine barrierearme Beute für naturnahe Imkerei."
 image: "/images/birokt-hero.jpg"
@@ -14,7 +14,7 @@ Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei H
 
 ## Ukrainische Lagerbeute
 
-Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet, oft in einem kleinen Apihäuschen, in dem die Beuten unter einer Liege oder einem Bett stehen, sodass Menschen darüber ruhen oder schlafen können. Das ist eine wunderbare Form der Entspannung und eine Möglichkeit, der Natur näher zu sein.
+Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Meine ersten zwei ukrainischen Lagerbeuten habe ich mit Hilfe eines Freundes aus der Ukraine gebaut. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet, oft in einem kleinen Apihäuschen, in dem die Beuten unter einer Liege oder einem Bett stehen, sodass Menschen darüber ruhen oder schlafen können. Das ist eine wunderbare Form der Entspannung und eine Möglichkeit, der Natur näher zu sein. Wer auf seinem Grundstück ein Apihäuschen haben möchte, kann sich gern an mich wenden. Ich helfe bei der Umsetzung und begleite fachlich sowohl den Bau der Beuten als auch die Imkerei.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainische Lagerbeuten im Garten in Bergen." caption="Ukrainische Lagerbeuten im Garten in Bergen." >}}
 

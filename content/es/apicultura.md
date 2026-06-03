@@ -1,4 +1,4 @@
----
+﻿---
 title: "Apicultura en Noruega"
 description: "Apicultor certificado en Noruega con base en Bergen — apicultura natural, recogida de enjambres, polinización y colmenas de madera tradicionales hechas a mano"
 image: "/images/birokt-hero.jpg"
@@ -82,7 +82,7 @@ Las abejas son los polinizadores más importantes de frutas, bayas y hortalizas.
 Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, con dos alzas encima para la división invernal. Fue desarrollada en Bergen y para las condiciones de Bergen, para proteger a las abejas del clima lluvioso de la ciudad y darles confort también en invierno. Este tipo lo fabricaba originalmente mi amigo Jan Gregor, de quien tomé el relevo y recibí permiso para seguir construyéndolas; para el lluvioso Bergen, la carcasa exterior está además protegida contra el agua. Las alzas se calientan de forma natural desde la colonia situada debajo — una solución suave para las abejas durante la estación fría.
 
 ### Colmena horizontal ucraniana — tradición familiar
-Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia, a menudo en una pequeña casita de apiterapia llamada apidomek, donde las colmenas se colocan bajo una cama o plataforma de descanso para que la gente pueda relajarse y dormir sobre ellas. Es una forma excelente de relajarse y sentirse más cerca de la naturaleza.
+Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Las dos primeras colmenas horizontales ucranianas las construí con la ayuda de un amigo de Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia, a menudo en una pequeña casa de apiterapia donde las colmenas se colocan bajo una cama o plataforma de descanso para que la gente pueda relajarse y dormir sobre ellas. Es una forma excelente de relajarse y sentirse más cerca de la naturaleza. Si alguien quisiera tener en su terreno una pequeña casa de apiterapia, puede ponerse en contacto conmigo. Estaré encantado de ayudar con la realización y de aportar respaldo profesional tanto en la fabricación de las colmenas como en el manejo de las abejas.
 
 ### Colmena horizontal accesible
 Mi propio diseño, con paredes aún más gruesas de madera maciza y la medida estándar de cuadro noruega. Mi objetivo era hacer la apicultura accesible para todos y asegurar que la colmena use cuadros noruegos habituales para seguir siendo compatible con otros apicultores. En lugar de alzas, tiene un ligero techo de aluminio con bisagras, de modo que la colmena se abre de forma rápida y fácil. Pueden trabajar con ella niños, personas con dolor de espalda e incluso usuarios de silla de ruedas. *(La colmena amarilla.)*
@@ -154,3 +154,4 @@ En Noruega soy **apicultor certificado**, con un certificado expedido en **Berge
 ### Tradición familiar
 
 La apicultura no es solo mi oficio — es la historia de mi familia. Mi bisabuelo tuvo abejas en **Voděrady u Kunštátu**. El abuelo de mi esposa tuvo abejas en **Ucrania** — su tradición pervive en las colmenas horizontales ucranianas que construyo yo mismo. Josef Stejskal, que me enseñó apicultura en Obora, es además un pariente lejano. La apicultura es mi tradición familiar.
+

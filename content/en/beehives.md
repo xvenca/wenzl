@@ -14,7 +14,7 @@ An insulated wooden Gregor-type horizontal hive in Norwegian frame dimensions wi
 
 ## Ukrainian Horizontal Hive
 
-Built after the tradition of my wife's grandfather, who kept bees in Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy, often in a small bee house, where the hives stand beneath a bed or resting platform so people can relax and sleep above them. It is a calm way to unwind and feel closer to nature.
+Built after the tradition of my wife's grandfather, who kept bees in Ukraine. My first two Ukrainian horizontal hives were built with help from a friend from Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy, often in a small bee house, where the hives stand beneath a bed or resting platform so people can relax and sleep above them. It is a calm way to unwind and feel closer to nature.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainian horizontal hives in a garden in Bergen." caption="Ukrainian horizontal hives in a garden in Bergen." >}}
 
@@ -26,4 +26,5 @@ It builds on the proven Gregor horizontal hive, but I use even thicker solid-woo
 {{< hive-gallery field="The yellow accessible hive out in the field near Bergen — next to a Gregor hive." front="Built by hand at Bergen Fellesverksted, with an aluminium roof and solid hinges." open="The hinged roof makes the whole hive quick and easy to open." topbars="Easy top access — gentle tending without heavy lifting." >}}
 
 Interest in the hives has already begun to arrive — *get in touch if you would like a hive.*
+
 

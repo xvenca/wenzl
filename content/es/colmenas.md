@@ -1,4 +1,4 @@
----
+﻿---
 title: "Colmenas"
 description: "Colmenas horizontales de madera hechas a mano en medida de cuadro noruega — la colmena Gregor, la colmena ucraniana y una colmena accesible para la apicultura natural."
 image: "/images/birokt-hero.jpg"
@@ -14,7 +14,7 @@ Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, c
 
 ## Colmena horizontal ucraniana
 
-Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia, a menudo en una pequeña casita de apiterapia llamada apidomek, donde las colmenas se colocan bajo una cama o plataforma de descanso para que la gente pueda relajarse y dormir sobre ellas. Es una forma excelente de relajarse y sentirse más cerca de la naturaleza.
+Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Las dos primeras colmenas horizontales ucranianas las construí con la ayuda de un amigo de Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia, a menudo en una pequeña casa de apiterapia donde las colmenas se colocan bajo una cama o plataforma de descanso para que la gente pueda relajarse y dormir sobre ellas. Es una forma excelente de relajarse y sentirse más cerca de la naturaleza. Si alguien quisiera tener en su terreno una pequeña casa de apiterapia, puede ponerse en contacto conmigo. Estaré encantado de ayudar con la realización y de aportar respaldo profesional tanto en la fabricación de las colmenas como en el manejo de las abejas.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Colmenas horizontales ucranianas en un jardín de Bergen." caption="Colmenas horizontales ucranianas en un jardín de Bergen." >}}
 
@@ -25,3 +25,4 @@ Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesa
 {{< hive-gallery field="La colmena amarilla y accesible en el campo cerca de Bergen — junto a una colmena Gregor." front="Construida a mano en Bergen Fellesverksted, con techo de aluminio y bisagras robustas." open="El techo abatible permite abrir toda la colmena de forma rápida y sencilla." topbars="Acceso cómodo desde arriba — manejo suave sin levantar peso." >}}
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*
+

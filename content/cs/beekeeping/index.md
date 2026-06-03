@@ -1,4 +1,4 @@
----
+﻿---
 title: "Včelař v Norsku"
 description: "Certifikovaný včelař v Norsku se základnou v Bergenu — přírodní včelaření, odchyt rojů, opylování a tradiční dřevěné ležany vlastní výroby"
 image: "/images/birokt-hero.jpg"
@@ -82,7 +82,7 @@ Máte zahradu, farmu nebo zahrádkářskou kolonii v oblasti Bergenu? Nabízím 
 Zateplený dřevěný ležan typu Gregor na norskou rámkovou míru se dvěma nástavky pro zimování oddělků. Byl vyvinut v Bergenu a pro potřeby Bergenu, aby chránil včely v deštivém bergenském počasí a poskytoval jim komfort i v zimě. Tento typ původně vyráběl můj kamarád Jan Gregor, od kterého jsem převzal štafetu i svolení tyto úly dál vyrábět; pro deštivý Bergen jsou navíc opatřeny ochranou pláště proti vodě. Nástavky se přirozeně zahřívají od hlavního včelstva pod nimi.
 
 ### Ukrajinský ležan — rodinná tradice
-Vyrobený podle tradice dědečka mé manželky. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii.
+Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské ležany mi pomohl vyrobit kamarád z Ukrajiny. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii.
 
 ### Bezbariérový ležan
 na norskou rámkovou míru
@@ -153,3 +153,4 @@ V Norsku jsem **certifikovaný včelař** s osvědčením vydaným v **Bergenu**
 ### Rodinná tradice
 
 Včelaření není jen moje odbornost — je to moje rodinná historie. Můj praděd včelařil ve **Voděradech u Kunštátu**. Dědeček mé manželky včelařil na **Ukrajině** — jeho tradice žije dál v ukrajinských ležanech, které sám vyrábím. Josef Stejskal, u kterého jsem se naučil včelařit v Oboře, je navíc mým vzdáleným příbuzným. Navazuji tedy na živou rodinnou včelařskou tradici z obou stran.
+

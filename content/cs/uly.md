@@ -1,4 +1,4 @@
----
+﻿---
 title: "Úly"
 description: "Dřevěné ležany vlastní výroby na norskou rámkovou míru — Gregor-ležan, ukrajinský ležan a bezbariérový ležan pro přírodní včelaření."
 image: "/images/birokt-hero.jpg"
@@ -14,7 +14,7 @@ Zateplený dřevěný ležan typu Gregor na norskou rámkovou míru se dvěma n�
 
 ## Ukrajinský ležan
 
-Vyrobený podle tradice dědečka mé manželky. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii, často v apidomku, což je malá chata, kde úly stojí pod lehátkem nebo postelí a lidé nad nimi odpočívají či spí. Je to skvělý způsob relaxace a toho, jak být blíže přírodě.
+Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské ležany mi pomohl vyrobit kamarád z Ukrajiny. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii, často v apidomku, což je malá chata, kde úly stojí pod lehátkem nebo postelí a lidé nad nimi odpočívají či spí. Je to skvělý způsob relaxace a toho, jak být blíže přírodě. Pokud byste chtěli mít na svém pozemku apidomek, můžete se na mne obrátit. Můžeme se domluvit na realizaci a rád odborně zajistím výrobu úlů i chov včel.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrajinské ležany v zahradě v Bergenu." caption="Ukrajinské ležany v zahradě v Bergenu." >}}
 
@@ -25,3 +25,4 @@ Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silně
 {{< hive-gallery field="Žlutý bezbariérový úl v terénu u Bergenu — vedle úlu typu Gregor." front="Vyrobeno ručně v Bergen Fellesverksted, s hliníkovou střechou a pevnými panty." open="Sklopná střecha umožňuje celý úl rychle a snadno otevřít." topbars="Snadný přístup shora — šetrné ošetřování bez těžkého zvedání." >}}
 
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
+

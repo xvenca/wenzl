@@ -74,7 +74,7 @@ Haben Sie einen Garten, einen kleinen Hof oder eine Parzelle in der Region Berge
 Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei Honigräumen darüber für die Überwinterung mit geteilter Volkseinheit. Sie wurde in Bergen und für die Bedingungen in Bergen entwickelt, um die Bienen im regnerischen Bergenwetter zu schützen und ihnen auch im Winter Komfort zu geben. Dieser Typ wurde ursprünglich von meinem Freund Jan Gregor gebaut; von ihm habe ich den Staffelstab und die Erlaubnis übernommen, diese Beuten weiter zu bauen, und für das regnerische Bergen ist die Außenhülle zusätzlich gegen Wasser geschützt. Die Aufsätze werden natürlich vom Volk darunter erwärmt — schonend für die Bienen in der kalten Jahreszeit.
 
 ### Ukrainische Lagerbeute — Familientradition
-Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet, oft in einem kleinen Apihäuschen, in dem die Beuten unter einer Liege oder einem Bett stehen, sodass Menschen darüber ruhen oder schlafen können. Das ist eine wunderbare Form der Entspannung und eine Möglichkeit, der Natur näher zu sein.
+Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Meine ersten zwei ukrainischen Lagerbeuten habe ich mit Hilfe eines Freundes aus der Ukraine gebaut. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet, oft in einem kleinen Apihäuschen, in dem die Beuten unter einer Liege oder einem Bett stehen, sodass Menschen darüber ruhen oder schlafen können. Das ist eine wunderbare Form der Entspannung und eine Möglichkeit, der Natur näher zu sein.
 
 ### Barrierearme Lagerbeute
 im norwegischen Rähmchenmaß
@@ -139,3 +139,4 @@ In Norwegen bin ich **zertifizierter Imker** mit einem in **Bergen** ausgestellt
 ### Familientradition
 
 Die Imkerei ist nicht nur mein Beruf, sondern auch meine Familiengeschichte. Mein Urgroßvater hielt Bienen in **Voděrady u Kunštátu**. Der Großvater meiner Frau hielt Bienen in der **Ukraine** — und seine Tradition lebt in den ukrainischen Lagerbeuten weiter, die ich selbst baue. Josef Stejskal, der mich in Obora die Imkerei lehrte, ist ebenfalls ein entfernter Verwandter. Ich setze eine lebendige Familientradition der Imkerei auf beiden Seiten fort.
+

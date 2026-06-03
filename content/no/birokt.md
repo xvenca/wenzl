@@ -1,4 +1,4 @@
----
+﻿---
 title: "Birøkt i Norge"
 description: "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde tradisjonelle bikuber"
 image: "/images/birokt-hero.jpg"
@@ -82,7 +82,7 @@ Har du en hage, et gartneri eller et parsellhagedyrelag i Bergensregionen? Jeg t
 En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over for vinteroppdeling. Den ble utviklet i Bergen og for forholdene i Bergen, for å beskytte biene i det regnfulle bergensværet og gi dem komfort også om vinteren. Denne typen ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Oppsatsene varmes opp naturlig fra det underliggende bisamfunnet — en løsning som er skånsom mot biene om vinteren.
 
 ### Ukrainsk liggebikube — familietradisjon
-Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi.
+Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine to første ukrainske liggebikuber bygde jeg med hjelp fra en venn fra Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi.
 
 ### Universelt tilgjengelig liggebikube
 Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere vegger i massivt tre og standard norsk rammemål. Målet mitt var å gjøre birøkt tilgjengelig for alle og samtidig sørge for at kuben bruker vanlige norske rammer, slik at den er kompatibel med andre birøktere også under harde nordlige forhold. Det er avgjørende når et svakt samfunn må styrkes med yngel fra et annet samfunn. Som isolasjon kan den fylles med ull fra lokale norske sauer. I stedet for oppsatser over hovedsamfunnet har den et lett aluminiumstak på hengsler, slik at kuben er rask og enkel å åpne. Både barn, mennesker med ryggsmerter og til og med rullestolbrukere kan røkte bier i den. Det er en universelt tilgjengelig bikube. *(Den gule kuben.)*
@@ -158,3 +158,4 @@ I Norge er jeg **sertifisert birøkter** med sertifikat utstedt i **Bergen**.
 Birøkt er ikke bare faget mitt — det er familiehistorien min. Min oldefar birøktet i **Voderade ved Kunštát**. Min kones bestefar birøktet i **Ukraina** — hans tradisjon lever videre i de ukrainske liggebikubene jeg selv bygger. Josef Stejskal, som lærte meg birøkt i Obora, er dessuten en fjern slektning av meg. Jeg viderefører altså en levende familietradisjon på begge sider.
 
 {{< figure src="/images/roj.png" alt="Roj av bier" caption="Sværm etter fangst" >}}
+

@@ -82,7 +82,7 @@ Do you have a garden, smallholding, or allotment in the Bergen region? I offer m
 An insulated wooden Gregor-type horizontal hive in Norwegian frame dimensions with two supers above for winter colony division. It was developed in Bergen and for Bergen's conditions, to protect bees in the city's rainy weather and give them comfort through the winter as well. This type was originally made by my friend Jan Gregor, from whom I took over the craft and received permission to continue making these hives; for rainy Bergen, the outer shell is additionally protected against water. The supers warm up naturally from the colony below — gentle on the bees through the cold season.
 
 ### Ukrainian Horizontal Hive — family tradition
-Built after the tradition of my wife's grandfather, who kept bees in Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy, often in a small bee house, where the hives stand beneath a bed or resting platform so people can relax and sleep above them. It is a calm way to unwind and feel closer to nature.
+Built after the tradition of my wife's grandfather, who kept bees in Ukraine. My first two Ukrainian horizontal hives were built with help from a friend from Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy, often in a small bee house, where the hives stand beneath a bed or resting platform so people can relax and sleep above them. It is a calm way to unwind and feel closer to nature.
 
 ### Accessible Horizontal Hive
 It builds on the proven Gregor horizontal hive, but I use even thicker solid-wood walls and the standard Norwegian frame size. My goal was to make beekeeping accessible to everyone while ensuring that the hive takes ordinary Norwegian frames, so it remains compatible with other beekeepers even in harsh northern conditions. That is crucial when a weak colony needs to be strengthened with brood from another colony. It can also be insulated with wool from local Norwegian sheep. Instead of supers above the main colony, it has a light hinged aluminium roof so the hive is quick and easy to access. Children, people with back pain, and even wheelchair users can work with it. It is an accessible beekeeping hive. *(The yellow hive.)*
@@ -154,5 +154,6 @@ In Norway, I am a **certified beekeeper** with a certificate issued in **Bergen*
 ### Family tradition
 
 Beekeeping is not just my profession — it is my family history. My great-grandfather kept bees in **Voderade near Kunštát**. My wife's grandfather kept bees in **Ukraine** — his tradition lives on in the Ukrainian horizontal hives I build myself. Josef Stejskal, who taught me beekeeping in Obora, is also a distant relative. I carry on a living family beekeeping tradition on both sides.
+
 
 
