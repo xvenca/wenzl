@@ -22,4 +22,6 @@ na norweski rozmiar ramki
 
 Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ściany z litego drewna — na norweski rozmiar ramki. Moim celem było udostępnić pszczelarstwo wszystkim, a jednocześnie zachować norweski rozmiar ramki, aby pszczelarz także w surowych północnych warunkach pozostawał kompatybilny z innymi pszczelarzami. To kluczowe wtedy, gdy słabą rodzinę trzeba wzmocnić czerwiem z innej rodziny. Jako izolację można w nim użyć wełny od lokalnych norweskich owiec. Nad główną rodziną nie ma nadstawek, lecz lekką aluminiową pokrywę na zawiasach, dzięki czemu ul jest szybko i łatwo dostępny. Mogą przy nim pracować także dzieci, osoby z bólem pleców, a nawet osoby poruszające się na wózku. To bezbarierowy ul pszczelarski. *(Żółty ul.)*
 
+{{< hive-gallery >}}
+
 Zainteresowanie moimi ulami już się pojawia — *napisz do mnie, jeśli chcesz taki ul.*

@@ -4,16 +4,6 @@ description: "Handcrafted wooden horizontal hives in Norwegian frame size — Gr
 image: "/images/birokt-hero.jpg"
 alt: "Handcrafted wooden beehives in Bergen"
 translationKey: "hives"
-gallery_title: "The yellow hive — building and use"
-gallery:
-  - image: "/images/hive-yellow-field.jpg"
-    caption: "The yellow accessible hive out in the field near Bergen — beside a traditional hive."
-  - image: "/images/hive-yellow-front.jpg"
-    caption: "Built by hand at Bergen Fellesverksted, with an aluminium roof and solid hinges."
-  - image: "/images/hive-yellow-open.jpg"
-    caption: "The hinged roof makes the whole hive quick and easy to open."
-  - image: "/images/hive-yellow-topbars.jpg"
-    caption: "Easy top access — gentle tending without heavy lifting."
 ---
 
 I build my own wooden horizontal hives in Bergen. Horizontal hives are not part of Norwegian beekeeping tradition, which is exactly why I care about developing them further in a way that makes sense for Norwegian weather and natural beekeeping. Wood breathes, insulates, and lasts in a way no industrial material truly can.
@@ -31,5 +21,7 @@ Built after the tradition of my wife's grandfather, who kept bees in Ukraine. Th
 Norwegian frame size
 
 It builds on the proven Gregor horizontal hive, but I use even thicker solid-wood walls — on Norwegian frame size. My goal was to make beekeeping accessible to everyone while preserving the Norwegian frame size, so that even in harsh northern conditions the beekeeper remains compatible with other beekeepers. That is crucial when a weak colony needs to be strengthened with brood from another colony. It can also be insulated with wool from local Norwegian sheep. Instead of supers above the main colony, it has a light hinged aluminium roof so the hive is quick and easy to access. Children, people with back pain, and even wheelchair users can work with it. It is an accessible beekeeping hive. *(The yellow hive.)*
+
+{{< hive-gallery >}}
 
 Interest in the hives has already begun to arrive — *get in touch if you would like a hive.*

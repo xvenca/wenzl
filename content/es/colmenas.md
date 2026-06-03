@@ -4,16 +4,6 @@ description: "Colmenas horizontales de madera hechas a mano en medida de cuadro 
 image: "/images/birokt-hero.jpg"
 alt: "Colmenas de madera hechas a mano en Bergen"
 translationKey: "hives"
-gallery_title: "La colmena amarilla — construcción y uso"
-gallery:
-  - image: "/images/hive-yellow-field.jpg"
-    caption: "La colmena amarilla y accesible en el campo cerca de Bergen — junto a una colmena tradicional."
-  - image: "/images/hive-yellow-front.jpg"
-    caption: "Construida a mano en Bergen Fellesverksted, con techo de aluminio y bisagras robustas."
-  - image: "/images/hive-yellow-open.jpg"
-    caption: "El techo abatible permite abrir toda la colmena de forma rápida y sencilla."
-  - image: "/images/hive-yellow-topbars.jpg"
-    caption: "Acceso cómodo desde arriba — manejo suave sin levantar peso."
 ---
 
 Construyo mis propias colmenas horizontales de madera en Bergen. Las colmenas horizontales no forman parte de la tradición apícola noruega, y precisamente por eso me importa desarrollarlas de una manera que funcione en el clima noruego y en la apicultura natural. La madera respira, aísla y dura como ningún material industrial puede hacerlo.
@@ -31,5 +21,7 @@ Construida según la tradición del abuelo de mi esposa, que fue apicultor en Uc
 medida de cuadro noruega
 
 Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesas de madera maciza — en medida de cuadro noruega. Mi objetivo era hacer la apicultura accesible para todos y, al mismo tiempo, conservar la medida de cuadro noruega, de modo que el apicultor, incluso en las duras condiciones del norte, siga siendo compatible con otros apicultores. Eso es crucial cuando hay que reforzar una colonia débil con cría de otra colonia. Como aislante puede rellenarse con lana de ovejas locales noruegas. En lugar de alzas sobre la colonia principal, tiene un ligero techo de aluminio con bisagras, de modo que la colmena se abre de forma rápida y fácil. Pueden trabajar con ella tanto niños como personas con dolor de espalda e incluso usuarios de silla de ruedas. Es una colmena apícola accesible. *(La colmena amarilla.)*
+
+{{< hive-gallery >}}
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*

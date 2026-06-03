@@ -4,16 +4,6 @@ description: "Håndlagde liggebikuber i norsk rammemål — Gregor-kuben, ukrain
 image: "/images/birokt-hero.jpg"
 alt: "Håndlagde bikuber i tre i Bergen"
 translationKey: "hives"
-gallery_title: "Den gule kuben — bygging og bruk"
-gallery:
-  - image: "/images/hive-yellow-field.jpg"
-    caption: "Den gule, universelt tilgjengelige kuben ute i felt nær Bergen — ved siden av en tradisjonell kube."
-  - image: "/images/hive-yellow-front.jpg"
-    caption: "Bygget for hånd ved Bergen Fellesverksted, med aluminiumstak og solide hengsler."
-  - image: "/images/hive-yellow-open.jpg"
-    caption: "Det hengslede taket gjør hele kuben rask og enkel å åpne."
-  - image: "/images/hive-yellow-topbars.jpg"
-    caption: "Lett topptilgang — skånsom røkting uten tunge løft."
 ---
 
 Jeg bygger mine egne liggebikuber i tre i Bergen. Liggebikuber er ikke en del av norsk birøkttradisjon, og nettopp derfor er det viktig for meg å utvikle dem videre på en måte som fungerer i norsk klima og i naturlig birøkt. Tre puster, isolerer og varer slik intet industrielt materiale kan.
@@ -31,5 +21,7 @@ Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Tykkve
 norsk rammemål
 
 Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere vegger i massivt tre — på norsk rammemål. Målet mitt var å gjøre birøkt tilgjengelig for alle og samtidig bevare norsk rammemål, slik at birøkteren også under harde nordlige forhold forblir kompatibel med andre birøktere. Det er avgjørende når et svakt samfunn må styrkes med yngel fra et annet samfunn. Som isolasjon kan den fylles med ull fra lokale norske sauer. I stedet for oppsatser over hovedsamfunnet har den et lett aluminiumstak på hengsler, slik at kuben er rask og enkel å åpne. Både barn, mennesker med ryggsmerter og til og med rullestolbrukere kan røkte bier i den. Det er en universelt tilgjengelig bikube. *(Den gule kuben.)*
+
+{{< hive-gallery >}}
 
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
