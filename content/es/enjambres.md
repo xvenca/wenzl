@@ -18,7 +18,7 @@ Recojo enjambres de abejas **de forma gratuita** en Bergen y sus alrededores. Un
 
 Las abejas que enjambran pueden instalarse donde menos lo deseas — en una chimenea, una cavidad o detrás de una fachada de madera. Retirar una colonia ya establecida de un edificio en Noruega es caro y complicado.
 
-Esto no es un riesgo teórico. En 2025 me llamaron a un edificio de viviendas en Bergen porque un enjambre molestaba a los residentes. Cuando llegué, vi que las abejas ya se habían instalado en la fachada de madera del edificio.
+Esto no es un riesgo teórico. En 2025 me llamaron a un edificio de viviendas en Bergen porque un enjambre, que ya llevaba varios días dentro del edificio, salía de vez en cuando y molestaba a los residentes. Cuando llegué, vi que las abejas ya se habían instalado en la fachada de madera del edificio. Cuando después se abrió la fachada, no apareció la reina.
 
 En ese momento, una recogida normal del enjambre ya no bastaba. Tuvimos que llamar a una empresa profesional de apicultura que colabora con una empresa especializada en construcción, con competencia para desmontar partes de edificios ocupados por abejas y trabajar en altura.
 

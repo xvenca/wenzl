@@ -18,7 +18,7 @@ Jeg fanger biesværmer **gratis** i Bergen og omegn. En sverm er ikke farlig, me
 
 Bier som svermer kan slå seg ned der du minst ønsker det — i en skorstein, et hulrom eller bak en trefasade. Å fjerne et etablert bisamfunn fra en bygning i Norge er kostbart og vanskelig.
 
-Dette er ikke bare teori. I 2025 ble jeg ringt til en boligblokk i Bergen fordi en sverm plaget beboerne. Da jeg kom fram, oppdaget jeg at biene allerede hadde slått seg ned i bygningens trefasade.
+Dette er ikke bare teori. I 2025 ble jeg ringt til en boligblokk i Bergen fordi en sverm som allerede hadde holdt til i bygningen i flere dager, med jevne mellomrom fløy ut og plaget beboerne. Da jeg kom fram, oppdaget jeg at biene allerede hadde slått seg ned i bygningens trefasade. Da fasaden senere ble åpnet, fant man ikke dronningen.
 
 Da var vanlig svermfangst ikke lenger nok. Vi måtte tilkalle et profesjonelt birøkterfirma som samarbeider med et spesialisert byggefirma med kompetanse til å demontere bygninger som er tatt i bruk av bier og arbeide i høyden.
 
