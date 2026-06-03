@@ -12,7 +12,7 @@ translationKey: "swarms"
 
 Recojo enjambres de abejas **de forma gratuita** en Bergen y sus alrededores. Un enjambre no es peligroso, pero cuanto antes actuemos, mejor para las abejas.
 
-📧 [info@wenzl.no](mailto:info@wenzl.no) · 📞 [+47 926 20569](tel:+4792620569)
+📧 info@wenzl.no · 📞 +47 926 20569
 
 ## Trampas para enjambres {#swarm-traps}
 

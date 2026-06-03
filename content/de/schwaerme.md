@@ -12,7 +12,7 @@ Sie haben einen Schwarm entdeckt — eine Traube von Bienen in einem Baum, unter
 
 Ich fange Bienenschwärme in **Bergen** und Umgebung **kostenlos** ein. Ein Schwarm ist nicht gefährlich, aber je schneller wir handeln, desto besser ist es für die Bienen.
 
-📧 [info@wenzel.no](mailto:info@wenzel.no) · 📞 [+47 926 20569](tel:+4792620569)
+📧 info@wenzl.no · 📞 +47 926 20569
 
 ## Schwarmfallen {#swarm-traps}
 
