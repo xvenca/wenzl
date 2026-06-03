@@ -85,7 +85,7 @@ Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, c
 Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia.
 
 ### Colmena horizontal accesible
-Mi propio diseño, con paredes aún más gruesas de madera maciza — en medida de cuadro noruega. Mi objetivo era hacer la apicultura accesible para todos, conservando la medida de cuadro noruega para seguir siendo compatible con otros apicultores. En lugar de alzas, tiene un ligero techo de aluminio con bisagras, de modo que la colmena se abre de forma rápida y fácil. Pueden trabajar con ella niños, personas con dolor de espalda e incluso usuarios de silla de ruedas. *(La colmena amarilla.)*
+Mi propio diseño, con paredes aún más gruesas de madera maciza y la medida estándar de cuadro noruega. Mi objetivo era hacer la apicultura accesible para todos y asegurar que la colmena use cuadros noruegos habituales para seguir siendo compatible con otros apicultores. En lugar de alzas, tiene un ligero techo de aluminio con bisagras, de modo que la colmena se abre de forma rápida y fácil. Pueden trabajar con ella niños, personas con dolor de espalda e incluso usuarios de silla de ruedas. *(La colmena amarilla.)*
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme para precios y plazos de entrega.*
 
