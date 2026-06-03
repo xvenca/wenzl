@@ -2,7 +2,7 @@
 
 ## Project Overview
 - This is a Hugo-based static website for wenzel.no, showcasing local crafts, farming, and beekeeping in Bergen, Norway.
-- Content is bilingual (Norwegian Bokmål and English) and organized in `content/no/` and `content/en/` directories.
+- Content is multilingual and currently organized in these language variants: `content/cs/`, `content/cu/`, `content/de/`, `content/en/`, `content/es/`, `content/no/`, `content/pl/`, `content/ru/`, and `content/uk/`.
 - The site is minimalist, image-heavy, and avoids any commercial or sales language.
 
 ## Architecture & Structure
@@ -13,7 +13,7 @@
 - **Theme:** Use a lightweight Hugo theme (preferably Tailwind CSS-based).
 
 ## Key Patterns & Conventions
-- **Bilingual Support:** All content must exist in both Norwegian and English. Use Hugo’s i18n for translations.
+- **Multilingual Support:** When changing page content, update all relevant language variants: `cs`, `cu`, `de`, `en`, `es`, `no`, `pl`, `ru`, `uk`. For content edits, use the `multilingual-content-parity` skill and validate that the wording appears in every affected language variant, reads naturally, and preserves the intended meaning.
 - **Frontmatter:** Each markdown file uses YAML frontmatter for title, description, and image.
 - **No Pricing/Sales:** Never mention prices or direct sales. Focus on portfolio and community.
 - **Contact Info:** Only email and phone (no social media, no American servers).
@@ -37,7 +37,7 @@
 
 ## References
 - See `README.md` for full architecture, setup, and conventions.
-- Key directories: `content/no/`, `content/en/`, `static/images/`, `config.toml`.
+- Key directories: `content/cs/`, `content/cu/`, `content/de/`, `content/en/`, `content/es/`, `content/no/`, `content/pl/`, `content/ru/`, `content/uk/`, `static/images/`, `config.toml`.
 
 ---
 Project tasks and priorities (single source of truth)

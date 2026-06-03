@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bikuber"
 description: "Håndlagde liggebikuber i norsk rammemål — Gregor-kuben, ukrainsk liggebikube og en universelt tilgjengelig kube for naturlig birøkt."
 image: "/images/birokt-hero.jpg"
@@ -14,7 +14,7 @@ En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over fo
 
 ## Ukrainsk liggebikube
 
-Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi.
+Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi, ofte i et lite apihus der kubene står under en liggeplass eller seng, slik at folk kan hvile og sove over dem. Det er en rolig måte å slappe av på og komme nærmere naturen.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainske liggebikuber i hagen i Bergen." caption="Ukrainske liggebikuber i hagen i Bergen." >}}
 

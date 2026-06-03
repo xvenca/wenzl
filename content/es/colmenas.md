@@ -14,7 +14,7 @@ Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, c
 
 ## Colmena horizontal ucraniana
 
-Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia.
+Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia, a menudo en una pequeña casita de apiterapia llamada apidomek, donde las colmenas se colocan bajo una cama o plataforma de descanso para que la gente pueda relajarse y dormir sobre ellas. Es una forma excelente de relajarse y sentirse más cerca de la naturaleza.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Colmenas horizontales ucranianas en un jardín de Bergen." caption="Colmenas horizontales ucranianas en un jardín de Bergen." >}}
 

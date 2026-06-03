@@ -1,4 +1,4 @@
----
+﻿---
 title: "Beehives"
 description: "Handcrafted wooden horizontal hives in Norwegian frame size — Gregor hives, Ukrainian hives, and an accessible hive for natural beekeeping."
 image: "/images/birokt-hero.jpg"
@@ -14,7 +14,7 @@ An insulated wooden Gregor-type horizontal hive in Norwegian frame dimensions wi
 
 ## Ukrainian Horizontal Hive
 
-Built after the tradition of my wife's grandfather, who kept bees in Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy.
+Built after the tradition of my wife's grandfather, who kept bees in Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy, often in a small bee house known as an apidomek, where the hives stand beneath a bed or resting platform so people can relax and sleep above them. It is a calm way to unwind and feel closer to nature.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainian horizontal hives in a garden in Bergen." caption="Ukrainian horizontal hives in a garden in Bergen." >}}
 

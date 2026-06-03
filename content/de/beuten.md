@@ -14,7 +14,7 @@ Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei H
 
 ## Ukrainische Lagerbeute
 
-Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet.
+Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet, oft in einem kleinen Apihäuschen, in dem die Beuten unter einer Liege oder einem Bett stehen, sodass Menschen darüber ruhen oder schlafen können. Das ist eine wunderbare Form der Entspannung und eine Möglichkeit, der Natur näher zu sein.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainische Lagerbeuten im Garten in Bergen." caption="Ukrainische Lagerbeuten im Garten in Bergen." >}}
 

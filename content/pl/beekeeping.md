@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pszczelarstwo w Norwegii"
 description: "Certyfikowany pszczelarz w Norwegii z bazą w Bergen — naturalna gospodarka pasieczna, łapanie rojów, zapylanie i tradycyjne drewniane ule ręcznej roboty"
 image: "/images/birokt-hero.jpg"
@@ -74,7 +74,7 @@ Masz ogród, małe gospodarstwo lub działkę w rejonie Bergen? Oferuję swoje r
 Ocieplany drewniany leżak typu Gregor na norweski rozmiar ramki z dwoma nadstawkami u góry do zimowego podziału rodziny. Został rozwinięty w Bergen i z myślą o warunkach Bergen, aby chronić pszczoły w deszczowej pogodzie i zapewniać im komfort również zimą. Ten typ ula pierwotnie wykonywał mój przyjaciel Jan Gregor, od którego przejąłem pałeczkę i zgodę na dalsze wytwarzanie tych uli; z myślą o deszczowym Bergen ich zewnętrzny płaszcz jest dodatkowo zabezpieczony przed wodą. Nadstawki naturalnie ogrzewają się od rodziny poniżej — to delikatne dla pszczół w chłodnym sezonie.
 
 ### Ukraiński leżak — rodzinna tradycja
-Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukrainie. Grubościenne korpusy naśladują naturalną dziuplę i zapewniają świetną izolację. Ten typ ula jest tradycyjnie używany także w apiterapii.
+Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukrainie. Grubościenne korpusy naśladują naturalną dziuplę i zapewniają świetną izolację. Ten typ ula jest tradycyjnie używany także w apiterapii, często w małym domku do apiterapii, gdzie ule stoją pod leżanką lub łóżkiem, a ludzie odpoczywają lub śpią nad nimi. To świetny sposób na relaks i bycie bliżej natury.
 
 ### Bezbarierowy leżak
 Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ściany z litego drewna i standardowy norweski rozmiar ramki. Moim celem było udostępnić pszczelarstwo wszystkim, a jednocześnie zadbać o to, by ul używał zwykłych norweskich ramek i pozostawał kompatybilny z wyposażeniem innych pszczelarzy także w surowych północnych warunkach. To kluczowe wtedy, gdy słabą rodzinę trzeba wzmocnić czerwiem z innej rodziny. Jako izolację można w nim użyć wełny od lokalnych norweskich owiec. Nad główną rodziną nie ma nadstawek, lecz lekką aluminiową pokrywę na zawiasach, dzięki czemu ul jest szybko i łatwo dostępny. Mogą przy nim pracować także dzieci, osoby z bólem pleców, a nawet osoby poruszające się na wózku. To bezbarierowy ul pszczelarski. *(Żółty ul.)*
