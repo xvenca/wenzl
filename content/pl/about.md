@@ -30,7 +30,7 @@ Moja droga nabrała akademickiego kierunku, gdy usłyszałem wykład **[doc. Ing
 
 ## Pszczelarstwo w Norwegii
 
-Dziś zajmuję się pszczelarstwem w **Norwegii**, mając bazę w **Bergen**, gdzie jestem **certyfikowanym pszczelarzem**. Sam buduję swoje drewniane ule — między innymi ukraińskie leżaki i ocieplany drewniany ul typu Gregor. Ten ul pierwotnie wykonywał mój przyjaciel Jan Gregor, od którego przejąłem pałeczkę i zgodę na dalsze wytwarzanie tych uli; z myślą o deszczowym Bergen ich zewnętrzny płaszcz jest dodatkowo zabezpieczony przed wodą. Prowadzę naturalną gospodarkę pasieczną: pozwalam pszczołom budować tak, jak chcą, i nie odbieram im miodu. Miód należy do pszczół.
+Dziś zajmuję się pszczelarstwem w **Norwegii**, mając bazę w **Bergen**, gdzie jestem **certyfikowanym pszczelarzem**. Sam buduję swoje drewniane ule — między innymi ukraińskie leżaki i ocieplany drewniany ul typu Gregor. Ten ul pierwotnie wykonywał mój przyjaciel Jan Gregor, od którego przejąłem pałeczkę i zgodę na dalsze wytwarzanie tych uli; z myślą o deszczowym Bergen ich zewnętrzny płaszcz jest dodatkowo zabezpieczony przed wodą. Stosuję naturalne metody tam, gdzie to możliwe: pozwalam pszczołom budować tak, jak chcą, i dbam o to, by zostało im dość miodu do jedzenia i na zimę — uważam, że pszczoły powinny zimować na miodzie, a nie na cukrze. Miód odbieram dopiero wtedy, gdy własne zimowe zapasy rodziny są zabezpieczone.
 
 Obecnie opiekuję się pięcioma rodzinami i stale buduję kolejne ule. Zgłaszają się już do mnie osoby zainteresowane moimi ulami.
 
