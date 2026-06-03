@@ -14,6 +14,12 @@ Recojo enjambres de abejas **de forma gratuita** en Bergen y sus alrededores. Un
 
 📧 info@wenzl.no · 📞 +47 926 20569
 
+### Bergen, 16.5.2025: enjambre en un parque infantil
+
+{{< swarm-playground-gallery >}}
+
+El 16 de mayo de 2025 me llamaron desde un barrio de Bergen porque un enjambre se había posado en un arbusto de un parque infantil. Recogí el enjambre y me lo llevé, así que los niños pudieron volver a jugar allí sin molestias.
+
 ## Trampas para enjambres {#swarm-traps}
 
 Las abejas que enjambran pueden instalarse donde menos lo deseas — en una chimenea, una cavidad o detrás de una fachada de madera. Retirar una colonia ya establecida de un edificio en Noruega es caro y complicado.

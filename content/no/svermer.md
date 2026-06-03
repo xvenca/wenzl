@@ -14,6 +14,12 @@ Jeg fanger biesværmer **gratis** i Bergen og omegn. En sverm er ikke farlig, me
 
 📧 info@wenzl.no · 📞 +47 926 20569
 
+### Bergen 16.5.2025: sverm på en lekeplass
+
+{{< swarm-playground-gallery >}}
+
+Den 16. mai 2025 ble jeg ringt til et boligområde i Bergen fordi en sverm hadde satt seg i en busk på en lekeplass. Jeg samlet inn svermen og tok den med meg, slik at barna kunne bruke lekeplassen uforstyrret igjen.
+
 ## Svermfeller {#svermfeller}
 
 Bier som svermer kan slå seg ned der du minst ønsker det — i en skorstein, et hulrom eller bak en trefasade. Å fjerne et etablert bisamfunn fra en bygning i Norge er kostbart og vanskelig.

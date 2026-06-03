@@ -14,6 +14,12 @@ Bezpłatnie odławiam roje pszczele w **Bergen** i okolicy. Rój nie jest niebez
 
 📧 info@wenzl.no · 📞 +47 926 20569
 
+### Bergen, 16.5.2025: rój na placu zabaw
+
+{{< swarm-playground-gallery >}}
+
+16 maja 2025 roku mieszkańcy jednej z dzielnic Bergen wezwali mnie, bo rój usiadł w krzewie na placu zabaw. Zebrałem rój i wywiozłem go, dzięki czemu dzieci mogły znowu bawić się tam spokojnie.
+
 ## Pułapki rojowe {#swarm-traps}
 
 Rój może osiąść tam, gdzie najmniej tego chcesz — w kominie, pustce ściennej albo za drewnianą elewacją. Usuwanie już osiadłej rodziny z budynku w Norwegii jest trudne i kosztowne.

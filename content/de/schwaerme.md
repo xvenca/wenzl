@@ -14,6 +14,12 @@ Ich fange Bienenschwärme in **Bergen** und Umgebung **kostenlos** ein. Ein Schw
 
 📧 info@wenzl.no · 📞 +47 926 20569
 
+### Bergen, 16.5.2025: Schwarm auf einem Kinderspielplatz
+
+{{< swarm-playground-gallery >}}
+
+Am 16. Mai 2025 wurde ich in ein Wohnviertel in Bergen gerufen, weil sich ein Schwarm in einem Busch auf einem Kinderspielplatz niedergelassen hatte. Ich sammelte den Schwarm ein und brachte ihn weg, sodass die Kinder dort wieder ungestört spielen konnten.
+
 ## Schwarmfallen {#swarm-traps}
 
 Schwärmende Bienen können sich dort niederlassen, wo Sie es am wenigsten möchten — im Schornstein, in Hohlräumen oder hinter einer Holzfassade. Ein bereits eingezogenes Volk aus einem Gebäude in Norwegen zu entfernen, ist aufwendig und teuer.

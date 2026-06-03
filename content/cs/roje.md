@@ -14,6 +14,12 @@ Odchytávám roje **zdarma** v Bergenu a okolí. Roj není nebezpečný, ale č�
 
 📧 info@wenzl.no · 📞 +47 926 20569
 
+### Bergen 16. 5. 2025: roj na dětském hřišti
+
+{{< swarm-playground-gallery >}}
+
+Dne 16. 5. 2025 mě zavolali obyvatelé jedné čtvrti v Bergenu, protože roj seděl v keři na dětském hřišti. Roj jsem sebral a odvezl, takže si tam děti mohly zase nerušeně hrát.
+
 ## Rojové pasti {#rojové-pasti}
 
 Rojící se včely se mohou usadit tam, kde je nejméně chcete — v komíně, dutině nebo za dřevěnou fasádou. Odstranit usazené včelstvo z budovy je v Norsku nákladné a obtížné.

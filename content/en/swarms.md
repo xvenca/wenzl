@@ -14,6 +14,12 @@ I collect bee swarms **free of charge** in Bergen and the surrounding area. A sw
 
 📧 info@wenzl.no · 📞 +47 926 20569
 
+### Bergen, May 16, 2025: swarm at a children's playground
+
+{{< swarm-playground-gallery >}}
+
+On May 16, 2025 I was called to a neighborhood in Bergen because a swarm had settled in a bush at a children's playground. I collected the swarm and took it away, so the children could play there again without disturbance.
+
 ## Swarm traps {#swarm-traps}
 
 Swarming bees can settle where you least want them — in a chimney, a cavity, or behind a wooden facade. Removing an established colony from a building in Norway is expensive and difficult.

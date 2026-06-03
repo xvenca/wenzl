@@ -72,6 +72,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
    - Acceptance: All language variants have a dedicated page; main navigation links to it; homepage swarm-related cards point there instead of the general beekeeping page.
    - ETA: 2-4 hours
    - status: done; multilingual swarm case-study pages and building-swarm video gallery committed directly on `main` after validation with `hugo --minify`.
+   - status: done; added a new Bergen 16.5.2025 playground swarm gallery and lead case block near the top of all swarms language variants, validated with `hugo --minify`.
 
 11) Pollinators in cities topic [x]
    - What: Add a separate multilingual page and menu entry for pollinator-friendly cities with planting, habitat, and gentle maintenance guidance.
