@@ -16,3 +16,12 @@
   {{- end }}
 </div>
 {{- end -}}
+{{- $vid := "/videos/zluty-lezan.mp4" -}}
+{{- if fileExists (printf "static%s" $vid) }}
+<div class="not-prose mt-4 mb-8">
+  <video controls preload="metadata" playsinline poster="/images/hive-yellow-open.jpg"
+         class="w-full rounded-xl border border-amber-100 bg-stone-900 shadow-sm">
+    <source src="{{ $vid }}" type="video/mp4">
+  </video>
+</div>
+{{- end -}}
