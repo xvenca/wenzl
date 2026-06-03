@@ -14,9 +14,11 @@ Zateplený dřevěný ležan typu Gregor na norskou rámkovou míru se dvěma n�
 
 ## Ukrajinský ležan
 
-Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské ležany mi pomohl vyrobit kamarád z Ukrajiny. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii, často v apidomku, což je malá chata, kde úly stojí pod lehátkem nebo postelí a lidé nad nimi odpočívají či spí. Je to skvělý způsob relaxace a toho, jak být blíže přírodě. Pokud byste chtěli mít na svém pozemku apidomek, můžete se na mne obrátit. Můžeme se domluvit na realizaci a rád odborně zajistím výrobu úlů i chov včel.
+Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské ležany mi pomohl vyrobit kamarád z Ukrajiny. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii, často v apidomku, což je malá chata, kde úly stojí pod lehátkem nebo postelí a lidé nad nimi odpočívají či spí. Je to skvělý způsob relaxace a toho, jak být blíže přírodě.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrajinské ležany v zahradě v Bergenu." caption="Ukrajinské ležany v zahradě v Bergenu." >}}
+
+Pokud byste chtěli mít na svém pozemku apidomek, můžete se na mne obrátit. Můžeme se domluvit na realizaci a rád odborně zajistím výrobu úlů i chov včel.
 
 ## Bezbariérový ležan
 
