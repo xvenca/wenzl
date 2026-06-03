@@ -37,7 +37,7 @@ services:
 
 Me llamo **Martin Venclů** y soy apicultor certificado con base en Bergen, con la ambición de desarrollar proyectos apícolas en más lugares de Noruega con el tiempo. Las abejas son parte de mi vida desde la infancia en **Obora** — un pueblo de Moravia del Sur, República Checa, con una tradición apícola de siglos, cuyo escudo lleva un panal y un árbol.
 
-Practico la apicultura natural: mis colonias construyen libremente en cuadros vacíos, dejo la miel a las abejas y me centro en formar colonias sanas y resistentes para las generaciones futuras, en lugar de maximizar la producción.
+Aplico métodos naturales siempre que es posible: mis colonias construyen libremente en cuadros vacíos, dejo a las abejas suficiente miel para invernar y me centro en formar colonias sanas y resistentes para las generaciones futuras, en lugar de maximizar la producción.
 
 ---
 

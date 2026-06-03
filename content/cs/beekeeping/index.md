@@ -37,7 +37,7 @@ services:
 
 Jmenuji se **Martin Venclů** a jsem certifikovaný včelař se základnou v Bergenu, s cílem postupně rozvíjet včelařské projekty i na dalších místech v Norsku. Včely jsou součástí mého života od dětství v **Oboře** — obci na Blanensku v jižní Moravě s bohatou včelařskou tradicí sahající staletí zpět. Obora nese ve svém znaku plastev medu a strom.
 
-Věnuji se přírodnímu včelaření: svá včelstva chovám s respektem k včelám, med jim nechávám a zaměřuji se na budování zdravých včelstev pro budoucí generace.
+Používám přírodní metody, kde to jde: svá včelstva chovám s respektem k včelám, nechávám jim dost medu na zimu a zaměřuji se na budování zdravých včelstev pro budoucí generace.
 
 ---
 

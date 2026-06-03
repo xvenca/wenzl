@@ -37,7 +37,7 @@ services:
 
 Ich heiße **Martin Venclů** und bin zertifizierter Imker mit Basis in Bergen. Zugleich möchte ich im Laufe der Zeit Imkereiprojekte auch an weiteren Orten in Norwegen aufbauen. Bienen begleiten mein Leben seit meiner Kindheit in **Obora** — einem Dorf in Südmähren in Tschechien mit jahrhundertealter Imkertradition, dessen Wappen eine Wabe und einen Baum zeigt.
 
-Ich arbeite naturnah: Meine Völker bauen frei in leeren Rähmchen, ich lasse ihnen ihren Honig, und mein Ziel ist nicht maximale Produktion, sondern gesunde und widerstandsfähige Völker für kommende Generationen.
+Ich arbeite mit naturnahen Methoden, wo es geht: Meine Völker bauen frei in leeren Rähmchen, ich lasse ihnen genug Honig zum Überwintern, und mein Ziel ist nicht maximale Produktion, sondern gesunde und widerstandsfähige Völker für kommende Generationen.
 
 ## Schwarmfang in Bergen und Umgebung {#swarm-collection-in-bergen}
 
