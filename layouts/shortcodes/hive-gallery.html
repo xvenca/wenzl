@@ -1,16 +1,17 @@
 {{- $imgs := slice
-  (dict "src" "/images/hive-yellow-field.jpg" "alt" "The yellow accessible hive out in the field near Bergen, beside a traditional hive")
-  (dict "src" "/images/hive-yellow-front.jpg" "alt" "The accessible hive built by hand at Bergen Fellesverksted, with an aluminium roof and solid hinges")
-  (dict "src" "/images/hive-yellow-open.jpg" "alt" "The accessible hive open, with the hinged aluminium roof raised")
-  (dict "src" "/images/hive-yellow-topbars.jpg" "alt" "Placing a top board on the accessible hive, showing the easy top access")
+  (dict "src" "/images/hive-yellow-field.jpg" "cap" (.Get "field"))
+  (dict "src" "/images/hive-yellow-front.jpg" "cap" (.Get "front"))
+  (dict "src" "/images/hive-yellow-open.jpg" "cap" (.Get "open"))
+  (dict "src" "/images/hive-yellow-topbars.jpg" "cap" (.Get "topbars"))
 -}}
 {{- $shown := slice -}}
 {{- range $imgs }}{{ if fileExists (printf "static%s" .src) }}{{ $shown = $shown | append . }}{{ end }}{{- end -}}
 {{- with $shown }}
 <div class="not-prose my-8 grid grid-cols-1 sm:grid-cols-2 gap-3">
   {{- range . }}
-  <figure class="overflow-hidden rounded-xl border border-amber-100 bg-white shadow-sm">
-    <img src="{{ .src }}" alt="{{ .alt }}" loading="lazy" decoding="async" class="w-full h-56 object-cover">
+  <figure class="overflow-hidden rounded-xl border border-amber-100 bg-white shadow-sm flex flex-col">
+    <img src="{{ .src }}" alt="{{ .cap | default "Den gule, universelt tilgjengelige kuben" }}" loading="lazy" decoding="async" class="w-full h-56 object-cover">
+    {{- with .cap }}<figcaption class="px-3.5 py-3 text-sm text-stone-600 leading-snug">{{ . }}</figcaption>{{- end }}
   </figure>
   {{- end }}
 </div>

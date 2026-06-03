@@ -22,6 +22,6 @@ im norwegischen Rähmchenmaß
 
 Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch dickere Wände aus Massivholz — im norwegischen Rähmchenmaß. Mein Ziel war es, die Imkerei für alle zugänglich zu machen und zugleich das norwegische Rähmchenmaß zu bewahren, damit der Imker auch unter rauen nordischen Bedingungen mit anderen Imkern kompatibel bleibt. Das ist entscheidend, wenn ein schwaches Volk mit Brut aus einem anderen Volk gestärkt werden muss. Als Isolierung kann Schafwolle von lokalen norwegischen Schafen eingelegt werden. Über dem Hauptvolk hat sie keine Honigräume, sondern ein leichtes Aluminiumdach auf Scharnieren, damit die Beute schnell und einfach zugänglich ist. So können auch Kinder, Menschen mit Rückenschmerzen und sogar Rollstuhlfahrer damit imkern. Es ist eine barrierearme Imkerbeute. *(Die gelbe Beute.)*
 
-{{< hive-gallery >}}
+{{< hive-gallery field="Die gelbe, barrierearme Beute draußen im Feld bei Bergen — neben einer Gregor-Beute." front="Von Hand bei Bergen Fellesverksted gebaut, mit Aluminiumdach und stabilen Scharnieren." open="Das Klappdach lässt die ganze Beute schnell und einfach öffnen." topbars="Leichter Zugang von oben — schonende Pflege ohne schweres Heben." >}}
 
 Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
