@@ -37,7 +37,7 @@ for v in ["IMG_8635.MOV", "IMG_8637.MOV"]:
     d, res = probe(os.path.join(SRC_DIR, v))
     print(f"PROBE {v}: duration={d} resolution={res}")
 
-ok, out, size, err = convert("IMG_8635.MOV", "zluty-lezan.mp4")
-print(f"CONVERT IMG_8635 -> {out}: ok={ok} size={size/1024/1024:.2f} MB")
+ok, out, size, err = convert("IMG_8637.MOV", "zluty-lezan.mp4")
+print(f"CONVERT IMG_8637 -> {out}: ok={ok} size={size/1024/1024:.2f} MB")
 if not ok:
     print("ERR:", err)
