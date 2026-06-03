@@ -18,9 +18,8 @@ Built after the tradition of my wife's grandfather, who kept bees in Ukraine. Th
 
 ## Accessible Horizontal Hive
 
-Norwegian frame size
 
-It builds on the proven Gregor horizontal hive, but I use even thicker solid-wood walls — on Norwegian frame size. My goal was to make beekeeping accessible to everyone while preserving the Norwegian frame size, so that even in harsh northern conditions the beekeeper remains compatible with other beekeepers. That is crucial when a weak colony needs to be strengthened with brood from another colony. It can also be insulated with wool from local Norwegian sheep. Instead of supers above the main colony, it has a light hinged aluminium roof so the hive is quick and easy to access. Children, people with back pain, and even wheelchair users can work with it. It is an accessible beekeeping hive. *(The yellow hive.)*
+It builds on the proven Gregor horizontal hive, but I use even thicker solid-wood walls and the standard Norwegian frame size. My goal was to make beekeeping accessible to everyone while ensuring that the hive takes ordinary Norwegian frames, so it remains compatible with other beekeepers even in harsh northern conditions. That is crucial when a weak colony needs to be strengthened with brood from another colony. It can also be insulated with wool from local Norwegian sheep. Instead of supers above the main colony, it has a light hinged aluminium roof so the hive is quick and easy to access. Children, people with back pain, and even wheelchair users can work with it. It is an accessible beekeeping hive. *(The yellow hive.)*
 
 {{< hive-gallery field="The yellow accessible hive out in the field near Bergen — next to a Gregor hive." front="Built by hand at Bergen Fellesverksted, with an aluminium roof and solid hinges." open="The hinged roof makes the whole hive quick and easy to open." topbars="Easy top access — gentle tending without heavy lifting." >}}
 

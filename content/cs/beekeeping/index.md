@@ -86,7 +86,7 @@ Vyrobený podle tradice dědečka mé manželky. Tlustostěnné krabice imitují
 
 ### Bezbariérový ležan
 na norskou rámkovou míru
-Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silnější stěny z masivního dřeva — na norskou rámkovou míru. Mým cílem bylo zpřístupnit včelaření všem a zároveň zachovat norskou rámkovou míru, aby byl včelař i v drsných severských podmínkách kompatibilní s ostatními včelaři. To je klíčové ve chvíli, kdy je potřeba slabé včelstvo posílit plodem od jiného včelstva. Jako izolaci do něj lze přidat ovčí vlnu od místních norských ovcí. Nad hlavním včelstvem nemá nástavky, ale lehkou hliníkovou střechu na pantech, aby byl rychle a snadno přístupný. Mohou v něm včelařit i děti, lidé s bolestmi zad nebo lidé na invalidním vozíku. Je to bezbariérový včelařský úl. *(Žlutý úl.)*
+Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silnější stěny z masivního dřeva a standardní norskou rámkovou míru. Mým cílem bylo zpřístupnit včelaření všem a zároveň zachovat kompatibilitu s běžnými norskými rámky, aby úl dobře fungoval i v drsných severských podmínkách a spolu s vybavením ostatních včelařů. To je klíčové ve chvíli, kdy je potřeba slabé včelstvo posílit plodem od jiného včelstva. Jako izolaci do něj lze přidat ovčí vlnu od místních norských ovcí. Nad hlavním včelstvem nemá nástavky, ale lehkou hliníkovou střechu na pantech, aby byl rychle a snadno přístupný. Mohou v něm včelařit i děti, lidé s bolestmi zad nebo lidé na invalidním vozíku. Je to bezbariérový včelařský úl. *(Žlutý úl.)*
 
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
 
