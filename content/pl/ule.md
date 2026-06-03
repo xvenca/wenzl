@@ -18,7 +18,7 @@ Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukr
 
 ## Bezbarierowy leżak
 
-na norweski rozmiar ramki
+ze standardowym norweskim rozmiarem ramki
 
 Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ściany z litego drewna i standardowy norweski rozmiar ramki. Moim celem było udostępnić pszczelarstwo wszystkim, a jednocześnie zadbać o to, by ul używał zwykłych norweskich ramek i pozostawał kompatybilny z wyposażeniem innych pszczelarzy także w surowych północnych warunkach. To kluczowe wtedy, gdy słabą rodzinę trzeba wzmocnić czerwiem z innej rodziny. Jako izolację można w nim użyć wełny od lokalnych norweskich owiec. Nad główną rodziną nie ma nadstawek, lecz lekką aluminiową pokrywę na zawiasach, dzięki czemu ul jest szybko i łatwo dostępny. Mogą przy nim pracować także dzieci, osoby z bólem pleców, a nawet osoby poruszające się na wózku. To bezbarierowy ul pszczelarski. *(Żółty ul.)*
 
