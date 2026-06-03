@@ -30,7 +30,7 @@ Veien min tok en akademisk vending da jeg hørte **[doc. Ing. Antonín Přidal, 
 
 ## Birøkt i Bergen
 
-I dag holder jeg bier i **Bergen**, der jeg er **sertifisert birøkter**. Jeg bygger mine egne bikuber i tre — blant annet ukrainske liggebikuber og den isolerte Gregor-kuben i tre. Den ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Jeg driver naturlig birøkt: jeg lar biene bygge slik de selv vil, og jeg høster ikke honningen deres. Honningen tilhører biene.
+I dag holder jeg bier i **Bergen**, der jeg er **sertifisert birøkter**. Jeg bygger mine egne bikuber i tre — blant annet ukrainske liggebikuber og den isolerte Gregor-kuben i tre. Den ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Jeg bruker naturnære metoder der jeg kan: jeg lar biene bygge slik de selv vil, og jeg passer på at de beholder nok honning til å spise og til å overvintre på — jeg mener bier bør overvintre på honning, ikke på sukker. Jeg tar bare honning når bisamfunnets egne vinterlager er trygge.
 
 For tiden steller jeg fem bisamfunn, og jeg bygger stadig flere kuber. Folk har allerede begynt å ta kontakt fordi de er interesserte i kubene mine.
 

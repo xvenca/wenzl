@@ -30,7 +30,7 @@ Mi camino dio un giro académico cuando escuché al **[doc. Ing. Antonín Přida
 
 ## Apicultura en Bergen
 
-Hoy tengo abejas en **Bergen**, donde soy **apicultor certificado**. Construyo mis propias colmenas de madera — incluidas las colmenas horizontales ucranianas y la colmena Gregor de madera aislada. Esa colmena la fabricaba originalmente mi amigo Jan Gregor, de quien tomé el relevo y recibí permiso para seguir haciéndolas; para el lluvioso Bergen, la carcasa exterior está además protegida contra el agua. Practico la apicultura natural: dejo que las abejas construyan como deseen, y no cosecho su miel. La miel pertenece a las abejas.
+Hoy tengo abejas en **Bergen**, donde soy **apicultor certificado**. Construyo mis propias colmenas de madera — incluidas las colmenas horizontales ucranianas y la colmena Gregor de madera aislada. Esa colmena la fabricaba originalmente mi amigo Jan Gregor, de quien tomé el relevo y recibí permiso para seguir haciéndolas; para el lluvioso Bergen, la carcasa exterior está además protegida contra el agua. Aplico métodos naturales siempre que puedo: dejo que las abejas construyan como deseen, y me aseguro de que conserven suficiente miel para comer y para invernar — creo que las abejas deben invernar con miel, no con azúcar. Solo tomo miel cuando las reservas invernales de la colonia están aseguradas.
 
 Actualmente cuido cinco colonias y sigo construyendo más colmenas. La gente ya ha empezado a escribirme porque le interesan mis colmenas.
 
