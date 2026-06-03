@@ -16,6 +16,8 @@ Zateplený dřevěný ležan typu Gregor na norskou rámkovou míru se dvěma n�
 
 Vyrobený podle tradice dědečka mé manželky. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii.
 
+{{< figure src="/images/hive-ukrainian.jpg" alt="Ukrajinské ležany v zahradě v Bergenu." caption="Ukrajinské ležany v zahradě v Bergenu." >}}
+
 ## Bezbariérový ležan
 
 Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silnější stěny z masivního dřeva a standardní norskou rámkovou míru. Mým cílem bylo zpřístupnit včelaření všem a zároveň zachovat kompatibilitu s běžnými norskými rámky, aby úl dobře fungoval i v drsných severských podmínkách a spolu s vybavením ostatních včelařů. To je klíčové ve chvíli, kdy je potřeba slabé včelstvo posílit plodem od jiného včelstva. Jako izolaci do něj lze přidat ovčí vlnu od místních norských ovcí. Nad hlavním včelstvem nemá nástavky, ale lehkou hliníkovou střechu na pantech, aby byl rychle a snadno přístupný. Mohou v něm včelařit i děti, lidé s bolestmi zad nebo lidé na invalidním vozíku. Je to bezbariérový včelařský úl. *(Žlutý úl.)*

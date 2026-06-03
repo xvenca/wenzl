@@ -16,6 +16,8 @@ En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over fo
 
 Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi.
 
+{{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainske liggebikuber i hagen i Bergen." caption="Ukrainske liggebikuber i hagen i Bergen." >}}
+
 ## Universelt tilgjengelig liggebikube
 
 
