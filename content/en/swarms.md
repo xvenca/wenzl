@@ -1,8 +1,8 @@
 ---
 title: "Swarms"
 description: "Swarm collection in Bergen and surrounding areas, and swarm traps to protect buildings before bees settle in chimneys or facades — free in Bergen and across Norway."
-image: "/images/birokt-hero.jpg"
-alt: "Swarm collection and swarm traps"
+image: "/images/swarm-playground-bergen-2025/01.jpg"
+alt: "Swarm collection box by a playground bush in Bergen"
 translationKey: "swarms"
 ---
 
@@ -15,8 +15,6 @@ I collect bee swarms **free of charge** in Bergen and the surrounding area. A sw
 📧 info@wenzl.no · 📞 +47 926 20569
 
 ### Bergen, May 16, 2025: swarm at a children's playground
-
-{{< swarm-playground-gallery >}}
 
 On May 16, 2025 I was called to a neighborhood in Bergen because a swarm had settled in a bush at a children's playground. I collected the swarm and took it away, so the children could play there again without disturbance.
 

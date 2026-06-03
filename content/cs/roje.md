@@ -1,8 +1,8 @@
 ---
 title: "Roje"
 description: "Odchyt rojů v Bergenu a okolí a rojové pasti pro ochranu budov před roji — zdarma v Bergenu i po celém Norsku."
-image: "/images/birokt-hero.jpg"
-alt: "Odchyt rojů a rojové pasti"
+image: "/images/swarm-playground-bergen-2025/01.jpg"
+alt: "Rojová bedýnka u keře na dětském hřišti v Bergenu"
 translationKey: "swarms"
 ---
 
@@ -15,8 +15,6 @@ Odchytávám roje **zdarma** v Bergenu a okolí. Roj není nebezpečný, ale č�
 📧 info@wenzl.no · 📞 +47 926 20569
 
 ### Bergen 16. 5. 2025: roj na dětském hřišti
-
-{{< swarm-playground-gallery >}}
 
 Dne 16. 5. 2025 mě zavolali obyvatelé jedné čtvrti v Bergenu, protože roj seděl v keři na dětském hřišti. Roj jsem sebral a odvezl, takže si tam děti mohly zase nerušeně hrát.
 

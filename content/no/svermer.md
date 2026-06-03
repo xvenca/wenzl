@@ -1,8 +1,8 @@
 ---
 title: "Svermer"
 description: "Svermfangst i Bergen og omegn, og svermfeller som beskytter bygninger før biene slår seg ned i skorstein eller fasade — gratis i Bergen og i hele Norge."
-image: "/images/birokt-hero.jpg"
-alt: "Svermfangst og svermfeller"
+image: "/images/swarm-playground-bergen-2025/01.jpg"
+alt: "Svermkasse ved en busk på en lekeplass i Bergen"
 translationKey: "swarms"
 ---
 
@@ -15,8 +15,6 @@ Jeg fanger biesværmer **gratis** i Bergen og omegn. En sverm er ikke farlig, me
 📧 info@wenzl.no · 📞 +47 926 20569
 
 ### Bergen 16.5.2025: sverm på en lekeplass
-
-{{< swarm-playground-gallery >}}
 
 Den 16. mai 2025 ble jeg ringt til et boligområde i Bergen fordi en sverm hadde satt seg i en busk på en lekeplass. Jeg samlet inn svermen og tok den med meg, slik at barna kunne bruke lekeplassen uforstyrret igjen.
 

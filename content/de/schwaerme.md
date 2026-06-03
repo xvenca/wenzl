@@ -1,8 +1,8 @@
 ---
 title: "Schwärme"
 description: "Schwarmfang in Bergen und Umgebung sowie Schwarmfallen, die Gebäude schützen, bevor Bienen sich im Schornstein oder an der Fassade niederlassen — kostenlos in Bergen und in ganz Norwegen."
-image: "/images/birokt-hero.jpg"
-alt: "Schwarmfang und Schwarmfallen"
+image: "/images/swarm-playground-bergen-2025/01.jpg"
+alt: "Schwarmfangkiste an einem Busch auf einem Spielplatz in Bergen"
 translationKey: "swarms"
 ---
 
@@ -15,8 +15,6 @@ Ich fange Bienenschwärme in **Bergen** und Umgebung **kostenlos** ein. Ein Schw
 📧 info@wenzl.no · 📞 +47 926 20569
 
 ### Bergen, 16.5.2025: Schwarm auf einem Kinderspielplatz
-
-{{< swarm-playground-gallery >}}
 
 Am 16. Mai 2025 wurde ich in ein Wohnviertel in Bergen gerufen, weil sich ein Schwarm in einem Busch auf einem Kinderspielplatz niedergelassen hatte. Ich sammelte den Schwarm ein und brachte ihn weg, sodass die Kinder dort wieder ungestört spielen konnten.
 

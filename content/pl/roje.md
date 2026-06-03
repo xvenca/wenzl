@@ -1,8 +1,8 @@
 ---
 title: "Roje"
 description: "Łapanie rojów w Bergen i okolicy oraz pułapki rojowe chroniące budynki, zanim pszczoły osiądą w kominie lub elewacji — bezpłatnie w Bergen i w całej Norwegii."
-image: "/images/birokt-hero.jpg"
-alt: "Łapanie rojów i pułapki rojowe"
+image: "/images/swarm-playground-bergen-2025/01.jpg"
+alt: "Skrzynka do zebrania roju przy krzewie na placu zabaw w Bergen"
 translationKey: "swarms"
 ---
 
@@ -15,8 +15,6 @@ Bezpłatnie odławiam roje pszczele w **Bergen** i okolicy. Rój nie jest niebez
 📧 info@wenzl.no · 📞 +47 926 20569
 
 ### Bergen, 16.5.2025: rój na placu zabaw
-
-{{< swarm-playground-gallery >}}
 
 16 maja 2025 roku mieszkańcy jednej z dzielnic Bergen wezwali mnie, bo rój usiadł w krzewie na placu zabaw. Zebrałem rój i wywiozłem go, dzięki czemu dzieci mogły znowu bawić się tam spokojnie.
 

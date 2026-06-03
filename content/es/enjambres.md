@@ -1,8 +1,8 @@
 ---
 title: "Enjambres"
 description: "Recogida de enjambres en Bergen y alrededores, y trampas para enjambres que protegen los edificios antes de que las abejas se instalen en chimeneas o fachadas — gratis en Bergen y en toda Noruega."
-image: "/images/birokt-hero.jpg"
-alt: "Recogida de enjambres y trampas para enjambres"
+image: "/images/swarm-playground-bergen-2025/01.jpg"
+alt: "Caja para recoger un enjambre junto a un arbusto en un parque infantil de Bergen"
 translationKey: "swarms"
 ---
 
@@ -15,8 +15,6 @@ Recojo enjambres de abejas **de forma gratuita** en Bergen y sus alrededores. Un
 📧 info@wenzl.no · 📞 +47 926 20569
 
 ### Bergen, 16.5.2025: enjambre en un parque infantil
-
-{{< swarm-playground-gallery >}}
 
 El 16 de mayo de 2025 me llamaron desde un barrio de Bergen porque un enjambre se había posado en un arbusto de un parque infantil. Recogí el enjambre y me lo llevé, así que los niños pudieron volver a jugar allí sin molestias.
 
