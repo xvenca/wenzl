@@ -12,13 +12,23 @@ Zobaczyłeś rój — kłąb pszczół na drzewie, pod okapem albo gdziekolwiek 
 
 Bezpłatnie odławiam roje pszczele w **Bergen** i okolicy. Rój nie jest niebezpieczny, ale im szybciej zareagujemy, tym lepiej dla pszczół.
 
-📧 [info@wenzl.no](mailto:info@wenzl.no) · 📞 [+47 926 20569](tel:+4792620569)
+📧 [info@wenzel.no](mailto:info@wenzel.no) · 📞 [+47 926 20569](tel:+4792620569)
 
 ## Pułapki rojowe {#swarm-traps}
 
-Rój może osiąść tam, gdzie najmniej tego chcesz — w kominie, pustce ściennej albo za drewnianą elewacją. Usuwanie już osiadłej rodziny z budynku jest trudne i kosztowne.
+Rój może osiąść tam, gdzie najmniej tego chcesz — w kominie, pustce ściennej albo za drewnianą elewacją. Usuwanie już osiadłej rodziny z budynku w Norwegii jest trudne i kosztowne.
+
+To nie jest teoria. W 2025 roku zadzwoniono do mnie do budynku mieszkalnego w Bergen, bo rój przeszkadzał mieszkańcom. Gdy przyjechałem, zobaczyłem, że pszczoły zdążyły już zasiedlić drewnianą elewację domu.
+
+Na tym etapie zwykłe złapanie roju już nie wystarczało. Musieliśmy wezwać profesjonalną firmę pszczelarską, która współpracuje ze specjalistyczną firmą budowlaną mającą uprawnienia do rozbierania części budynków zasiedlonych przez pszczoły i do pracy na wysokości.
+
+### Bergen 2025: rój w drewnianej elewacji
+
+{{< swarm-building-gallery >}}
 
 Proponuję prostsze rozwiązanie: **pułapki rojowe**. To niewielkie skrzynki wabikowe, które przyciągają roje, tak aby pszczoły wybrały pułapkę zamiast twojego budynku. Usługa jest **bezpłatna** — potrzebuję tylko zgody właściciela na ustawienie pułapki na posesji.
+
+Dla właściciela to znacznie tańszy sposób ochrony budynku, zanim pszczoły osiedlą się w konstrukcji. Dla mnie to także praktyczny sposób pozyskiwania nowych rodzin, więc takie rozwiązanie ma sens dla obu stron.
 
 Jeśli pułapka złapie rój, odbieram go, fachowo zajmuję się pszczołami w swoim **„szpitalu dla pszczół”** i dopilnowuję, by przetrwały zimę.
 

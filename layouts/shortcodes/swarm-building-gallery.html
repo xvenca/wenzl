@@ -1,0 +1,23 @@
+{{- $videos := slice
+  "/videos/swarm-building-bergen-2025/02.mp4"
+  "/videos/swarm-building-bergen-2025/03.mp4"
+  "/videos/swarm-building-bergen-2025/04.mp4"
+  "/videos/swarm-building-bergen-2025/05.mp4"
+-}}
+{{- $shown := slice -}}
+{{- range $videos -}}
+  {{- if fileExists (printf "static%s" .) -}}
+    {{- $shown = $shown | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- with $shown -}}
+<div class="not-prose my-8 grid grid-cols-1 md:grid-cols-2 gap-4">
+  {{- range . -}}
+  <figure class="overflow-hidden rounded-xl border border-amber-100 bg-stone-900 shadow-sm">
+    <video controls preload="metadata" class="w-full aspect-video bg-stone-900">
+      <source src="{{ . }}" type="video/mp4">
+    </video>
+  </figure>
+  {{- end -}}
+</div>
+{{- end -}}

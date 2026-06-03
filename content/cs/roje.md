@@ -12,13 +12,23 @@ Zaznamenali jste roj — shluk včel na stromě, pod okapem nebo kdekoli v okol�
 
 Odchytávám roje **zdarma** v Bergenu a okolí. Roj není nebezpečný, ale čím dříve zakročíme, tím lépe pro včely.
 
-📧 [info@wenzl.no](mailto:info@wenzl.no) · 📞 [+47 926 20569](tel:+4792620569)
+📧 [info@wenzel.no](mailto:info@wenzel.no) · 📞 [+47 926 20569](tel:+4792620569)
 
 ## Rojové pasti {#rojové-pasti}
 
-Rojící se včely se mohou usadit tam, kde je nejméně chcete — v komíně, dutině nebo za dřevěnou fasádou. Odstranit usazené včelstvo z budovy je nákladné a obtížné.
+Rojící se včely se mohou usadit tam, kde je nejméně chcete — v komíně, dutině nebo za dřevěnou fasádou. Odstranit usazené včelstvo z budovy je v Norsku nákladné a obtížné.
+
+To není teorie. V roce 2025 mi zavolali k bytovému domu v Bergenu, protože roj obtěžoval obyvatele. Když jsem přijel na místo, zjistil jsem, že včely už osídlily dřevěnou fasádu domu.
+
+V tu chvíli už nestačil běžný odchyt roje. Museli jsme volat profesionální včelařskou firmu, která spolupracuje se specializovanou stavební firmou s oprávněním rozebírat budovy osídlené včelami a pracovat ve výškách.
+
+### Bergen 2025: roj v dřevěné fasádě
+
+{{< swarm-building-gallery >}}
 
 Nabízím jednodušší řešení: **rojové pasti**. Jsou to malé lákací krabičky, které přitahují roje, takže si včely vyberou past místo vaší budovy. Služba je **zdarma** — stačí mi svolení majitele umístit past na pozemek.
+
+Pro majitele je to výrazně levnější způsob, jak dům ochránit dřív, než se včely usadí ve stavbě. Pro mne je to zároveň praktický způsob, jak získávat další včelstva, takže to dává smysl oběma stranám.
 
 Pokud se do pasti chytí roj, vyzvednu ho, včely odborně přeléčím ve své **„včelí nemocnici“** a postarám se, aby přežily zimu.
 

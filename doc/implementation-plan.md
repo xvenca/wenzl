@@ -71,7 +71,7 @@ This document is a practical, prioritized workplan to take the Hugo site from sc
    - What: Add a separate multilingual page and menu entry for swarm collection and building protection with swarm traps.
    - Acceptance: All language variants have a dedicated page; main navigation links to it; homepage swarm-related cards point there instead of the general beekeeping page.
    - ETA: 2-4 hours
-   - status: done locally; validated with `hugo --minify` pending commit/push.
+   - status: done; multilingual swarm case-study pages and building-swarm video gallery committed directly on `main` after validation with `hugo --minify`.
 
 11) Pollinators in cities topic [x]
    - What: Add a separate multilingual page and menu entry for pollinator-friendly cities with planting, habitat, and gentle maintenance guidance.
