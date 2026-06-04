@@ -6,15 +6,11 @@ alt: "Miasta dla pszczół"
 translationKey: "pollinators"
 ---
 
-## Każdy trzeci kęs
+## Kwiaty, które nas żywią
 
-**Każdy trzeci kęs jedzenia, który spożywasz, istnieje dlatego, że pszczoła, trzmiel, motyl lub bzygowiec odwiedził kwiat.**
+**Spośród 115 najważniejszych światowych roślin uprawnych aż 87 zależy od zapylania przez zwierzęta** — pszczoły, trzmiele, bzygowce i motyle odwiedzające kwiaty. To obejmuje większość owoców, warzyw, orzechów i nasion, które jemy. Bez tych owadów nasza dieta zubożałaby dramatycznie.
 
-Nie dzięki nawozom. Nie dzięki nawadnianiu. Dlatego, że owad przeleciał z kwiatu na kwiat.
-
-Ten owad jest zagrożony.
-
-**40% gatunków owadów na całym świecie jest w odwrocie.** Przyczyna nie jest tajemnicza: utrata siedlisk, zbyt dużo asfaltu, zbyt dużo pestycydów i zbyt wiele trawników koszonych do perfekcji, bez niczego, co mogłoby cokolwiek wykarmić.
+Dwudziestosiedmioletni monitoring w Niemczech udokumentował **75-procentowy spadek łącznej biomasy latających owadów** na chronionych obszarach przyrodniczych. Podobne tendencje odnotowano w całej Europie Północnej i Środkowej. Przyczyna nie jest tajemnicza: utrata siedlisk, zbyt dużo asfaltu, zbyt dużo pestycydów i zbyt wiele trawników koszonych do perfekcji, bez niczego, co mogłoby cokolwiek wykarmić.
 
 Miasta są częścią tego problemu. Ale miasta mogą też stać się częścią rozwiązania — szybciej, bardziej widocznie i skuteczniej niż niemal cokolwiek innego.
 
@@ -24,7 +20,7 @@ Miasta są częścią tego problemu. Ale miasta mogą też stać się częścią
 
 I nie chodzi tylko o pszczołę miodną. Każdy trzmiel, motyl i dzika pszczoła potrzebuje tego samego: kwiatów we właściwym miejscu we właściwym czasie. A miasta — z milionami balkonów, dachów, podwórek, fasad i trawników — mają tego miejsca więcej, niż większość ludzi zdaje sobie sprawę.
 
-**Miejskie tereny zielone, dobrze zarządzane, mogą wspierać więcej zapylaczy niż intensywnie uprawiane grunty rolne.** Łąka na dachu w środku miasta to nie romantyczny gest — to ekologia.
+**Badania w Wielkiej Brytanii wykazały, że obszary miejskie — ogrody, parki, pobocza dróg — charakteryzowały się wyższą liczebnością pszczół i bardziej zróżnicowanymi zbiorowiskami zapylaczy niż otaczający intensywnie użytkowany krajobraz rolniczy.** Łąka na dachu w środku miasta to nie romantyczny gest — to ekologia.
 
 ## Co możesz zrobić — dziś
 

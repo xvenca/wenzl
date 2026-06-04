@@ -1,20 +1,16 @@
 ---
 title: "Byer for bier"
-description: "Hvert tredje matbitt finnes fordi et insekt besøkte en blomst. Byer holder nøkkelen til å snu nedgangen — én balkong, ett tak, én ubleklipt plen om gangen."
+description: "87 av verdens 115 viktigste matplanter er avhengige av dyrebasert bestøvning. En 27-årig tysk studie registrerte 75 % nedgang i flygende insektbiomasse. Byer kan være en del av svaret — én balkong, ett tak, én ubleklipt plen om gangen."
 image: "/images/birokt-hero.jpg"
 alt: "Byer for bier"
 translationKey: "pollinators"
 ---
 
-## Hvert tredje matbitt
+## Blomstene som mater oss
 
-**Hvert tredje matbitt du spiser finnes fordi ei bie, ei humle, en sommerfugl eller en blomsterflue besøkte en blomst.**
+**Av verdens 115 viktigste matplanter er det 87 som er avhengige av dyrebasert bestøvning** — bier, humler, blomsterfluer og sommerfugler som besøker blomster. Det dekker det meste av frukt, grønnsaker, nøtter og frø vi spiser. Uten disse insektene ville kostholdet vårt bli dramatisk innsnevret.
 
-Ikke på grunn av gjødsel. Ikke på grunn av vanning. Fordi et insekt fløy fra blomst til blomst.
-
-Det insektet er i trøbbel.
-
-**40 % av insektartene er i tilbakegang globalt.** Årsaken er ikke mystisk: for lite habitat, for mye asfalt, for mye plantevernmidler og for mange plener som klippes til perfeksjon uten at noe er igjen til å fø noe som helst.
+Et 27-årig overvåkingsprogram i Tyskland dokumenterte et **fall på 75 % i samlet biomasse av flygende insekter** i vernede naturområder. Lignende tendenser er registrert over hele Nord- og Sentral-Europa. Årsaken er ikke mystisk: for lite habitat, for mye asfalt, for mye plantevernmidler og for mange plener som klippes til perfeksjon uten at noe er igjen til å fø noe som helst.
 
 Byer er en del av dette problemet. Men byer kan også bli en del av løsningen — raskere, mer synlig og mer kraftfullt enn nesten hva som helst annet.
 
@@ -24,7 +20,7 @@ Byer er en del av dette problemet. Men byer kan også bli en del av løsningen �
 
 Og dette handler ikke bare om honningbier. Hver humle, sommerfugl og villbie er avhengig av det samme: blomster på rett sted til rett tid. Og byer — med sine millioner av balkonger, tak, bakgårder, fasader og plener — har mer av det rommet enn de fleste aner.
 
-**Urbane grøntarealer, godt forvaltet, kan støtte flere pollinatorer enn intensivt dyrket jordbruksland.** En takvei midt i en by er ikke et romantisk grep — det er økologi.
+**Forskning i Storbritannia fant at urbane arealer — hager, parker, vegkanter — støttet høyere antall bier og mer mangfoldige pollinatorsamfunn enn det omliggende intensivt drevne jordbrukslandskapet.** En takvei midt i en by er ikke et romantisk grep — det er økologi.
 
 ## Hva du kan gjøre — i dag
 

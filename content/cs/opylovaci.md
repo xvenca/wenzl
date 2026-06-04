@@ -6,15 +6,11 @@ alt: "Města pro včely"
 translationKey: "pollinators"
 ---
 
-## Každé třetí sousto
+## Květy, které nás živí
 
-**Každé třetí sousto jídla, které sníte, existuje proto, že včela, čmelák, motýl nebo pestřenka navštívila květ.**
+**Ze 115 nejdůležitějších světových potravinových plodin jich 87 závisí na živočišném opylování** — včely, čmeláci, pestřenky a motýli navštěvující květy. To zahrnuje většinu ovoce, zeleniny, ořechů a semen, která jíme. Bez těchto hmyzů by se náš jídelníček dramaticky zúžil.
 
-Ne kvůli hnojivům. Ne kvůli závlaze. Proto, že hmyz přelétl z květu na květ.
-
-Tento hmyz je v ohrožení.
-
-**40 % druhů hmyzu celosvětově ubývá.** Příčina není záhadná: ztráta stanovišť, příliš mnoho asfaltu, příliš mnoho pesticidů a příliš mnoho trávníků sekaných k dokonalosti, bez čehokoli, co by cokoli živilo.
+Sedmadvacetileté sledování v Německu zaznamenalo **75% pokles celkové biomasy létajícího hmyzu** v chráněných přírodních oblastech. Podobné trendy byly zdokumentovány napříč severní a střední Evropou. Příčina není záhadná: ztráta stanovišť, příliš mnoho asfaltu, příliš mnoho pesticidů a příliš mnoho trávníků sekaných k dokonalosti, bez čehokoli, co by cokoli živilo.
 
 Města jsou součástí tohoto problému. Ale města se také mohou stát součástí řešení — rychleji, viditelněji a silněji než téměř cokoli jiného.
 
@@ -24,7 +20,7 @@ Města jsou součástí tohoto problému. Ale města se také mohou stát souč�
 
 A nejde jen o včely medonosné. Každý čmelák, motýl a divoká včela potřebuje totéž: květy na správném místě ve správný čas. A města — s miliony balkonů, střech, dvorů, fasád a trávníků — mají tohoto prostoru víc, než si většina lidí uvědomuje.
 
-**Městské zelené plochy, dobře spravované, mohou podporovat více opylovačů než intenzivně obhospodařovaná zemědělská půda.** Střešní louka uprostřed města není romantické gesto — je to ekologie.
+**Výzkum ve Velké Británii zjistil, že městská prostředí — zahrady, parky, krajnice silnic — podporovala vyšší početnost včel a pestřejší společenstva opylovačů než okolní intenzivně obhospodařovaná zemědělská krajina.** Střešní louka uprostřed města není romantické gesto — je to ekologie.
 
 ## Co můžete udělat — dnes
 

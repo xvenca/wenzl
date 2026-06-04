@@ -1,20 +1,16 @@
 ---
 title: "Cities for Bees"
-description: "One in three bites of food exists because an insect visited a flower. Cities hold the key to reversing pollinator decline — one balcony, one rooftop, one unmowed lawn at a time."
+description: "87 of the world's 115 leading food crops depend on animal pollination. A 27-year study in Germany recorded a 75% decline in flying insect biomass. Cities can be part of the answer — one balcony, one rooftop, one unmowed lawn at a time."
 image: "/images/birokt-hero.jpg"
 alt: "Cities for bees"
 translationKey: "pollinators"
 ---
 
-## One in three bites of food
+## The flowers that feed us
 
-**One in three bites of food you eat exists because a bee, a bumblebee, a butterfly, or a hoverfly visited a flower.**
+**Of the world's 115 leading food crops, 87 depend on animal pollination** — bees, bumblebees, hoverflies and butterflies visiting flowers. That covers most of the fruits, vegetables, nuts and seeds we eat. Without these insects, our diet would narrow dramatically.
 
-Not because of fertiliser. Not because of irrigation. Because an insect flew from flower to flower.
-
-That insect is in trouble.
-
-**40% of insect species are declining globally.** The cause is not mysterious: lost habitat, too much pavement, too much pesticide, and too many lawns mowed to perfection with nothing left to feed anything.
+A 27-year monitoring programme in Germany documented a **75% decline in total flying insect biomass** in protected natural areas. Similar trends have been recorded across northern and central Europe. The cause is not mysterious: lost habitat, too much pavement, too much pesticide, and too many lawns mowed to perfection with nothing left to feed anything.
 
 Cities are part of this problem. But cities can also become part of the solution — faster, more visibly, and more powerfully than almost anything else.
 
@@ -24,7 +20,7 @@ Cities are part of this problem. But cities can also become part of the solution
 
 It is not only about honey bees. Every bumblebee, butterfly and wild bee depends on the same thing: flowers in the right place at the right time. And cities — with their millions of balconies, rooftops, courtyards, facades and lawns — have more of that space than most people realise.
 
-**Urban green spaces, managed well, can support more pollinators than intensively farmed agricultural land.** A rooftop meadow in the middle of a city is not a romantic gesture — it is ecology.
+**Research in the United Kingdom found that urban sites — gardens, parks, road verges — supported higher bee abundance and more diverse pollinator communities than the surrounding intensively farmed countryside.** A rooftop meadow in the middle of a city is not a romantic gesture — it is ecology.
 
 ## What you can do — today
 

@@ -6,15 +6,11 @@ alt: "Städte für Bienen"
 translationKey: "pollinators"
 ---
 
-## Jeder dritte Bissen
+## Die Blumen, die uns ernähren
 
-**Jeder dritte Bissen Essen, den Sie essen, existiert, weil eine Biene, eine Hummel, ein Schmetterling oder eine Schwebfliege eine Blume besucht hat.**
+**Von den 115 wichtigsten Nahrungspflanzen der Welt sind 87 auf tierische Bestäubung angewiesen** — Bienen, Hummeln, Schwebfliegen und Schmetterlinge, die Blüten besuchen. Das umfasst den Großteil der Früchte, Gemüse, Nüsse und Samen, die wir essen. Ohne diese Insekten würde unsere Ernährung dramatisch eingeschränkt.
 
-Nicht wegen Dünger. Nicht wegen Bewässerung. Weil ein Insekt von Blüte zu Blüte flog.
-
-Dieses Insekt ist in Gefahr.
-
-**40 % der Insektenarten weltweit sind rückläufig.** Die Ursache ist nicht mysteriös: verlorene Lebensräume, zu viel Asphalt, zu viele Pestizide und zu viele Rasenflächen, die zur Perfektion gemäht werden, ohne dass etwas übrig bleibt, das irgendetwas ernährt.
+Ein 27-jähriges Monitoringprogramm in Deutschland dokumentierte einen **Rückgang der Gesamtbiomasse fliegender Insekten um 75 %** in geschützten Naturgebieten. Ähnliche Trends wurden in ganz Nord- und Mitteleuropa erfasst. Die Ursache ist nicht mysteriös: verlorene Lebensräume, zu viel Asphalt, zu viele Pestizide und zu viele Rasenflächen, die zur Perfektion gemäht werden, ohne dass etwas übrig bleibt, das irgendetwas ernährt.
 
 Städte sind Teil dieses Problems. Aber Städte können auch Teil der Lösung werden — schneller, sichtbarer und wirkungsvoller als fast alles andere.
 
@@ -24,7 +20,7 @@ Städte sind Teil dieses Problems. Aber Städte können auch Teil der Lösung we
 
 Und es geht nicht nur um Honigbienen. Jede Hummel, jeder Schmetterling und jede Wildbiene braucht dasselbe: Blüten am richtigen Ort zur richtigen Zeit. Und Städte — mit ihren Millionen von Balkonen, Dächern, Innenhöfen, Fassaden und Rasenflächen — haben mehr von diesem Raum, als die meisten Menschen ahnen.
 
-**Städtische Grünflächen, gut gepflegt, können mehr Bestäuber unterstützen als intensiv bewirtschaftetes Ackerland.** Eine Dachwiese mitten in der Stadt ist keine romantische Geste — es ist Ökologie.
+**Forschungen im Vereinigten Königreich ergaben, dass städtische Flächen — Gärten, Parks, Straßenränder — eine höhere Bienenabundanz und vielfältigere Bestäubergemeinschaften aufwiesen als die umliegende intensiv bewirtschaftete Agrarlandschaft.** Eine Dachwiese mitten in der Stadt ist keine romantische Geste — es ist Ökologie.
 
 ## Was Sie tun können — heute
 

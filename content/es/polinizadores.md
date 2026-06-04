@@ -6,15 +6,11 @@ alt: "Ciudades para abejas"
 translationKey: "pollinators"
 ---
 
-## Uno de cada tres bocados
+## Las flores que nos alimentan
 
-**Uno de cada tres bocados de comida que comes existe porque una abeja, un abejorro, una mariposa o un sírfido visitó una flor.**
+**De las 115 principales especies de cultivos alimentarios del mundo, 87 dependen de la polinización animal** — abejas, abejorros, sírfidos y mariposas que visitan flores. Eso abarca la mayor parte de las frutas, verduras, frutos secos y semillas que comemos. Sin estos insectos, nuestra dieta se reduciría drásticamente.
 
-No gracias al fertilizante. No gracias al riego. Porque un insecto voló de flor en flor.
-
-Ese insecto está en peligro.
-
-**El 40 % de las especies de insectos están disminuyendo a nivel mundial.** La causa no es misteriosa: pérdida de hábitat, demasiado asfalto, demasiados pesticidas y demasiados céspedes perfectamente cortados sin que quede nada para alimentar a nadie.
+Un programa de seguimiento de 27 años en Alemania documentó una **caída del 75 % en la biomasa total de insectos voladores** en áreas naturales protegidas. Tendencias similares se han registrado en toda Europa central y septentrional. La causa no es misteriosa: pérdida de hábitat, demasiado asfalto, demasiados pesticidas y demasiados céspedes perfectamente cortados sin que quede nada para alimentar a nadie.
 
 Las ciudades son parte de este problema. Pero las ciudades también pueden convertirse en parte de la solución — más rápido, más visiblemente y con más fuerza que casi cualquier otra cosa.
 
@@ -24,7 +20,7 @@ Las ciudades son parte de este problema. Pero las ciudades también pueden conve
 
 Y no se trata solo de las abejas melíferas. Cada abejorro, mariposa y abeja silvestre depende de lo mismo: flores en el lugar correcto en el momento correcto. Y las ciudades — con sus millones de balcones, tejados, patios, fachadas y céspedes — tienen más de ese espacio del que la mayoría de la gente imagina.
 
-**Los espacios verdes urbanos, bien gestionados, pueden sostener más polinizadores que las tierras agrícolas cultivadas intensivamente.** Un prado en un tejado en medio de una ciudad no es un gesto romántico — es ecología.
+**Investigaciones en el Reino Unido encontraron que los espacios urbanos — jardines, parques, márgenes de carreteras — albergaban mayor abundancia de abejas y comunidades de polinizadores más diversas que el campo agrícola intensivo circundante.** Un prado en un tejado en medio de una ciudad no es un gesto romántico — es ecología.
 
 ## Qué puedes hacer — hoy
 
