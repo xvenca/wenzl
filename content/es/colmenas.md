@@ -28,3 +28,5 @@ Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesa
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*
 
+{{< contact >}}
+

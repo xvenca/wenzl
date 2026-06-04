@@ -66,6 +66,10 @@ Haben Sie einen Garten, einen kleinen Hof oder eine Parzelle in der Region Berge
 **Was Sie bekommen:** kräftige Bestäubung während der ganzen Saison.
 **Was ich bekomme:** einen Ort, an dem meine Bienen sich gut entwickeln können.
 
+Melden Sie sich, wenn Sie Bestäubung für Ihr Grundstück oder Ihren Garten in dieser Saison suchen.
+
+{{< contact >}}
+
 ## Handgefertigte Holzbeuten {#handcrafted-beehives}
 
 **Lagerbeuten gehören nicht zur norwegischen Imkertradition** — ich habe sie mitgebracht und experimentiere hier in Norwegen mit ihnen. Ich baue sie selbst, von Hand in Bergen, aus massivem Holz. Genau hier habe ich auch meine ukrainischen Lagerbeuten gebaut. Holz atmet, isoliert und hält so, wie es kein industrielles Material kann:

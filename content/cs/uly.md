@@ -28,3 +28,5 @@ Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silně
 
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
 
+{{< contact >}}
+

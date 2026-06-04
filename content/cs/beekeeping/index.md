@@ -72,6 +72,10 @@ Máte zahradu, farmu nebo zahrádkářskou kolonii v oblasti Bergenu? Nabízím 
 **Co získáte:** Výrazné opylení po celou sezónu.
 **Co získám já:** Místo, kde mohou moje včely prosperovat.
 
+Ozvěte se, pokud hledáte opylování pro vaši zahradu nebo pozemek tuto sezónu.
+
+{{< contact >}}
+
 ---
 
 ## Tradiční dřevěné ležany vlastní výroby
