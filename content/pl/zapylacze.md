@@ -1,26 +1,26 @@
 ---
 title: "Miasta dla pszczół"
-description: "Każdy trzeci kęs jedzenia istnieje dlatego, że owad odwiedził kwiat. Miasta mają klucz do zmiany — jeden balkon, jeden dach, jeden niekoszony trawnik na raz."
+description: "87 ze 115 głównych roślin uprawnych świata zależy od zapylania przez owady. Badania w Niemczech odnotowały 75% spadek biomasy latających owadów przez 27 lat. Jak mogą pomóc miasta?"
 image: "/images/birokt-hero.jpg"
 alt: "Miasta dla pszczół"
 translationKey: "pollinators"
 ---
 
-## Kwiaty, które nas żywią
+## Owady, które karmią nasze stoły
 
-**Spośród 115 najważniejszych światowych roślin uprawnych aż 87 zależy od zapylania przez zwierzęta** — pszczoły, trzmiele, bzygowce i motyle odwiedzające kwiaty. To obejmuje większość owoców, warzyw, orzechów i nasion, które jemy. Bez tych owadów nasza dieta zubożałaby dramatycznie.
+**87 ze 115 głównych roślin uprawnych świata zależy od tego, że owady odwiedzają ich kwiaty** — pszczoły, trzmiele, bzygowce, motyle. Dotyczy to większości owoców, warzyw, orzechów i nasion, które jemy każdego dnia. Bez tych gatunków nasza dieta zubożałaby w sposób trudny do wyobrażenia.
 
-Dwudziestosiedmioletni monitoring w Niemczech udokumentował **75-procentowy spadek łącznej biomasy latających owadów** na chronionych obszarach przyrodniczych. Podobne tendencje odnotowano w całej Europie Północnej i Środkowej. Przyczyna nie jest tajemnicza: utrata siedlisk, zbyt dużo asfaltu, zbyt dużo pestycydów i zbyt wiele trawników koszonych do perfekcji, bez niczego, co mogłoby cokolwiek wykarmić.
+Monitoring trwający 27 lat w Niemczech odnotował **75-procentowy spadek łącznej biomasy latających owadów** na obszarach chronionych. Podobne obserwacje napływają z całej Europy Północnej i Środkowej. Przyczyny są dobrze znane: zanik odpowiednich siedlisk, coraz więcej asfaltu i pestycydów, trawniki strzyżone tak krótko, że nie zostaje na nich nic dla owadów.
 
-Miasta są częścią tego problemu. Ale miasta mogą też stać się częścią rozwiązania — szybciej, bardziej widocznie i skuteczniej niż niemal cokolwiek innego.
+Miasta są częścią tego problemu. Ale mogą też stać się częścią rozwiązania — szybciej i wyraźniej niż niemal cokolwiek innego.
 
 ## Miasta dla pszczół
 
 **Miasta dla pszczół** to prosta nazwa dla praktycznej idei: przywrócić miastom i miasteczkom więcej kwiatów, więcej życia i więcej pokarmu dla owadów.
 
-I nie chodzi tylko o pszczołę miodną. Każdy trzmiel, motyl i dzika pszczoła potrzebuje tego samego: kwiatów we właściwym miejscu we właściwym czasie. A miasta — z milionami balkonów, dachów, podwórek, fasad i trawników — mają tego miejsca więcej, niż większość ludzi zdaje sobie sprawę.
+Nie chodzi tylko o pszczołę miodną. Każdy trzmiel, motyl i dzika pszczoła potrzebuje tego samego: kwitnących roślin we właściwym miejscu i we właściwym czasie. A miasta — z milionami balkonów, dachów, podwórek, fasad i trawników — mają tego miejsca więcej, niż większość ludzi zdaje sobie sprawę.
 
-**Badania w Wielkiej Brytanii wykazały, że obszary miejskie — ogrody, parki, pobocza dróg — charakteryzowały się wyższą liczebnością pszczół i bardziej zróżnicowanymi zbiorowiskami zapylaczy niż otaczający intensywnie użytkowany krajobraz rolniczy.** Łąka na dachu w środku miasta to nie romantyczny gest — to ekologia.
+**Badania w Wielkiej Brytanii wykazały, że ogrody, parki i pobocza dróg w miastach były zamieszkane przez więcej gatunków i osobników pszczół niż otaczający je intensywnie uprawiany krajobraz rolniczy.** Łąka na dachu w centrum miasta to nie romantyczny gest — to ekologia stosowana.
 
 ## Co możesz zrobić — dziś
 
@@ -28,40 +28,38 @@ Poziom wejścia to jedna doniczka z kwiatami na balkonie. Pułap to łąka na da
 
 Każdy krok się liczy. Tu zaczynasz:
 
-- Sadzić gatunki bogate w nektar i pyłek na **balkonach, parapetach, dachach, podwórzach, w ogrodach i na pionowych fasadach**.
-- Wybierać rośliny kwitnące **od wiosny do jesieni**, aby owady miały pokarm przez cały sezon.
-- Łączyć kwiaty z krzewami, ziołami i drzewami, aby nasadzenia były nie tylko piękne, ale też ekologicznie użyteczne.
-- Zostawiać część przestrzeni bardziej naturalną: trochę odsłoniętej gleby, martwego drewna, wody i mniej sterylnej zieleni.
+- Sadzić rośliny bogate w nektar i pyłek na **balkonach, parapetach, dachach, podwórzach, w ogrodach i na zielonych fasadach**.
+- Wybierać gatunki kwitnące **od wiosny do jesieni**, żeby owady miały pokarm przez cały sezon.
+- Łączyć kwiaty z krzewami, ziołami i drzewami, by nasadzenia były nie tylko ładne, ale i pożyteczne dla przyrody.
+- Zostawiać części przestrzeni bardziej naturalne: trochę odkrytej gleby, martwe drewno, wodę, mniej sterylnej zieleni.
 
-Nawet mały balkon może wykarmić trzmiela. Jeden dach może nieść łąkę. Jedna fasada może kwitnąć, zamiast tylko oddawać ciepło.
+Nawet mały balkon może wykarmić trzmiela. Jeden dach może nieść łąkę. Jedna fasada może kwitnąć zamiast tylko oddawać ciepło.
 
-## Łagodniejsza pielęgnacja jest ważniejsza niż idealny trawnik
+## Łagodna pielęgnacja ważniejsza niż idealny trawnik
 
-**Nie koście trawników zbyt często.** Owady potrzebują kwitnących roślin, a nie krótkiego zielonego dywanu. Kwitnący trawnik lub miejska łąka mają dla zapylaczy znacznie większą wartość niż trawa regularnie ścinana do zera.
+**Nie koście trawników zbyt często.** Owady potrzebują kwitnących roślin, a nie krótkiego zielonego dywanu. Kwitnący trawnik lub miejska łąka mają dla zapylaczy nieporównanie większą wartość niż trawa regularnie ścinana do zera.
 
-Tam, gdzie jest to praktyczne, **kontrolowany wypas** może być jedną z najłagodniejszych form pielęgnacji. W norweskich warunkach mogą w tym pomagać na przykład owce z wirtualnymi ogrodzeniami typu **NoFence**. W większych i bardziej zróżnicowanych mozaikach wypasu, zależnie od miejsca, rolę mogą odgrywać także inne zwierzęta, między innymi **kozy, konie lub jelenie**. A w niektórych ogrodzonych miejskich przestrzeniach mniejszą rolę mogą odegrać również **króliki**.
+Tam, gdzie to możliwe, **kontrolowany wypas** może być jedną z najłagodniejszych form pielęgnacji. W Norwegii sprawdzają się tu na przykład owce z wirtualnymi ogrodzeniami w rodzaju **NoFence**. W większych i bardziej zróżnicowanych mozaikach wypasu, zależnie od terenu, swoją rolę mogą odgrywać również **kozy, konie lub jelenie**. W niektórych zamkniętych przestrzeniach miejskich mniejszy udział mogą mieć **króliki**.
 
-Nie chodzi o jedną markę ani o jedną metodę. Chodzi o zasadę: **żywa pielęgnacja zamiast ciągłego koszenia maszynowego wszędzie i cały czas**.
+Nie chodzi o jedną markę ani o jedną metodę, lecz o zasadę: **żywa pielęgnacja zamiast nieustannego mechanicznego koszenia wszędzie i przez cały czas**.
 
 ## Jak mogę pomóc
 
 Mogę uczestniczyć w projektach dla samorządów, szkół, deweloperów, instytucji i inicjatyw sąsiedzkich:
 
-- jasne publiczne ujęcie tematu
-- wskazówki dotyczące nasadzeń dla zapylaczy
-- tablice edukacyjne i zrozumiała komunikacja dla mieszkańców
+- czytelne przedstawienie tematu dla odbiorców publicznych
+- wskazówki dotyczące nasadzeń z myślą o zapylaczach
+- tablice edukacyjne i zrozumiałe materiały informacyjne
 - łączenie tradycyjnych uli, miejskiej zieleni i troski o zapylacze w jedną spójną opowieść
-- konsultacje dotyczące łagodniejszego zarządzania zielenią i projektów pilotażowych
+- doradztwo w zakresie łagodniejszej gospodarki zielenią i projektów pilotażowych
 
-## Dołącz do ruchu
+## Dołącz
 
-Miasta na całym świecie się budzą. Oslo, Berlin, Londyn, Paryż, Kopenhaga, São Paulo — od ogrodów na dachach po niekoszone pobocza dróg, po sieci miejskich łąk — coś się zmienia.
+Ogrody na dachach, kwitnące fasady, łąki zamiast trawników, zwierzęta pasące się zamiast kosiarek — w europejskich miastach coś się zmienia.
 
-**Wyzwanie balkonowe:** posadź w tym tygodniu jedną kwitnącą roślinę przyjazną zapylaczom. Postaw ją tam, gdzie może ją znaleźć pszczoła lub trzmiel. Udostępnij to. Powiedz komuś dlaczego.
+**Wyzwanie balkonowe:** posadź w tym tygodniu jedną kwitnącą roślinę pożyteczną dla zapylaczy. Postaw ją tam, gdzie może ją znaleźć pszczoła lub trzmiel. Udostępnij to. Powiedz komuś, dlaczego to robisz.
 
-Jeden balkon. Jeden kwiat. Jedno lato.
-
-**I wtedy się rozprzestrzenia.**
+Jeden balkon. Jeden kwiat. Jedno lato. **I wtedy się rozprzestrzenia.**
 
 Oznacz swój kawałek: **#MiastaDlaPszczół** · **#CitiesForBees**
 

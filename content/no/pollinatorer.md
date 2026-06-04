@@ -6,13 +6,13 @@ alt: "Byer for bier"
 translationKey: "pollinators"
 ---
 
-## Blomstene som mater oss
+## Insektene som mater bordene våre
 
-**Av verdens 115 viktigste matplanter er det 87 som er avhengige av dyrebasert bestøvning** — bier, humler, blomsterfluer og sommerfugler som besøker blomster. Det dekker det meste av frukt, grønnsaker, nøtter og frø vi spiser. Uten disse insektene ville kostholdet vårt bli dramatisk innsnevret.
+**87 av verdens 115 viktigste jordbruksvekster er avhengige av at insekter besøker blomstene deres** — bier, humler, blomsterfluer, sommerfugler. Det gjelder det meste av frukt, grønnsaker, nøtter og frø vi spiser hver dag. Uten disse artene ville kostholdet vårt bli dramatisk fattigere.
 
-Et 27-årig overvåkingsprogram i Tyskland dokumenterte et **fall på 75 % i samlet biomasse av flygende insekter** i vernede naturområder. Lignende tendenser er registrert over hele Nord- og Sentral-Europa. Årsaken er ikke mystisk: for lite habitat, for mye asfalt, for mye plantevernmidler og for mange plener som klippes til perfeksjon uten at noe er igjen til å fø noe som helst.
+Et 27-årig overvåkingsprogram i Tyskland registrerte et **fall på 75 % i samlet biomasse av flygende insekter** i vernede naturreservater. Liknende funn rapporteres fra hele Nord- og Sentral-Europa. Årsakene er godt kjente: habitat forsvinner, arealer forsegles, det spres for mange plantevernmidler, og gressplener klippes så grundig at det nesten ikke er noe igjen for insektene.
 
-Byer er en del av dette problemet. Men byer kan også bli en del av løsningen — raskere, mer synlig og mer kraftfullt enn nesten hva som helst annet.
+Byer er en del av dette problemet. Men de kan også bli en del av løsningen — raskere og mer synlig enn mye annet.
 
 ## Byer for bier
 
