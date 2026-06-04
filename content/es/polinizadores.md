@@ -1,18 +1,36 @@
 ---
 title: "Ciudades para abejas"
-description: "Cómo las ciudades, los pueblos y sus habitantes pueden ayudar a las abejas y a otros polinizadores: más flores, menos siega innecesaria y más vida en balcones, tejados y en la calle."
+description: "Uno de cada tres bocados de comida existe porque un insecto visitó una flor. Las ciudades tienen la clave para revertir el declive — un balcón, un tejado, un césped sin segar a la vez."
 image: "/images/birokt-hero.jpg"
 alt: "Ciudades para abejas"
 translationKey: "pollinators"
 ---
 
+## Uno de cada tres bocados
+
+**Uno de cada tres bocados de comida que comes existe porque una abeja, un abejorro, una mariposa o un sírfido visitó una flor.**
+
+No gracias al fertilizante. No gracias al riego. Porque un insecto voló de flor en flor.
+
+Ese insecto está en peligro.
+
+**El 40 % de las especies de insectos están disminuyendo a nivel mundial.** La causa no es misteriosa: pérdida de hábitat, demasiado asfalto, demasiados pesticidas y demasiados céspedes perfectamente cortados sin que quede nada para alimentar a nadie.
+
+Las ciudades son parte de este problema. Pero las ciudades también pueden convertirse en parte de la solución — más rápido, más visiblemente y con más fuerza que casi cualquier otra cosa.
+
 ## Ciudades para abejas
 
 **Ciudades para abejas** es un nombre sencillo para una idea práctica: devolver más flores, más vida y más alimento para los insectos a nuestras ciudades y pueblos.
 
-Y no se trata solo de las abejas melíferas. También ayuda a **abejorros, mariposas y otros polinizadores**. A menudo bastan pequeños gestos: una jardinera en el balcón, flores en un patio, segar con menos frecuencia o un tejado que sea algo más que una superficie desnuda y caliente.
+Y no se trata solo de las abejas melíferas. Cada abejorro, mariposa y abeja silvestre depende de lo mismo: flores en el lugar correcto en el momento correcto. Y las ciudades — con sus millones de balcones, tejados, patios, fachadas y céspedes — tienen más de ese espacio del que la mayoría de la gente imagina.
 
-## Qué pueden hacer las personas y las instituciones
+**Los espacios verdes urbanos, bien gestionados, pueden sostener más polinizadores que las tierras agrícolas cultivadas intensivamente.** Un prado en un tejado en medio de una ciudad no es un gesto romántico — es ecología.
+
+## Qué puedes hacer — hoy
+
+El punto de entrada es una maceta con flores en un balcón. El techo es un prado en el tejado de un hospital, una fachada floreciente en una escuela, un rebaño pastando en un parque urbano.
+
+Cada paso cuenta. Por aquí se empieza:
 
 - Plantar especies ricas en néctar y polen en **balcones, alféizares, tejados, patios, jardines y fachadas verticales**.
 - Elegir plantas que florezcan **de primavera a otoño**, para que los insectos tengan alimento durante toda la temporada.
@@ -38,5 +56,19 @@ Puedo contribuir a proyectos de municipios, escuelas, promotores, instituciones 
 - carteles informativos y comunicación comprensible para el público
 - conectar las colmenas tradicionales, el verde urbano y el cuidado de los polinizadores en un relato coherente
 - consultoría sobre una gestión más suave del territorio y proyectos piloto
+
+## Únete al movimiento
+
+Las ciudades de todo el mundo están despertando. Oslo, Berlín, Londres, París, Copenhague, São Paulo — desde jardines en tejados hasta bordes de carreteras sin segar, hasta redes de prados urbanos — algo está cambiando.
+
+**El reto del balcón:** planta esta semana una planta floreciente amigable con los polinizadores. Colócala donde una abeja o un abejorro pueda encontrarla. Compártelo. Cuéntale a alguien por qué.
+
+Un balcón. Una flor. Un verano.
+
+**Y luego se extiende.**
+
+Etiqueta tu parte de ello: **#CiudadesParaAbejas** · **#CitiesForBees**
+
+---
 
 No se trata solo de proteger a una especie. Se trata de ayudar a que las ciudades y las comunidades **florezcan, vivan y vuelvan a zumbar**.

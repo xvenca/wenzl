@@ -22,7 +22,7 @@ nb:
   - icon: city
     title: Byer for bier
     badge: "Kommuner & nabolag"
-    desc: "Hjelp bier, humler, sommerfugler og andre pollinatorer med blomstrende balkonger, tak, bakgårder, vertikale hager og mer skånsom skjøtsel."
+    desc: "Hvert tredje matbitt finnes fordi et insekt besøkte en blomst. Én balkong. Ett tak. Én blomstrende fasade. Slik begynner bevegelsen — #ByerForBier."
     link: "/pollinatorer/"
 
 en:
@@ -49,7 +49,7 @@ en:
   - icon: city
     title: "Cities for Bees"
     badge: "Cities & neighborhoods"
-    desc: "Help bees, bumblebees, butterflies and other pollinators with flowering balconies, rooftops, courtyards, vertical gardens and gentler land care."
+    desc: "One in three bites of food exists because an insect visited a flower. One balcony. One rooftop. One unmowed lawn. That is how the movement starts — #CitiesForBees."
     link: "/en/pollinators/"
 
 cs:
@@ -76,7 +76,7 @@ cs:
   - icon: city
     title: "Města pro včely"
     badge: "Obce a čtvrti"
-    desc: "Pomozte včelám, čmelákům, motýlům i dalším opylovačům kvetoucími balkony, střechami, dvory, vertikálními zahradami a šetrnější údržbou zeleně."
+    desc: "Každé třetí sousto jídla existuje proto, že hmyz navštívil květ. Jeden balkon. Jedna střecha. Jedna neposečená louka. Tak začíná hnutí — #MěstaProVčely."
     link: "/cs/opylovaci/"
 
 uk:
@@ -103,7 +103,7 @@ uk:
   - icon: city
     title: "Міста для бджіл"
     badge: "Міста й громади"
-    desc: "Допоможіть бджолам, джмелям, метеликам та іншим запилювачам квітучими балконами, дахами, дворами, вертикальними садами й дбайливішим доглядом за зеленню."
+    desc: "Кожен третій шматочок їжі існує тому, що комаха відвідала квітку. Один балкон. Один дах. Один нескошений газон. Так починається рух — #МістаДляБджіл."
     link: "/uk/zapyliuvachi/"
 
 ru:
@@ -130,7 +130,7 @@ ru:
   - icon: city
     title: "Города для пчёл"
     badge: "Города и районы"
-    desc: "Помогите пчёлам, шмелям, бабочкам и другим опылителям цветущими балконами, крышами, дворами, вертикальными садами и более бережным уходом за зеленью."
+    desc: "Каждый третий кусок еды существует потому, что насекомое посетило цветок. Один балкон. Одна крыша. Один нескошенный газон. Так начинается движение — #ГородаДляПчёл."
     link: "/ru/opyliteli/"
 
 pl:
@@ -157,7 +157,7 @@ pl:
   - icon: city
     title: "Miasta dla pszczół"
     badge: "Miasta i dzielnice"
-    desc: "Pomóż pszczołom, trzmielom, motylom i innym zapylaczom dzięki kwitnącym balkonům, dachom, podwórzom, ogrodom wertykalnym i łagodniejszej pielęgnacji zieleni."
+    desc: "Każdy trzeci kęs jedzenia istnieje dlatego, że owad odwiedził kwiat. Jeden balkon. Jeden dach. Jeden niekoszony trawnik. Tak zaczyna się ruch — #MiastaDlaPszczół."
     link: "/pl/zapylacze/"
 
 de:
@@ -184,7 +184,7 @@ de:
   - icon: city
     title: "Städte für Bienen"
     badge: "Städte und Quartiere"
-    desc: "Helfen Sie Bienen, Hummeln, Schmetterlingen und anderen Bestäubern mit blühenden Balkonen, Dächern, Innenhöfen, vertikalen Gärten und schonender Pflege."
+    desc: "Jeder dritte Bissen Essen existiert, weil ein Insekt eine Blume besucht hat. Ein Balkon. Ein Dach. Ein nicht gemähter Rasen. So beginnt die Bewegung — #StädteFürBienen."
     link: "/de/bestaeuber/"
 
 cu:
@@ -238,5 +238,5 @@ es:
   - icon: city
     title: "Ciudades para abejas"
     badge: "Municipios y barrios"
-    desc: "Ayuda a abejas, abejorros, mariposas y otros polinizadores con balcones floridos, tejados, patios, jardines verticales y un cuidado más suave del verde."
+    desc: "Uno de cada tres bocados de comida existe porque un insecto visitó una flor. Un balcón. Un tejado. Un césped sin segar. Así empieza el movimiento — #CiudadesParaAbejas."
     link: "/es/polinizadores/"

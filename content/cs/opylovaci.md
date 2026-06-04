@@ -1,23 +1,41 @@
 ---
 title: "Města pro včely"
-description: "Jak mohou města, obce i lidé pomoci včelám a dalším opylovačům: více květů, méně zbytečného sečení a více života na balkonech, střechách i v ulicích."
+description: "Každé třetí sousto jídla existuje proto, že hmyz navštívil květ. Města drží klíč ke změně — jeden balkon, jedna střecha, jedna neposečená louka najednou."
 image: "/images/birokt-hero.jpg"
 alt: "Města pro včely"
 translationKey: "pollinators"
 ---
 
+## Každé třetí sousto
+
+**Každé třetí sousto jídla, které sníte, existuje proto, že včela, čmelák, motýl nebo pestřenka navštívila květ.**
+
+Ne kvůli hnojivům. Ne kvůli závlaze. Proto, že hmyz přelétl z květu na květ.
+
+Tento hmyz je v ohrožení.
+
+**40 % druhů hmyzu celosvětově ubývá.** Příčina není záhadná: ztráta stanovišť, příliš mnoho asfaltu, příliš mnoho pesticidů a příliš mnoho trávníků sekaných k dokonalosti, bez čehokoli, co by cokoli živilo.
+
+Města jsou součástí tohoto problému. Ale města se také mohou stát součástí řešení — rychleji, viditelněji a silněji než téměř cokoli jiného.
+
 ## Města pro včely
 
 **Města pro včely** je jednoduchý název pro praktickou věc: vrátit do měst a vesnic víc květů, víc života a víc potravy pro hmyz.
 
-A nejde jen o včely medonosné. Pomůže to i **čmelákům, motýlům a dalším opylovačům**. Často stačí malé kroky: truhlík na balkoně, květiny na dvoře, méně časté sečení nebo střecha, která nekončí jen štěrkem.
+A nejde jen o včely medonosné. Každý čmelák, motýl a divoká včela potřebuje totéž: květy na správném místě ve správný čas. A města — s miliony balkonů, střech, dvorů, fasád a trávníků — mají tohoto prostoru víc, než si většina lidí uvědomuje.
 
-## Co mohou udělat lidé a instituce
+**Městské zelené plochy, dobře spravované, mohou podporovat více opylovačů než intenzivně obhospodařovaná zemědělská půda.** Střešní louka uprostřed města není romantické gesto — je to ekologie.
 
-- Sázet květiny bohaté na nektar a pyl na **balkonech, parapetech, střechách, dvorech, zahradách a ve vertikálních zahradách**.
-- Vysazovat druhy kvetoucí **od jara do podzimu**, aby měl hmyz potravu po celou sezónu.
-- Doplňovat výsadby o keře, byliny a stromy, aby prostředí nebylo jen hezké, ale i funkční.
-- Ponechávat část prostoru přírodnější: trochu holé půdy, mrtvé dřevo, vodu a méně sterilní zeleň.
+## Co můžete udělat — dnes
+
+Vstupní úroveň je jeden hrnec s květinami na balkoně. Strop je střešní louka na nemocnici, kvetoucí fasáda školy, pasoucí se stádo v městském parku.
+
+Každý krok se počítá. Tady začněte:
+
+- Sázejte květiny bohaté na nektar a pyl na **balkonech, parapetech, střechách, dvorech, zahradách a ve vertikálních zahradách**.
+- Vysazujte druhy kvetoucí **od jara do podzimu**, aby měl hmyz potravu po celou sezónu.
+- Doplňujte výsadby o keře, byliny a stromy, aby prostředí nebylo jen hezké, ale i funkční.
+- Ponechávejte část prostoru přírodnější: trochu holé půdy, mrtvé dřevo, vodu a méně sterilní zeleň.
 
 I malý balkon může uživit čmeláka. Jedna střecha může nést louku. Jedna fasáda může kvést místo toho, aby jen sálala horko.
 
@@ -38,5 +56,19 @@ Mohu se zapojit do projektů pro obce, školy, developery, instituce i sousedsk�
 - edukativní tabule a srozumitelné vysvětlení pro veřejnost
 - propojení tradičních úlů, městské zeleně a péče o opylovače do jednoho příběhu
 - konzultace k šetrnější údržbě zeleně a k pilotním projektům
+
+## Zapojte se do hnutí
+
+Města po celém světě se probouzejí. Oslo, Berlín, Londýn, Paříž, Kodaň, São Paulo — od střešních zahrad po neposečené pásy podél silnic, po sítě městských luk — něco se mění.
+
+**Balkonová výzva:** vysaďte tento týden jednu rostlinu přátelskou k opylovačům. Umístěte ji tam, kde ji může najít včela nebo čmelák. Sdílejte to. Řekněte někomu proč.
+
+Jeden balkon. Jeden květ. Jedno léto.
+
+**A pak se to šíří.**
+
+Označte svůj kousek světa: **#MěstaProVčely** · **#CitiesForBees**
+
+---
 
 Nejde jen o ochranu jednoho druhu. Jde o to, aby města a obce znovu začaly **kvést, žít a bzučet**.
