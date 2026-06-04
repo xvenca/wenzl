@@ -8,9 +8,9 @@ translationKey: "pollinators"
 
 ## Insektene som mater bordene våre
 
-**87 av verdens 115 viktigste jordbruksvekster er avhengige av at insekter besøker blomstene deres** — bier, humler, blomsterfluer, sommerfugler. Det gjelder det meste av frukt, grønnsaker, nøtter og frø vi spiser hver dag. Uten disse artene ville kostholdet vårt bli dramatisk fattigere.
+**87 av verdens 115 viktigste jordbruksvekster er avhengige av at insekter besøker blomstene deres**[^1] — bier, humler, blomsterfluer, sommerfugler. Det gjelder det meste av frukt, grønnsaker, nøtter og frø vi spiser hver dag. Uten disse artene ville kostholdet vårt bli dramatisk fattigere.
 
-Et 27-årig overvåkingsprogram i Tyskland registrerte et **fall på 75 % i samlet biomasse av flygende insekter** i vernede naturreservater. Liknende funn rapporteres fra hele Nord- og Sentral-Europa. Årsakene er godt kjente: habitat forsvinner, arealer forsegles, det spres for mange plantevernmidler, og gressplener klippes så grundig at det nesten ikke er noe igjen for insektene.
+Et 27-årig overvåkingsprogram i Tyskland registrerte et **fall på 75 % i samlet biomasse av flygende insekter**[^2] i vernede naturreservater. Liknende funn rapporteres fra hele Nord- og Sentral-Europa. Årsakene er godt kjente: habitat forsvinner, arealer forsegles, det spres for mange plantevernmidler, og gressplener klippes så grundig at det nesten ikke er noe igjen for insektene.
 
 Byer er en del av dette problemet. Men de kan også bli en del av løsningen — raskere og mer synlig enn mye annet.
 
@@ -20,7 +20,7 @@ Byer er en del av dette problemet. Men de kan også bli en del av løsningen —
 
 Og dette handler ikke bare om honningbier. Hver humle, sommerfugl og villbie er avhengig av det samme: blomster på rett sted til rett tid. Og byer — med sine millioner av balkonger, tak, bakgårder, fasader og plener — har mer av det rommet enn de fleste aner.
 
-**Forskning i Storbritannia fant at urbane arealer — hager, parker, vegkanter — støttet høyere antall bier og mer mangfoldige pollinatorsamfunn enn det omliggende intensivt drevne jordbrukslandskapet.** En takvei midt i en by er ikke et romantisk grep — det er økologi.
+**Forskning i Storbritannia fant at urbane arealer — hager, parker, vegkanter — støttet høyere antall bier og mer mangfoldige pollinatorsamfunn enn det omliggende intensivt drevne jordbrukslandskapet.**[^3] En takvei midt i en by er ikke et romantisk grep — det er økologi.
 
 ## Hva du kan gjøre — i dag
 
@@ -68,3 +68,7 @@ Merk din del av det: **#ByerForBier** · **#CitiesForBees**
 ---
 
 Dette handler ikke bare om å beskytte én art. Det handler om å hjelpe byer og lokalsamfunn til å **blomstre, leve og summe igjen**.
+
+[^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
+[^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+[^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)

@@ -8,9 +8,9 @@ translationKey: "pollinators"
 
 ## Los insectos que alimentan nuestras mesas
 
-**87 de los 115 principales cultivos agrícolas del mundo necesitan que los insectos visiten sus flores** — abejas, abejorros, sírfidos, mariposas. De ellos depende la mayor parte de las frutas, verduras, frutos secos y semillas que comemos cada día. Sin estas especies, nuestra alimentación se empobrecería de una manera difícil de imaginar.
+**87 de los 115 principales cultivos agrícolas del mundo necesitan que los insectos visiten sus flores**[^1] — abejas, abejorros, sírfidos, mariposas. De ellos depende la mayor parte de las frutas, verduras, frutos secos y semillas que comemos cada día. Sin estas especies, nuestra alimentación se empobrecería de una manera difícil de imaginar.
 
-Un programa de seguimiento de 27 años en Alemania registró una **caída del 75 % en la biomasa total de insectos voladores** en reservas naturales protegidas. Tendencias parecidas se han documentado en toda Europa septentrional y central. Las causas son bien conocidas: desaparición de hábitat, exceso de pavimento y pesticidas, y praderas cortadas al ras donde apenas queda nada para los insectos.
+Un programa de seguimiento de 27 años en Alemania registró una **caída del 75 % en la biomasa total de insectos voladores**[^2] en reservas naturales protegidas. Tendencias parecidas se han documentado en toda Europa septentrional y central. Las causas son bien conocidas: desaparición de hábitat, exceso de pavimento y pesticidas, y praderas cortadas al ras donde apenas queda nada para los insectos.
 
 Las ciudades son parte de este problema. Pero también pueden convertirse en parte de la solución — de forma más rápida y visible que casi cualquier otra cosa.
 
@@ -20,7 +20,7 @@ Las ciudades son parte de este problema. Pero también pueden convertirse en par
 
 No se trata solo de las abejas melíferas. Cada abejorro, mariposa y abeja silvestre necesita lo mismo: plantas en flor en el lugar adecuado y en el momento oportuno. Y las ciudades — con sus millones de balcones, tejados, patios, fachadas y céspedes — tienen más espacio disponible del que la mayoría imagina.
 
-**Investigaciones en el Reino Unido constataron que jardines, parques y márgenes de carreteras urbanos albergaban mayor abundancia de especies de abejas y comunidades de polinizadores más diversas que el campo agrícola intensivo de los alrededores.** Un prado en un tejado en el centro de una ciudad no es un gesto romántico — es ecología aplicada.
+**Investigaciones en el Reino Unido constataron que jardines, parques y márgenes de carreteras urbanos albergaban mayor abundancia de especies de abejas y comunidades de polinizadores más diversas que el campo agrícola intensivo de los alrededores.**[^3] Un prado en un tejado en el centro de una ciudad no es un gesto romántico — es ecología aplicada.
 
 ## Qué puedes hacer — hoy
 
@@ -66,3 +66,7 @@ Etiqueta tu parte: **#CiudadesParaAbejas** · **#CitiesForBees**
 ---
 
 No se trata solo de proteger a una especie. Se trata de que las ciudades y las comunidades vuelvan a **florecer, vivir y zumbar**.
+
+[^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
+[^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+[^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)

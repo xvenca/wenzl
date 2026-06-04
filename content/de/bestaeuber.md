@@ -8,9 +8,9 @@ translationKey: "pollinators"
 
 ## Insekten ernähren unsere Tische
 
-**87 der 115 wichtigsten Kulturpflanzen der Welt sind darauf angewiesen, dass Insekten ihre Blüten besuchen** — Bienen, Hummeln, Schwebfliegen, Schmetterlinge. Das betrifft den Großteil der Früchte, des Gemüses, der Nüsse und Samen, die wir täglich essen. Ohne diese Arten würde unsere Ernährung in einem Maße verarmen, das sich die meisten Menschen nicht vorstellen.
+**87 der 115 wichtigsten Kulturpflanzen der Welt sind darauf angewiesen, dass Insekten ihre Blüten besuchen**[^1] — Bienen, Hummeln, Schwebfliegen, Schmetterlinge. Das betrifft den Großteil der Früchte, des Gemüses, der Nüsse und Samen, die wir täglich essen. Ohne diese Arten würde unsere Ernährung in einem Maße verarmen, das sich die meisten Menschen nicht vorstellen.
 
-Ein 27-jähriges Monitoring in Deutschland verzeichnete einen **Rückgang der Gesamtbiomasse fliegender Insekten um 75 %** in Naturschutzgebieten. Ähnliche Befunde liegen aus ganz Nord- und Mitteleuropa vor. Die Ursachen sind bekannt: Lebensraumverlust, Flächenversiegelung, Pestizide und Rasenflächen, die so kurz gehalten werden, dass kaum etwas für Insekten übrig bleibt.
+Ein 27-jähriges Monitoring in Deutschland verzeichnete einen **Rückgang der Gesamtbiomasse fliegender Insekten um 75 %**[^2] in Naturschutzgebieten. Ähnliche Befunde liegen aus ganz Nord- und Mitteleuropa vor. Die Ursachen sind bekannt: Lebensraumverlust, Flächenversiegelung, Pestizide und Rasenflächen, die so kurz gehalten werden, dass kaum etwas für Insekten übrig bleibt.
 
 Städte sind Teil dieses Problems. Sie können aber auch Teil der Lösung werden — schneller und sichtbarer als vieles andere.
 
@@ -20,7 +20,7 @@ Städte sind Teil dieses Problems. Sie können aber auch Teil der Lösung werden
 
 Es geht nicht nur um Honigbienen. Jede Hummel, jeder Schmetterling und jede Wildbiene braucht dasselbe: geeignete Blüten am richtigen Ort zur richtigen Zeit. Und Städte — mit Millionen von Balkonen, Dächern, Höfen, Fassaden und Rasenflächen — haben mehr davon, als die meisten ahnen.
 
-**Forschungen im Vereinigten Königreich zeigten, dass Gärten, Parks und Straßenränder in Städten mehr Bienenarten und -individuen beherbergten als die umliegende intensiv bewirtschaftete Agrarlandschaft.** Eine Dachwiese im Herzen einer Stadt ist kein romantisches Projekt — es ist angewandte Ökologie.
+**Forschungen im Vereinigten Königreich zeigten, dass Gärten, Parks und Straßenränder in Städten mehr Bienenarten und -individuen beherbergten als die umliegende intensiv bewirtschaftete Agrarlandschaft.**[^3] Eine Dachwiese im Herzen einer Stadt ist kein romantisches Projekt — es ist angewandte Ökologie.
 
 ## Was Sie tun können — heute
 
@@ -66,3 +66,7 @@ Markieren Sie Ihren Teil davon: **#StädteFürBienen** · **#CitiesForBees**
 ---
 
 Es geht nicht nur um den Schutz einer einzigen Art. Es geht darum, dass Städte und Gemeinschaften wieder **blühen, leben und summen**.
+
+[^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
+[^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+[^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)

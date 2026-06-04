@@ -8,9 +8,9 @@ translationKey: "pollinators"
 
 ## The flowers that feed us
 
-**Of the world's 115 leading food crops, 87 depend on animal pollination** — bees, bumblebees, hoverflies and butterflies visiting flowers. That covers most of the fruits, vegetables, nuts and seeds we eat. Without these insects, our diet would narrow dramatically.
+**Of the world's 115 leading food crops, 87 depend on animal pollination**[^1] — bees, bumblebees, hoverflies and butterflies visiting flowers. That covers most of the fruits, vegetables, nuts and seeds we eat. Without these insects, our diet would narrow dramatically.
 
-A 27-year monitoring programme in Germany documented a **75% decline in total flying insect biomass** in protected natural areas. Similar trends have been recorded across northern and central Europe. The cause is not mysterious: lost habitat, too much pavement, too much pesticide, and too many lawns mowed to perfection with nothing left to feed anything.
+A 27-year monitoring programme in Germany documented a **75% decline in total flying insect biomass**[^2] in protected natural areas. Similar trends have been recorded across northern and central Europe. The cause is not mysterious: lost habitat, too much pavement, too much pesticide, and too many lawns mowed to perfection with nothing left to feed anything.
 
 Cities are part of this problem. But cities can also become part of the solution — faster, more visibly, and more powerfully than almost anything else.
 
@@ -20,7 +20,7 @@ Cities are part of this problem. But cities can also become part of the solution
 
 It is not only about honey bees. Every bumblebee, butterfly and wild bee depends on the same thing: flowers in the right place at the right time. And cities — with their millions of balconies, rooftops, courtyards, facades and lawns — have more of that space than most people realise.
 
-**Research in the United Kingdom found that urban sites — gardens, parks, road verges — supported higher bee abundance and more diverse pollinator communities than the surrounding intensively farmed countryside.** A rooftop meadow in the middle of a city is not a romantic gesture — it is ecology.
+**Research in the United Kingdom found that urban sites — gardens, parks, road verges — supported higher bee abundance and more diverse pollinator communities than the surrounding intensively farmed countryside.**[^3] A rooftop meadow in the middle of a city is not a romantic gesture — it is ecology.
 
 ## What you can do — today
 
@@ -68,3 +68,7 @@ Tag your part of it: **#CitiesForBees** · **#ByerForBier**
 ---
 
 This is not only about protecting one species. It is about helping cities and communities **bloom, live and hum again**.
+
+[^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
+[^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+[^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
