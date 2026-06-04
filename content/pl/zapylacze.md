@@ -8,9 +8,9 @@ translationKey: "pollinators"
 
 ## Owady, które karmią nasze stoły
 
-**87 ze 115 głównych roślin uprawnych świata zależy od tego, że owady odwiedzają ich kwiaty** — pszczoły, trzmiele, bzygowce, motyle. Dotyczy to większości owoców, warzyw, orzechów i nasion, które jemy każdego dnia. Bez tych gatunków nasza dieta zubożałaby w sposób trudny do wyobrażenia.
+**87 ze 115 głównych roślin uprawnych świata zależy od tego, że owady odwiedzają ich kwiaty**[^1] — pszczoły, trzmiele, bzygowce, motyle. Dotyczy to większości owoców, warzyw, orzechów i nasion, które jemy każdego dnia. Bez tych gatunków nasza dieta zubożałaby w sposób trudny do wyobrażenia.
 
-Monitoring trwający 27 lat w Niemczech odnotował **75-procentowy spadek łącznej biomasy latających owadów** na obszarach chronionych. Podobne obserwacje napływają z całej Europy Północnej i Środkowej. Przyczyny są dobrze znane: zanik odpowiednich siedlisk, coraz więcej asfaltu i pestycydów, trawniki strzyżone tak krótko, że nie zostaje na nich nic dla owadów.
+Monitoring trwający 27 lat w Niemczech odnotował **75-procentowy spadek łącznej biomasy latających owadów**[^2] na obszarach chronionych. Podobne obserwacje napływają z całej Europy Północnej i Środkowej. Przyczyny są dobrze znane: zanik odpowiednich siedlisk, coraz więcej asfaltu i pestycydów, trawniki strzyżone tak krótko, że nie zostaje na nich nic dla owadów.
 
 Miasta są częścią tego problemu. Ale mogą też stać się częścią rozwiązania — szybciej i wyraźniej niż niemal cokolwiek innego.
 
@@ -20,7 +20,7 @@ Miasta są częścią tego problemu. Ale mogą też stać się częścią rozwi�
 
 Nie chodzi tylko o pszczołę miodną. Każdy trzmiel, motyl i dzika pszczoła potrzebuje tego samego: kwitnących roślin we właściwym miejscu i we właściwym czasie. A miasta — z milionami balkonów, dachów, podwórek, fasad i trawników — mają tego miejsca więcej, niż większość ludzi zdaje sobie sprawę.
 
-**Badania w Wielkiej Brytanii wykazały, że ogrody, parki i pobocza dróg w miastach były zamieszkane przez więcej gatunków i osobników pszczół niż otaczający je intensywnie uprawiany krajobraz rolniczy.** Łąka na dachu w centrum miasta to nie romantyczny gest — to ekologia stosowana.
+**Badania w Wielkiej Brytanii wykazały, że ogrody, parki i pobocza dróg w miastach były zamieszkane przez więcej gatunków i osobników pszczół niż otaczający je intensywnie uprawiany krajobraz rolniczy.**[^3] Łąka na dachu w centrum miasta to nie romantyczny gest — to ekologia stosowana.
 
 ## Co możesz zrobić — dziś
 
@@ -66,3 +66,7 @@ Oznacz swój kawałek: **#MiastaDlaPszczół** · **#CitiesForBees**
 ---
 
 Nie chodzi tylko o ochronę jednego gatunku. Chodzi o to, by miasta i społeczności znowu **kwitły, żyły i brzęczały**.
+
+[^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
+[^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
+[^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
