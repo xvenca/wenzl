@@ -46,10 +46,13 @@
                 </svg>
             </a>
             {{ end }}{{ end }}
-            {{ range .Site.Menus.main }}{{ if eq .Identifier "about" }}
+            {{ range .Site.Menus.main }}{{ if eq .Identifier "pollinators" }}
             <a href="{{ .URL }}"
                class="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white font-semibold px-6 py-3 rounded-lg border border-white/20 transition text-sm sm:text-base backdrop-blur-sm">
                 {{ .Name }}
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
             </a>
             {{ end }}{{ end }}
         </div>
