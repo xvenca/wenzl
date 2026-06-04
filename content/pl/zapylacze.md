@@ -1,42 +1,68 @@
 ---
 title: "Miasta dla pszczół"
-description: "Jak miasta, społeczności i mieszkańcy mogą pomóc pszczołom i innym zapylaczom: więcej kwiatów, mniej zbędnego koszenia i więcej życia na balkonach, dachach i ulicach."
+description: "87 ze 115 głównych roślin uprawnych świata zależy od zapylania przez owady. Badania w Niemczech odnotowały 75% spadek biomasy latających owadów przez 27 lat. Jak mogą pomóc miasta?"
 image: "/images/birokt-hero.jpg"
 alt: "Miasta dla pszczół"
 translationKey: "pollinators"
 ---
 
+## Owady, które karmią nasze stoły
+
+**87 ze 115 głównych roślin uprawnych świata zależy od tego, że owady odwiedzają ich kwiaty** — pszczoły, trzmiele, bzygowce, motyle. Dotyczy to większości owoców, warzyw, orzechów i nasion, które jemy każdego dnia. Bez tych gatunków nasza dieta zubożałaby w sposób trudny do wyobrażenia.
+
+Monitoring trwający 27 lat w Niemczech odnotował **75-procentowy spadek łącznej biomasy latających owadów** na obszarach chronionych. Podobne obserwacje napływają z całej Europy Północnej i Środkowej. Przyczyny są dobrze znane: zanik odpowiednich siedlisk, coraz więcej asfaltu i pestycydów, trawniki strzyżone tak krótko, że nie zostaje na nich nic dla owadów.
+
+Miasta są częścią tego problemu. Ale mogą też stać się częścią rozwiązania — szybciej i wyraźniej niż niemal cokolwiek innego.
+
 ## Miasta dla pszczół
 
 **Miasta dla pszczół** to prosta nazwa dla praktycznej idei: przywrócić miastom i miasteczkom więcej kwiatów, więcej życia i więcej pokarmu dla owadów.
 
-I nie chodzi tylko o pszczołę miodną. Korzystają na tym także **trzmiele, motyle i inne zapylacze**. Często wystarczą małe kroki: skrzynka z kwiatami na balkonie, kwiaty na podwórku, rzadsze koszenie albo dach, który nie pozostaje tylko nagi i gorący.
+Nie chodzi tylko o pszczołę miodną. Każdy trzmiel, motyl i dzika pszczoła potrzebuje tego samego: kwitnących roślin we właściwym miejscu i we właściwym czasie. A miasta — z milionami balkonów, dachów, podwórek, fasad i trawników — mają tego miejsca więcej, niż większość ludzi zdaje sobie sprawę.
 
-## Co mogą zrobić ludzie i instytucje
+**Badania w Wielkiej Brytanii wykazały, że ogrody, parki i pobocza dróg w miastach były zamieszkane przez więcej gatunków i osobników pszczół niż otaczający je intensywnie uprawiany krajobraz rolniczy.** Łąka na dachu w centrum miasta to nie romantyczny gest — to ekologia stosowana.
 
-- Sadzić gatunki bogate w nektar i pyłek na **balkonach, parapetach, dachach, podwórzach, w ogrodach i na pionowych fasadach**.
-- Wybierać rośliny kwitnące **od wiosny do jesieni**, aby owady miały pokarm przez cały sezon.
-- Łączyć kwiaty z krzewami, ziołami i drzewami, aby nasadzenia były nie tylko piękne, ale też ekologicznie użyteczne.
-- Zostawiać część przestrzeni bardziej naturalną: trochę odsłoniętej gleby, martwego drewna, wody i mniej sterylnej zieleni.
+## Co możesz zrobić — dziś
 
-Nawet mały balkon może wykarmić trzmiela. Jeden dach może nieść łąkę. Jedna fasada może kwitnąć, zamiast tylko oddawać ciepło.
+Poziom wejścia to jedna doniczka z kwiatami na balkonie. Pułap to łąka na dachu szpitala, kwitnąca fasada szkoły, wypasające się stado w miejskim parku.
 
-## Łagodniejsza pielęgnacja jest ważniejsza niż idealny trawnik
+Każdy krok się liczy. Tu zaczynasz:
 
-**Nie koście trawników zbyt często.** Owady potrzebują kwitnących roślin, a nie krótkiego zielonego dywanu. Kwitnący trawnik lub miejska łąka mają dla zapylaczy znacznie większą wartość niż trawa regularnie ścinana do zera.
+- Sadzić rośliny bogate w nektar i pyłek na **balkonach, parapetach, dachach, podwórzach, w ogrodach i na zielonych fasadach**.
+- Wybierać gatunki kwitnące **od wiosny do jesieni**, żeby owady miały pokarm przez cały sezon.
+- Łączyć kwiaty z krzewami, ziołami i drzewami, by nasadzenia były nie tylko ładne, ale i pożyteczne dla przyrody.
+- Zostawiać części przestrzeni bardziej naturalne: trochę odkrytej gleby, martwe drewno, wodę, mniej sterylnej zieleni.
 
-Tam, gdzie jest to praktyczne, **kontrolowany wypas** może być jedną z najłagodniejszych form pielęgnacji. W norweskich warunkach mogą w tym pomagać na przykład owce z wirtualnymi ogrodzeniami typu **NoFence**. W większych i bardziej zróżnicowanych mozaikach wypasu, zależnie od miejsca, rolę mogą odgrywać także inne zwierzęta, między innymi **kozy, konie lub jelenie**. A w niektórych ogrodzonych miejskich przestrzeniach mniejszą rolę mogą odegrać również **króliki**.
+Nawet mały balkon może wykarmić trzmiela. Jeden dach może nieść łąkę. Jedna fasada może kwitnąć zamiast tylko oddawać ciepło.
 
-Nie chodzi o jedną markę ani o jedną metodę. Chodzi o zasadę: **żywa pielęgnacja zamiast ciągłego koszenia maszynowego wszędzie i cały czas**.
+## Łagodna pielęgnacja ważniejsza niż idealny trawnik
+
+**Nie koście trawników zbyt często.** Owady potrzebują kwitnących roślin, a nie krótkiego zielonego dywanu. Kwitnący trawnik lub miejska łąka mają dla zapylaczy nieporównanie większą wartość niż trawa regularnie ścinana do zera.
+
+Tam, gdzie to możliwe, **kontrolowany wypas** może być jedną z najłagodniejszych form pielęgnacji. W Norwegii sprawdzają się tu na przykład owce z wirtualnymi ogrodzeniami w rodzaju **NoFence**. W większych i bardziej zróżnicowanych mozaikach wypasu, zależnie od terenu, swoją rolę mogą odgrywać również **kozy, konie lub jelenie**. W niektórych zamkniętych przestrzeniach miejskich mniejszy udział mogą mieć **króliki**.
+
+Nie chodzi o jedną markę ani o jedną metodę, lecz o zasadę: **żywa pielęgnacja zamiast nieustannego mechanicznego koszenia wszędzie i przez cały czas**.
 
 ## Jak mogę pomóc
 
 Mogę uczestniczyć w projektach dla samorządów, szkół, deweloperów, instytucji i inicjatyw sąsiedzkich:
 
-- jasne publiczne ujęcie tematu
-- wskazówki dotyczące nasadzeń dla zapylaczy
-- tablice edukacyjne i zrozumiała komunikacja dla mieszkańców
+- czytelne przedstawienie tematu dla odbiorców publicznych
+- wskazówki dotyczące nasadzeń z myślą o zapylaczach
+- tablice edukacyjne i zrozumiałe materiały informacyjne
 - łączenie tradycyjnych uli, miejskiej zieleni i troski o zapylacze w jedną spójną opowieść
-- konsultacje dotyczące łagodniejszego zarządzania zielenią i projektów pilotażowych
+- doradztwo w zakresie łagodniejszej gospodarki zielenią i projektów pilotażowych
+
+## Dołącz
+
+Ogrody na dachach, kwitnące fasady, łąki zamiast trawników, zwierzęta pasące się zamiast kosiarek — w europejskich miastach coś się zmienia.
+
+**Wyzwanie balkonowe:** posadź w tym tygodniu jedną kwitnącą roślinę pożyteczną dla zapylaczy. Postaw ją tam, gdzie może ją znaleźć pszczoła lub trzmiel. Udostępnij to. Powiedz komuś, dlaczego to robisz.
+
+Jeden balkon. Jeden kwiat. Jedno lato. **I wtedy się rozprzestrzenia.**
+
+Oznacz swój kawałek: **#MiastaDlaPszczół** · **#CitiesForBees**
+
+---
 
 Nie chodzi tylko o ochronę jednego gatunku. Chodzi o to, by miasta i społeczności znowu **kwitły, żyły i brzęczały**.
