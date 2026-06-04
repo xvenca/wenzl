@@ -27,3 +27,5 @@ Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch
 {{< hive-gallery field="Die gelbe, barrierearme Beute draußen im Feld bei Bergen — neben einer Gregor-Beute." front="Von Hand bei Bergen Fellesverksted gebaut, mit Aluminiumdach und stabilen Scharnieren." open="Das Klappdach lässt die ganze Beute schnell und einfach öffnen." topbars="Leichter Zugang von oben — schonende Pflege ohne schweres Heben." >}}
 
 Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
+
+{{< contact >}}

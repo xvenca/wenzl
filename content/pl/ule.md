@@ -27,3 +27,5 @@ Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ś
 {{< hive-gallery field="Żółty, bezbarierowy ul w terenie pod Bergen — obok ula typu Gregor." front="Wykonany ręcznie w Bergen Fellesverksted, z aluminiowym dachem i solidnymi zawiasami." open="Uchylny dach pozwala szybko i łatwo otworzyć cały ul." topbars="Łatwy dostęp od góry — delikatna obsługa bez dźwigania." >}}
 
 Zainteresowanie moimi ulami już się pojawia — *napisz do mnie, jeśli chcesz taki ul.*
+
+{{< contact >}}

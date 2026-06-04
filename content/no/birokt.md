@@ -72,6 +72,10 @@ Har du en hage, et gartneri eller et parsellhagedyrelag i Bergensregionen? Jeg t
 **Hva du får:** Kraftig pollinering gjennom sesongen.
 **Hva jeg får:** Et sted for mine bier å trives.
 
+Ta kontakt for å avtale bestøvning av din eiendom denne sesongen.
+
+{{< contact >}}
+
 ---
 
 ## Håndlagde Bikuber og Treprodukter

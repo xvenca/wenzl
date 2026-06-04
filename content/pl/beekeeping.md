@@ -66,6 +66,10 @@ Masz ogród, małe gospodarstwo lub działkę w rejonie Bergen? Oferuję swoje r
 **Co zyskujesz ty:** mocne zapylanie przez cały sezon.
 **Co zyskuję ja:** miejsce, w którym moje pszczoły mogą dobrze się rozwijać.
 
+Napisz do mnie, jeśli szukasz zapylania dla swojego ogrodu lub działki w tym sezonie.
+
+{{< contact >}}
+
 ## Ręcznie budowane drewniane ule {#handcrafted-beehives}
 
 **Leżaki nie należą do norweskiej tradycji pszczelarskiej** — to coś, co przyniosłem ze sobą i z czym eksperymentuję tutaj, w Norwegii. Buduję je sam, ręcznie w Bergen, z litego drewna. Właśnie tutaj powstały także moje ukraińskie leżaki. Drewno oddycha, izoluje i służy tak, jak żaden materiał fabryczny:

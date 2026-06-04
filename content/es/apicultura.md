@@ -70,6 +70,10 @@ Las abejas son los polinizadores más importantes de frutas, bayas y hortalizas.
 **Lo que obtienes:** una polinización vigorosa durante toda la temporada.
 **Lo que obtengo yo:** un lugar donde mis abejas prosperen.
 
+Contáctame para concertar la polinización de tu terreno esta temporada.
+
+{{< contact >}}
+
 ---
 
 ## Colmenas hechas a mano {#handcrafted-beehives}

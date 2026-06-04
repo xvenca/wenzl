@@ -72,6 +72,10 @@ Do you have a garden, smallholding, or allotment in the Bergen region? I offer m
 **What you get:** Vigorous pollination throughout the season.
 **What I get:** A place for my bees to thrive.
 
+Contact me to arrange pollination for your land this season.
+
+{{< contact >}}
+
 ---
 
 ## Handcrafted Beehives

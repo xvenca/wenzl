@@ -30,4 +30,6 @@ It builds on the proven Gregor horizontal hive, but I use even thicker solid-woo
 
 Interest in the hives has already begun to arrive — *get in touch if you would like a hive.*
 
+{{< contact >}}
+
 
