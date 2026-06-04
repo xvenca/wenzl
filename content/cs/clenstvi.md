@@ -1,6 +1,6 @@
 ---
-title: "Členství a spolupráce"
-description: "Organizace, jejichž jsem členem, se kterými spolupracuji nebo ze kterých vychází moje včelařské kořeny — v Norsku i v České republice."
+title: "Organizace a spolupráce"
+description: "Moje odborné zázemí — organizace, ke kterým patřím, se kterými spolupracuji nebo ze kterých pocházejí moje včelařské kořeny — v Norsku i v České republice."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -30,4 +30,4 @@ memberships:
     desc: "V Boskovicích má moje včelařská cesta své začátky. Učil mě tam pan Josef Stejskal, který byl členem této boskovické organizace. Právě na schůzi zde jsem poprvé slyšel přednášku doc. Přidala o varroáze — schůzi, která mě přivedla k akademickému včelaření. Dnes žiji v Norsku, a proto jsem členem Norges Birøkterlag."
 ---
 
-Včelaření je společenství. Toto jsou organizace, jejichž jsem členem, se kterými spolupracuji nebo ze kterých vyrůstají moje včelařské kořeny — jak v **Norsku**, kde dnes včelařím, tak v **České republice**, odkud pocházím.
+Včelaření je společenství. Toto jsou organizace, ke kterým patřím, se kterými spolupracuji nebo ze kterých vyrůstají moje včelařské kořeny — jak v **Norsku**, kde dnes včelařím, tak v **České republice**, odkud pocházím.

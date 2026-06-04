@@ -1,6 +1,6 @@
 ---
-title: "Medlemskap og samarbeid"
-description: "Organisasjonene jeg er medlem av, samarbeider med eller har birøkterrøttene mine i — i Norge og i Tsjekkia."
+title: "Tilknytninger og samarbeid"
+description: "Mine faglige tilknytninger — organisasjonene jeg er med i, samarbeider med eller har birøkterrøttene mine i — i Norge og i Tsjekkia."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -30,4 +30,4 @@ memberships:
     desc: "Det lokale birøktermiljøet i Boskovice er stedet der birøkterrøttene mine ligger. Jeg lærte der av herr Josef Stejskal, som var medlem av denne organisasjonen i Boskovice. Det var på et møte her jeg første gang hørte doc. Přidal forelese om varroa — møtet som førte meg inn i den akademiske birøkten. Jeg bor i Norge i dag, så medlemskapet mitt er i Norges Birøkterlag."
 ---
 
-Birøkt er et fellesskap. Her er organisasjonene jeg er medlem av, samarbeider med eller har birøkterrøttene mine i — både i **Norge**, der jeg holder bier i dag, og i **Tsjekkia**, der røttene mine ligger.
+Birøkt er et fellesskap. Her er mine tilknytninger — organisasjonene jeg er med i, samarbeider med eller har birøkterrøttene mine i — både i **Norge**, der jeg holder bier i dag, og i **Tsjekkia**, der røttene mine ligger.

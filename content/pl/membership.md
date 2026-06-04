@@ -1,6 +1,6 @@
 ---
-title: "Członkostwo i współpraca"
-description: "Organizacje, do których należę, z którymi współpracuję albo z których wyrastają moje pszczelarskie korzenie — w Norwegii i w Czechach."
+title: "Organizacje i współpraca"
+description: "Moje afiliacje zawodowe — organizacje, do których należę, z którymi współpracuję albo z których wyrastają moje pszczelarskie korzenie — w Norwegii i w Czechach."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -30,4 +30,4 @@ memberships:
     desc: "Lokalne środowisko pszczelarskie w Boskovicach to miejsce, z którego wyrastają moje pszczelarskie korzenie. Uczył mnie tam pan Josef Stejskal, który był członkiem tej organizacji w Boskovicach. To właśnie na jednym ze spotkań po raz pierwszy usłyszałem wykład doc. Přidala o warrozie — spotkanie, które skierowało mnie ku akademickiemu pszczelarstwu. Dziś mieszkam w Norwegii, dlatego jestem członkiem Norges Birøkterlag."
 ---
 
-Pszczelarstwo to wspólnota. Oto organizacje, do których należę, z którymi współpracuję albo z których wyrastają moje pszczelarskie korzenie — zarówno w **Norwegii**, gdzie dziś trzymam pszczoły, jak i w **Czechach**, skąd pochodzą moje korzenie.
+Pszczelarstwo to wspólnota. Oto moje afiliacje — organizacje, do których należę, z którymi współpracuję albo z których wyrastają moje pszczelarskie korzenie — zarówno w **Norwegii**, gdzie dziś trzymam pszczoły, jak i w **Czechach**, skąd pochodzą moje korzenie.
