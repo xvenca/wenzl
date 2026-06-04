@@ -20,8 +20,20 @@
     <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
     {{ $ogimg := .Params.image | default (index .Site.Params.images 0) }}
-    {{ if $ogimg }}<meta property="og:image" content="{{ $ogimg | absURL }}">{{ end }}
+    {{ $ogalt := .Params.alt | default .Title }}
+    {{ $ogtitle := .Site.Title }}{{ if not .IsHome }}{{ $ogtitle = printf "%s — %s" .Title .Site.Title }}{{ end }}
+    {{ $ogdesc := .Description | default .Site.Params.description }}
+    {{ if $ogimg }}
+    <meta property="og:image" content="{{ $ogimg | absURL }}">
+    <meta property="og:image:alt" content="{{ $ogalt }}">
+    {{ end }}
     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ $ogtitle }}">
+    <meta name="twitter:description" content="{{ $ogdesc }}">
+    {{ if $ogimg }}
+    <meta name="twitter:image" content="{{ $ogimg | absURL }}">
+    <meta name="twitter:image:alt" content="{{ $ogalt }}">
+    {{ end }}
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ "index.xml" | relURL }}">
 
     {{ $c := site.Data.contact }}
