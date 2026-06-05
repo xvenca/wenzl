@@ -8,6 +8,7 @@ slug: "GradyRadiPchel"
 aliases:
   - /cu/opyliteli/
   - /gradyradipchel/
+  - /cu/gradyradipchel/
 ---
 
 ## Цвѣты, яже насъ питаютъ

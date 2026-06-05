@@ -8,6 +8,7 @@ slug: "StaedteFuerBienen"
 aliases:
   - /de/bestaeuber/
   - /staedtefuerbienen/
+  - /de/staedtefuerbienen/
 ---
 
 ## Insekten ernähren unsere Tische

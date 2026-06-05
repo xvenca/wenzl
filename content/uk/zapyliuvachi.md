@@ -8,6 +8,7 @@ slug: "MistaDlyaBdzhil"
 aliases:
   - /uk/zapyliuvachi/
   - /mistadlyabdzhil/
+  - /uk/mistadlyabdzhil/
 ---
 
 ## Комахи, що годують наші столи

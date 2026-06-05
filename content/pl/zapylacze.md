@@ -8,6 +8,7 @@ slug: "MiastaDlaPszczol"
 aliases:
   - /pl/zapylacze/
   - /miastadlapszczol/
+  - /pl/miastadlapszczol/
 ---
 
 ## Owady, które karmią nasze stoły

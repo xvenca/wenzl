@@ -8,6 +8,7 @@ slug: "CiudadesParaAbejas"
 aliases:
   - /es/polinizadores/
   - /ciudadesparaabejas/
+  - /es/ciudadesparaabejas/
 ---
 
 ## Los insectos que alimentan nuestras mesas

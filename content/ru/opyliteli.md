@@ -8,6 +8,7 @@ slug: "GorodaDlyaPchel"
 aliases:
   - /ru/opyliteli/
   - /gorodadlyapchel/
+  - /ru/gorodadlyapchel/
 ---
 
 ## Насекомые, которые кормят наши столы
