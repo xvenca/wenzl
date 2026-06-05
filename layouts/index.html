@@ -4,9 +4,7 @@
 {{ if eq $lang "no" }}{{ $lang_key = "nb" }}{{ end }}
 {{ $services := index site.Data.services $lang_key }}
 {{ $contact := site.Data.contact }}
-{{ $phoneHref := replaceRE `[^+0-9]` "" $contact.phone }}
 {{ $emailHref := printf "mailto:%s" $contact.email | safeURL }}
-{{ $telHref := printf "tel:%s" $phoneHref | safeURL }}
 
 <!-- ── Hero ──────────────────────────────────────────────────── -->
 <section class="relative min-h-[520px] md:min-h-[640px] flex items-end overflow-hidden bg-stone-900">
@@ -60,10 +58,6 @@
             <a href="{{ $emailHref }}" class="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1.5 hover:bg-white/15 hover:text-white transition backdrop-blur-sm">
                 <span aria-hidden="true">@</span>
                 <span>{{ $contact.email }}</span>
-            </a>
-            <a href="{{ $telHref }}" class="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1.5 hover:bg-white/15 hover:text-white transition backdrop-blur-sm">
-                <span aria-hidden="true">+</span>
-                <span>{{ $contact.phone }}</span>
             </a>
             <span class="inline-flex items-center gap-2 rounded-full bg-white/5 px-3 py-1.5 text-stone-300 border border-white/10">
                 <span aria-hidden="true">o</span>

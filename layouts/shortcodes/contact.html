@@ -4,12 +4,9 @@
 {{ $addressKey := printf "address_%s" $lang }}
 {{ $cta := index $c $key | default $c.cta }}
 {{ $address := index $c $addressKey | default $c.address }}
-{{ $phoneHref := replaceRE `[^+0-9]` "" $c.phone }}
 {{ $emailHref := printf "mailto:%s" $c.email | safeURL }}
-{{ $telHref := printf "tel:%s" $phoneHref | safeURL }}
 <div class="contact-block">
   <p><strong>{{ i18n "email_label" | default "Email" }}:</strong> <a href="{{ $emailHref }}">{{ $c.email }}</a></p>
-  <p><strong>{{ i18n "phone_label" | default "Phone" }}:</strong> <a href="{{ $telHref }}">{{ $c.phone }}</a></p>
   <p><strong>{{ i18n "location_label" | default "Location" }}:</strong> {{ $address }}</p>
   {{ with $c.notes }}<p class="text-sm text-gray-600">{{ . }}</p>{{ end }}
   {{ with $cta }}<p class="mt-2 font-semibold">{{ . }}</p>{{ end }}

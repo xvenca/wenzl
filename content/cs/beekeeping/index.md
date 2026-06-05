@@ -47,7 +47,7 @@ Zaznamenali jste roj — shluk včel na stromě, pod okapem nebo kdekoli v okol�
 
 Odchytávám roje **zdarma** v Bergenu a okolí. Roj není nebezpečný, ale čím dříve zakročíme, tím lépe pro včely.
 
-📧 [info@wenzl.no](mailto:info@wenzl.no) · 📞 [+47 926 20569](tel:+4792620569)
+📧 [info@wenzl.no](mailto:info@wenzl.no)
 
 ---
 

@@ -51,7 +51,6 @@
         "@type": "LocalBusiness",
         "name": "{{ .Site.Title }}",
         "url": "{{ .Site.BaseURL }}",
-        "telephone": "{{ $c.phone }}",
         "email": "{{ $c.email }}",
         "address": {
             "@type": "PostalAddress",
@@ -176,12 +175,9 @@
                 <div>
                     <h3 class="text-amber-300 font-semibold mb-3 text-xs uppercase tracking-widest">{{ i18n "footer_contact" | default "Contact" }}</h3>
                     {{ $c := site.Data.contact }}
-                    {{ $phoneHref := replaceRE `[^+0-9]` "" $c.phone }}
                     {{ $emailHref := printf "mailto:%s" $c.email | safeURL }}
-                    {{ $telHref := printf "tel:%s" $phoneHref | safeURL }}
                     <ul class="space-y-1.5 text-sm">
                         <li><a href="{{ $emailHref }}" class="hover:text-amber-300 transition">{{ $c.email }}</a></li>
-                        <li><a href="{{ $telHref }}" class="hover:text-amber-300 transition">{{ $c.phone }}</a></li>
                         <li class="text-stone-500 pt-1">{{ i18n "location_display" | default "Bergen, Norway" }}</li>
                     </ul>
                 </div>

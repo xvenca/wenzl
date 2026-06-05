@@ -45,7 +45,7 @@ Zobaczyłeś rój — kłąb pszczół na drzewie, pod okapem albo gdziekolwiek 
 
 Bezpłatnie odławiam roje pszczele w **Bergen** i okolicy. Rój nie jest niebezpieczny, ale im szybciej zareagujemy, tym lepiej dla pszczół.
 
-📧 [info@wenzl.no](mailto:info@wenzl.no) · 📞 [+47 926 20569](tel:+4792620569)
+📧 [info@wenzl.no](mailto:info@wenzl.no)
 
 ## Pułapki rojowe {#swarm-traps}
 

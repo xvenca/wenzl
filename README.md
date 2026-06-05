@@ -4,7 +4,7 @@
 
 **[wenzl.no](https://wenzl.no)** is the website of **Martin Venclu**, a certified beekeeper based in Bergen, Norway. Natural beekeeping, free swarm collection, free building protection with swarm traps across all of Norway, handcrafted wooden hives, apitherapy, Cities for Bees urban movement. No honey for sale — bees winter on honey, not sugar.
 
-📧 [info@wenzl.no](mailto:info@wenzl.no) · 📞 +47 926 20569 · 📍 Bergen, Norway · 🌐 **[wenzl.no](https://wenzl.no)**
+📧 [info@wenzl.no](mailto:info@wenzl.no) · 📍 Bergen, Norway · 🌐 **[wenzl.no](https://wenzl.no)**
 
 ---
 

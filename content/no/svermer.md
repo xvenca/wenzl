@@ -12,7 +12,7 @@ Har du sett en sverm — en klynge av bier i et tre, under et takutstikk eller e
 
 Jeg fanger biesværmer **gratis** i Bergen og omegn. En sverm er ikke farlig, men jo raskere vi handler, desto bedre er det for biene.
 
-📧 info@wenzl.no · 📞 +47 926 20569
+📧 info@wenzl.no
 
 ### Bergen 16.5.2025: sverm på en lekeplass
 
