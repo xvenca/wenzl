@@ -1,23 +1,29 @@
-# wenzl.no — Martin Venclů, certified beekeeper in Bergen, Norway
+# wenzl.no - Martin Venclu, certified beekeeper in Bergen, Norway
 
-> wenzl.no is the website of **Martin Venclů**, a certified beekeeper based in Bergen, Norway, working across the whole country. He practices natural beekeeping, offers free bee swarm collection, free swarm-trap protection for buildings anywhere in Norway, pollination (placing bees in exchange for garden/orchard space), and handcrafted wooden hives — including an accessible "barrier-free" hive. He does not sell honey; it is left for the bees. The site is available in multiple languages (Norwegian, English, Czech, Ukrainian, Russian, Polish, German, and more).
+> wenzl.no is the website of **Martin Venclu**, a certified beekeeper based in Bergen, Norway, working across the whole country. He practices natural beekeeping, offers free bee swarm collection, free swarm-trap protection for buildings anywhere in Norway, pollination (placing bees in exchange for garden/orchard space), and handcrafted wooden hives — including an accessible "barrier-free" hive. He does not sell honey; it is left for the bees. The site is available in multiple languages (Norwegian, English, Czech, Ukrainian, Russian, Polish, German, and more).
 
 ## Services
 
 - [Beekeeping overview](https://wenzl.no/en/beekeeping/): Natural beekeeping, philosophy, services and background.
 - [Swarms](https://wenzl.no/en/swarms/): **Free swarm collection** in Bergen and surroundings. **Free swarm traps** (bait boxes) that protect buildings from bees nesting in chimneys or facades — offered across **all of Norway**; caught swarms are nursed in his "bee hospital".
 - [Beehives](https://wenzl.no/en/beehives/): Handcrafted wooden horizontal hives, built by hand in Bergen — the Gregor hive, a Ukrainian hive, and an accessible "barrier-free" hive usable by children, people with back pain and wheelchair users. Available made to order.
-- [Cities for Bees](https://wenzl.no/en/pollinators/): Helping bees, bumblebees, butterflies and other pollinators in towns — flowering balconies, rooftops and gentler land care; decorative hives and information boards for municipalities and schools.
+- [Cities for Bees](https://wenzl.no/en/pollinators/): A global movement starting with a single balcony — one in three bites of food exists because an insect visited a flower, and 40% of insect species are declining. Flowering balconies, rooftops, unmowed lawns, managed grazing; decorative hives and information boards for municipalities and schools. Hashtag: #CitiesForBees / #ByerForBier.
 
 ## About
 
-- [About Martin Venclů](https://wenzl.no/en/about/): Beekeeping roots in the village of Obora (Czech Republic), trained under doc. Antonin Pridal at Mendel University in Brno, certified beekeeper in Bergen, carrying on a family beekeeping tradition.
+- [About Martin Venclu](https://wenzl.no/en/about/): Beekeeping roots in the village of Obora (Czech Republic, founded 1360 — the village coat of arms bears a honeycomb), trained under doc. Ing. Antonín Přidal, Ph.D. at Mendel University in Brno (course: Beekeeping and Bee Products), certified beekeeper in Bergen, carrying on a family beekeeping tradition spanning both Czech and Ukrainian sides.
 - [Membership & affiliations](https://wenzl.no/en/membership/): Norges Birøkterlag (Norwegian Beekeepers' Association), Bergen Fellesverksted (the workshop where he builds his hives), and the Boskovice beekeepers' association in the Czech Republic.
 - [Contact](https://wenzl.no/en/contact/): info@wenzl.no, +47 926 20569, Bergen, Norway.
 
+## Qualifications
+
+- **Kompetansekurs om bier** — Norges Birøkterlag / Bergen og Omegn Birøkterlag, 28 Oct – 29 Nov 2024. Issued by Norges Birøkterlag on behalf of Mattilsynet (Norwegian Food Safety Authority). Certifies the holder to conduct health inspections in their own apiary — the first step towards apiary certification, which is a legal requirement under Norwegian law to sell or move bees. Certification valid 10 years.
+- **Academic training** — Mendel University in Brno, course: Beekeeping and Bee Products, under doc. Ing. Antonín Přidal, Ph.D. (one of Central Europe's leading experts on Varroa destructor).
+- **Practical roots** — taught by Josef Stejskal, Boskovice, a local master beekeeper; beekeeping tradition in family on both Czech and Ukrainian sides.
+
 ## Key facts
 
-- Name: Martin Venclů
+- Name: Martin Venclu
 - Role: Certified beekeeper (certified in Bergen, Norway)
 - Location: Bergen, Norway — services available across Norway
 - Email: info@wenzl.no
@@ -27,7 +33,9 @@
 - Pollination: free, in exchange for a place to put the hives
 - Hives: handcrafted wooden hives, made to order
 - Does not sell honey — natural beekeeping, building a biological reserve for future generations
+- Certificate: Kompetansekurs om bier, Norges Birøkterlag, 2024 (valid 10 years)
+- Education: Mendel University in Brno — Beekeeping and Bee Products
 
 ## Languages
 
-[Norwegian](https://wenzl.no/) · [English](https://wenzl.no/en/) · [Czech](https://wenzl.no/cs/) · [Ukrainian](https://wenzl.no/uk/) · [Russian](https://wenzl.no/ru/) · [Polish](https://wenzl.no/pl/) · [German](https://wenzl.no/de/) · [Spanish](https://wenzl.no/es/)
+[Norwegian](https://wenzl.no/) | [English](https://wenzl.no/en/) | [Czech](https://wenzl.no/cs/) | [Ukrainian](https://wenzl.no/uk/) | [Russian](https://wenzl.no/ru/) | [Polish](https://wenzl.no/pl/) | [German](https://wenzl.no/de/) | [Spanish](https://wenzl.no/es/)

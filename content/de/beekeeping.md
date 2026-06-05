@@ -35,7 +35,7 @@ services:
 
 ## Imker in Norwegen
 
-Ich heiße **Martin Venclů** und bin zertifizierter Imker mit Basis in Bergen. Zugleich möchte ich im Laufe der Zeit Imkereiprojekte auch an weiteren Orten in Norwegen aufbauen. Bienen begleiten mein Leben seit meiner Kindheit in **Obora** — einem Dorf in Südmähren in Tschechien mit jahrhundertealter Imkertradition, dessen Wappen eine Wabe und einen Baum zeigt.
+Ich heiße **Martin Venclu** und bin zertifizierter Imker mit Basis in Bergen. Zugleich möchte ich im Laufe der Zeit Imkereiprojekte auch an weiteren Orten in Norwegen aufbauen. Bienen begleiten mein Leben seit meiner Kindheit in **Obora** — einem Dorf in Südmähren in Tschechien mit jahrhundertealter Imkertradition, dessen Wappen eine Wabe und einen Baum zeigt.
 
 Ich arbeite mit naturnahen Methoden, wo es geht: Meine Völker bauen frei in leeren Rähmchen, ich lasse ihnen genug Honig zum Überwintern, und mein Ziel ist nicht maximale Produktion, sondern gesunde und widerstandsfähige Völker für kommende Generationen.
 
@@ -66,6 +66,10 @@ Haben Sie einen Garten, einen kleinen Hof oder eine Parzelle in der Region Berge
 **Was Sie bekommen:** kräftige Bestäubung während der ganzen Saison.
 **Was ich bekomme:** einen Ort, an dem meine Bienen sich gut entwickeln können.
 
+Melden Sie sich, wenn Sie Bestäubung für Ihr Grundstück oder Ihren Garten in dieser Saison suchen.
+
+{{< contact >}}
+
 ## Handgefertigte Holzbeuten {#handcrafted-beehives}
 
 **Lagerbeuten gehören nicht zur norwegischen Imkertradition** — ich habe sie mitgebracht und experimentiere hier in Norwegen mit ihnen. Ich baue sie selbst, von Hand in Bergen, aus massivem Holz. Genau hier habe ich auch meine ukrainischen Lagerbeuten gebaut. Holz atmet, isoliert und hält so, wie es kein industrielles Material kann:
@@ -93,15 +97,21 @@ Bienen brauchen Blüten — und Städte können sie ihnen geben. Ich arbeite mit
 
 Ich habe bereits ein aktives Projekt in Bergen, bei dem Bienen im öffentlichen Raum präsent sind — sichtbar und für alle zugänglich.
 
-## Zusammenarbeit mit Einrichtungen und Apitherapie
+## Zusammenarbeit mit Einrichtungen
 
-Ich habe Erfahrung mit der Aufstellung von Bienenvölkern in institutionellen Umgebungen, unter anderem in Zusammenarbeit mit **DPS Soli** in Bergen.
+Ich habe Erfahrung mit der Aufstellung von Bienenvölkern in institutionellen Umgebungen. Ein aktives Beispiel ist **DPS Soli** in Bergen, wo meine Beuten als Unterstützung für lokale Ökologie und Artenvielfalt im Garten stehen.
+
+Wenn Ihre Einrichtung — Krankenhaus, Pflegeheim, Schule oder Arbeitsplatz — Gartenfläche hat und dauerhaft Bienenvölker beherbergen möchte, nehmen Sie gerne Kontakt auf.
+
+## Apitherapie
+
+Apitherapie ist die therapeutische Nutzung der Bienennähe — Stockluft, Wärme und Vibration. Die ukrainische Lagerbeutе ist der traditionelle Beutentyp für diesen Zweck: flach, breit und dafür gebaut, unter einer Liegeplattform zu stehen, auf der die Menschen direkt über dem Volk liegen, Stockluft einatmen und die Wärme und das Summen der Bienen spüren.
 
 Ich biete an:
 
-- Aufstellung und Betreuung von Bienenvölkern bei Krankenhäusern, Pflegeeinrichtungen und Rehabilitationszentren
-- Beratung und Bau von **Apitherapie-Häusern**, in denen Patientinnen und Patienten die Nähe der Bienen erleben können
-- Ukrainische Lagerbeuten für die Apitherapie — genau dieser Beutentyp wird traditionell dafür verwendet, und ich habe Erfahrung sowohl im Bau als auch in der praktischen Arbeit damit
+- Beratung und Bau von **Apitherapie-Häusern** — einem kleinen Gebäude, in dem Menschen über den Beuten ruhen
+- Ukrainische Lagerbeuten, gebaut und betrieben speziell für Apitherapie
+- Beratung für Pflegeeinrichtungen, Rehabilitationszentren und Wellness-Projekte, die Apitherapie erwägen
 
 ## Meine Philosophie
 

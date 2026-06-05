@@ -35,7 +35,7 @@ services:
 
 ## Apicultor en Noruega
 
-Me llamo **Martin Venclů** y soy apicultor certificado con base en Bergen, con la ambición de desarrollar proyectos apícolas en más lugares de Noruega con el tiempo. Las abejas son parte de mi vida desde la infancia en **Obora** — un pueblo de Moravia del Sur, República Checa, con una tradición apícola de siglos, cuyo escudo lleva un panal y un árbol.
+Me llamo **Martin Venclu** y soy apicultor certificado con base en Bergen, con la ambición de desarrollar proyectos apícolas en más lugares de Noruega con el tiempo. Las abejas son parte de mi vida desde la infancia en **Obora** — un pueblo de Moravia del Sur, República Checa, con una tradición apícola de siglos, cuyo escudo lleva un panal y un árbol.
 
 Aplico métodos naturales siempre que es posible: mis colonias construyen libremente en cuadros vacíos, dejo a las abejas suficiente miel para invernar y me centro en formar colonias sanas y resistentes para las generaciones futuras, en lugar de maximizar la producción.
 
@@ -70,6 +70,10 @@ Las abejas son los polinizadores más importantes de frutas, bayas y hortalizas.
 **Lo que obtienes:** una polinización vigorosa durante toda la temporada.
 **Lo que obtengo yo:** un lugar donde mis abejas prosperen.
 
+Contáctame para concertar la polinización de tu terreno esta temporada.
+
+{{< contact >}}
+
 ---
 
 ## Colmenas hechas a mano {#handcrafted-beehives}
@@ -102,15 +106,21 @@ Ya tengo un proyecto activo en Bergen donde las abejas están presentes en espac
 
 ---
 
-## Cooperación institucional y apiterapia
+## Cooperación institucional
 
-Tengo experiencia colocando colonias de abejas en entornos institucionales, incluida la colaboración con **DPS Soli** en Bergen.
+Tengo experiencia colocando colonias de abejas en entornos institucionales. Un ejemplo activo es **DPS Soli** en Bergen, donde mis colmenas están en el jardín como apoyo a la ecología local y la biodiversidad.
+
+Si tu institución — hospital, residencia, escuela o lugar de trabajo — tiene espacio de jardín y desea acoger colonias de abejas permanentes, no dudes en contactarme.
+
+## Apiterapia
+
+La apiterapia es el uso terapéutico de la proximidad de las abejas: el aire de la colmena, el calor y las vibraciones. La colmena horizontal ucraniana es el tipo de colmena tradicional para este propósito: baja, ancha, diseñada para colocarse bajo una plataforma de descanso donde las personas se tumban directamente sobre la colonia, respiran el aire de la colmena y sienten su calor y zumbido.
 
 Ofrezco:
 
-- Colocación y gestión de colonias de abejas en hospitales, centros de cuidados y centros de rehabilitación
-- Asesoramiento y construcción de **casas de apiterapia** — donde los pacientes pueden experimentar la cercanía de las abejas
-- Colmenas horizontales ucranianas para apiterapia — este es el tipo de colmena que se usa tradicionalmente en la apiterapia, y tengo la experiencia tanto para construirlas como para manejarlas
+- Asesoramiento y construcción de **casas de apiterapia** — un pequeño refugio donde las personas descansan sobre las colmenas
+- Colmenas horizontales ucranianas de fabricación propia, construidas y gestionadas específicamente para apiterapia
+- Orientación para centros de cuidados, centros de rehabilitación y proyectos de bienestar que consideren la apiterapia
 
 ---
 

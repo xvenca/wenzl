@@ -1,6 +1,6 @@
 ---
-title: "Medlemskap og samarbeid"
-description: "Organisasjonene jeg er medlem av, samarbeider med eller har birøkterrøttene mine i — i Norge og i Tsjekkia."
+title: "Tilknytninger og samarbeid"
+description: "Mine faglige tilknytninger — organisasjonene jeg er med i, samarbeider med eller har birøkterrøttene mine i — i Norge og i Tsjekkia."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -9,6 +9,9 @@ memberships:
     location: "Norge"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
+    certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
+    certificate_desc: "Kursbevis fra Norges Birøkterlag — Kompetansekurs om bier, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Sertifiserer til å utføre helsekontroll i eigen bigård — første steg mot sertifisering av bigården, som er eit krav for lovleg omsetnad og flytting av bier i Noreg."
     desc: "Norges Birøkterlag er det nasjonale forbundet for birøktere i Norge. Som medlem er jeg en del av et landsdekkende fagmiljø som fremmer god birøkt, bienes helse og kunnskapsdeling."
   - name: "Bergen Fellesverksted"
     role: "Verksted"
@@ -30,4 +33,4 @@ memberships:
     desc: "Det lokale birøktermiljøet i Boskovice er stedet der birøkterrøttene mine ligger. Jeg lærte der av herr Josef Stejskal, som var medlem av denne organisasjonen i Boskovice. Det var på et møte her jeg første gang hørte doc. Přidal forelese om varroa — møtet som førte meg inn i den akademiske birøkten. Jeg bor i Norge i dag, så medlemskapet mitt er i Norges Birøkterlag."
 ---
 
-Birøkt er et fellesskap. Her er organisasjonene jeg er medlem av, samarbeider med eller har birøkterrøttene mine i — både i **Norge**, der jeg holder bier i dag, og i **Tsjekkia**, der røttene mine ligger.
+Birøkt er et fellesskap. Her er mine tilknytninger — organisasjonene jeg er med i, samarbeider med eller har birøkterrøttene mine i — både i **Norge**, der jeg holder bier i dag, og i **Tsjekkia**, der røttene mine ligger.

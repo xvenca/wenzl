@@ -13,8 +13,9 @@
 {{- with $shown -}}
 <div class="not-prose my-8 grid grid-cols-1 md:grid-cols-2 gap-4">
   {{- range . -}}
+  {{- $poster := . | replaceRE `^/videos/` "/images/" | replaceRE `\.mp4$` ".jpg" -}}
   <figure class="overflow-hidden rounded-xl border border-amber-100 bg-stone-900 shadow-sm">
-    <video controls preload="metadata" class="w-full aspect-video bg-stone-900">
+    <video controls preload="metadata" playsinline poster="{{ $poster }}" class="w-full aspect-video bg-stone-900">
       <source src="{{ . }}" type="video/mp4">
     </video>
   </figure>

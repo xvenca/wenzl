@@ -1,6 +1,6 @@
 ---
-title: "Membership & affiliations"
-description: "The organizations I belong to, work with, or draw my beekeeping roots from — in Norway and in the Czech Republic."
+title: "Affiliations"
+description: "My professional affiliations — the organizations I belong to, work with, or draw my beekeeping roots from — in Norway and in the Czech Republic."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -9,6 +9,9 @@ memberships:
     location: "Norway"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
+    certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
+    certificate_desc: "Course certificate from Norges Birøkterlag — Competence course on bees, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Certifies the holder to conduct health inspections in their own apiary — the first step towards apiary certification, which is required to legally sell or move bees in Norway."
     desc: "The Norwegian Beekeepers' Association is the national federation for beekeepers in Norway. As a member, I am part of a nationwide professional community promoting good beekeeping, bee health and knowledge-sharing."
   - name: "Bergen Fellesverksted"
     role: "Workshop"
@@ -30,4 +33,4 @@ memberships:
     desc: "The local beekeeping community in Boskovice is where my beekeeping roots lie. I learned there from Mr. Josef Stejskal, who was a member of this Boskovice organization. It was at a meeting here that I first heard doc. Přidal lecture on varroa — the meeting that drew me into academic beekeeping. I live in Norway today, so my current membership is with Norges Birøkterlag."
 ---
 
-Beekeeping is a community. These are the organizations I belong to, work with, or draw my beekeeping roots from — both in **Norway**, where I keep bees today, and in the **Czech Republic**, where my roots lie.
+Beekeeping is a community. These are my affiliations — the organizations I belong to, work with, or draw my beekeeping roots from — both in **Norway**, where I keep bees today, and in the **Czech Republic**, where my roots lie.

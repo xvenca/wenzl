@@ -3,18 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-    <link rel="canonical" href="{{ .Permalink }}">
+    {{/* ── Social sharing variables ──────────────────────────── */}}
+    {{ $pagetitle := .Title | default .Site.Title }}
+    {{ $ogtitle := $pagetitle }}{{ if not .IsHome }}{{ $ogtitle = printf "%s — %s" $pagetitle .Site.Title }}{{ end }}
+    {{ $desc := .Param "description" }}
+    {{ $ogimg := .Params.image | default (index .Site.Params.images 0) }}
+    {{ $ogalt := .Params.alt | default $pagetitle }}
 
+    <title>{{ $ogtitle }}</title>
+    <meta name="description" content="{{ $desc }}">
+    {{ with $ogimg }}<link rel="preload" as="image" href="{{ . | absURL }}" fetchpriority="high">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+    {{ end }}
+    {{ with (index (where .AllTranslations "Language.Lang" "no") 0) }}<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">{{ end }}
+
+    <meta property="og:locale" content="{{ .Site.Language.LanguageCode | replaceRE "-" "_" }}">
+    {{ range .AllTranslations }}{{ if ne .Language.Lang $.Site.Language.Lang }}<meta property="og:locale:alternate" content="{{ .Language.LanguageCode | replaceRE "-" "_" }}">
+    {{ end }}{{ end }}
     <meta property="og:site_name" content="{{ .Site.Title }}">
-    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
-    <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:title" content="{{ $ogtitle }}">
+    <meta property="og:description" content="{{ $desc }}">
     <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
-    {{ $ogimg := .Params.image | default (index .Site.Params.images 0) }}
-    {{ if $ogimg }}<meta property="og:image" content="{{ $ogimg | absURL }}">{{ end }}
+    {{ if $ogimg }}
+    {{ $imgAbsURL := $ogimg | absURL }}
+    {{ $imgW := .Params.imageWidth | default .Site.Params.ogImageWidth }}
+    {{ $imgH := .Params.imageHeight | default .Site.Params.ogImageHeight }}
+    <meta property="og:image" content="{{ $imgAbsURL }}">
+    <meta property="og:image:alt" content="{{ $ogalt }}">
+    {{ if $imgW }}<meta property="og:image:width" content="{{ $imgW }}">{{ end }}
+    {{ if $imgH }}<meta property="og:image:height" content="{{ $imgH }}">{{ end }}
+    {{ end }}
     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ $ogtitle }}">
+    <meta name="twitter:description" content="{{ $desc }}">
+    {{ if $ogimg }}
+    <meta name="twitter:image" content="{{ $ogimg | absURL }}">
+    <meta name="twitter:image:alt" content="{{ $ogalt }}">
+    {{ end }}
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ "index.xml" | relURL }}">
 
     {{ $c := site.Data.contact }}
@@ -32,6 +60,43 @@
             "addressCountry": "NO"
         },
         "description": "{{ .Site.Params.description }}"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Martin Venclu",
+        "url": "{{ .Site.BaseURL }}en/about/",
+        "email": "{{ $c.email }}",
+        "telephone": "{{ $c.phone }}",
+        "jobTitle": "Certified Beekeeper",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Bergen",
+            "addressCountry": "NO"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Mendel University in Brno",
+            "url": "https://mendelu.cz/"
+        },
+        "hasCredential": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Kompetansekurs om bier — Norges Birøkterlag",
+            "description": "Certifies the holder to conduct health inspections in their own apiary — first step towards apiary certification, required to legally sell or move bees in Norway.",
+            "dateCreated": "2024-11-29",
+            "recognizedBy": {
+                "@type": "Organization",
+                "name": "Norges Birøkterlag",
+                "url": "https://norbi.no/"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Norges Birøkterlag",
+            "url": "https://norbi.no/"
+        }
     }
     </script>
 
@@ -119,13 +184,6 @@
                     <a href="{{ .URL }}"
                        class="block px-3 py-2 rounded-md text-sm font-medium text-stone-700 hover:text-amber-800 hover:bg-amber-50 transition">
                         {{ .Name }}
-                    </a>
-                    {{ end }}
-                </div>
-                <div class="mt-3 pt-3 border-t border-amber-100 flex gap-2 px-3">
-                    {{ range .Translations }}
-                    <a href="{{ .RelPermalink }}" class="text-xs font-bold bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full hover:bg-amber-200 transition uppercase">
-                        {{ .Language.Lang }}
                     </a>
                     {{ end }}
                 </div>

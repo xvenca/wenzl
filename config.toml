@@ -13,6 +13,8 @@ defaultContentLanguage = "no"
   email = "info@wenzl.no"
   phone = "+47 926 20569"
   images = ["/images/birokt-hero.jpg"]
+  ogImageWidth = 1536
+  ogImageHeight = 2048
 
 [languages]
   [languages.no]
@@ -54,7 +56,7 @@ defaultContentLanguage = "no"
       weight = 6
     [[languages.no.menu.main]]
       identifier = "membership"
-      name = "Medlemskap"
+      name = "Tilknytninger"
       url = "/medlemskap/"
       weight = 7
     [[languages.no.menu.main]]
@@ -102,7 +104,7 @@ defaultContentLanguage = "no"
       weight = 6
     [[languages.en.menu.main]]
       identifier = "membership"
-      name = "Membership"
+      name = "Affiliations"
       url = "/en/membership/"
       weight = 7
     [[languages.en.menu.main]]
@@ -150,7 +152,7 @@ defaultContentLanguage = "no"
       weight = 6
     [[languages.cs.menu.main]]
       identifier = "membership"
-      name = "Členství"
+      name = "Organizace"
       url = "/cs/clenstvi/"
       weight = 7
     [[languages.cs.menu.main]]
@@ -198,7 +200,7 @@ defaultContentLanguage = "no"
       weight = 6
     [[languages.uk.menu.main]]
       identifier = "membership"
-      name = "Членство"
+      name = "Організації"
       url = "/uk/membership/"
       weight = 7
     [[languages.uk.menu.main]]
@@ -246,7 +248,7 @@ defaultContentLanguage = "no"
       weight = 6
     [[languages.ru.menu.main]]
       identifier = "membership"
-      name = "Членство"
+      name = "Организации"
       url = "/ru/membership/"
       weight = 7
     [[languages.ru.menu.main]]
@@ -294,7 +296,7 @@ defaultContentLanguage = "no"
       weight = 6
     [[languages.pl.menu.main]]
       identifier = "membership"
-      name = "Członkostwo"
+      name = "Organizacje"
       url = "/pl/membership/"
       weight = 7
     [[languages.pl.menu.main]]

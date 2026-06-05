@@ -35,7 +35,7 @@ services:
 
 ## Birøkter i Norge
 
-Jeg heter **Martin Venclů** og er en sertifisert birøkter med base i Bergen, med mål om å utvikle birøkt flere steder i Norge over tid. Bier har vært en del av livet mitt siden barndommen i **Obora** — en tsjekkisk landsby i Sør-Mähren der birøkt har tradisjoner som strekker seg hundrevis av år tilbake, og der kommunevåpenet bærer et vokskake og et tre.
+Jeg heter **Martin Venclu** og er en sertifisert birøkter med base i Bergen, med mål om å utvikle birøkt flere steder i Norge over tid. Bier har vært en del av livet mitt siden barndommen i **Obora** — en tsjekkisk landsby i Sør-Mähren der birøkt har tradisjoner som strekker seg hundrevis av år tilbake, og der kommunevåpenet bærer et vokskake og et tre.
 
 Jeg arbeider med naturnære metoder der det lar seg gjøre og forvalter bikubene mine med respekt for biene — jeg lar dem beholde nok honning til å overvintre på, uten kjemikalier, og med fokus på å bygge sunne bisamfunn for fremtiden.
 
@@ -72,6 +72,10 @@ Har du en hage, et gartneri eller et parsellhagedyrelag i Bergensregionen? Jeg t
 **Hva du får:** Kraftig pollinering gjennom sesongen.
 **Hva jeg får:** Et sted for mine bier å trives.
 
+Ta kontakt for å avtale bestøvning av din eiendom denne sesongen.
+
+{{< contact >}}
+
 ---
 
 ## Håndlagde Bikuber og Treprodukter
@@ -104,17 +108,21 @@ Jeg har allerede et aktivt prosjekt i Bergen der bier er synlig til stede på of
 
 ---
 
-## Samarbeid med Institusjoner og Apiterapi
+## Samarbeid med Institusjoner
 
-Jeg har erfaring med å plassere bisamfunn i institusjonelle omgivelser, inkludert samarbeid med **DPS Soli** i Bergen.
+Jeg har erfaring med å plassere bisamfunn i institusjonelle omgivelser. Et aktivt eksempel er **DPS Soli** i Bergen, der mine bikuber står i hagen som støtte for lokal økologi og biologisk mangfold.
+
+Har institusjonen din — sykehus, omsorgssenter, skole eller arbeidsplass — hageareal og ønsker fastboende bisamfunn? Ta gjerne kontakt.
+
+## Apiterapi
+
+Apiterapi er terapeutisk bruk av nærhet til bier — luften fra kuben, varmen og vibrasjonene. Den ukrainske liggebikuben er den tradisjonelle kubetypen til dette formålet: lav, bred og utformet for å stå under en hvileplattform slik at folk kan ligge rett over bisamfunnet, puste inn kubeluften og kjenne varmen og summen fra biene.
 
 Jeg tilbyr:
 
-- Plassering og forvaltning av bisamfunn ved sykehus, omsorgssentre og rehabiliteringsinstitusjoner
-- Rådgivning om og bygging av **apidomki** (apiterapibygninger) — der pasienter kan oppleve og nyte nærhet til bier
-- Ukrainske liggebikuber til apiterapi — den kubetype som tradisjonelt brukes til apiterapi, og som jeg har kompetansen til å bygge og drifte
-
-Birøkt i omsorgsmiljøer gir naturopplevelse, ro og terapeutisk verdi.
+- Rådgivning og bygging av **apidomki** (apiterapibygninger) — en liten bygning der folk hviler over bikubene
+- Ukrainske liggebikuber bygget og driftet spesielt for apiterapi
+- Veiledning for omsorgsinstitusjoner, rehabiliteringssentre og velværeprosjekter som vurderer apiterapi
 
 ---
 

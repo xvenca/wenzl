@@ -27,4 +27,6 @@ Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere v
 
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
 
+{{< contact >}}
+
 

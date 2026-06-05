@@ -35,7 +35,7 @@ services:
 
 ## Pszczelarz w Norwegii
 
-Nazywam się **Martin Venclů** i jestem certyfikowanym pszczelarzem z bazą w Bergen, z zamiarem stopniowego rozwijania projektów pszczelarskich także w innych częściach Norwegii. Pszczoły są częścią mojego życia od dzieciństwa w **Oborze** — wsi w południowych Morawach w Czechach, z wielowiekową tradycją pszczelarską, której herb przedstawia plaster miodu i drzewo.
+Nazywam się **Martin Venclu** i jestem certyfikowanym pszczelarzem z bazą w Bergen, z zamiarem stopniowego rozwijania projektów pszczelarskich także w innych częściach Norwegii. Pszczoły są częścią mojego życia od dzieciństwa w **Oborze** — wsi w południowych Morawach w Czechach, z wielowiekową tradycją pszczelarską, której herb przedstawia plaster miodu i drzewo.
 
 Stosuję naturalne metody tam, gdzie to możliwe: moje rodziny swobodnie budują w pustych ramkach, zostawiam pszczołom dość miodu na zimę, a najważniejsze jest dla mnie nie maksymalizowanie produkcji, lecz budowanie zdrowych i odpornych rodzin dla przyszłych pokoleń.
 
@@ -66,6 +66,10 @@ Masz ogród, małe gospodarstwo lub działkę w rejonie Bergen? Oferuję swoje r
 **Co zyskujesz ty:** mocne zapylanie przez cały sezon.
 **Co zyskuję ja:** miejsce, w którym moje pszczoły mogą dobrze się rozwijać.
 
+Napisz do mnie, jeśli szukasz zapylania dla swojego ogrodu lub działki w tym sezonie.
+
+{{< contact >}}
+
 ## Ręcznie budowane drewniane ule {#handcrafted-beehives}
 
 **Leżaki nie należą do norweskiej tradycji pszczelarskiej** — to coś, co przyniosłem ze sobą i z czym eksperymentuję tutaj, w Norwegii. Buduję je sam, ręcznie w Bergen, z litego drewna. Właśnie tutaj powstały także moje ukraińskie leżaki. Drewno oddycha, izoluje i służy tak, jak żaden materiał fabryczny:
@@ -92,15 +96,21 @@ Pszczoły potrzebują kwiatów — a miasta mogą im je dać. Współpracuję z 
 
 Mam już aktywny projekt w Bergen, w którym pszczoły są obecne w przestrzeni publicznej — widoczne i dostępne dla każdego.
 
-## Współpraca z instytucjami i apiterapia
+## Współpraca z instytucjami
 
-Mam doświadczenie w umieszczaniu rodzin pszczelich w środowisku instytucjonalnym, w tym we współpracy z **DPS Soli** w Bergen.
+Mam doświadczenie w umieszczaniu rodzin pszczelich w środowisku instytucjonalnym. Jednym z aktywnych przykładów jest **DPS Soli** w Bergen, gdzie moje ule stoją w ogrodzie jako wsparcie lokalnej ekologii i różnorodności biologicznej.
+
+Jeśli Twoja instytucja — szpital, dom opieki, szkoła lub miejsce pracy — dysponuje przestrzenią ogrodową i chciałaby gościć stałe rodziny pszczele, skontaktuj się ze mną.
+
+## Apiterapia
+
+Apiterapia to terapeutyczne wykorzystanie bliskości pszczół — powietrza z ula, ciepła i wibracji. Ukraiński leżak to tradycyjny typ ula do tego celu: niski, szeroki, zaprojektowany tak, by stał pod platformą wypoczynkową, nad którą ludzie leżą bezpośrednio nad rodziną pszczeją, wdychają powietrze z ula i czują jego ciepło i brzęczenie.
 
 Oferuję:
 
-- Ustawianie i prowadzenie rodzin pszczelich przy szpitalach, placówkach opiekuńczych i ośrodkach rehabilitacyjnych
-- Doradztwo i budowę **domków do apiterapii**, gdzie pacjenci mogą doświadczać bliskości pszczół
-- Ukraińskie leżaki do apiterapii — właśnie ten typ ula tradycyjnie stosuje się w takiej praktyce, a ja mam doświadczenie zarówno w ich budowie, jak i prowadzeniu
+- Doradztwo i budowę **domków do apiterapii** — małego schronienia, gdzie ludzie wypoczywają nad ulami
+- Ukraińskie leżaki własnej roboty, budowane i obsługiwane specjalnie na potrzeby apiterapii
+- Doradztwo dla placówek opiekuńczych, ośrodków rehabilitacyjnych i projektów wellness rozważających apiterapię
 
 ## Moja filozofia
 

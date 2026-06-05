@@ -22,11 +22,11 @@ Am 16. Mai 2025 wurde ich in ein Wohnviertel in Bergen gerufen, weil sich ein Sc
 
 Schwärmende Bienen können sich dort niederlassen, wo Sie es am wenigsten möchten — im Schornstein, in Hohlräumen oder hinter einer Holzfassade. Ein bereits eingezogenes Volk aus einem Gebäude in Norwegen zu entfernen, ist aufwendig und teuer.
 
-Das ist kein theoretisches Risiko. 2025 wurde ich zu einem Mehrfamilienhaus in Bergen gerufen, weil ein Schwarm, der schon seit mehreren Tagen im Gebäude saß, immer wieder herausflog und die Bewohner störte. Als ich ankam, stellte ich fest, dass die Bienen bereits die Holzfassade des Hauses besiedelt hatten. Als die Fassade später geöffnet wurde, fand man die Königin nicht.
+Das ist kein theoretisches Risiko. Am 15.6.2025 wurde ich zu einem Mehrfamilienhaus in Bergen gerufen, weil ein Schwarm, der schon seit mehreren Tagen im Gebäude saß, immer wieder herausflog und die Bewohner störte. Als ich ankam, stellte ich fest, dass die Bienen bereits die Holzfassade des Hauses besiedelt hatten. Als die Fassade später geöffnet wurde, fand man die Königin nicht.
 
 In diesem Stadium reichte ein normaler Schwarmfang nicht mehr aus. Wir mussten eine professionelle Imkereifirma hinzuziehen, die mit einer spezialisierten Baufirma zusammenarbeitet und befugt ist, von Bienen besiedelte Gebäudeteile zu öffnen und in der Höhe zu arbeiten. Zusätzlich musste eine Arbeitsbühne auf einem Lkw bestellt werden, damit man an der Fassade sicher arbeiten konnte.
 
-### Bergen 2025: Schwarm in einer Holzfassade
+### Bergen, 15.6.2025: Schwarm in einer Holzfassade
 
 {{< swarm-building-gallery >}}
 

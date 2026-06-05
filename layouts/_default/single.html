@@ -17,9 +17,10 @@
             {{ $img := $res.Resize (printf "%dx" $w) }}
             {{ $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) }}
         {{ end }}
-        <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="100vw"
+        <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="(max-width: 768px) 100vw, 1200px"
              alt="{{ $.Params.alt | default $.Title }}"
-             class="w-full h-full object-cover opacity-80" loading="eager" decoding="async">
+             class="w-full h-full object-cover opacity-80" loading="eager" decoding="async"
+             width="{{ $res.Width }}" height="{{ $res.Height }}">
         {{ end }}
     {{ else }}
     <img src="{{ $imgPath }}" alt="{{ $.Params.alt | default $.Title }}"
@@ -71,8 +72,10 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {{ range . }}
                 <figure class="overflow-hidden rounded-xl border border-amber-100 bg-white shadow-sm">
+                    {{ $gimg := resources.GetMatch .image }}
                     <img src="{{ .image }}" alt="{{ .caption | default $.Title }}" loading="lazy" decoding="async"
-                         class="w-full h-60 object-cover">
+                         class="w-full h-60 object-cover"
+                         {{ with $gimg }}width="{{ .Width }}" height="{{ .Height }}"{{ end }}>
                     {{ with .caption }}<figcaption class="px-4 py-3 text-sm text-stone-600 leading-snug">{{ . }}</figcaption>{{ end }}
                 </figure>
                 {{ end }}
@@ -97,4 +100,26 @@
         {{ end }}
     </article>
 </div>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ .Title | jsonify }},
+    "description": {{ .Param "description" | jsonify }},
+    "url": "{{ .Permalink }}",
+    "inLanguage": "{{ .Site.Language.LanguageCode | default .Site.Language.Lang }}",
+    "author": {
+        "@type": "Person",
+        "name": "Martin Venclu",
+        "url": "{{ .Site.BaseURL }}en/about/"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}"
+    }{{ with .Params.image }},
+    "image": "{{ . | absURL }}"{{ end }}
+}
+</script>
 {{ end }}

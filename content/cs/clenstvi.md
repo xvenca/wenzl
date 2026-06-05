@@ -1,6 +1,6 @@
 ---
-title: "Členství a spolupráce"
-description: "Organizace, jejichž jsem členem, se kterými spolupracuji nebo ze kterých vychází moje včelařské kořeny — v Norsku i v České republice."
+title: "Organizace a spolupráce"
+description: "Moje odborné zázemí — organizace, ke kterým patřím, se kterými spolupracuji nebo ze kterých pocházejí moje včelařské kořeny — v Norsku i v České republice."
 layout: "membership"
 translationKey: "membership"
 memberships:
@@ -9,6 +9,9 @@ memberships:
     location: "Norsko"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
+    certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
+    certificate_desc: "Osvědčení od Norges Birøkterlag — kvalifikační kurz o včelách, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Opravňuje k provádění zdravotních kontrol ve vlastním včelíně — první krok k certifikaci včelína, která je podmínkou pro legální prodej a přesuny včel v Norsku."
     desc: "Norges Birøkterlag je národní svaz včelařů v Norsku. Jako člen jsem součástí celostátní odborné komunity, která podporuje dobrou včelařskou praxi, zdraví včel a sdílení znalostí."
   - name: "Bergen Fellesverksted"
     role: "Dílna"
@@ -30,4 +33,4 @@ memberships:
     desc: "V Boskovicích má moje včelařská cesta své začátky. Učil mě tam pan Josef Stejskal, který byl členem této boskovické organizace. Právě na schůzi zde jsem poprvé slyšel přednášku doc. Přidala o varroáze — schůzi, která mě přivedla k akademickému včelaření. Dnes žiji v Norsku, a proto jsem členem Norges Birøkterlag."
 ---
 
-Včelaření je společenství. Toto jsou organizace, jejichž jsem členem, se kterými spolupracuji nebo ze kterých vyrůstají moje včelařské kořeny — jak v **Norsku**, kde dnes včelařím, tak v **České republice**, odkud pocházím.
+Včelaření je společenství. Toto jsou organizace, ke kterým patřím, se kterými spolupracuji nebo ze kterých vyrůstají moje včelařské kořeny — jak v **Norsku**, kde dnes včelařím, tak v **České republice**, odkud pocházím.
