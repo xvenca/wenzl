@@ -78,7 +78,7 @@ aliases:
 
 Является ли ваш город, школа, здание или район частью движения **Города для пчёл**? Покажите это на своём сайте.
 
-[![Города для пчёл](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/ru/GorodaDlyaPchel/)
+[![Города для пчёл](/images/CitiesForBees.png)](https://wenzl.no/ru/GorodaDlyaPchel/)
 
 Скопируйте этот код и вставьте его на свой сайт:
 

@@ -80,7 +80,7 @@ aliases:
 
 Аще градъ твои, школа, зданиє или сосѣдьство єсть часть движениѧ **Грады ради пчелъ** — покажи на сайтѣ своємъ.
 
-[![Грады ради пчелъ](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/cu/GradyRadiPchel/)
+[![Грады ради пчелъ](/images/CitiesForBees.png)](https://wenzl.no/cu/GradyRadiPchel/)
 
 Скопируи сии кодъ и вложи его на сайтъ свои:
 

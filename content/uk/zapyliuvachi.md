@@ -78,7 +78,7 @@ aliases:
 
 Чи є ваше місто, школа, будинок або район частиною руху **Міста для бджіл**? Покажіть це на своєму сайті.
 
-[![Міста для бджіл](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/uk/MistaDlyaBdzhil/)
+[![Міста для бджіл](/images/CitiesForBees.png)](https://wenzl.no/uk/MistaDlyaBdzhil/)
 
 Скопіюйте цей код і вставте його на свій сайт:
 

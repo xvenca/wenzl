@@ -78,7 +78,7 @@ Nejde jen o ochranu jednoho druhu. Jde o to, aby města a obce znovu začaly **k
 
 Je vaše město, škola, budova nebo sousedství součástí hnutí **Města pro včely**? Ukažte to na svém webu.
 
-[![Města pro včely](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/cs/MestaProVcely/)
+[![Města pro včely](/images/CitiesForBees.png)](https://wenzl.no/cs/MestaProVcely/)
 
 Zkopírujte tento kód a vložte jej na svůj web:
 

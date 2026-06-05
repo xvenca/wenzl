@@ -78,7 +78,7 @@ Es geht nicht nur um den Schutz einer einzigen Art. Es geht darum, dass Städte 
 
 Ist Ihre Stadt, Schule, Gebäude oder Nachbarschaft Teil der **Städte für Bienen**-Bewegung? Zeigen Sie es auf Ihrer Website.
 
-[![Städte für Bienen](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/de/StaedteFuerBienen/)
+[![Städte für Bienen](/images/CitiesForBees.png)](https://wenzl.no/de/StaedteFuerBienen/)
 
 Kopieren Sie diesen Code und fügen Sie ihn auf Ihrer Website ein:
 

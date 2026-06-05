@@ -78,7 +78,7 @@ Nie chodzi tylko o ochronę jednego gatunku. Chodzi o to, by miasta i społeczno
 
 Czy twoje miasto, szkoła, budynek lub sąsiedztwo jest częścią ruchu **Miasta dla pszczół**? Pokaż to na swojej stronie.
 
-[![Miasta dla pszczół](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/pl/MiastaDlaPszczol/)
+[![Miasta dla pszczół](/images/CitiesForBees.png)](https://wenzl.no/pl/MiastaDlaPszczol/)
 
 Skopiuj ten kod i wklej go na swojej stronie:
 

@@ -78,7 +78,7 @@ No se trata solo de proteger a una especie. Se trata de que las ciudades y las c
 
 ¿Es tu ciudad, escuela, edificio o vecindario parte del movimiento **Ciudades para abejas**? Muéstralo en tu sitio web.
 
-[![Ciudades para abejas](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/es/CiudadesParaAbejas/)
+[![Ciudades para abejas](/images/CitiesForBees.png)](https://wenzl.no/es/CiudadesParaAbejas/)
 
 Copia este código y pégalo en tu sitio web:
 

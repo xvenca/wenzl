@@ -80,7 +80,7 @@ Dette handler ikke bare om å beskytte én art. Det handler om å hjelpe byer og
 
 Er din by, skole, bygning eller nabolag en del av **Byer for bier**-bevegelsen? Vis det på nettstedet ditt.
 
-[![Byer for bier](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/ByerForBier/)
+[![Byer for bier](/images/CitiesForBees.png)](https://wenzl.no/ByerForBier/)
 
 Kopier denne koden og lim den inn på nettstedet ditt:
 

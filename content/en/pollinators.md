@@ -80,7 +80,7 @@ This is not only about protecting one species. It is about helping cities and co
 
 Is your city, school, building or neighbourhood part of the **Cities for Bees** movement? Show it on your website.
 
-[![Cities for Bees](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/en/CitiesForBees/)
+[![Cities for Bees](/images/CitiesForBees.png)](https://wenzl.no/en/CitiesForBees/)
 
 Copy this code and paste it on your website:
 
