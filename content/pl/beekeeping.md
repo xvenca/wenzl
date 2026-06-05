@@ -35,7 +35,7 @@ services:
 
 ## Pszczelarz w Norwegii
 
-Nazywam się **Martin Venclů** i jestem certyfikowanym pszczelarzem z bazą w Bergen, z zamiarem stopniowego rozwijania projektów pszczelarskich także w innych częściach Norwegii. Pszczoły są częścią mojego życia od dzieciństwa w **Oborze** — wsi w południowych Morawach w Czechach, z wielowiekową tradycją pszczelarską, której herb przedstawia plaster miodu i drzewo.
+Nazywam się **Martin Venclu** i jestem certyfikowanym pszczelarzem z bazą w Bergen, z zamiarem stopniowego rozwijania projektów pszczelarskich także w innych częściach Norwegii. Pszczoły są częścią mojego życia od dzieciństwa w **Oborze** — wsi w południowych Morawach w Czechach, z wielowiekową tradycją pszczelarską, której herb przedstawia plaster miodu i drzewo.
 
 Stosuję naturalne metody tam, gdzie to możliwe: moje rodziny swobodnie budują w pustych ramkach, zostawiam pszczołom dość miodu na zimę, a najważniejsze jest dla mnie nie maksymalizowanie produkcji, lecz budowanie zdrowych i odpornych rodzin dla przyszłych pokoleń.
 
