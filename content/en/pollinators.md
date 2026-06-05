@@ -4,6 +4,9 @@ description: "87 of the world's 115 leading food crops depend on animal pollinat
 image: "/images/birokt-hero.jpg"
 alt: "Cities for bees"
 translationKey: "pollinators"
+slug: "CitiesForBees"
+aliases:
+  - /en/pollinators/
 ---
 
 ## The flowers that feed us

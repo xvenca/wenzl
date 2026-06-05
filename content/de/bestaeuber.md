@@ -4,6 +4,9 @@ description: "87 der 115 wichtigsten Kulturpflanzen der Welt sind auf Insektenbe
 image: "/images/birokt-hero.jpg"
 alt: "Städte für Bienen"
 translationKey: "pollinators"
+slug: "StaedteFuerBienen"
+aliases:
+  - /de/bestaeuber/
 ---
 
 ## Insekten ernähren unsere Tische

@@ -4,6 +4,9 @@ description: "87 de los 115 principales cultivos agrícolas del mundo dependen d
 image: "/images/birokt-hero.jpg"
 alt: "Ciudades para abejas"
 translationKey: "pollinators"
+slug: "CiudadesParaAbejas"
+aliases:
+  - /es/polinizadores/
 ---
 
 ## Los insectos que alimentan nuestras mesas

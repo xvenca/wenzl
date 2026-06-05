@@ -4,6 +4,9 @@ description: "87 ze 115 głównych roślin uprawnych świata zależy od zapylani
 image: "/images/birokt-hero.jpg"
 alt: "Miasta dla pszczół"
 translationKey: "pollinators"
+slug: "MiastaDlaPszczol"
+aliases:
+  - /pl/zapylacze/
 ---
 
 ## Owady, które karmią nasze stoły

@@ -4,6 +4,9 @@ description: "87 зі 115 головних сільськогосподарсь�
 image: "/images/birokt-hero.jpg"
 alt: "Міста для бджіл"
 translationKey: "pollinators"
+slug: "MistaDlyaBdzhil"
+aliases:
+  - /uk/zapyliuvachi/
 ---
 
 ## Комахи, що годують наші столи

@@ -4,6 +4,9 @@ description: "87 av verdens 115 viktigste matplanter er avhengige av dyrebasert 
 image: "/images/birokt-hero.jpg"
 alt: "Byer for bier"
 translationKey: "pollinators"
+slug: "ByerForBier"
+aliases:
+  - /pollinatorer/
 ---
 
 ## Insektene som mater bordene våre
