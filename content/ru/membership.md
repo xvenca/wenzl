@@ -10,6 +10,8 @@ memberships:
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
+    certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
+    certificate_desc: "Свидетельство об окончании курса Norges Birøkterlag — курс по компетенциям в области пчеловодства, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Даёт право проводить санитарный контроль в собственной пасеке — требование норвежского законодательства для легальной продажи и перемещения пчёл."
     desc: "Норвежская ассоциация пчеловодов — национальная федерация пчеловодов Норвегии. Как член, я являюсь частью общенационального профессионального сообщества, которое продвигает хорошую пчеловодческую практику, здоровье пчёл и обмен знаниями."
   - name: "Bergen Fellesverksted"
     role: "Мастерская"

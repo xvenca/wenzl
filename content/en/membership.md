@@ -10,6 +10,8 @@ memberships:
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
+    certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
+    certificate_desc: "Course certificate from Norges Birøkterlag — Competence course on bees, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Certifies the holder to conduct health inspections in their own apiary — a requirement under Norwegian law to legally sell or move bees."
     desc: "The Norwegian Beekeepers' Association is the national federation for beekeepers in Norway. As a member, I am part of a nationwide professional community promoting good beekeeping, bee health and knowledge-sharing."
   - name: "Bergen Fellesverksted"
     role: "Workshop"

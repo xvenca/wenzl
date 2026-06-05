@@ -10,6 +10,8 @@ memberships:
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
+    certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
+    certificate_desc: "Свідоцтво від Norges Birøkterlag — курс компетентності з бджільництва, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Надає право проводити санітарний контроль у власній пасіці — вимога норвезького законодавства для легального продажу та переміщення бджіл."
     desc: "Норвезька спілка пасічників — це національна федерація пасічників Норвегії. Як член, я є частиною всеукраїнської професійної спільноти, яка підтримує якісне бджільництво, здоров'я бджіл і обмін знаннями."
   - name: "Bergen Fellesverksted"
     role: "Майстерня"
