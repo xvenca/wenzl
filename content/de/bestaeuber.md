@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "StaedteFuerBienen"
 aliases:
   - /de/bestaeuber/
+  - /staedtefuerbienen/
 ---
 
 ## Insekten ernähren unsere Tische

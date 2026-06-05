@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "MestaProVcely"
 aliases:
   - /cs/opylovaci/
+  - /mestaprovcely/
 ---
 
 ## Hmyz, který živí naše stoly

@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "GradyRadiPchel"
 aliases:
   - /cu/opyliteli/
+  - /gradyradipchel/
 ---
 
 ## Цвѣты, яже насъ питаютъ

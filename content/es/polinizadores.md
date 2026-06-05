@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "CiudadesParaAbejas"
 aliases:
   - /es/polinizadores/
+  - /ciudadesparaabejas/
 ---
 
 ## Los insectos que alimentan nuestras mesas

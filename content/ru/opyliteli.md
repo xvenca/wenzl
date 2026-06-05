@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "GorodaDlyaPchel"
 aliases:
   - /ru/opyliteli/
+  - /gorodadlyapchel/
 ---
 
 ## Насекомые, которые кормят наши столы

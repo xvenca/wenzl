@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "MiastaDlaPszczol"
 aliases:
   - /pl/zapylacze/
+  - /miastadlapszczol/
 ---
 
 ## Owady, które karmią nasze stoły

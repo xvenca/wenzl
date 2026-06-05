@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "MistaDlyaBdzhil"
 aliases:
   - /uk/zapyliuvachi/
+  - /mistadlyabdzhil/
 ---
 
 ## Комахи, що годують наші столи
