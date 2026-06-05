@@ -10,6 +10,7 @@ memberships:
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
+    certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
     certificate_desc: "Osvědčení od Norges Birøkterlag — kvalifikační kurz o včelách, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Opravňuje k provádění zdravotních kontrol ve vlastním včelíně — podmínka pro legální prodej a přesuny včel v Norsku."
     desc: "Norges Birøkterlag je národní svaz včelařů v Norsku. Jako člen jsem součástí celostátní odborné komunity, která podporuje dobrou včelařskou praxi, zdraví včel a sdílení znalostí."
   - name: "Bergen Fellesverksted"
