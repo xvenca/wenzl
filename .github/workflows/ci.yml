@@ -7,7 +7,8 @@ on:
     branches: [ main ]
 
 permissions:
-  contents: read
+  contents: write
+  pull-requests: write
 
 jobs:
   build:
@@ -48,3 +49,101 @@ jobs:
           configPath: .lighthouserc.json
           uploadArtifacts: false
           temporaryPublicStorage: true
+
+      - name: Install Playwright browser
+        run: npx playwright install chromium --with-deps
+
+      - name: Start Hugo dev server
+        run: |
+          hugo server --port 1313 --disableFastRender &
+          for i in $(seq 1 30); do
+            if curl -s http://localhost:1313 > /dev/null 2>&1; then
+              echo "Hugo server ready"
+              break
+            fi
+            sleep 1
+          done
+
+      - name: Take page screenshots
+        run: node .github/scripts/screenshot.js
+
+      - name: Upload screenshots to release and comment on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const prNum = context.issue.number;
+            const tagName = `ci-screenshots-pr${prNum}`;
+
+            // Delete previous draft release for this PR (so assets are always fresh)
+            try {
+              const { data: releases } = await github.rest.repos.listReleases({ owner, repo, per_page: 50 });
+              const old = releases.find(r => r.tag_name === tagName);
+              if (old) {
+                await github.rest.repos.deleteRelease({ owner, repo, release_id: old.id });
+                try { await github.rest.git.deleteRef({ owner, repo, ref: `tags/${tagName}` }); } catch {}
+              }
+            } catch {}
+
+            // Create a fresh draft release to host the screenshots
+            const { data: release } = await github.rest.repos.createRelease({
+              owner, repo,
+              tag_name: tagName,
+              target_commitish: context.payload.pull_request.head.sha,
+              name: `CI Screenshots — PR #${prNum}`,
+              draft: false,
+              prerelease: true,
+            });
+
+            // Upload all screenshots in parallel batches of 5
+            const files = fs.readdirSync('screenshots').filter(f => f.endsWith('.png')).sort();
+            const urls = {};
+            for (let i = 0; i < files.length; i += 5) {
+              await Promise.all(files.slice(i, i + 5).map(async f => {
+                const data = fs.readFileSync(`screenshots/${f}`);
+                const { data: asset } = await github.rest.repos.uploadReleaseAsset({
+                  owner, repo,
+                  release_id: release.id,
+                  name: f,
+                  data,
+                  headers: { 'content-type': 'image/png', 'content-length': data.length },
+                });
+                urls[f] = asset.browser_download_url;
+              }));
+            }
+
+            // Build PR comment with collapsible sections per language
+            const LANGS = ['en','cs','de','pl','ru','uk','es','cu'];
+            const LANG_NAMES = {
+              no: '🇳🇴 Norwegian', en: '🇬🇧 English', cs: '🇨🇿 Czech',
+              de: '🇩🇪 German',   pl: '🇵🇱 Polish',  ru: '🇷🇺 Russian',
+              uk: '🇺🇦 Ukrainian', es: '🇪🇸 Spanish', cu: '☦️ Church Slavonic',
+            };
+            function getLang(name) {
+              for (const l of LANGS) {
+                if (name === l || name.startsWith(l + '-')) return l;
+              }
+              return 'no';
+            }
+
+            const byLang = {};
+            for (const f of files) {
+              const lang = getLang(f.replace('.png', ''));
+              (byLang[lang] = byLang[lang] || []).push(f);
+            }
+
+            let body = `## Page screenshots (${files.length} pages)\n\n`;
+            for (const lang of ['no', ...LANGS]) {
+              if (!byLang[lang]) continue;
+              body += `<details><summary>${LANG_NAMES[lang]} — ${byLang[lang].length} pages</summary>\n\n`;
+              for (const f of byLang[lang]) {
+                const name = f.replace('.png', '');
+                body += `**${name}**\n![${name}](${urls[f]})\n\n`;
+              }
+              body += `</details>\n\n`;
+            }
+
+            await github.rest.issues.createComment({ issue_number: prNum, owner, repo, body });

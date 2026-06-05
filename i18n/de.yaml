@@ -56,3 +56,7 @@
   translation: "Startseite"
 - id: "terms_listing"
   translation: "Begriffsliste."
+- id: "certificate"
+  translation: "Kurszeugnis"
+- id: "course_info"
+  translation: "Über den Kurs"
