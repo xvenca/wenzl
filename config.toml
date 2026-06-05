@@ -23,7 +23,7 @@ defaultContentLanguage = "no"
     contentDir = "content/no"
     weight = 1
     [languages.no.params]
-      description = "Birøkter i Bergen — naturlig birøkt, svermfangst og svermfeller i Vestland, bestøvning og håndlagde bikuber i tre. Gratis sverminnfanging i Bergen og omegn."
+      description = "Sertifisert birøkter i Bergen — naturlig birøkt, svermfangst og svermfeller i Vestland, bestøvning og håndlagde bikuber i tre. Gratis sverminnfanging i Bergen og omegn."
     [[languages.no.menu.main]]
       identifier = "home"
       name = "Hjem"

@@ -58,3 +58,7 @@
   translation: "Список термінів."
 - id: "call_now"
   translation: "Зателефонуйте"
+- id: "certificate"
+  translation: "Свідоцтво"
+- id: "course_info"
+  translation: "Про курс"

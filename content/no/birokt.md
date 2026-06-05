@@ -1,6 +1,6 @@
 ﻿---
 title: "Birøkt i Norge"
-description: "Birøkter i Bergen — svermfangst og svermfeller i Vestland, bestøvning, håndlagde bikuber i tre. Gratis innfanging av bisværmer i Bergen og omegn."
+description: "Sertifisert birøkter i Bergen — svermfangst og svermfeller i Vestland, bestøvning, håndlagde bikuber i tre. Gratis innfanging av bisværmer i Bergen og omegn."
 image: "/images/birokt-hero.jpg"
 alt: "Birøkter ved bikubene i Bergen"
 layout: "birokt"

@@ -60,3 +60,7 @@
   translation: "Listado de términos."
 - id: "call_now"
   translation: "Llama ahora"
+- id: "certificate"
+  translation: "Certificado"
+- id: "course_info"
+  translation: "Sobre el curso"

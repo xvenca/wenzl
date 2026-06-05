@@ -58,3 +58,7 @@
   translation: "Список терминов."
 - id: "call_now"
   translation: "Позвоните"
+- id: "certificate"
+  translation: "Свидетельство"
+- id: "course_info"
+  translation: "О курсе"

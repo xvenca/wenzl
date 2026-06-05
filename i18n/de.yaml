@@ -58,3 +58,7 @@
   translation: "Begriffsliste."
 - id: "call_now"
   translation: "Jetzt anrufen"
+- id: "certificate"
+  translation: "Kurszeugnis"
+- id: "course_info"
+  translation: "Über den Kurs"

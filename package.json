@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.0",
-    "@tailwindcss/typography": "^0.5.10"
+    "@tailwindcss/typography": "^0.5.10",
+    "playwright": "^1.49.0"
   }
 }

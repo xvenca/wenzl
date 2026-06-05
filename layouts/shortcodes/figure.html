@@ -20,7 +20,7 @@
       <img src="{{ $res.RelPermalink }}" sizes="{{ $sizes }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
     {{ else }}
       {{/* Resize/WebP may not be available in non-extended Hugo builds. Use the resource directly to ensure builds succeed. */}}
-      <img src="{{ $res.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">
+      <img src="{{ $res.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img" width="{{ $res.Width }}" height="{{ $res.Height }}">
     {{ end }}
   {{ else }}
     <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async" class="w-full rounded shadow" role="img">

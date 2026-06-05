@@ -60,3 +60,7 @@
   translation: "Liste over emner."
 - id: "call_now"
   translation: "Ring nå"
+- id: "certificate"
+  translation: "Kursbevis"
+- id: "course_info"
+  translation: "Om kurset"
