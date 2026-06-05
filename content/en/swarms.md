@@ -22,11 +22,11 @@ On May 16, 2025 I was called to a neighborhood in Bergen because a swarm had set
 
 Swarming bees can settle where you least want them — in a chimney, a cavity, or behind a wooden facade. Removing an established colony from a building in Norway is expensive and difficult.
 
-This is not a theoretical risk. In 2025 I was called to an apartment building in Bergen because a swarm that had already been living in the building for several days kept flying back out and troubling the residents. When I arrived, I found that the bees had already settled inside the wooden facade. When the facade was later opened, the queen was not found.
+This is not a theoretical risk. On 15 June 2025 I was called to an apartment building in Bergen because a swarm that had already been living in the building for several days kept flying back out and troubling the residents. When I arrived, I found that the bees had already settled inside the wooden facade. When the facade was later opened, the queen was not found.
 
 At that stage, an ordinary swarm pickup was no longer enough. We had to call a professional beekeeping company that works together with a specialist construction company authorized to dismantle parts of a bee-occupied building and work at height. We also had to order a truck-mounted work platform so people could work safely at the facade.
 
-### Bergen 2025: swarm in a wooden facade
+### Bergen, 15 June 2025: swarm in a wooden facade
 
 {{< swarm-building-gallery >}}
 
