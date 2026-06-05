@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const http = require('http');
 
-const BASE = 'http://localhost:1313';
+const BASE = 'http://127.0.0.1:1313';
 const OUT  = path.join(__dirname, '../../screenshots');
 fs.mkdirSync(OUT, { recursive: true });
 
