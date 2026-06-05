@@ -11,7 +11,7 @@ memberships:
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
     certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
-    certificate_desc: "Kursbevis fra Norges Birøkterlag — Kompetansekurs om bier, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Sertifiserer til å utføre helsekontroll i egen bigård — et krav for lovlig å omsette og flytte bier i Norge."
+    certificate_desc: "Kursbevis fra Norges Birøkterlag — Kompetansekurs om bier, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Sertifiserer til å utføre helsekontroll i eigen bigård — første steg mot sertifisering av bigården, som er eit krav for lovleg omsetnad og flytting av bier i Noreg."
     desc: "Norges Birøkterlag er det nasjonale forbundet for birøktere i Norge. Som medlem er jeg en del av et landsdekkende fagmiljø som fremmer god birøkt, bienes helse og kunnskapsdeling."
   - name: "Bergen Fellesverksted"
     role: "Verksted"

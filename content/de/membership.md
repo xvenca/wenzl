@@ -11,7 +11,7 @@ memberships:
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
     certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
-    certificate_desc: "Kurszeugnis von Norges Birøkterlag — Kompetenzlehrgang über Bienen, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Berechtigt zur Gesundheitskontrolle im eigenen Bienenstand — Voraussetzung für den legalen Verkauf und Transport von Bienen in Norwegen."
+    certificate_desc: "Kurszeugnis von Norges Birøkterlag — Kompetenzlehrgang über Bienen, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Berechtigt zur Gesundheitskontrolle im eigenen Bienenstand — erster Schritt zur Zertifizierung des Bienenstands, die für den legalen Verkauf und Transport von Bienen in Norwegen erforderlich ist."
     desc: "Der norwegische Imkerverband ist die landesweite Organisation der Imker in Norwegen. Als Mitglied gehöre ich zu einer fachlichen Gemeinschaft, die gute Imkereipraxis, Bienengesundheit und Wissensaustausch fördert."
   - name: "Bergen Fellesverksted"
     role: "Werkstatt"
