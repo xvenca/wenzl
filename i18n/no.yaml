@@ -58,3 +58,7 @@
   translation: "forsiden"
 - id: "terms_listing"
   translation: "Liste over emner."
+- id: "certificate"
+  translation: "Kursbevis"
+- id: "course_info"
+  translation: "Om kurset"

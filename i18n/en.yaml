@@ -58,3 +58,7 @@
   translation: "homepage"
 - id: "terms_listing"
   translation: "Listing of terms."
+- id: "certificate"
+  translation: "Certificate"
+- id: "course_info"
+  translation: "About this course"

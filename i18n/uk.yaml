@@ -56,3 +56,7 @@
   translation: "головну сторінку"
 - id: "terms_listing"
   translation: "Список термінів."
+- id: "certificate"
+  translation: "Свідоцтво"
+- id: "course_info"
+  translation: "Про курс"
