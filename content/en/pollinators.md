@@ -8,6 +8,7 @@ slug: "CitiesForBees"
 aliases:
   - /en/pollinators/
   - /citiesforbees/
+  - /en/citiesforbees/
 ---
 
 ## The flowers that feed us

@@ -8,6 +8,7 @@ slug: "MestaProVcely"
 aliases:
   - /cs/opylovaci/
   - /mestaprovcely/
+  - /cs/mestaprovcely/
 ---
 
 ## Hmyz, který živí naše stoly

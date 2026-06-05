@@ -2,6 +2,7 @@ baseURL = "https://wenzl.no/"
 languageCode = "no"
 title = "wenzl.no"
 defaultContentLanguage = "no"
+disablePathToLower = true
 
 [markup]
   [markup.goldmark]

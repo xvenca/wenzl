@@ -73,6 +73,30 @@
     </div>
 </section>
 
+<!-- ── Cities for Bees ──────────────────────────────────────── -->
+{{ range .Site.Menus.main }}{{ if eq .Identifier "pollinators" }}
+<section class="bg-white border-b border-amber-100">
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-8">
+    <a href="{{ .URL }}"
+       class="flex flex-col sm:flex-row items-start gap-5 group">
+      <img src="/images/CitiesForBees.png" alt="{{ .Name }}"
+           class="h-28 w-auto object-contain shrink-0 mx-auto sm:mx-0" loading="lazy">
+      <div class="text-center sm:text-left flex-1">
+        <p class="text-xs font-bold text-amber-600 tracking-[0.15em] mb-1">{{ i18n "cfb_hashtags" | default "#CitiesForBees · #ByerForBier" }}</p>
+        <h2 class="text-xl font-bold text-stone-900 group-hover:text-amber-800 transition mb-2">{{ .Name }}</h2>
+        <p class="text-stone-500 text-sm leading-relaxed mb-3 max-w-xl">{{ i18n "cfb_tagline" | default "In 27 years, flying insect populations dropped 75%. Cities can be part of the solution — and so can you." }}</p>
+        <span class="text-amber-600 text-xs font-semibold inline-flex items-center gap-1 group-hover:gap-2 transition-all">
+          {{ i18n "cfb_join" | default "See how to get involved" }}
+          <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+        </span>
+      </div>
+    </a>
+  </div>
+</section>
+{{ end }}{{ end }}
+
 <!-- ── Services ───────────────────────────────────────────────── -->
 {{ with $services }}
 <section class="bg-white border-b border-amber-100">

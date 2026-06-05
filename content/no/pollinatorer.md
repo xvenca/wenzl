@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "ByerForBier"
 aliases:
   - /pollinatorer/
+  - /byerforbier/
 ---
 
 ## Insektene som mater bordene våre
