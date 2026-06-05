@@ -12,6 +12,7 @@
 
     <title>{{ $ogtitle }}</title>
     <meta name="description" content="{{ $desc }}">
+    {{ with $ogimg }}<link rel="preload" as="image" href="{{ . | absURL }}" fetchpriority="high">{{ end }}
     <link rel="canonical" href="{{ .Permalink }}">
     {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">

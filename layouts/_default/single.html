@@ -97,4 +97,26 @@
         {{ end }}
     </article>
 </div>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ .Title | jsonify }},
+    "description": {{ .Param "description" | jsonify }},
+    "url": "{{ .Permalink }}",
+    "inLanguage": "{{ .Site.Language.LanguageCode | default .Site.Language.Lang }}",
+    "author": {
+        "@type": "Person",
+        "name": "Martin Venclu",
+        "url": "{{ .Site.BaseURL }}en/about/"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}"
+    }{{ with .Params.image }},
+    "image": "{{ . | absURL }}"{{ end }}
+}
+</script>
 {{ end }}
