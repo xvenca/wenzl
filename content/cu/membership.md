@@ -10,6 +10,7 @@ memberships:
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
+    certificate_desc: "Грамота отъ Norges Birøkterlag — кꙋрсъ пчеларьскыхъ искꙋствъ, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Даєтъ право пчеларити, рои ловити и пчелы продавати въ Норьвѣгии."
     desc: "Норьвѣжьскый съѭзъ пчеларей єсть всеѧ страны братъство пчеларское. Яко члень, єсмь часть общины искусьной, яже хранитъ доброє пчеларьство, здравиє пчелъ и прѣданиє вѣдѣниѧ."
   - name: "Bergen Fellesverksted"
     role: "Мастерїѧ"

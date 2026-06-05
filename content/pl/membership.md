@@ -10,6 +10,7 @@ memberships:
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
+    certificate_desc: "Zaświadczenie od Norges Birøkterlag — kurs kompetencyjny o pszczołach, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Uprawnia do prowadzenia pasieki, łapania rojów i sprzedaży pszczół w Norwegii."
     desc: "Norweski Związek Pszczelarzy jest krajową federacją pszczelarzy w Norwegii. Jako członek należę do ogólnokrajowej wspólnoty zawodowej wspierającej dobrą praktykę pszczelarską, zdrowie pszczół i dzielenie się wiedzą."
   - name: "Bergen Fellesverksted"
     role: "Warsztat"

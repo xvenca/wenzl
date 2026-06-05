@@ -10,6 +10,7 @@ memberships:
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
+    certificate_desc: "Kursbevis fra Norges Birøkterlag — Kompetansekurs om bier, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Gir rett til å drive birøkt, fange biesværmer og selge bier i Norge."
     desc: "Norges Birøkterlag er det nasjonale forbundet for birøktere i Norge. Som medlem er jeg en del av et landsdekkende fagmiljø som fremmer god birøkt, bienes helse og kunnskapsdeling."
   - name: "Bergen Fellesverksted"
     role: "Verksted"
