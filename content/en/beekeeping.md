@@ -108,15 +108,21 @@ I already have an active project in Bergen where bees are present in public spac
 
 ---
 
-## Institutional Cooperation and Apitherapy
+## Institutional Cooperation
 
-I have experience placing bee colonies in institutional settings, including collaboration with **DPS Soli** in Bergen.
+I have experience placing bee colonies in institutional settings. One active example is **DPS Soli** in Bergen, where my hives stand in the garden as support for local ecology and biodiversity.
+
+If your institution — hospital, care home, school, or workplace — has garden space and would like resident bee colonies, get in touch.
+
+## Apitherapy
+
+Apitherapy is the therapeutic use of bee proximity — hive air, warmth, and vibration. The Ukrainian horizontal hive is the traditional hive type for this purpose: low, wide, and designed to stand beneath a resting platform or bed so that people lie directly above the colony.
 
 I offer:
 
-- Placement and management of bee colonies at hospitals, care facilities, and rehabilitation centers
-- Consulting and construction of **apitherapy houses** — where patients can experience the proximity of bees
-- Ukrainian horizontal hives for apitherapy — this is the hive type traditionally used in apitherapy, and I have the expertise to both build and operate them
+- Consulting and construction of **apitherapy houses** — a small shelter where people can rest above the hives
+- Ukrainian horizontal hives built and operated for apitherapy settings
+- Guidance for care facilities, rehabilitation centres, and wellness projects considering apitherapy
 
 ---
 

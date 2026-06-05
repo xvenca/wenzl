@@ -109,13 +109,21 @@ V Bergenu již mám aktivní projekt, kde jsou včely přítomny na veřejných 
 
 ---
 
-## Spolupráce s institucemi a apiterapie
+## Spolupráce s institucemi
 
-Mám zkušenosti s umisťováním včelstev v institucionálním prostředí — mimo jiné spolupracuji s **DPS Soli** v Bergenu.
+Mám zkušenosti s umisťováním včelstev v institucionálním prostředí. Jedním z aktivních příkladů je **DPS Soli** v Bergenu, kde moje úly stojí na zahradě jako podpora místní ekologie a biodiverzity.
 
-- Umístění a správa včelstev u nemocnic a domovů seniorů
-- Poradenství a výstavba **apidomků** pro apiterapii
-- Ukrajinské ležany pro apiterapii vlastní výroby
+Pokud má vaše instituce — nemocnice, domov seniorů, škola nebo pracoviště — zahradní prostory a ráda by tam měla trvalé včelstvo, ozvěte se.
+
+## Apiterapie
+
+Apiterapie je terapeutické využití blízkosti včel — vzduch z úlu, teplo a vibrace. Ukrajinský ležan je tradiční typ úlu pro tento účel: nízký, široký, navržený tak, aby stál pod odpočinkovou plošinou, nad níž lidé leží přímo nad včelstvem, dýchají vzduch z úlu a cítí jeho teplo a bzukot.
+
+Nabízím:
+
+- Poradenství a výstavbu **apidomků** — malého přístřešku, kde lidé odpočívají nad úly
+- Ukrajinské ležany vlastní výroby a provoz pro apiterapeutické účely
+- Poradenství pro zařízení, rehabilitační centra a wellness projekty uvažující o apiterapii
 
 ---
 

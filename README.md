@@ -58,16 +58,24 @@ Horizontal hives (leisan / lezhan) are rare in Norway. Three models, all built b
 
 Interest in the hives is already arriving — contact Martin at [info@wenzl.no](mailto:info@wenzl.no) if you would like one.
 
-### Apitherapy · Institutional Cooperation
+### Institutional Cooperation · Ecology in institutional gardens
 
-**[wenzl.no/en/beekeeping/](https://wenzl.no/en/beekeeping/#institutional-cooperation-and-apitherapy)** · [source](content/en/beekeeping.md)
+**[wenzl.no/en/beekeeping/](https://wenzl.no/en/beekeeping/)** · [source](content/en/beekeeping.md)
 
-Apitherapy is the therapeutic use of bee products and bee proximity — hive air, vibration, warmth. Martin has experience placing colonies in institutional settings, including active collaboration with **DPS Soli in Bergen**.
+Martin places bee colonies at institutions with garden space as support for local ecology and biodiversity. One active example is **DPS Soli in Bergen**, where his hives stand in the garden.
 
-Offered to hospitals, care homes, and rehabilitation centres:
-- Placement and management of bee colonies at institutions
-- Consulting and construction of **apitherapy houses** (a small building where people rest above the hives)
-- Ukrainian horizontal hives for apitherapy — the traditional hive type for this purpose, which Martin both builds and operates
+If your institution — hospital, care home, school, or workplace — has garden space and would like resident bee colonies, get in touch at [info@wenzl.no](mailto:info@wenzl.no).
+
+### Apitherapy
+
+**[wenzl.no/en/beekeeping/](https://wenzl.no/en/beekeeping/)** · [source](content/en/beekeeping.md)
+
+Apitherapy is the therapeutic use of bee proximity — hive air, warmth, and vibration. The Ukrainian horizontal hive is the traditional hive type for this purpose: low and wide, designed to stand beneath a resting platform so people lie directly above the colony, breathe the hive air, and feel the warmth and hum of the bees.
+
+Offered to care homes, rehabilitation centres, and wellness projects:
+- Consulting and construction of **apitherapy houses** — a small shelter where people rest above the hives
+- Ukrainian horizontal hives built and operated specifically for apitherapy
+- Guidance for facilities considering apitherapy programmes
 
 ### Cities for Bees · Urban pollinator movement
 

@@ -97,15 +97,21 @@ Bienen brauchen Blüten — und Städte können sie ihnen geben. Ich arbeite mit
 
 Ich habe bereits ein aktives Projekt in Bergen, bei dem Bienen im öffentlichen Raum präsent sind — sichtbar und für alle zugänglich.
 
-## Zusammenarbeit mit Einrichtungen und Apitherapie
+## Zusammenarbeit mit Einrichtungen
 
-Ich habe Erfahrung mit der Aufstellung von Bienenvölkern in institutionellen Umgebungen, unter anderem in Zusammenarbeit mit **DPS Soli** in Bergen.
+Ich habe Erfahrung mit der Aufstellung von Bienenvölkern in institutionellen Umgebungen. Ein aktives Beispiel ist **DPS Soli** in Bergen, wo meine Beuten als Unterstützung für lokale Ökologie und Artenvielfalt im Garten stehen.
+
+Wenn Ihre Einrichtung — Krankenhaus, Pflegeheim, Schule oder Arbeitsplatz — Gartenfläche hat und dauerhaft Bienenvölker beherbergen möchte, nehmen Sie gerne Kontakt auf.
+
+## Apitherapie
+
+Apitherapie ist die therapeutische Nutzung der Bienennähe — Stockluft, Wärme und Vibration. Die ukrainische Lagerbeutе ist der traditionelle Beutentyp für diesen Zweck: flach, breit und dafür gebaut, unter einer Liegeplattform zu stehen, auf der die Menschen direkt über dem Volk liegen, Stockluft einatmen und die Wärme und das Summen der Bienen spüren.
 
 Ich biete an:
 
-- Aufstellung und Betreuung von Bienenvölkern bei Krankenhäusern, Pflegeeinrichtungen und Rehabilitationszentren
-- Beratung und Bau von **Apitherapie-Häusern**, in denen Patientinnen und Patienten die Nähe der Bienen erleben können
-- Ukrainische Lagerbeuten für die Apitherapie — genau dieser Beutentyp wird traditionell dafür verwendet, und ich habe Erfahrung sowohl im Bau als auch in der praktischen Arbeit damit
+- Beratung und Bau von **Apitherapie-Häusern** — einem kleinen Gebäude, in dem Menschen über den Beuten ruhen
+- Ukrainische Lagerbeuten, gebaut und betrieben speziell für Apitherapie
+- Beratung für Pflegeeinrichtungen, Rehabilitationszentren und Wellness-Projekte, die Apitherapie erwägen
 
 ## Meine Philosophie
 
