@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: read
+  pull-requests: write
 
 jobs:
   build:
@@ -48,3 +49,57 @@ jobs:
           configPath: .lighthouserc.json
           uploadArtifacts: false
           temporaryPublicStorage: true
+
+      - name: Install Playwright browser
+        run: npx playwright install chromium --with-deps
+
+      - name: Start Hugo dev server
+        run: |
+          hugo server --port 1313 --disableFastRender &
+          for i in $(seq 1 30); do
+            if curl -s http://localhost:1313 > /dev/null 2>&1; then
+              echo "Hugo server ready"
+              break
+            fi
+            sleep 1
+          done
+
+      - name: Take page screenshots
+        run: node .github/scripts/screenshot.js
+
+      - name: Upload screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: page-screenshots
+          path: screenshots/
+          if-no-files-found: warn
+
+      - name: Comment on PR with screenshot link
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const body = [
+              '## Page screenshots',
+              '',
+              `Screenshots of key pages captured during this CI run — [download from Actions](${runUrl}#artifacts).`,
+              '',
+              '| Page | File |',
+              '|------|------|',
+              '| Norwegian home | `no-home.png` |',
+              '| Swarms | `no-swarms.png` |',
+              '| Hives | `no-hives.png` |',
+              '| Pollinators | `no-pollinators.png` |',
+              '| About (NO) | `no-about.png` |',
+              '| Membership | `no-membership.png` |',
+              '| English home | `en-home.png` |',
+              '| Czech home | `cs-home.png` |',
+            ].join('\n');
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body,
+            });
