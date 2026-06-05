@@ -2,26 +2,31 @@ nb:
   - icon: swarm
     title: Svermfangst
     badge: "Gratis · Bergen"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Oppdaget en sverm på eiendommen? Kontakt meg umiddelbart — jeg henter biesværmer kostnadsfritt i Bergen og omegn."
     link: "/svermer/#svermfangst-i-bergen"
   - icon: trap
     title: Svermfeller
     badge: "Gratis · hele Norge"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Beskytt bygningen din mot bisværmer. Jeg setter ut lokkekasser som fanger svermer før de slår seg ned i skorstein eller fasade — gratis, i hele Norge."
     link: "/svermer/#svermfeller"
   - icon: pollination
     title: Bestøvning
     badge: "Bier mot plass"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Jeg plasserer bisamfunn i din hage gratis i sesongen. Du gir bibestanden mat og rom — de sørger for avlingen din."
     link: "/birokt/#bestøvningstjeneste"
   - icon: hive
     title: Bikuber
     badge: "Håndlaget tre"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Liggebikuber (leisan) er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
     link: "/bikuber/"
   - icon: city
     title: Byer for bier
     badge: "Kommuner & nabolag"
+    image: "/images/CitiesForBees.png"
     desc: "Hvert tredje matbitt finnes fordi et insekt besøkte en blomst. Én balkong. Ett tak. Én blomstrende fasade. Slik begynner bevegelsen — #ByerForBier."
     link: "/pollinatorer/"
 
@@ -29,26 +34,31 @@ en:
   - icon: swarm
     title: "Swarm Collection"
     badge: "Free · Bergen"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Spotted a swarm on your property? Contact me immediately — I collect bee swarms free of charge in Bergen and surrounding areas."
     link: "/en/swarms/#swarm-collection-in-bergen"
   - icon: trap
     title: "Swarm Traps"
     badge: "Free · all Norway"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Protect your building from swarms. I set out bait boxes that catch swarms before they settle in a chimney or facade — free, across all of Norway."
     link: "/en/swarms/#swarm-traps"
   - icon: pollination
     title: Pollination
     badge: "Bees for space"
+    image: "/images/hive-yellow-field.jpg"
     desc: "I place my colonies in your garden free of charge during the season. You provide the space and flowers — the bees do the rest."
     link: "/en/beekeeping/#pollination-service"
   - icon: hive
     title: Beehives
     badge: Handcrafted
+    image: "/images/hive-yellow-front.jpg"
     desc: "Horizontal hives are uncommon in Norway — I build and experiment with them myself. Solid wooden hives for natural beekeeping."
     link: "/en/beehives/"
   - icon: city
     title: "Cities for Bees"
     badge: "Cities & neighborhoods"
+    image: "/images/CitiesForBees.png"
     desc: "One in three bites of food exists because an insect visited a flower. One balcony. One rooftop. One unmowed lawn. That is how the movement starts — #CitiesForBees."
     link: "/en/pollinators/"
 
@@ -56,26 +66,31 @@ cs:
   - icon: swarm
     title: "Odchyt rojů"
     badge: "Zdarma · Bergen"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Zaznamenali jste roj? Kontaktujte mě ihned — odchytávám roje zdarma v Bergenu a okolí."
     link: "/cs/roje/#odchyt-rojů-v-bergenu"
   - icon: trap
     title: "Rojové pasti"
     badge: "Zdarma · celé Norsko"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Ochrana budovy před roji. Rozmístím lákací krabičky, které chytí roj dřív, než se usadí v komíně nebo fasádě — zdarma, po celém Norsku."
     link: "/cs/roje/#rojové-pasti"
   - icon: pollination
     title: Opylování
     badge: "Včely za prostor"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Umístím svá včelstva na vaši zahradu zdarma. Vy poskytnete prostor a pyl — včely se postarají o zbytek."
     link: "/cs/beekeeping/#opylovací-služba"
   - icon: hive
     title: "Úly"
     badge: "Vlastní výroba"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Ležany jsou v Norsku neobvyklé — sám je stavím a experimentuji s nimi. Pevné dřevěné úly pro přírodní včelaření."
     link: "/cs/uly/"
   - icon: city
     title: "Města pro včely"
     badge: "Obce a čtvrti"
+    image: "/images/CitiesForBees.png"
     desc: "Každé třetí sousto jídla existuje proto, že hmyz navštívil květ. Jeden balkon. Jedna střecha. Jedna neposečená louka. Tak začíná hnutí — #MěstaProVčely."
     link: "/cs/opylovaci/"
 
@@ -83,26 +98,31 @@ uk:
   - icon: swarm
     title: "Відлов роїв"
     badge: "Безкоштовно · Берген"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Помітили рій на своїй ділянці? Зв'яжіться зі мною негайно — я безкоштовно відловлюю бджолині рої в Бергені та околицях."
     link: "/uk/royi/#swarm-collection-in-bergen"
   - icon: trap
     title: "Пастки для роїв"
     badge: "Безкоштовно · вся Норвегія"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Захистіть будівлю від роїв. Я розставляю приманкові ящики, які ловлять рої ще до того, як вони оселяться в димоході чи фасаді — безкоштовно по всій Норвегії."
     link: "/uk/royi/#swarm-traps"
   - icon: pollination
     title: "Запилення"
     badge: "Бджоли за місце"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Я безкоштовно розміщу свої сім'ї у вашому саду на сезон. Ви даєте простір і квіти — бджоли роблять решту."
     link: "/uk/beekeeping/#pollination-service"
   - icon: hive
     title: "Вулики"
     badge: "Ручна робота"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Лежаки незвичні для Норвегії — я сам їх будую і з ними експериментую. Міцні дерев'яні вулики для природного бджільництва."
     link: "/uk/vulyky/"
   - icon: city
     title: "Міста для бджіл"
     badge: "Міста й громади"
+    image: "/images/CitiesForBees.png"
     desc: "Кожен третій шматочок їжі існує тому, що комаха відвідала квітку. Один балкон. Один дах. Один нескошений газон. Так починається рух — #МістаДляБджіл."
     link: "/uk/zapyliuvachi/"
 
@@ -110,26 +130,31 @@ ru:
   - icon: swarm
     title: "Отлов роёв"
     badge: "Бесплатно · Берген"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Заметили рой на своём участке? Свяжитесь со мной сразу — я бесплатно забираю пчелиные рои в Бергене и окрестностях."
     link: "/ru/roi/#swarm-collection-in-bergen"
   - icon: trap
     title: "Ловушки для роёв"
     badge: "Бесплатно · вся Норвегия"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Защитите здание от роёв. Я устанавливаю приманочные ящики, которые ловят рои до того, как они поселятся в дымоходе или фасаде — бесплатно по всей Норвегии."
     link: "/ru/roi/#swarm-traps"
   - icon: pollination
     title: "Опыление"
     badge: "Пчёлы за место"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Я бесплатно размещаю свои семьи у вас в саду на сезон. Вы даёте место и цветы — пчёлы делают остальное."
     link: "/ru/beekeeping/#pollination-service"
   - icon: hive
     title: "Ульи"
     badge: "Ручная работа"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Лежаки необычны для Норвегии — я сам их строю и экспериментирую с ними. Надёжные деревянные ульи для природного пчеловодства."
     link: "/ru/uli/"
   - icon: city
     title: "Города для пчёл"
     badge: "Города и районы"
+    image: "/images/CitiesForBees.png"
     desc: "Каждый третий кусок еды существует потому, что насекомое посетило цветок. Один балкон. Одна крыша. Один нескошенный газон. Так начинается движение — #ГородаДляПчёл."
     link: "/ru/opyliteli/"
 
@@ -137,26 +162,31 @@ pl:
   - icon: swarm
     title: "Łapanie rojów"
     badge: "Bezpłatnie · Bergen"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Widzisz rój na swojej posesji? Skontaktuj się ze mną od razu — bezpłatnie odławiam roje w Bergen i okolicy."
     link: "/pl/roje/#swarm-collection-in-bergen"
   - icon: trap
     title: "Pułapki rojowe"
     badge: "Bezpłatnie · cała Norwegia"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Chroń budynek przed rojami. Rozstawiam skrzynki wabikowe, które łapią rój, zanim osiedli się w kominie lub fasadzie — bezpłatnie w całej Norwegii."
     link: "/pl/roje/#swarm-traps"
   - icon: pollination
     title: "Zapylanie"
     badge: "Pszczoły za miejsce"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Na sezon bezpłatnie ustawiam swoje rodziny w twoim ogrodzie. Ty zapewniasz miejsce i kwiaty — pszczoły robią resztę."
     link: "/pl/beekeeping/#pollination-service"
   - icon: hive
     title: "Ule"
     badge: "Ręczna robota"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Leżaki są w Norwegii rzadkością — sam je buduję i z nimi eksperymentuję. Solidne drewniane ule do naturalnej gospodarki pasiecznej."
     link: "/pl/ule/"
   - icon: city
     title: "Miasta dla pszczół"
     badge: "Miasta i dzielnice"
+    image: "/images/CitiesForBees.png"
     desc: "Każdy trzeci kęs jedzenia istnieje dlatego, że owad odwiedził kwiat. Jeden balkon. Jeden dach. Jeden niekoszony trawnik. Tak zaczyna się ruch — #MiastaDlaPszczół."
     link: "/pl/zapylacze/"
 
@@ -164,26 +194,31 @@ de:
   - icon: swarm
     title: "Schwarmfang"
     badge: "Kostenlos · Bergen"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Einen Schwarm auf Ihrem Grundstück entdeckt? Melden Sie sich sofort — ich fange Bienenschwärme in Bergen und Umgebung kostenlos ein."
     link: "/de/schwaerme/#swarm-collection-in-bergen"
   - icon: trap
     title: "Schwarmfallen"
     badge: "Kostenlos · ganz Norwegen"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Schützen Sie Ihr Gebäude vor Schwärmen. Ich stelle Lockkästen auf, die Schwärme fangen, bevor sie sich im Schornstein oder an der Fassade niederlassen — kostenlos in ganz Norwegen."
     link: "/de/schwaerme/#swarm-traps"
   - icon: pollination
     title: "Bestäubung"
     badge: "Bienen gegen Platz"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Ich stelle meine Völker für die Saison kostenlos in Ihren Garten. Sie geben Platz und Blüten — die Bienen erledigen den Rest."
     link: "/de/beekeeping/#pollination-service"
   - icon: hive
     title: "Bienenbeuten"
     badge: "Handgefertigt"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Lagerbeuten sind in Norwegen ungewöhnlich — ich baue und erprobe sie selbst. Solide Holzbeuten für naturnahe Imkerei."
     link: "/de/beuten/"
   - icon: city
     title: "Städte für Bienen"
     badge: "Städte und Quartiere"
+    image: "/images/CitiesForBees.png"
     desc: "Jeder dritte Bissen Essen existiert, weil ein Insekt eine Blume besucht hat. Ein Balkon. Ein Dach. Ein nicht gemähter Rasen. So beginnt die Bewegung — #StädteFürBienen."
     link: "/de/bestaeuber/"
 
@@ -191,26 +226,31 @@ cu:
   - icon: swarm
     title: "Ловлениѥ роевъ"
     badge: "Без мъзды · Бергенъ"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "Аще рои на имѣнии твоемъ явися, абиѥ ко мнѣ обратися — азъ без мъзды рои въ Бергенѣ и окрѣстъ ловлю."
     link: "/cu/roi/#swarm-collection-in-bergen"
   - icon: trap
     title: "Сѣти ройныѥ"
     badge: "Без мъзды · вся Норьвѣгїа"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Съхрани домъ твой от роевъ. Азъ поставлѭ приманъчьныѥ ящики, иже рои емлютъ, прѣжде даже въ дымницѣ или фасадѣ сѧдутъ — без мъзды по всѣи Норьвѣгии."
     link: "/cu/roi/#swarm-traps"
   - icon: pollination
     title: "Опылениѥ"
     badge: "Пчелы за мѣсто"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Азъ на врѣмѧ лѣтноє без мъзды поставлѭ семѧ въ садѣ твоемъ. Ты даеши мѣсто и цвѣты — пчелы творѧтъ прочее."
     link: "/cu/beekeeping/#pollination-service"
   - icon: hive
     title: "Оулии"
     badge: "Рꙋкодѣльно"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Лежачии оулии въ Норьвѣгии рѣдки сꙋть — самъ ихъ творѭ и искусствꙋю. Твьрды древѧны оулии ради природьнаго пчеларьства."
     link: "/cu/oulii/"
   - icon: city
     title: "Грады ради пчелъ"
     badge: "Грады и обитища"
+    image: "/images/CitiesForBees.png"
     desc: "Помозѣте пчеламъ, чъмєлємъ, мотыльємъ и инымъ опылителємъ цвѣтꙋщими балконы, кръвами, дворы, врьтикальными садъми и кротъкою попечениѥю о зелени."
     link: "/cu/opyliteli/"
 
@@ -218,25 +258,30 @@ es:
   - icon: swarm
     title: "Recogida de enjambres"
     badge: "Gratis · Bergen"
+    image: "/images/swarm-building-bergen-2025/03.jpg"
     desc: "¿Has visto un enjambre en tu propiedad? Contáctame de inmediato — recojo enjambres de abejas de forma gratuita en Bergen y alrededores."
     link: "/es/enjambres/#swarm-collection-in-bergen"
   - icon: trap
     title: "Trampas para enjambres"
     badge: "Gratis · toda Noruega"
+    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Protege tu edificio de los enjambres. Coloco cajas cebo que capturan los enjambres antes de que se instalen en una chimenea o fachada — gratis, en toda Noruega."
     link: "/es/enjambres/#swarm-traps"
   - icon: pollination
     title: "Polinización"
     badge: "Abejas por espacio"
+    image: "/images/hive-yellow-field.jpg"
     desc: "Coloco mis colonias en tu jardín gratis durante la temporada. Tú das el espacio y las flores — las abejas hacen el resto."
     link: "/es/apicultura/#pollination-service"
   - icon: hive
     title: "Colmenas"
     badge: "Hecho a mano"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Las colmenas horizontales son poco comunes en Noruega — las construyo yo mismo y experimento con ellas. Colmenas de madera sólidas para la apicultura natural."
     link: "/es/colmenas/"
   - icon: city
     title: "Ciudades para abejas"
     badge: "Municipios y barrios"
+    image: "/images/CitiesForBees.png"
     desc: "Uno de cada tres bocados de comida existe porque un insecto visitó una flor. Un balcón. Un tejado. Un césped sin segar. Así empieza el movimiento — #CiudadesParaAbejas."
     link: "/es/polinizadores/"
