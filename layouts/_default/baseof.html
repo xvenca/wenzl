@@ -3,8 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    {{/* ── Social sharing variables ──────────────────────────── */}}
+    {{ $pagetitle := .Title | default .Site.Title }}
+    {{ $ogtitle := $pagetitle }}{{ if not .IsHome }}{{ $ogtitle = printf "%s — %s" $pagetitle .Site.Title }}{{ end }}
+    {{ $desc := .Param "description" }}
+    {{ $ogimg := .Params.image | default (index .Site.Params.images 0) }}
+    {{ $ogalt := .Params.alt | default $pagetitle }}
+
+    <title>{{ $ogtitle }}</title>
+    <meta name="description" content="{{ $desc }}">
     <link rel="canonical" href="{{ .Permalink }}">
     {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
@@ -15,21 +22,22 @@
     {{ range .AllTranslations }}{{ if ne .Language.Lang $.Site.Language.Lang }}<meta property="og:locale:alternate" content="{{ .Language.LanguageCode | replaceRE "-" "_" }}">
     {{ end }}{{ end }}
     <meta property="og:site_name" content="{{ .Site.Title }}">
-    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
-    <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:title" content="{{ $ogtitle }}">
+    <meta property="og:description" content="{{ $desc }}">
     <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
-    {{ $ogimg := .Params.image | default (index .Site.Params.images 0) }}
-    {{ $ogalt := .Params.alt | default .Title }}
-    {{ $ogtitle := .Site.Title }}{{ if not .IsHome }}{{ $ogtitle = printf "%s — %s" .Title .Site.Title }}{{ end }}
-    {{ $ogdesc := .Description | default .Site.Params.description }}
     {{ if $ogimg }}
-    <meta property="og:image" content="{{ $ogimg | absURL }}">
+    {{ $imgAbsURL := $ogimg | absURL }}
+    {{ $imgW := .Params.imageWidth | default .Site.Params.ogImageWidth }}
+    {{ $imgH := .Params.imageHeight | default .Site.Params.ogImageHeight }}
+    <meta property="og:image" content="{{ $imgAbsURL }}">
     <meta property="og:image:alt" content="{{ $ogalt }}">
+    {{ if $imgW }}<meta property="og:image:width" content="{{ $imgW }}">{{ end }}
+    {{ if $imgH }}<meta property="og:image:height" content="{{ $imgH }}">{{ end }}
     {{ end }}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ $ogtitle }}">
-    <meta name="twitter:description" content="{{ $ogdesc }}">
+    <meta name="twitter:description" content="{{ $desc }}">
     {{ if $ogimg }}
     <meta name="twitter:image" content="{{ $ogimg | absURL }}">
     <meta name="twitter:image:alt" content="{{ $ogalt }}">
