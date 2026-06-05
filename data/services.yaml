@@ -8,13 +8,12 @@ nb:
   - icon: trap
     title: Svermfeller
     badge: "Gratis · hele Norge"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Beskytt bygningen din mot bisværmer. Jeg setter ut lokkekasser som fanger svermer før de slår seg ned i skorstein eller fasade — gratis, i hele Norge."
     link: "/svermer/#svermfeller"
   - icon: pollination
     title: Bestøvning
     badge: "Bier mot plass"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Jeg plasserer bisamfunn i din hage gratis i sesongen. Du gir bibestanden mat og rom — de sørger for avlingen din."
     link: "/birokt/#bestøvningstjeneste"
   - icon: hive
@@ -40,13 +39,12 @@ en:
   - icon: trap
     title: "Swarm Traps"
     badge: "Free · all Norway"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Protect your building from swarms. I set out bait boxes that catch swarms before they settle in a chimney or facade — free, across all of Norway."
     link: "/en/swarms/#swarm-traps"
   - icon: pollination
     title: Pollination
     badge: "Bees for space"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "I place my colonies in your garden free of charge during the season. You provide the space and flowers — the bees do the rest."
     link: "/en/beekeeping/#pollination-service"
   - icon: hive
@@ -72,13 +70,12 @@ cs:
   - icon: trap
     title: "Rojové pasti"
     badge: "Zdarma · celé Norsko"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Ochrana budovy před roji. Rozmístím lákací krabičky, které chytí roj dřív, než se usadí v komíně nebo fasádě — zdarma, po celém Norsku."
     link: "/cs/roje/#rojové-pasti"
   - icon: pollination
     title: Opylování
     badge: "Včely za prostor"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Umístím svá včelstva na vaši zahradu zdarma. Vy poskytnete prostor a pyl — včely se postarají o zbytek."
     link: "/cs/beekeeping/#opylovací-služba"
   - icon: hive
@@ -104,13 +101,12 @@ uk:
   - icon: trap
     title: "Пастки для роїв"
     badge: "Безкоштовно · вся Норвегія"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Захистіть будівлю від роїв. Я розставляю приманкові ящики, які ловлять рої ще до того, як вони оселяться в димоході чи фасаді — безкоштовно по всій Норвегії."
     link: "/uk/royi/#swarm-traps"
   - icon: pollination
     title: "Запилення"
     badge: "Бджоли за місце"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Я безкоштовно розміщу свої сім'ї у вашому саду на сезон. Ви даєте простір і квіти — бджоли роблять решту."
     link: "/uk/beekeeping/#pollination-service"
   - icon: hive
@@ -136,13 +132,12 @@ ru:
   - icon: trap
     title: "Ловушки для роёв"
     badge: "Бесплатно · вся Норвегия"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Защитите здание от роёв. Я устанавливаю приманочные ящики, которые ловят рои до того, как они поселятся в дымоходе или фасаде — бесплатно по всей Норвегии."
     link: "/ru/roi/#swarm-traps"
   - icon: pollination
     title: "Опыление"
     badge: "Пчёлы за место"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Я бесплатно размещаю свои семьи у вас в саду на сезон. Вы даёте место и цветы — пчёлы делают остальное."
     link: "/ru/beekeeping/#pollination-service"
   - icon: hive
@@ -168,13 +163,12 @@ pl:
   - icon: trap
     title: "Pułapki rojowe"
     badge: "Bezpłatnie · cała Norwegia"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Chroń budynek przed rojami. Rozstawiam skrzynki wabikowe, które łapią rój, zanim osiedli się w kominie lub fasadzie — bezpłatnie w całej Norwegii."
     link: "/pl/roje/#swarm-traps"
   - icon: pollination
     title: "Zapylanie"
     badge: "Pszczoły za miejsce"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Na sezon bezpłatnie ustawiam swoje rodziny w twoim ogrodzie. Ty zapewniasz miejsce i kwiaty — pszczoły robią resztę."
     link: "/pl/beekeeping/#pollination-service"
   - icon: hive
@@ -200,13 +194,12 @@ de:
   - icon: trap
     title: "Schwarmfallen"
     badge: "Kostenlos · ganz Norwegen"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Schützen Sie Ihr Gebäude vor Schwärmen. Ich stelle Lockkästen auf, die Schwärme fangen, bevor sie sich im Schornstein oder an der Fassade niederlassen — kostenlos in ganz Norwegen."
     link: "/de/schwaerme/#swarm-traps"
   - icon: pollination
     title: "Bestäubung"
     badge: "Bienen gegen Platz"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Ich stelle meine Völker für die Saison kostenlos in Ihren Garten. Sie geben Platz und Blüten — die Bienen erledigen den Rest."
     link: "/de/beekeeping/#pollination-service"
   - icon: hive
@@ -232,13 +225,12 @@ cu:
   - icon: trap
     title: "Сѣти ройныѥ"
     badge: "Без мъзды · вся Норьвѣгїа"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Съхрани домъ твой от роевъ. Азъ поставлѭ приманъчьныѥ ящики, иже рои емлютъ, прѣжде даже въ дымницѣ или фасадѣ сѧдутъ — без мъзды по всѣи Норьвѣгии."
     link: "/cu/roi/#swarm-traps"
   - icon: pollination
     title: "Опылениѥ"
     badge: "Пчелы за мѣсто"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Азъ на врѣмѧ лѣтноє без мъзды поставлѭ семѧ въ садѣ твоемъ. Ты даеши мѣсто и цвѣты — пчелы творѧтъ прочее."
     link: "/cu/beekeeping/#pollination-service"
   - icon: hive
@@ -264,13 +256,12 @@ es:
   - icon: trap
     title: "Trampas para enjambres"
     badge: "Gratis · toda Noruega"
-    image: "/images/swarm-playground-bergen-2025/02.jpg"
     desc: "Protege tu edificio de los enjambres. Coloco cajas cebo que capturan los enjambres antes de que se instalen en una chimenea o fachada — gratis, en toda Noruega."
     link: "/es/enjambres/#swarm-traps"
   - icon: pollination
     title: "Polinización"
     badge: "Abejas por espacio"
-    image: "/images/hive-yellow-field.jpg"
+    image: "/images/hive-ukrainian.jpg"
     desc: "Coloco mis colonias en tu jardín gratis durante la temporada. Tú das el espacio y las flores — las abejas hacen el resto."
     link: "/es/apicultura/#pollination-service"
   - icon: hive
