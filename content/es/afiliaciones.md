@@ -11,7 +11,7 @@ memberships:
     url: "https://norbi.no/"
     certificate: "/images/kursbevis.jfif"
     certificate_url: "https://norbi.no/kurs/kompetansekurs-om-bier-sertifiseringskurs/"
-    certificate_desc: "Certificado de Norges Birøkterlag — curso de competencias sobre abejas, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Autoriza a realizar controles sanitarios en el propio colmenar — requisito legal en Noruega para vender o trasladar abejas."
+    certificate_desc: "Certificado de Norges Birøkterlag — curso de competencias sobre abejas, Bergen og Omegn Birøkterlag, 28.10.2024–29.11.2024. Autoriza a realizar controles sanitarios en el propio colmenar — primer paso hacia la certificación del colmenar, requisito legal para vender o trasladar abejas en Noruega."
     desc: "La Asociación Noruega de Apicultores es la federación nacional de apicultores de Noruega. Como miembro, formo parte de una comunidad profesional de ámbito nacional que promueve la buena apicultura, la salud de las abejas y el intercambio de conocimientos."
   - name: "Bergen Fellesverksted"
     role: "Taller"
