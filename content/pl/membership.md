@@ -9,6 +9,7 @@ memberships:
     location: "Norwegia"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "Norweski Związek Pszczelarzy jest krajową federacją pszczelarzy w Norwegii. Jako członek należę do ogólnokrajowej wspólnoty zawodowej wspierającej dobrą praktykę pszczelarską, zdrowie pszczół i dzielenie się wiedzą."
   - name: "Bergen Fellesverksted"
     role: "Warsztat"

@@ -9,6 +9,7 @@ memberships:
     location: "Norge"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "Norges Birøkterlag er det nasjonale forbundet for birøktere i Norge. Som medlem er jeg en del av et landsdekkende fagmiljø som fremmer god birøkt, bienes helse og kunnskapsdeling."
   - name: "Bergen Fellesverksted"
     role: "Verksted"

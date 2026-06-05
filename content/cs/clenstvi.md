@@ -9,6 +9,7 @@ memberships:
     location: "Norsko"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "Norges Birøkterlag je národní svaz včelařů v Norsku. Jako člen jsem součástí celostátní odborné komunity, která podporuje dobrou včelařskou praxi, zdraví včel a sdílení znalostí."
   - name: "Bergen Fellesverksted"
     role: "Dílna"

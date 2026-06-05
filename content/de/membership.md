@@ -9,6 +9,7 @@ memberships:
     location: "Norwegen"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "Der norwegische Imkerverband ist die landesweite Organisation der Imker in Norwegen. Als Mitglied gehöre ich zu einer fachlichen Gemeinschaft, die gute Imkereipraxis, Bienengesundheit und Wissensaustausch fördert."
   - name: "Bergen Fellesverksted"
     role: "Werkstatt"
