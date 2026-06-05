@@ -148,12 +148,11 @@ jobs:
             for (const lang of ['no', ...LANGS]) {
               if (!byLang[lang]) continue;
               const pages = byLang[lang];
-              body += `<details><summary>${LANG_NAMES[lang]} — ${pages.length} pages</summary>\n\n`;
+              body += `### ${LANG_NAMES[lang]}\n\n`;
               for (const f of pages) {
                 const name = f.replace('.png', '');
                 body += `**${name}**\n![${name}](${baseUrl}/${f})\n\n`;
               }
-              body += `</details>\n\n`;
             }
 
             await github.rest.issues.createComment({
