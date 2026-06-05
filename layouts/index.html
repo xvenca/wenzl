@@ -73,6 +73,27 @@
     </div>
 </section>
 
+<!-- ── Cities for Bees ──────────────────────────────────────── -->
+{{ range .Site.Menus.main }}{{ if eq .Identifier "pollinators" }}
+<section class="bg-white border-b border-amber-100">
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-8">
+    <a href="{{ .URL }}"
+       class="flex flex-col sm:flex-row items-center gap-5 group">
+      <img src="/images/CitiesForBees.png" alt="{{ .Name }}"
+           class="h-20 w-auto object-contain shrink-0" loading="lazy">
+      <div class="text-center sm:text-left">
+        <p class="text-xs font-bold text-amber-600 uppercase tracking-[0.2em] mb-1">#CitiesForBees · #ByerForBier</p>
+        <h2 class="text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">{{ .Name }}</h2>
+      </div>
+      <svg class="hidden sm:block w-5 h-5 text-amber-400 ml-auto group-hover:translate-x-1 transition-transform"
+           fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+      </svg>
+    </a>
+  </div>
+</section>
+{{ end }}{{ end }}
+
 <!-- ── Services ───────────────────────────────────────────────── -->
 {{ with $services }}
 <section class="bg-white border-b border-amber-100">
