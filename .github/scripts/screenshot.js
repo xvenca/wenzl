@@ -60,7 +60,7 @@ async function collectUrls() {
     const page = await ctx.newPage();
     try {
       await page.goto(toLocal(url), { waitUntil: 'networkidle', timeout: 15000 });
-      await page.screenshot({ path: path.join(OUT, `${name}.png`), fullPage: false });
+      await page.screenshot({ path: path.join(OUT, `${name}.png`), fullPage: true });
       console.log(`✓ ${name}`);
       ok++;
     } catch (e) {
