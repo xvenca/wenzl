@@ -93,34 +93,23 @@ def make_badge_lines(counts, total, done):
         remaining_badge,
         status_badge,
         '',
-        f"[Plan details](doc/implementation-plan.md)"
+        f"[Plan details](doc/implementation-plan.md)",
+        '<!-- /Status badges -->'
     ]
-    return '\n'.join(lines) + '\n'
+    return '\n'.join(lines)
 
 
 def update_readme(badges_block_text):
     readme = Path('README.md')
     txt = readme.read_text(encoding='utf-8')
-    if '<!-- Status badges -->' in txt:
-        # Replace block from marker to next blank line after marker set
-        start = txt.index('<!-- Status badges -->')
-        # find next heading or two consecutive newlines after start
-        rest = txt[start:]
-        # find where the badges block ends: look for two newlines followed by '# ' (next header) or end of badges we inserted earlier
-        # Simpler: replace until the first occurrence of '\n\n' after the marker plus 10 lines; but safer: find the marker and replace the following lines up to the first two newlines in a row plus next line not an image or link.
-        # We'll locate the line after the marker block by searching for '\n\n' after start and treat that as end
-        # However to be robust, replace the entire previously inserted sequence between marker and the next header '##' or first blank line followed by non-badge content.
-        pattern = re.compile(r'<!-- Status badges -->.*?\n\n', re.S)
-        if pattern.search(txt):
-            new_txt = pattern.sub(badges_block_text + '\n', txt)
-        else:
-            # fallback: insert badges after the title line
-            parts = txt.splitlines()
-            parts.insert(1, badges_block_text)
-            new_txt = '\n'.join(parts)
+    pattern = re.compile(r'<!-- Status badges -->.*?<!-- /Status badges -->', re.S)
+    if pattern.search(txt):
+        new_txt = pattern.sub(badges_block_text, txt)
     else:
-        # Prepend badges at top
-        new_txt = badges_block_text + '\n' + Path('README.md').read_text(encoding='utf-8')
+        # fallback: insert after title line
+        parts = txt.splitlines()
+        parts.insert(1, badges_block_text)
+        new_txt = '\n'.join(parts)
     readme.write_text(new_txt, encoding='utf-8')
 
 
