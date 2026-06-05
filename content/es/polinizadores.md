@@ -74,6 +74,20 @@ No se trata solo de proteger a una especie. Se trata de que las ciudades y las c
 [^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 [^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
 
+## Muestra el emblema
+
+¿Es tu ciudad, escuela, edificio o vecindario parte del movimiento **Ciudades para abejas**? Muéstralo en tu sitio web.
+
+[![Ciudades para abejas](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/es/CiudadesParaAbejas/)
+
+Copia este código y pégalo en tu sitio web:
+
+```html
+<a href="https://wenzl.no/es/CiudadesParaAbejas/">
+  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Ciudades para abejas" width="300">
+</a>
+```
+
 Si su municipio, escuela o iniciativa vecinal quiere explorar un proyecto juntos, estaré encantado de saber de usted.
 
 {{< contact >}}

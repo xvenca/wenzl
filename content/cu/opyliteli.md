@@ -76,6 +76,20 @@ aliases:
 [^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 [^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
 
+## Оукраситє знамѧниємъ
+
+Аще градъ твои, школа, зданиє или сосѣдьство єсть часть движениѧ **Грады ради пчелъ** — покажи на сайтѣ своємъ.
+
+[![Грады ради пчелъ](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/cu/GradyRadiPchel/)
+
+Скопируи сии кодъ и вложи его на сайтъ свои:
+
+```html
+<a href="https://wenzl.no/cu/GradyRadiPchel/">
+  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Грады ради пчелъ" width="300">
+</a>
+```
+
 Аще градъ твои, школа или сосѣдьскоє начинаниѥ хощетъ проєктъ обьсудити — радъ єсмь слышати отъ тебє.
 
 {{< contact >}}

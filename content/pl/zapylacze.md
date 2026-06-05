@@ -74,6 +74,20 @@ Nie chodzi tylko o ochronę jednego gatunku. Chodzi o to, by miasta i społeczno
 [^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 [^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
 
+## Umieść odznakę
+
+Czy twoje miasto, szkoła, budynek lub sąsiedztwo jest częścią ruchu **Miasta dla pszczół**? Pokaż to na swojej stronie.
+
+[![Miasta dla pszczół](https://wenzl.no/images/CitiesForBees.png)](https://wenzl.no/pl/MiastaDlaPszczol/)
+
+Skopiuj ten kod i wklej go na swojej stronie:
+
+```html
+<a href="https://wenzl.no/pl/MiastaDlaPszczol/">
+  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Miasta dla pszczół" width="300">
+</a>
+```
+
 Jeśli Twój samorząd, szkoła lub inicjatywa sąsiedzka chce omówić projekt — chętnie się odezwę.
 
 {{< contact >}}
