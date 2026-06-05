@@ -96,15 +96,21 @@ Pszczoły potrzebują kwiatów — a miasta mogą im je dać. Współpracuję z 
 
 Mam już aktywny projekt w Bergen, w którym pszczoły są obecne w przestrzeni publicznej — widoczne i dostępne dla każdego.
 
-## Współpraca z instytucjami i apiterapia
+## Współpraca z instytucjami
 
-Mam doświadczenie w umieszczaniu rodzin pszczelich w środowisku instytucjonalnym, w tym we współpracy z **DPS Soli** w Bergen.
+Mam doświadczenie w umieszczaniu rodzin pszczelich w środowisku instytucjonalnym. Jednym z aktywnych przykładów jest **DPS Soli** w Bergen, gdzie moje ule stoją w ogrodzie jako wsparcie lokalnej ekologii i różnorodności biologicznej.
+
+Jeśli Twoja instytucja — szpital, dom opieki, szkoła lub miejsce pracy — dysponuje przestrzenią ogrodową i chciałaby gościć stałe rodziny pszczele, skontaktuj się ze mną.
+
+## Apiterapia
+
+Apiterapia to terapeutyczne wykorzystanie bliskości pszczół — powietrza z ula, ciepła i wibracji. Ukraiński leżak to tradycyjny typ ula do tego celu: niski, szeroki, zaprojektowany tak, by stał pod platformą wypoczynkową, nad którą ludzie leżą bezpośrednio nad rodziną pszczeją, wdychają powietrze z ula i czują jego ciepło i brzęczenie.
 
 Oferuję:
 
-- Ustawianie i prowadzenie rodzin pszczelich przy szpitalach, placówkach opiekuńczych i ośrodkach rehabilitacyjnych
-- Doradztwo i budowę **domków do apiterapii**, gdzie pacjenci mogą doświadczać bliskości pszczół
-- Ukraińskie leżaki do apiterapii — właśnie ten typ ula tradycyjnie stosuje się w takiej praktyce, a ja mam doświadczenie zarówno w ich budowie, jak i prowadzeniu
+- Doradztwo i budowę **domków do apiterapii** — małego schronienia, gdzie ludzie wypoczywają nad ulami
+- Ukraińskie leżaki własnej roboty, budowane i obsługiwane specjalnie na potrzeby apiterapii
+- Doradztwo dla placówek opiekuńczych, ośrodków rehabilitacyjnych i projektów wellness rozważających apiterapię
 
 ## Moja filozofia
 

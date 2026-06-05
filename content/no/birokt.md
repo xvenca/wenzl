@@ -108,17 +108,21 @@ Jeg har allerede et aktivt prosjekt i Bergen der bier er synlig til stede på of
 
 ---
 
-## Samarbeid med Institusjoner og Apiterapi
+## Samarbeid med Institusjoner
 
-Jeg har erfaring med å plassere bisamfunn i institusjonelle omgivelser, inkludert samarbeid med **DPS Soli** i Bergen.
+Jeg har erfaring med å plassere bisamfunn i institusjonelle omgivelser. Et aktivt eksempel er **DPS Soli** i Bergen, der mine bikuber står i hagen som støtte for lokal økologi og biologisk mangfold.
+
+Har institusjonen din — sykehus, omsorgssenter, skole eller arbeidsplass — hageareal og ønsker fastboende bisamfunn? Ta gjerne kontakt.
+
+## Apiterapi
+
+Apiterapi er terapeutisk bruk av nærhet til bier — luften fra kuben, varmen og vibrasjonene. Den ukrainske liggebikuben er den tradisjonelle kubetypen til dette formålet: lav, bred og utformet for å stå under en hvileplattform slik at folk kan ligge rett over bisamfunnet, puste inn kubeluften og kjenne varmen og summen fra biene.
 
 Jeg tilbyr:
 
-- Plassering og forvaltning av bisamfunn ved sykehus, omsorgssentre og rehabiliteringsinstitusjoner
-- Rådgivning om og bygging av **apidomki** (apiterapibygninger) — der pasienter kan oppleve og nyte nærhet til bier
-- Ukrainske liggebikuber til apiterapi — den kubetype som tradisjonelt brukes til apiterapi, og som jeg har kompetansen til å bygge og drifte
-
-Birøkt i omsorgsmiljøer gir naturopplevelse, ro og terapeutisk verdi.
+- Rådgivning og bygging av **apidomki** (apiterapibygninger) — en liten bygning der folk hviler over bikubene
+- Ukrainske liggebikuber bygget og driftet spesielt for apiterapi
+- Veiledning for omsorgsinstitusjoner, rehabiliteringssentre og velværeprosjekter som vurderer apiterapi
 
 ---
 
