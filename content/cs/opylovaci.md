@@ -4,6 +4,9 @@ description: "87 ze 115 hlavních zemědělských plodin světa závisí na hmyz
 image: "/images/birokt-hero.jpg"
 alt: "Města pro včely"
 translationKey: "pollinators"
+slug: "MestaProVcely"
+aliases:
+  - /cs/opylovaci/
 ---
 
 ## Hmyz, který živí naše stoly

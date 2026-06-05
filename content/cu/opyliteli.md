@@ -4,6 +4,9 @@ description: "Едино отъ триехъ кꙋшании съ стола т�
 image: "/images/birokt-hero.jpg"
 alt: "Грады ради пчелъ"
 translationKey: "pollinators"
+slug: "GradyRadiPchel"
+aliases:
+  - /cu/opyliteli/
 ---
 
 ## Цвѣты, яже насъ питаютъ

@@ -4,6 +4,9 @@ description: "87 из 115 главных сельскохозяйственны�
 image: "/images/birokt-hero.jpg"
 alt: "Города для пчёл"
 translationKey: "pollinators"
+slug: "GorodaDlyaPchel"
+aliases:
+  - /ru/opyliteli/
 ---
 
 ## Насекомые, которые кормят наши столы
