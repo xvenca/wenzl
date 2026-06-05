@@ -27,11 +27,13 @@ services:
   - icon: "hive"
     title: "Ule"
     badge: "Ręczna robota"
+    image: "/images/hive-yellow-front.jpg"
     desc: "Leżaki są w Norwegii rzadkością — sam je buduję i z nimi eksperymentuję. Solidne drewniane ule do naturalnej gospodarki pasiecznej."
     link: "#handcrafted-beehives"
   - icon: "city"
     title: "Pszczelarstwo miejskie"
     badge: "Miasta i parki"
+    image: "/images/CitiesForBees.png"
     desc: "Dekoracyjne ule, tablice informacyjne i doradztwo dla miast, szkół i przestrzeni publicznych przyjaznych pszczołom."
     link: "#bee-friendly-cities"
 ---
