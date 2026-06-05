@@ -61,6 +61,43 @@
         "description": "{{ .Site.Params.description }}"
     }
     </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Martin Venclu",
+        "url": "{{ .Site.BaseURL }}en/about/",
+        "email": "{{ $c.email }}",
+        "telephone": "{{ $c.phone }}",
+        "jobTitle": "Certified Beekeeper",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Bergen",
+            "addressCountry": "NO"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Mendel University in Brno",
+            "url": "https://mendelu.cz/"
+        },
+        "hasCredential": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Kompetansekurs om bier — Norges Birøkterlag",
+            "description": "Certifies the holder to conduct health inspections in their own apiary — first step towards apiary certification, required to legally sell or move bees in Norway.",
+            "dateCreated": "2024-11-29",
+            "recognizedBy": {
+                "@type": "Organization",
+                "name": "Norges Birøkterlag",
+                "url": "https://norbi.no/"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Norges Birøkterlag",
+            "url": "https://norbi.no/"
+        }
+    }
+    </script>
 
     {{ $css := resources.Get "css/main.min.css" }}
     {{ if $css }}
