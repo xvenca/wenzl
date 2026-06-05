@@ -94,7 +94,8 @@ jobs:
               tag_name: tagName,
               target_commitish: context.payload.pull_request.head.sha,
               name: `CI Screenshots — PR #${prNum}`,
-              draft: true,
+              draft: false,
+              prerelease: true,
             });
 
             // Upload all screenshots in parallel batches of 5
