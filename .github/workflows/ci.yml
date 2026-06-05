@@ -75,28 +75,18 @@ jobs:
           path: screenshots/
           if-no-files-found: warn
 
+      - name: Count screenshots
+        id: count
+        run: echo "n=$(ls screenshots/*.png 2>/dev/null | wc -l)" >> "$GITHUB_OUTPUT"
+
       - name: Comment on PR with screenshot link
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           script: |
+            const n = '${{ steps.count.outputs.n }}';
             const runUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
-            const body = [
-              '## Page screenshots',
-              '',
-              `Screenshots of key pages captured during this CI run — [download from Actions](${runUrl}#artifacts).`,
-              '',
-              '| Page | File |',
-              '|------|------|',
-              '| Norwegian home | `no-home.png` |',
-              '| Swarms | `no-swarms.png` |',
-              '| Hives | `no-hives.png` |',
-              '| Pollinators | `no-pollinators.png` |',
-              '| About (NO) | `no-about.png` |',
-              '| Membership | `no-membership.png` |',
-              '| English home | `en-home.png` |',
-              '| Czech home | `cs-home.png` |',
-            ].join('\n');
+            const body = `## Page screenshots\n\n${n} pages captured across all language variants — [download artifact](${runUrl}#artifacts).\n\nFilenames follow \`{lang}-{slug}.png\` convention (e.g. \`en-membership.png\`, \`cs-clenstvi.png\`).`;
             await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
