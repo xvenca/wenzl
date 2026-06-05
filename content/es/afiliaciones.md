@@ -9,6 +9,7 @@ memberships:
     location: "Noruega"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "La Asociación Noruega de Apicultores es la federación nacional de apicultores de Noruega. Como miembro, formo parte de una comunidad profesional de ámbito nacional que promueve la buena apicultura, la salud de las abejas y el intercambio de conocimientos."
   - name: "Bergen Fellesverksted"
     role: "Taller"

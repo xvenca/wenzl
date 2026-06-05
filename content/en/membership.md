@@ -9,6 +9,7 @@ memberships:
     location: "Norway"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "The Norwegian Beekeepers' Association is the national federation for beekeepers in Norway. As a member, I am part of a nationwide professional community promoting good beekeeping, bee health and knowledge-sharing."
   - name: "Bergen Fellesverksted"
     role: "Workshop"

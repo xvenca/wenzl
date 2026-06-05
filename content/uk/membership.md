@@ -9,6 +9,7 @@ memberships:
     location: "Норвегія"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "Норвезька спілка пасічників — це національна федерація пасічників Норвегії. Як член, я є частиною всеукраїнської професійної спільноти, яка підтримує якісне бджільництво, здоров'я бджіл і обмін знаннями."
   - name: "Bergen Fellesverksted"
     role: "Майстерня"

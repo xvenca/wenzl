@@ -9,6 +9,7 @@ memberships:
     location: "Норьвѣгїа"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
+    certificate: "/images/kursbevis.jfif"
     desc: "Норьвѣжьскый съѭзъ пчеларей єсть всеѧ страны братъство пчеларское. Яко члень, єсмь часть общины искусьной, яже хранитъ доброє пчеларьство, здравиє пчелъ и прѣданиє вѣдѣниѧ."
   - name: "Bergen Fellesverksted"
     role: "Мастерїѧ"
