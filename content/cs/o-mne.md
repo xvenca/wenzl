@@ -2,7 +2,7 @@
 title: "O mně"
 description: "Z vesnice se staletou včelařskou tradicí k certifikovanému včelaři v Bergenu, který se věnuje přírodnímu včelaření — příběh o tom, jak se včely staly mým životem."
 image: "/images/hero.jpg"
-alt: "Martin Venclu u úlů v Bergenu"
+alt: "Martin Venclů u úlů v Bergenu"
 translationKey: "about"
 ---
 
