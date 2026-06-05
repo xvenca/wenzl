@@ -1,19 +1,5 @@
 # wenzl.no — Martin Venclu · Beekeeper · Bergen, Norway
 
-<!-- Status badges -->
-[![CI](https://img.shields.io/github/actions/workflow/status/xvenca/wenzl/.github/workflows/ci.yml?branch=main)](https://github.com/xvenca/wenzl/actions/workflows/ci.yml)
-[![Deploy](https://img.shields.io/github/actions/workflow/status/xvenca/wenzl/.github/workflows/deploy.yml?branch=main)](https://github.com/xvenca/wenzl/actions/workflows/deploy.yml)
-[![Pages Status](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https://xvenca.github.io/wenzl/)](https://xvenca.github.io/wenzl/)
-[![Last Commit](https://img.shields.io/github/last-commit/xvenca/wenzl)](https://github.com/xvenca/wenzl/commits/main)
-[![Dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen)](https://github.com/xvenca/wenzl/security/dependabot)
-
-![Implemented](https://img.shields.io/badge/implemented-5%2F18-blue)
-![Remaining](https://img.shields.io/badge/remaining-13-orange)
-![Project Status](https://img.shields.io/badge/status-Early-red)
-
-[Plan details](doc/implementation-plan.md)
-<!-- /Status badges -->
-
 ---
 
 **[wenzl.no](https://wenzl.no)** is the website of **Martin Venclu**, a certified beekeeper based in Bergen, Norway. Natural beekeeping, free swarm collection, free building protection with swarm traps across all of Norway, handcrafted wooden hives, apitherapy, Cities for Bees urban movement. No honey for sale — bees winter on honey, not sugar.
