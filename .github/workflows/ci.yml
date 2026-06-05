@@ -67,77 +67,66 @@ jobs:
       - name: Take page screenshots
         run: node .github/scripts/screenshot.js
 
-      - name: Upload screenshots artifact
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: page-screenshots
-          path: screenshots/
-          if-no-files-found: warn
-
-      - name: Push screenshots to ci-screenshots branch
-        id: push_screenshots
-        if: github.event_name == 'pull_request'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -e
-          PR_DIR="pr${{ github.event.pull_request.number }}"
-          WORK=$(mktemp -d)
-          REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
-
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          if git ls-remote --exit-code "$REPO_URL" "refs/heads/ci-screenshots" > /dev/null 2>&1; then
-            git clone --branch ci-screenshots --depth 1 "$REPO_URL" "$WORK"
-            cd "$WORK"
-          else
-            git clone --depth 1 "$REPO_URL" "$WORK"
-            cd "$WORK"
-            git checkout --orphan ci-screenshots
-            git rm -rf . --quiet 2>/dev/null || true
-            git commit --allow-empty -m "init: ci-screenshots branch"
-            git push origin ci-screenshots
-          fi
-
-          rm -rf "$PR_DIR"
-          mkdir -p "$PR_DIR"
-          cp "$GITHUB_WORKSPACE/screenshots"/*.png "$PR_DIR/"
-
-          git add "$PR_DIR/"
-          git commit --allow-empty -m "ci: screenshots for PR ${{ github.event.pull_request.number }}, run ${{ github.run_id }}"
-          git push origin ci-screenshots
-          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
-
-      - name: Comment on PR with screenshot gallery
+      - name: Upload screenshots to release and comment on PR
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
-            const prNum = context.issue.number;
             const owner = context.repo.owner;
             const repo = context.repo.repo;
-            const sha = '${{ steps.push_screenshots.outputs.sha }}';
-            const baseUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${sha}/pr${prNum}`;
+            const prNum = context.issue.number;
+            const tagName = `ci-screenshots-pr${prNum}`;
 
+            // Delete previous draft release for this PR (so assets are always fresh)
+            try {
+              const { data: releases } = await github.rest.repos.listReleases({ owner, repo, per_page: 50 });
+              const old = releases.find(r => r.tag_name === tagName);
+              if (old) {
+                await github.rest.repos.deleteRelease({ owner, repo, release_id: old.id });
+                try { await github.rest.git.deleteRef({ owner, repo, ref: `tags/${tagName}` }); } catch {}
+              }
+            } catch {}
+
+            // Create a fresh draft release to host the screenshots
+            const { data: release } = await github.rest.repos.createRelease({
+              owner, repo,
+              tag_name: tagName,
+              target_commitish: context.payload.pull_request.head.sha,
+              name: `CI Screenshots — PR #${prNum}`,
+              draft: true,
+            });
+
+            // Upload all screenshots in parallel batches of 5
+            const files = fs.readdirSync('screenshots').filter(f => f.endsWith('.png')).sort();
+            const urls = {};
+            for (let i = 0; i < files.length; i += 5) {
+              await Promise.all(files.slice(i, i + 5).map(async f => {
+                const data = fs.readFileSync(`screenshots/${f}`);
+                const { data: asset } = await github.rest.repos.uploadReleaseAsset({
+                  owner, repo,
+                  release_id: release.id,
+                  name: f,
+                  data,
+                  headers: { 'content-type': 'image/png', 'content-length': data.length },
+                });
+                urls[f] = asset.browser_download_url;
+              }));
+            }
+
+            // Build PR comment with collapsible sections per language
             const LANGS = ['en','cs','de','pl','ru','uk','es','cu'];
             const LANG_NAMES = {
               no: '🇳🇴 Norwegian', en: '🇬🇧 English', cs: '🇨🇿 Czech',
               de: '🇩🇪 German',   pl: '🇵🇱 Polish',  ru: '🇷🇺 Russian',
-              uk: '🇺🇦 Ukrainian', es: '🇪🇸 Spanish', cu: '☦️ Church Slavonic'
+              uk: '🇺🇦 Ukrainian', es: '🇪🇸 Spanish', cu: '☦️ Church Slavonic',
             };
-
             function getLang(name) {
               for (const l of LANGS) {
                 if (name === l || name.startsWith(l + '-')) return l;
               }
               return 'no';
             }
-
-            const files = fs.readdirSync('screenshots')
-              .filter(f => f.endsWith('.png')).sort();
 
             const byLang = {};
             for (const f of files) {
@@ -148,18 +137,12 @@ jobs:
             let body = `## Page screenshots (${files.length} pages)\n\n`;
             for (const lang of ['no', ...LANGS]) {
               if (!byLang[lang]) continue;
-              const pages = byLang[lang];
-              body += `<details><summary>${LANG_NAMES[lang]} — ${pages.length} pages</summary>\n\n`;
-              for (const f of pages) {
+              body += `<details><summary>${LANG_NAMES[lang]} — ${byLang[lang].length} pages</summary>\n\n`;
+              for (const f of byLang[lang]) {
                 const name = f.replace('.png', '');
-                body += `**${name}**\n![${name}](${baseUrl}/${f})\n\n`;
+                body += `**${name}**\n![${name}](${urls[f]})\n\n`;
               }
               body += `</details>\n\n`;
             }
 
-            await github.rest.issues.createComment({
-              issue_number: prNum,
-              owner,
-              repo,
-              body,
-            });
+            await github.rest.issues.createComment({ issue_number: prNum, owner, repo, body });
