@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "MistaDlyaBdzhil"
 aliases:
   - /uk/zapyliuvachi/
+  - /mistadlyabdzhil/
 ---
 
 ## Комахи, що годують наші столи
@@ -73,6 +74,20 @@ aliases:
 [^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
 [^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 [^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
+
+## Розмістіть значок
+
+Чи є ваше місто, школа, будинок або район частиною руху **Міста для бджіл**? Покажіть це на своєму сайті.
+
+[![Міста для бджіл](/images/CitiesForBees.png)](https://wenzl.no/uk/MistaDlyaBdzhil/)
+
+Скопіюйте цей код і вставте його на свій сайт:
+
+```html
+<a href="https://wenzl.no/uk/MistaDlyaBdzhil/">
+  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Міста для бджіл" width="300">
+</a>
+```
 
 Якщо ваша громада, школа або сусідська ініціатива хоче обговорити проєкт — я радий почути від вас.
 

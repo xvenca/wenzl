@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "MestaProVcely"
 aliases:
   - /cs/opylovaci/
+  - /mestaprovcely/
 ---
 
 ## Hmyz, který živí naše stoly
@@ -73,6 +74,20 @@ Nejde jen o ochranu jednoho druhu. Jde o to, aby města a obce znovu začaly **k
 [^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
 [^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 [^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
+
+## Přidejte odznak
+
+Je vaše město, škola, budova nebo sousedství součástí hnutí **Města pro včely**? Ukažte to na svém webu.
+
+[![Města pro včely](/images/CitiesForBees.png)](https://wenzl.no/cs/MestaProVcely/)
+
+Zkopírujte tento kód a vložte jej na svůj web:
+
+```html
+<a href="https://wenzl.no/cs/MestaProVcely/">
+  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Města pro včely" width="300">
+</a>
+```
 
 Pokud vaše obec, škola nebo sousedská iniciativa chce probrat konkrétní projekt, rád se ozvím.
 

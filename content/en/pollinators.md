@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "CitiesForBees"
 aliases:
   - /en/pollinators/
+  - /citiesforbees/
 ---
 
 ## The flowers that feed us
@@ -75,6 +76,20 @@ This is not only about protecting one species. It is about helping cities and co
 [^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
 [^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 [^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
+
+## Display the badge
+
+Is your city, school, building or neighbourhood part of the **Cities for Bees** movement? Show it on your website.
+
+[![Cities for Bees](/images/CitiesForBees.png)](https://wenzl.no/en/CitiesForBees/)
+
+Copy this code and paste it on your website:
+
+```html
+<a href="https://wenzl.no/en/CitiesForBees/">
+  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Cities for Bees" width="300">
+</a>
+```
 
 If your municipality, school, or neighbourhood initiative would like to explore a project together, I would be glad to hear from you.
 

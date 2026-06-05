@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "StaedteFuerBienen"
 aliases:
   - /de/bestaeuber/
+  - /staedtefuerbienen/
 ---
 
 ## Insekten ernähren unsere Tische
@@ -73,6 +74,20 @@ Es geht nicht nur um den Schutz einer einzigen Art. Es geht darum, dass Städte 
 [^1]: Klein, A. M. et al. (2007). Importance of pollinators in changing landscapes for world crops. *Proc. R. Soc. B*, 274, 303–313. [doi:10.1098/rspb.2006.3721](https://doi.org/10.1098/rspb.2006.3721)
 [^2]: Hallmann, C. A. et al. (2017). More than 75 percent decline over 27 years in total flying insect biomass in protected areas. *PLOS ONE* 12(10): e0185809. [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809)
 [^3]: Baldock, K. C. R. et al. (2015). Where is the UK's pollinator biodiversity? The importance of urban areas for flower-visiting insects. *Proc. R. Soc. B*, 282, 20142849. [doi:10.1098/rspb.2014.2849](https://doi.org/10.1098/rspb.2014.2849)
+
+## Zeigen Sie das Siegel
+
+Ist Ihre Stadt, Schule, Gebäude oder Nachbarschaft Teil der **Städte für Bienen**-Bewegung? Zeigen Sie es auf Ihrer Website.
+
+[![Städte für Bienen](/images/CitiesForBees.png)](https://wenzl.no/de/StaedteFuerBienen/)
+
+Kopieren Sie diesen Code und fügen Sie ihn auf Ihrer Website ein:
+
+```html
+<a href="https://wenzl.no/de/StaedteFuerBienen/">
+  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Städte für Bienen" width="300">
+</a>
+```
 
 Wenn Ihre Gemeinde, Schule oder Nachbarschaftsinitiative ein Projekt besprechen möchte, freue ich mich über Ihre Nachricht.
 
