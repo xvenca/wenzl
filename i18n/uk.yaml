@@ -56,3 +56,5 @@
   translation: "головну сторінку"
 - id: "terms_listing"
   translation: "Список термінів."
+- id: "call_now"
+  translation: "Зателефонуйте"

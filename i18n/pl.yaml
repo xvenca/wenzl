@@ -56,3 +56,5 @@
   translation: "stronę główną"
 - id: "terms_listing"
   translation: "Lista pojęć."
+- id: "call_now"
+  translation: "Zadzwoń"

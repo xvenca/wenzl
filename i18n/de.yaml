@@ -56,3 +56,5 @@
   translation: "Startseite"
 - id: "terms_listing"
   translation: "Begriffsliste."
+- id: "call_now"
+  translation: "Jetzt anrufen"

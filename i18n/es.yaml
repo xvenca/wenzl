@@ -58,3 +58,5 @@
   translation: "página de inicio"
 - id: "terms_listing"
   translation: "Listado de términos."
+- id: "call_now"
+  translation: "Llama ahora"
