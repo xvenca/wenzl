@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
 
 jobs:
@@ -67,7 +67,7 @@ jobs:
       - name: Take page screenshots
         run: node .github/scripts/screenshot.js
 
-      - name: Upload screenshots
+      - name: Upload screenshots artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -75,21 +75,90 @@ jobs:
           path: screenshots/
           if-no-files-found: warn
 
-      - name: Count screenshots
-        id: count
-        run: echo "n=$(ls screenshots/*.png 2>/dev/null | wc -l)" >> "$GITHUB_OUTPUT"
+      - name: Push screenshots to ci-screenshots branch
+        if: github.event_name == 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          PR_DIR="pr${{ github.event.pull_request.number }}"
+          WORK=$(mktemp -d)
+          REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
 
-      - name: Comment on PR with screenshot link
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code "$REPO_URL" "refs/heads/ci-screenshots" > /dev/null 2>&1; then
+            git clone --branch ci-screenshots --depth 1 "$REPO_URL" "$WORK"
+            cd "$WORK"
+          else
+            git clone --depth 1 "$REPO_URL" "$WORK"
+            cd "$WORK"
+            git checkout --orphan ci-screenshots
+            git rm -rf . --quiet 2>/dev/null || true
+            git commit --allow-empty -m "init: ci-screenshots branch"
+            git push origin ci-screenshots
+          fi
+
+          rm -rf "$PR_DIR"
+          mkdir -p "$PR_DIR"
+          cp "$GITHUB_WORKSPACE/screenshots"/*.png "$PR_DIR/"
+
+          git add "$PR_DIR/"
+          if ! git diff --cached --quiet; then
+            git commit -m "ci: screenshots for PR ${{ github.event.pull_request.number }}"
+            git push origin ci-screenshots
+          fi
+
+      - name: Comment on PR with screenshot gallery
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           script: |
-            const n = '${{ steps.count.outputs.n }}';
-            const runUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
-            const body = `## Page screenshots\n\n${n} pages captured across all language variants — [download artifact](${runUrl}#artifacts).\n\nFilenames follow \`{lang}-{slug}.png\` convention (e.g. \`en-membership.png\`, \`cs-clenstvi.png\`).`;
+            const fs = require('fs');
+            const prNum = context.issue.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const baseUrl = `https://raw.githubusercontent.com/${owner}/${repo}/ci-screenshots/pr${prNum}`;
+
+            const LANGS = ['en','cs','de','pl','ru','uk','es','cu'];
+            const LANG_NAMES = {
+              no: '🇳🇴 Norwegian', en: '🇬🇧 English', cs: '🇨🇿 Czech',
+              de: '🇩🇪 German',   pl: '🇵🇱 Polish',  ru: '🇷🇺 Russian',
+              uk: '🇺🇦 Ukrainian', es: '🇪🇸 Spanish', cu: '☦️ Church Slavonic'
+            };
+
+            function getLang(name) {
+              for (const l of LANGS) {
+                if (name === l || name.startsWith(l + '-')) return l;
+              }
+              return 'no';
+            }
+
+            const files = fs.readdirSync('screenshots')
+              .filter(f => f.endsWith('.png')).sort();
+
+            const byLang = {};
+            for (const f of files) {
+              const lang = getLang(f.replace('.png', ''));
+              (byLang[lang] = byLang[lang] || []).push(f);
+            }
+
+            let body = `## Page screenshots (${files.length} pages)\n\n`;
+            for (const lang of ['no', ...LANGS]) {
+              if (!byLang[lang]) continue;
+              const pages = byLang[lang];
+              body += `<details><summary>${LANG_NAMES[lang]} — ${pages.length} pages</summary>\n\n`;
+              for (const f of pages) {
+                const name = f.replace('.png', '');
+                body += `**${name}**\n![${name}](${baseUrl}/${f})\n\n`;
+              }
+              body += `</details>\n\n`;
+            }
+
             await github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
+              issue_number: prNum,
+              owner,
+              repo,
               body,
             });
