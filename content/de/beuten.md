@@ -30,6 +30,8 @@ Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch
 
 Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
 
+## Freier Wabenbau
+
 Mittelwände geben allen Völkern denselben Ausgangspunkt — wie ein Bauträger, der ein Haus baut, ohne an den Bewohner zu denken. Jedes Volk ist anders, und der freie Wabenbau gibt ihm den Raum, genau das zu gestalten, was es braucht. Außerdem bauen Bienen einfach gern.
 
 {{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." caption="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." >}}
