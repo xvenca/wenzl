@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Skontaktuj się ze mną w sprawie współpracy, zainteresowania moimi ulami lub projektów"
+description: "Martin Venclu · Certyfikowany pszczelarz w Bergen, Norwegia · +47 926 20569 · info@wenzl.no — łapanie rojów, doradztwo pszczelarskie, drewniane ule i projekty zapylania."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin pracujący przy ulu nad Bergen"
 translationKey: "contact"

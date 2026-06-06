@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Kontaktieren Sie mich zu Kooperationen, Anfragen oder Projekten"
+description: "Martin Venclu · Zertifizierter Imker in Bergen, Norwegen · +47 926 20569 · info@wenzl.no — Schwarmfang, Imkereiberatung, handgefertigte Holzbeuten und Bestäubungsprojekte."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin bei der Arbeit an einem Bienenstock oberhalb von Bergen"
 translationKey: "contact"

@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Kontakt for samarbeid, spørsmål eller interesse for kubene mine"
+description: "Martin Venclu · Sertifisert birøkter i Bergen, Norge · +47 926 20569 · info@wenzl.no — svermfangst, birøktrådgivning, håndlagde bikuber og pollineringsprosjekter."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin som arbeider med en bikube over Bergen"
 translationKey: "contact"

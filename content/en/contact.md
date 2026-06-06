@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Get in touch for enquiries, interest in my hives, or collaborations"
+description: "Martin Venclu · Certified beekeeper in Bergen, Norway · +47 926 20569 · info@wenzl.no — swarm collection, beekeeping advice, handcrafted hives and pollination projects."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin working with a hive above Bergen"
 translationKey: "contact"
