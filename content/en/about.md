@@ -30,7 +30,7 @@ My path took an academic turn when I heard **[doc. Ing. Antonín Přidal, Ph.D.]
 
 ## Beekeeping in Bergen
 
-Today I keep bees in **Bergen**, where I am a **certified beekeeper**. I build my own hives from wood — including Ukrainian horizontal hives and the insulated wooden Gregor-type hive. That hive was originally made by my friend Jan Gregor, from whom I took over the craft and received permission to continue making them; for rainy Bergen, the outer shell is additionally protected against water. I follow natural-beekeeping methods where I can: I let the bees build as they wish, and I make sure they keep enough honey to eat and to winter on — I believe bees should winter on honey, not on sugar. I only take honey once a colony's own winter stores are secure.
+Today I keep bees in **Bergen**, where I am a **certified beekeeper**. I build my own hives from wood — including Ukrainian horizontal hives and the insulated wooden Gregor-type hive. That hive was originally made by my friend Jan Gregor, from whom I took over the craft and received permission to continue making them; for rainy Bergen, the outer shell is additionally protected against water. I follow natural-beekeeping methods where I can: I let the bees build as they wish, and I make sure they keep enough honey to eat and to winter on. I aim to let them winter on honey; I supplement with sugar only when a colony does not have sufficient stores. I only take honey once a colony's own winter stores are secure.
 
 I currently tend five colonies, and I keep building more hives. People have already started reaching out because they are interested in my hives.
 

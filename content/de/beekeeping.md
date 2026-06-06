@@ -109,11 +109,11 @@ Wenn Ihre Einrichtung — Krankenhaus, Pflegeheim, Schule oder Arbeitsplatz — 
 
 ## Apitherapie
 
-Apitherapie ist die therapeutische Nutzung der Bienennähe — Stockluft, Wärme und Vibration. Die ukrainische Lagerbeutе ist der traditionelle Beutentyp für diesen Zweck: flach, breit und dafür gebaut, unter einer Liegeplattform zu stehen, auf der die Menschen direkt über dem Volk liegen, Stockluft einatmen und die Wärme und das Summen der Bienen spüren.
+Ein **Apidomek** (Apitherapie-Haus) ist ein kleines Häuschen oder eine Hütte, in der Menschen direkt über den Beuten schlafen — eine ruhige, ungewöhnliche Art, tief in der Natur zu entspannen. Die ukrainische Lagerbeute ist der traditionelle Beutentyp für diesen Zweck: flach und breit, konzipiert für die Aufstellung unter einer Schlafplattform.
 
 Ich biete an:
 
-- Beratung und Bau von **Apitherapie-Häusern** — einem kleinen Gebäude, in dem Menschen über den Beuten ruhen
+- Beratung und Bau von **Apidomki** — kleinen Hütten, in denen Gäste direkt über den Beuten schlafen
 - Ukrainische Lagerbeuten, gebaut und betrieben speziell für Apitherapie
 - Beratung für Pflegeeinrichtungen, Rehabilitationszentren und Wellness-Projekte, die Apitherapie erwägen
 

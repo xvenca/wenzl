@@ -120,11 +120,11 @@ If your institution — hospital, care home, school, or workplace — has garden
 
 ## Apitherapy
 
-Apitherapy is the therapeutic use of bee proximity — hive air, warmth, and vibration. The Ukrainian horizontal hive is the traditional hive type for this purpose: low, wide, and designed to stand beneath a resting platform or bed so that people lie directly above the colony.
+An **apidomek** (apitherapy house) is a small cabin or shelter where people sleep above the hives — a calm, unusual way to rest deeply in nature. The Ukrainian horizontal hive is the traditional hive type for this purpose: low and wide, designed to fit beneath a sleeping platform.
 
 I offer:
 
-- Consulting and construction of **apitherapy houses** — a small shelter where people can rest above the hives
+- Consulting and construction of **apidomki** (apitherapy houses) — small cabins where guests sleep directly above the hives
 - Ukrainian horizontal hives built and operated for apitherapy settings
 - Guidance for care facilities, rehabilitation centres, and wellness projects considering apitherapy
 

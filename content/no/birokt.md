@@ -120,11 +120,11 @@ Har institusjonen din — sykehus, omsorgssenter, skole eller arbeidsplass — h
 
 ## Apiterapi
 
-Apiterapi er terapeutisk bruk av nærhet til bier — luften fra kuben, varmen og vibrasjonene. Den ukrainske liggebikuben er den tradisjonelle kubetypen til dette formålet: lav, bred og utformet for å stå under en hvileplattform slik at folk kan ligge rett over bisamfunnet, puste inn kubeluften og kjenne varmen og summen fra biene.
+Et **apidomki** (apiterapihus) er en liten hytte eller bygning der folk sover over bikubene — en rolig, uvanlig måte å hvile dypt i naturen. Den ukrainske liggebikuben er den tradisjonelle kubetypen til dette formålet: lav og bred, utformet for å passe under en sengeplattform.
 
 Jeg tilbyr:
 
-- Rådgivning og bygging av **apidomki** (apiterapibygninger) — en liten bygning der folk hviler over bikubene
+- Rådgivning og bygging av **apidomki** (apiterapihytter) — små hytter der gjestene sover rett over bikubene
 - Ukrainske liggebikuber bygget og driftet spesielt for apiterapi
 - Veiledning for omsorgsinstitusjoner, rehabiliteringssentre og velværeprosjekter som vurderer apiterapi
 

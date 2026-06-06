@@ -121,11 +121,11 @@ Pokud má vaše instituce — nemocnice, domov seniorů, škola nebo pracovišt�
 
 ## Apiterapie
 
-Apiterapie je terapeutické využití blízkosti včel — vzduch z úlu, teplo a vibrace. Ukrajinský ležan je tradiční typ úlu pro tento účel: nízký, široký, navržený tak, aby stál pod odpočinkovou plošinou, nad níž lidé leží přímo nad včelstvem, dýchají vzduch z úlu a cítí jeho teplo a bzukot.
+**Apidomek** je malá chata nebo přístřešek, kde lidé spí přímo nad úly — klidný, neobvyklý způsob, jak si hluboce odpočinout v přírodě. Ukrajinský ležan je tradiční typ úlu pro tento účel: nízký, široký, navržený tak, aby se vešel pod spací plošinu.
 
 Nabízím:
 
-- Poradenství a výstavbu **apidomků** — malého přístřešku, kde lidé odpočívají nad úly
+- Poradenství a výstavbu **apidomků** — malých chatek, kde hosté spí přímo nad úly
 - Ukrajinské ležany vlastní výroby a provoz pro apiterapeutické účely
 - Poradenství pro zařízení, rehabilitační centra a wellness projekty uvažující o apiterapii
 

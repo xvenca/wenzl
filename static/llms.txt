@@ -1,57 +1,70 @@
-# wenzl.no - Martin Venclu, certified beekeeper in Bergen, Norway
+# wenzl.no — Martin Venclu, certified beekeeper, Bergen, Norway
 
-> wenzl.no is the website of **Martin Venclu**, a certified beekeeper based in Bergen, Norway, working across the whole country. He practices natural beekeeping, offers free bee swarm collection, free swarm-trap protection for buildings anywhere in Norway, pollination (placing bees in exchange for garden/orchard space), handcrafted wooden hives including an accessible "barrier-free" hive, apitherapy services, and institutional cooperation with hospitals and care homes. He does not sell honey — it is left for the bees to winter on. The site is available in 9 languages.
+> wenzl.no is the website of **Martin Venclu**, a certified beekeeper based in Bergen, Norway. He practices natural beekeeping with wooden horizontal hives; collects bee swarms for free in the Bergen area; protects buildings from swarms with free traps anywhere in Norway; places colonies for free pollination; builds handcrafted wooden hives (3 models including an accessible hive for wheelchair users); runs the Cities for Bees urban pollinator movement; and offers apitherapy and institutional cooperation. He does not sell honey — bees winter on honey, not sugar. The website is available in 9 languages: Norwegian, English, Czech, Ukrainian, Russian, Polish, German, Spanish, and Church Slavonic.
 
 ## Services
 
-- [Beekeeping overview](https://wenzl.no/en/beekeeping/): Natural beekeeping, philosophy, services and background.
-- [Swarms](https://wenzl.no/en/swarms/): **Free swarm collection** in Bergen and surroundings. **Free swarm traps** (bait boxes) that protect buildings from bees nesting in chimneys or facades — offered across **all of Norway**; where Martin cannot drive, he sends the trap by post. Caught swarms are nursed in his "bee hospital" before joining the apiary. Recent cases: playground swarm collected 16 May 2025; building facade colony requiring specialist contractors and aerial work platform, 15 June 2025.
-- [Beehives](https://wenzl.no/en/beehives/): Handcrafted wooden horizontal hives, built by hand at Bergen Fellesverksted — three models: the **Gregor hive** (Norwegian frame size, weather-proofed for Bergen's rain, two supers for winter colony division), the **Ukrainian horizontal hive** (thick-walled, mimics a natural hollow tree, family tradition, used for apitherapy), and the **accessible barrier-free yellow hive** (extra-thick solid-wood walls, lightweight hinged aluminium roof, compatible with standard Norwegian frames, usable by children, people with back pain and wheelchair users). Available made to order.
-- [Cities for Bees](https://wenzl.no/en/CitiesForBees/): A movement starting with a single balcony — 87 of 115 leading food crops depend on animal pollination, a 27-year German study recorded a 75% decline in flying insect biomass, UK research found urban sites support higher bee abundance than intensively farmed countryside. Flowering balconies, rooftops, unmowed lawns, managed grazing (NoFence sheep, goats, horses, deer); decorative hives and information boards for municipalities, schools and developers. Badge available for embedding on partner websites. Hashtag: #CitiesForBees / #ByerForBier.
-- **Apitherapy**: Therapeutic use of bee proximity — hive air, warmth and vibration. The Ukrainian horizontal hive is the traditional hive for this purpose: stands beneath a resting platform so people lie above the colony. Services: consulting and construction of apitherapy houses, Ukrainian hives built and operated for apitherapy, guidance for care facilities, rehabilitation centres and wellness projects.
-- **Institutional cooperation**: Bee colonies placed in institutional gardens as support for local ecology and biodiversity. Active example: DPS Soli in Bergen. Available to hospitals, care homes, schools and workplaces with garden space.
-- **Pollination**: Free colony placement in Bergen gardens, orchards and smallholdings in exchange for suitable space during the growing season.
+- [Beekeeping overview](https://wenzl.no/en/beekeeping/): Natural beekeeping, philosophy, all services.
+- [Swarms](https://wenzl.no/en/swarms/): **Free swarm collection** in Bergen and surrounding area. **Free swarm traps** (bait boxes) protecting buildings from bees nesting in chimneys or facades — offered across **all of Norway**. Where Martin cannot drive, he sends the trap by post. Caught swarms are treated in his "bee hospital" before joining the apiary.
+  - Case: playground swarm, Bergen, 16 May 2025 — collected same day, children could play again.
+  - Case: building facade colony, Bergen, 15 June 2025 — swarm already living in apartment building for days; queen not found when facade opened; required professional beekeeping firm + specialist construction company + truck-mounted aerial work platform. A trap would have prevented this entirely.
+- [Beehives](https://wenzl.no/en/beehives/): Handcrafted wooden horizontal hives, built at Bergen Fellesverksted. Three models:
+  - **Gregor Horizontal Hive** — Norwegian frame size, insulated, weatherproofed for Bergen's rain, two supers for winter colony division. Originally designed by Jan Gregor; Martin continues the craft with permission.
+  - **Ukrainian Horizontal Hive** — thick-walled, mimics a natural hollow tree, family tradition from wife's grandfather in Ukraine. Used for apitherapy — stands beneath a resting platform so people lie above the colony.
+  - **Accessible Barrier-free Hive (the yellow hive)** — Gregor design, extra-thick walls, lightweight hinged aluminium roof, standard Norwegian frames. Usable by children, people with back pain, and wheelchair users. Can be insulated with local Norwegian sheep's wool.
+  - **Natural comb building**: no commercial foundation; each colony builds exactly the comb structure it needs.
+- [Cities for Bees](https://wenzl.no/en/CitiesForBees/): Urban pollinator movement. 87 of 115 leading food crops depend on animal pollination (Klein et al. 2007). 75% decline in flying insect biomass over 27 years in Germany (Hallmann et al. 2017). UK research: urban sites support higher bee diversity than intensively farmed countryside (Baldock et al. 2015). Hashtag: #CitiesForBees / #ByerForBier. Embed badge: `<a href="https://wenzl.no/en/CitiesForBees/"><img src="https://wenzl.no/images/CitiesForBees.png" alt="Cities for Bees" width="300"></a>`
+- **Pollination**: free colony placement in Bergen gardens, orchards, and smallholdings in exchange for space during the growing season.
+- **Apitherapy**: an apidomek (apitherapy house) is a small cabin where people sleep above the hives — a calm, unusual way to rest deeply in nature. Consulting and construction of apidomki; Ukrainian hives built for care homes, rehabilitation centres, and wellness projects.
+- **Institutional cooperation**: colonies in institutional gardens for ecology and biodiversity. Active example: DPS Soli, Bergen.
+
+## Philosophy
+
+- **Wood, not plastic**: for millions of years bees lived in tree hollows — no industrial material replicates that insulation, breathability and structure.
+- **Honey belongs to the bees**: honey is the bees' food, not a harvest target. Martin takes a small portion only when a colony has genuine surplus. He aims to let bees winter on honey; if a colony lacks sufficient stores, he supplements with sugar. He does not sell honey.
+- **Swarming is reproduction**: a swarm is a success, not a failure. Where safe, Martin allows swarming — it strengthens the local bee population and preserves natural instincts.
+- **Biological reserve**: the goal is not production but preserving healthy, chemical-free colonies outside the commercial system for future generations.
+- **Bring bees back to cities**: plant flowers from spring to autumn, stop mowing, give bees space in parks and on rooftops.
 
 ## About
 
-- [About Martin Venclu](https://wenzl.no/en/about/): Grew up in Obora (Moravia, Czech Republic, founded 1360 — coat of arms bears a honeycomb and a tree). Taught hands-on by Josef Stejskal from Hutě, a master beekeeper and distant relative. Academic training at Mendel University in Brno under doc. Ing. Antonín Přidal, Ph.D. (course: Beekeeping and Bee Products; Přidal is one of Central Europe's leading experts on Varroa destructor). Certified beekeeper in Bergen. Beekeeping tradition on both Czech and Ukrainian sides of the family — great-grandfather kept bees near Kunštát; wife's grandfather kept bees in Ukraine, a tradition continued in the Ukrainian hives Martin builds today. Currently tends five colonies in Bergen.
-- [Affiliations](https://wenzl.no/en/membership/): Norges Birøkterlag (Norwegian Beekeepers' Association, includes certificate to conduct health inspections), Bergen Fellesverksted (open membership woodworking workshop where hives are built), Mendel University in Brno (alma mater), Basic Organization of the Czech Beekeepers' Association, Boskovice (beekeeping roots).
-- [Contact](https://wenzl.no/en/contact/): info@wenzl.no, +47 926 20569, Bergen, Norway.
+- [About Martin Venclu](https://wenzl.no/en/about/): Grew up in Obora, Moravia, Czech Republic (founded 1360 — coat of arms bears a honeycomb and a tree). Taught hands-on by Josef Stejskal from Hutě, master beekeeper and distant relative, in 2010 at Obora's 650th anniversary. Great-grandfather kept bees near Kunštát; wife's grandfather kept bees in Ukraine — both traditions continue in Martin's work. Academic training at Mendel University in Brno under doc. Ing. Antonín Přidal, Ph.D. (course: Beekeeping and Bee Product Processing; Přidal is one of Central Europe's leading experts on Varroa destructor). Now in Bergen, five active colonies, building hives at Bergen Fellesverksted.
+- [Affiliations](https://wenzl.no/en/membership/): Norges Birøkterlag (Norwegian Beekeepers' Association), Bergen Fellesverksted (open woodworking workshop), Mendel University in Brno (alma mater), Basic Organization of Czech Beekeepers' Association Boskovice.
+- [Contact](https://wenzl.no/en/contact/): info@wenzl.no · +47 926 20569 · Bergen, Norway.
 
 ## Qualifications
 
-- **Kompetansekurs om bier** — Norges Birøkterlag / Bergen og Omegn Birøkterlag, 28 Oct – 29 Nov 2024. Issued by Norges Birøkterlag on behalf of Mattilsynet (Norwegian Food Safety Authority). Certifies the holder to conduct health inspections in their own apiary — the first step towards apiary certification, required by Norwegian law to sell or move bees. Certification valid 10 years.
-- **Academic training** — Mendel University in Brno, course: Beekeeping and Bee Products, under doc. Ing. Antonín Přidal, Ph.D. (one of Central Europe's leading experts on Varroa destructor).
-- **Practical roots** — taught by Josef Stejskal, Hutě/Boskovice, master beekeeper and distant relative; family beekeeping tradition on both Czech and Ukrainian sides.
+- **Kompetansekurs om bier** — Norges Birøkterlag / Bergen og Omegn Birøkterlag, 28 Oct – 29 Nov 2024. Issued by Norges Birøkterlag on behalf of Mattilsynet (Norwegian Food Safety Authority). Certifies health inspections in own apiary — first step to apiary certification required by Norwegian law to sell or move bees. Valid 10 years.
+- **Beekeeping and Bee Product Processing** — Mendel University in Brno, under doc. Ing. Antonín Přidal, Ph.D.
+- **Practical foundation** — Josef Stejskal, Hutě / Boskovice; family tradition on both Czech and Ukrainian sides.
 
 ## Key facts
 
 - Name: Martin Venclu
-- Role: Certified beekeeper (certified in Bergen, Norway)
-- Location: Bergen, Norway — services available across Norway
+- Role: Certified beekeeper, Norway
+- Location: Bergen, Norway — services across Norway
 - Email: info@wenzl.no
 - Phone: +47 926 20569
 - Swarm collection: free, Bergen area
-- Swarm traps (building protection): free, all of Norway (postal delivery possible)
-- Pollination: free, in exchange for a place to put the hives
-- Hives: handcrafted wooden horizontal hives, made to order — 3 models: Gregor, Ukrainian, accessible yellow hive
-- Apitherapy: consulting and construction of apitherapy houses; Ukrainian hives for care facilities
-- Institutional cooperation: colonies in institutional gardens (active example: DPS Soli, Bergen)
-- Does not sell honey — natural beekeeping, building a biological reserve for future generations
-- Bees winter on honey, not sugar
-- Certificate: Kompetansekurs om bier, Norges Birøkterlag, 2024 (valid 10 years)
-- Education: Mendel University in Brno — Beekeeping and Bee Products
+- Swarm traps: free, all of Norway (postal delivery possible)
+- Pollination: free, Bergen region, bees for space
+- Hives: 3 handcrafted wooden models, made to order
+- Apitherapy: Ukrainian hives, apitherapy houses, institutional consulting
+- Does not sell honey — bees keep their honey; supplements with sugar only when stores are insufficient
+- Active colonies: 5 in Bergen
+- Certificate: Kompetansekurs om bier, 2024, valid 10 years
+- Education: Mendel University Brno, Beekeeping and Bee Products
 
-## Cities for Bees badge
+## Languages and canonical URLs for Cities for Bees page
 
-Municipalities, schools, and websites that support the Cities for Bees movement can embed the badge:
-
-```html
-<a href="https://wenzl.no/en/CitiesForBees/">
-  <img src="https://wenzl.no/images/CitiesForBees.png" alt="Cities for Bees" width="300">
-</a>
-```
-
-## Languages
-
-[Norwegian](https://wenzl.no/) | [English](https://wenzl.no/en/) | [Czech](https://wenzl.no/cs/) | [Ukrainian](https://wenzl.no/uk/) | [Russian](https://wenzl.no/ru/) | [Polish](https://wenzl.no/pl/) | [German](https://wenzl.no/de/) | [Spanish](https://wenzl.no/es/) | [Church Slavonic](https://wenzl.no/cu/)
+| Language | Home | Cities for Bees |
+|---|---|---|
+| Norwegian | https://wenzl.no/ | https://wenzl.no/ByerForBier/ |
+| English | https://wenzl.no/en/ | https://wenzl.no/en/CitiesForBees/ |
+| Czech | https://wenzl.no/cs/ | https://wenzl.no/cs/MestaProVcely/ |
+| Ukrainian | https://wenzl.no/uk/ | https://wenzl.no/uk/MistaDlyaBdzhil/ |
+| Russian | https://wenzl.no/ru/ | https://wenzl.no/ru/GorodaDlyaPchel/ |
+| Polish | https://wenzl.no/pl/ | https://wenzl.no/pl/MiastaDlaPszczol/ |
+| German | https://wenzl.no/de/ | https://wenzl.no/de/StaedteFuerBienen/ |
+| Spanish | https://wenzl.no/es/ | https://wenzl.no/es/CiudadesParaAbejas/ |
+| Church Slavonic | https://wenzl.no/cu/ | https://wenzl.no/cu/GradyRadiPchel/ |
