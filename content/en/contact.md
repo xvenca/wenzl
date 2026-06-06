@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Get in touch for enquiries, interest in my hives, or collaborations"
+description: "Certified beekeeper in Bergen, Norway. Questions about swarms, hives, pollination or collaboration? I reply within the day."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin working with a hive above Bergen"
 translationKey: "contact"
