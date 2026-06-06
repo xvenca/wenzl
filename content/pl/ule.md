@@ -30,6 +30,8 @@ Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ś
 
 Zainteresowanie moimi ulami już się pojawia — *napisz do mnie, jeśli chcesz taki ul.*
 
+Węza daje wszystkim rodzinom ten sam punkt wyjścia — jak deweloper, który buduje dom bez myślenia o tym, kto w nim zamieszka. Każda rodzina pszczela jest inna, a wolna budowa plastrów daje jej przestrzeń do stworzenia dokładnie tego, czego potrzebuje. Poza tym pszczoły po prostu lubią budować.
+
 {{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." caption="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." >}}
 
 {{< contact >}}

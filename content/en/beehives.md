@@ -32,6 +32,8 @@ It builds on the proven Gregor horizontal hive, but I use even thicker solid-woo
 
 Interest in the hives has already begun to arrive — *get in touch if you would like a hive.*
 
+Commercial foundation gives every colony the same starting point — like a developer who builds a house without considering the person who will live in it. Every colony is different, and natural comb building gives it the space to create exactly what it needs. Besides, bees simply enjoy building.
+
 {{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." caption="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." >}}
 
 {{< contact >}}

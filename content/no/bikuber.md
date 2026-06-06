@@ -29,6 +29,8 @@ Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere v
 
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
 
+Kunstkake gir alle familier det samme utgangspunktet — som en utbygger som bygger et hus uten å tenke på den som skal bo i det. Hver birøktfamilie er forskjellig, og fri vokstavbygging gir den rom til å skape akkurat det den trenger. Dessuten liker biene rett og slett å bygge.
+
 {{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." caption="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." >}}
 
 {{< contact >}}

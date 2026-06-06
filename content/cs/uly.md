@@ -30,6 +30,8 @@ Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silně
 
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
 
+Komerční mezistěna dává všem rodinám totéž — jako developer, který postaví dům bez ohledu na toho, kdo v něm bude žít. Každá včelí rodina je jiná a volná stavba jí dává prostor budovat přesně to, co potřebuje. A včely stavět prostě baví.
+
 {{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." caption="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." >}}
 
 {{< contact >}}

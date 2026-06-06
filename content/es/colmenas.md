@@ -30,6 +30,8 @@ Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesa
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*
 
+La cera laminada da a todas las colonias el mismo punto de partida — como un promotor que construye una casa sin pensar en quien va a vivir en ella. Cada colonia es distinta, y la construcción libre le da el espacio para crear exactamente lo que necesita. Además, a las abejas simplemente les gusta construir.
+
 {{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." caption="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." >}}
 
 {{< contact >}}
