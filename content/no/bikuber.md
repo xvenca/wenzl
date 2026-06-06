@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bikuber"
 description: "Håndlagde liggebikuber i norsk rammemål — Gregor-kuben, ukrainsk liggebikube og en universelt tilgjengelig kube for naturlig birøkt."
 image: "/images/birokt-hero.jpg"
@@ -18,6 +18,8 @@ Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine t
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainske liggebikuber i hagen i Bergen." caption="Ukrainske liggebikuber i hagen i Bergen." >}}
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Den ukrainske liggebikuben i hagen i Bergen — juni 2025, hagen er i full blomst." caption="Den ukrainske liggebikuben i hagen i Bergen — juni 2025, hagen er i full blomst." >}}
+
 ## Universelt tilgjengelig liggebikube
 
 
@@ -26,6 +28,12 @@ Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere v
 {{< hive-gallery field="Den gule, universelt tilgjengelige kuben ute i felt nær Bergen — ved siden av en Gregor kube." front="Bygget for hånd ved Bergen Fellesverksted, med aluminiumstak og solide hengsler." open="Det hengslede taket gjør hele kuben rask og enkel å åpne." topbars="Lett topptilgang — skånsom røkting uten tunge løft." >}}
 
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
+
+## Fri vokstavbygging
+
+Kunstkake gir alle familier det samme utgangspunktet — som en utbygger som bygger et hus uten å tenke på den som skal bo i det. Hver birøktfamilie er forskjellig, og fri vokstavbygging gir den rom til å skape akkurat det den trenger. Dessuten liker biene rett og slett å bygge.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." caption="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." >}}
 
 {{< contact >}}
 

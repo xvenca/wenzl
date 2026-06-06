@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Beuten"
 description: "Handgefertigte Holz-Lagerbeuten im norwegischen Rähmchenmaß — Gregor-Beute, ukrainische Lagerbeute und eine barrierearme Beute für naturnahe Imkerei."
 image: "/images/birokt-hero.jpg"
@@ -20,6 +20,8 @@ Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen
 
 Wer auf seinem Grundstück ein Apihäuschen haben möchte, kann sich gern an mich wenden. Ich helfe bei der Umsetzung und begleite fachlich sowohl den Bau der Beuten als auch die Imkerei.
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." caption="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." >}}
+
 ## Barrierearme Lagerbeute
 
 Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch dickere Wände aus Massivholz und das norwegische Standard-Rähmchenmaß. Mein Ziel war es, die Imkerei für alle zugänglich zu machen und zugleich sicherzustellen, dass die Beute gewöhnliche norwegische Rähmchen verwendet, damit sie auch unter rauen nordischen Bedingungen mit der Ausrüstung anderer Imker kompatibel bleibt. Das ist entscheidend, wenn ein schwaches Volk mit Brut aus einem anderen Volk gestärkt werden muss. Als Isolierung kann Schafwolle von lokalen norwegischen Schafen eingelegt werden. Über dem Hauptvolk hat sie keine Honigräume, sondern ein leichtes Aluminiumdach auf Scharnieren, damit die Beute schnell und einfach zugänglich ist. So können auch Kinder, Menschen mit Rückenschmerzen und sogar Rollstuhlfahrer damit imkern. Es ist eine barrierearme Imkerbeute. *(Die gelbe Beute.)*
@@ -27,5 +29,11 @@ Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch
 {{< hive-gallery field="Die gelbe, barrierearme Beute draußen im Feld bei Bergen — neben einer Gregor-Beute." front="Von Hand bei Bergen Fellesverksted gebaut, mit Aluminiumdach und stabilen Scharnieren." open="Das Klappdach lässt die ganze Beute schnell und einfach öffnen." topbars="Leichter Zugang von oben — schonende Pflege ohne schweres Heben." >}}
 
 Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
+
+## Freier Wabenbau
+
+Mittelwände geben allen Völkern denselben Ausgangspunkt — wie ein Bauträger, der ein Haus baut, ohne an den Bewohner zu denken. Jedes Volk ist anders, und der freie Wabenbau gibt ihm den Raum, genau das zu gestalten, was es braucht. Außerdem bauen Bienen einfach gern.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." caption="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." >}}
 
 {{< contact >}}

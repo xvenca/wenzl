@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Colmenas"
 description: "Colmenas horizontales de madera hechas a mano en medida de cuadro noruega — la colmena Gregor, la colmena ucraniana y una colmena accesible para la apicultura natural."
 image: "/images/birokt-hero.jpg"
@@ -20,6 +20,8 @@ Construida según la tradición del abuelo de mi esposa, que fue apicultor en Uc
 
 Si alguien quisiera tener en su terreno una pequeña casa de apiterapia, puede ponerse en contacto conmigo. Estaré encantado de ayudar con la realización y de aportar respaldo profesional tanto en la fabricación de las colmenas como en el manejo de las abejas.
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." caption="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." >}}
+
 ## Colmena horizontal accesible
 
 Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesas de madera maciza y la medida estándar de cuadro noruega. Mi objetivo era hacer la apicultura accesible para todos y, al mismo tiempo, asegurar que la colmena use cuadros noruegos habituales, para que siga siendo compatible con el equipo de otros apicultores incluso en las duras condiciones del norte. Eso es crucial cuando hay que reforzar una colonia débil con cría de otra colonia. Como aislante puede rellenarse con lana de ovejas locales noruegas. En lugar de alzas sobre la colonia principal, tiene un ligero techo de aluminio con bisagras, de modo que la colmena se abre de forma rápida y fácil. Pueden trabajar con ella tanto niños como personas con dolor de espalda e incluso usuarios de silla de ruedas. Es una colmena apícola accesible. *(La colmena amarilla.)*
@@ -27,6 +29,12 @@ Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesa
 {{< hive-gallery field="La colmena amarilla y accesible en el campo cerca de Bergen — junto a una colmena Gregor." front="Construida a mano en Bergen Fellesverksted, con techo de aluminio y bisagras robustas." open="El techo abatible permite abrir toda la colmena de forma rápida y sencilla." topbars="Acceso cómodo desde arriba — manejo suave sin levantar peso." >}}
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*
+
+## Construcción libre
+
+La cera laminada da a todas las colonias el mismo punto de partida — como un promotor que construye una casa sin pensar en quien va a vivir en ella. Cada colonia es distinta, y la construcción libre le da el espacio para crear exactamente lo que necesita. Además, a las abejas simplemente les gusta construir.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." caption="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." >}}
 
 {{< contact >}}
 
