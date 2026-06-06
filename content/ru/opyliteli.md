@@ -2,6 +2,9 @@
 title: "Города для пчёл"
 description: "87 из 115 главных сельскохозяйственных культур мира зависят от опыления насекомыми. Исследование в Германии зафиксировало 75% падение биомассы летающих насекомых за 27 лет. Как могут помочь города?"
 image: "/images/CitiesForBees.png"
+ogImage: "/images/citiesforbees-og.jpg"
+ogImageWidth: 1024
+ogImageHeight: 559
 imageWidth: 410
 imageHeight: 411
 heroContain: true

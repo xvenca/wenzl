@@ -7,12 +7,12 @@
     {{ $pagetitle := .Title | default .Site.Title }}
     {{ $ogtitle := $pagetitle }}{{ if not .IsHome }}{{ $ogtitle = printf "%s — %s" $pagetitle .Site.Title }}{{ end }}
     {{ $desc := .Param "description" }}
-    {{ $ogimg := .Params.image | default (index .Site.Params.images 0) }}
-    {{ $ogalt := .Params.alt | default $pagetitle }}
+    {{ $ogimg := .Params.ogImage | default .Params.image | default (index .Site.Params.images 0) }}
+    {{ $ogalt := .Params.ogAlt | default .Params.alt | default $pagetitle }}
 
     <title>{{ $ogtitle }}</title>
     <meta name="description" content="{{ $desc }}">
-    {{ with $ogimg }}<link rel="preload" as="image" href="{{ . | absURL }}" fetchpriority="high">{{ end }}
+    {{ with .Params.image }}<link rel="preload" as="image" href="{{ . | absURL }}" fetchpriority="high">{{ end }}
     <link rel="canonical" href="{{ .Permalink }}">
     {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
@@ -29,9 +29,10 @@
     <meta property="og:url" content="{{ .Permalink }}">
     {{ if $ogimg }}
     {{ $imgAbsURL := $ogimg | absURL }}
-    {{ $imgW := .Params.imageWidth | default .Site.Params.ogImageWidth }}
-    {{ $imgH := .Params.imageHeight | default .Site.Params.ogImageHeight }}
+    {{ $imgW := .Params.ogImageWidth | default .Params.imageWidth | default .Site.Params.ogImageWidth }}
+    {{ $imgH := .Params.ogImageHeight | default .Params.imageHeight | default .Site.Params.ogImageHeight }}
     <meta property="og:image" content="{{ $imgAbsURL }}">
+    <meta property="og:image:secure_url" content="{{ $imgAbsURL }}">
     <meta property="og:image:alt" content="{{ $ogalt }}">
     {{ if $imgW }}<meta property="og:image:width" content="{{ $imgW }}">{{ end }}
     {{ if $imgH }}<meta property="og:image:height" content="{{ $imgH }}">{{ end }}

@@ -67,6 +67,9 @@ jobs:
       - name: Take page screenshots
         run: node .github/scripts/screenshot.js
 
+      - name: Generate OG preview cards
+        run: node .github/scripts/og-preview.js
+
       - name: Upload screenshots to release and comment on PR
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
@@ -98,24 +101,33 @@ jobs:
               prerelease: true,
             });
 
-            // Upload all screenshots in parallel batches of 5
-            const files = fs.readdirSync('screenshots').filter(f => f.endsWith('.png')).sort();
-            const urls = {};
-            for (let i = 0; i < files.length; i += 5) {
-              await Promise.all(files.slice(i, i + 5).map(async f => {
-                const data = fs.readFileSync(`screenshots/${f}`);
-                const { data: asset } = await github.rest.repos.uploadReleaseAsset({
-                  owner, repo,
-                  release_id: release.id,
-                  name: f,
-                  data,
-                  headers: { 'content-type': 'image/png', 'content-length': data.length },
-                });
-                urls[f] = asset.browser_download_url;
-              }));
+            // Helper: upload a directory of PNGs to the release in batches of 5
+            async function uploadDir(dir, prefix = '') {
+              if (!fs.existsSync(dir)) return {};
+              const files = fs.readdirSync(dir).filter(f => f.endsWith('.png')).sort();
+              const urls = {};
+              for (let i = 0; i < files.length; i += 5) {
+                await Promise.all(files.slice(i, i + 5).map(async f => {
+                  const data = fs.readFileSync(`${dir}/${f}`);
+                  const { data: asset } = await github.rest.repos.uploadReleaseAsset({
+                    owner, repo,
+                    release_id: release.id,
+                    name: prefix + f,
+                    data,
+                    headers: { 'content-type': 'image/png', 'content-length': data.length },
+                  });
+                  urls[f] = asset.browser_download_url;
+                }));
+              }
+              return urls;
             }
 
-            // Build PR comment with collapsible sections per language
+            const [urls, ogUrls] = await Promise.all([
+              uploadDir('screenshots'),
+              uploadDir('og-screenshots', 'og-'),
+            ]);
+
+            // Build PR comment
             const LANGS = ['en','cs','de','pl','ru','uk','es','cu'];
             const LANG_NAMES = {
               no: '🇳🇴 Norwegian', en: '🇬🇧 English', cs: '🇨🇿 Czech',
@@ -128,22 +140,40 @@ jobs:
               }
               return 'no';
             }
-
-            const byLang = {};
-            for (const f of files) {
-              const lang = getLang(f.replace('.png', ''));
-              (byLang[lang] = byLang[lang] || []).push(f);
-            }
-
-            let body = `## Page screenshots (${files.length} pages)\n\n`;
-            for (const lang of ['no', ...LANGS]) {
-              if (!byLang[lang]) continue;
-              body += `<details><summary>${LANG_NAMES[lang]} — ${byLang[lang].length} pages</summary>\n\n`;
-              for (const f of byLang[lang]) {
-                const name = f.replace('.png', '');
-                body += `**${name}**\n![${name}](${urls[f]})\n\n`;
+            function groupByLang(fileMap) {
+              const by = {};
+              for (const f of Object.keys(fileMap).sort()) {
+                const lang = getLang(f.replace('.png', ''));
+                (by[lang] = by[lang] || []).push(f);
               }
-              body += `</details>\n\n`;
+              return by;
             }
+            function langSections(byLang, urlMap) {
+              let out = '';
+              for (const lang of ['no', ...LANGS]) {
+                if (!byLang[lang]) continue;
+                out += `<details><summary>${LANG_NAMES[lang]} — ${byLang[lang].length} pages</summary>\n\n`;
+                for (const f of byLang[lang]) {
+                  const name = f.replace('.png', '');
+                  out += `**${name}**\n![${name}](${urlMap[f]})\n\n`;
+                }
+                out += `</details>\n\n`;
+              }
+              return out;
+            }
+
+            const files   = Object.keys(urls).sort();
+            const ogFiles = Object.keys(ogUrls).sort();
+
+            let body = '';
+
+            if (ogFiles.length > 0) {
+              body += `## Facebook OG preview cards (${ogFiles.length} pages)\n\n`;
+              body += langSections(groupByLang(ogUrls), ogUrls);
+              body += `---\n\n`;
+            }
+
+            body += `## Page screenshots (${files.length} pages)\n\n`;
+            body += langSections(groupByLang(urls), urls);
 
             await github.rest.issues.createComment({ issue_number: prNum, owner, repo, body });

@@ -3,6 +3,7 @@ languageCode = "no"
 title = "wenzl.no"
 defaultContentLanguage = "no"
 disablePathToLower = true
+disableKinds = ["taxonomy", "term"]
 
 [markup]
   [markup.goldmark]
@@ -13,9 +14,9 @@ disablePathToLower = true
 [params]
   email = "info@wenzl.no"
   phone = "+47 926 20569"
-  images = ["/images/birokt-hero.jpg"]
-  ogImageWidth = 1536
-  ogImageHeight = 2048
+  images = ["/images/hive-yellow-field.jpg"]
+  ogImageWidth = 1288
+  ogImageHeight = 966
 
 [languages]
   [languages.no]

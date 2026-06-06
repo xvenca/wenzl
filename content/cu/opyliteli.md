@@ -2,6 +2,9 @@
 title: "Грады ради пчелъ"
 description: "Едино отъ триехъ кꙋшании съ стола твоего єсть, занє насѣкомоє посѣти цвѣтъ. Грады держатъ ключь ко прємѣнению — єдинъ балконъ, єдина кръва, єдина нєсѣченая трава врѣмя за врѣмємъ."
 image: "/images/CitiesForBees.png"
+ogImage: "/images/citiesforbees-og.jpg"
+ogImageWidth: 1024
+ogImageHeight: 559
 imageWidth: 410
 imageHeight: 411
 heroContain: true

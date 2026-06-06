@@ -2,6 +2,9 @@
 title: "Städte für Bienen"
 description: "87 der 115 wichtigsten Kulturpflanzen der Welt sind auf Insektenbestäubung angewiesen. Eine 27-jährige Studie in Deutschland verzeichnete 75 % Rückgang der Fluginsektenbiomasse. Wie können Städte helfen?"
 image: "/images/CitiesForBees.png"
+ogImage: "/images/citiesforbees-og.jpg"
+ogImageWidth: 1024
+ogImageHeight: 559
 imageWidth: 410
 imageHeight: 411
 heroContain: true
