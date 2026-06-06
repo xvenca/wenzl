@@ -1,7 +1,10 @@
 ---
 title: "Грады ради пчелъ"
 description: "Едино отъ триехъ кꙋшании съ стола твоего єсть, занє насѣкомоє посѣти цвѣтъ. Грады держатъ ключь ко прємѣнению — єдинъ балконъ, єдина кръва, єдина нєсѣченая трава врѣмя за врѣмємъ."
-image: "/images/birokt-hero.jpg"
+image: "/images/CitiesForBees.png"
+imageWidth: 410
+imageHeight: 411
+heroContain: true
 alt: "Грады ради пчелъ"
 translationKey: "pollinators"
 slug: "GradyRadiPchel"

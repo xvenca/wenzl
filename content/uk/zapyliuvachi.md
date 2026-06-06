@@ -1,7 +1,10 @@
 ---
 title: "Міста для бджіл"
 description: "87 зі 115 головних сільськогосподарських культур світу залежать від запилення комахами. Дослідження в Німеччині зафіксувало 75% падіння біомаси літаючих комах за 27 років. Як можуть допомогти міста?"
-image: "/images/birokt-hero.jpg"
+image: "/images/CitiesForBees.png"
+imageWidth: 410
+imageHeight: 411
+heroContain: true
 alt: "Міста для бджіл"
 translationKey: "pollinators"
 slug: "MistaDlyaBdzhil"

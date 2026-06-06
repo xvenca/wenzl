@@ -1,7 +1,10 @@
 ---
 title: "Města pro včely"
 description: "87 ze 115 hlavních zemědělských plodin světa závisí na hmyzím opylování. Studie z Německa zaznamenala 75% pokles létajícího hmyzu za 27 let. Jak mohou pomoci města?"
-image: "/images/birokt-hero.jpg"
+image: "/images/CitiesForBees.png"
+imageWidth: 410
+imageHeight: 411
+heroContain: true
 alt: "Města pro včely"
 translationKey: "pollinators"
 slug: "MestaProVcely"
