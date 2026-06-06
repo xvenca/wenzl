@@ -2,14 +2,15 @@
 
 <!-- ── Page hero ─────────────────────────────────────────────── -->
 {{ with .Params.image }}
-<div class="relative w-full h-64 md:h-96 overflow-hidden bg-stone-900">
+{{ $contain := $.Params.heroContain | default false }}
+<div class="relative w-full h-64 md:h-96 overflow-hidden {{ if $contain }}bg-stone-900 flex items-center justify-center{{ else }}bg-stone-900{{ end }}">
     {{ $imgPath := . }}
     {{ $res := $.Page.Resources.GetMatch $imgPath }}
     {{ if not $res }}{{ $res = resources.GetMatch $imgPath }}{{ end }}
     {{ if $res }}
         {{ if eq $res.MediaType.SubType "svg" }}
         <img src="{{ $res.RelPermalink }}" alt="{{ $.Params.alt | default $.Title }}"
-             class="w-full h-full object-cover opacity-80" loading="eager" decoding="async">
+             class="w-full h-full {{ if $contain }}object-contain p-8{{ else }}object-cover opacity-80{{ end }}" loading="eager" decoding="async">
         {{ else }}
         {{ $widths := slice 480 768 1200 }}
         {{ $srcset := slice }}
@@ -19,14 +20,14 @@
         {{ end }}
         <img src="{{ $res.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="(max-width: 768px) 100vw, 1200px"
              alt="{{ $.Params.alt | default $.Title }}"
-             class="w-full h-full object-cover opacity-80" loading="eager" decoding="async"
+             class="w-full h-full {{ if $contain }}object-contain p-8{{ else }}object-cover opacity-80{{ end }}" loading="eager" decoding="async"
              width="{{ $res.Width }}" height="{{ $res.Height }}">
         {{ end }}
     {{ else }}
     <img src="{{ $imgPath }}" alt="{{ $.Params.alt | default $.Title }}"
-         class="w-full h-full object-cover opacity-80" loading="eager" decoding="async">
+         class="w-full h-full {{ if $contain }}object-contain p-8{{ else }}object-cover opacity-80{{ end }}" loading="eager" decoding="async">
     {{ end }}
-    <div class="absolute inset-0 bg-gradient-to-t from-stone-900/60 to-transparent"></div>
+    {{ if not $contain }}<div class="absolute inset-0 bg-gradient-to-t from-stone-900/60 to-transparent"></div>{{ end }}
 </div>
 {{ end }}
 

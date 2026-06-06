@@ -1,7 +1,10 @@
 ---
 title: "Ciudades para abejas"
 description: "87 de los 115 principales cultivos agrícolas del mundo dependen de la polinización por insectos. Un estudio alemán de 27 años registró una caída del 75 % en la biomasa de insectos. ¿Cómo pueden ayudar las ciudades?"
-image: "/images/birokt-hero.jpg"
+image: "/images/CitiesForBees.png"
+imageWidth: 410
+imageHeight: 411
+heroContain: true
 alt: "Ciudades para abejas"
 translationKey: "pollinators"
 slug: "CiudadesParaAbejas"

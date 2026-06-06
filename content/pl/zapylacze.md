@@ -1,7 +1,10 @@
 ---
 title: "Miasta dla pszczół"
 description: "87 ze 115 głównych roślin uprawnych świata zależy od zapylania przez owady. Badania w Niemczech odnotowały 75% spadek biomasy latających owadów przez 27 lat. Jak mogą pomóc miasta?"
-image: "/images/birokt-hero.jpg"
+image: "/images/CitiesForBees.png"
+imageWidth: 410
+imageHeight: 411
+heroContain: true
 alt: "Miasta dla pszczół"
 translationKey: "pollinators"
 slug: "MiastaDlaPszczol"
