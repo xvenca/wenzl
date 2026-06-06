@@ -56,31 +56,32 @@
             {{ $card := . }}
             {{ $linkVal := .link }}
             {{ if $linkVal }}<a href="{{ $linkVal }}" class="group bg-white border border-stone-200 rounded-2xl overflow-hidden hover:border-amber-300 hover:shadow-xl transition-all duration-200 flex flex-col">{{ else }}<div class="group bg-white border border-stone-200 rounded-2xl overflow-hidden flex flex-col">{{ end }}
-                {{- /* Photo header */}}
+                {{- /* Title + badge */}}
+                <div class="px-5 pt-4 pb-3">
+                    <h3 class="font-bold text-stone-800 group-hover:text-amber-800 transition leading-snug">{{ .title }}</h3>
+                    {{ with .badge }}
+                    <span class="mt-1.5 inline-block text-xs font-semibold bg-amber-100 text-amber-900 px-2.5 py-0.5 rounded-full">{{ . }}</span>
+                    {{ end }}
+                </div>
+                {{- /* Photo or icon */}}
                 {{ if .image }}
                   {{ if eq .icon "city" }}
-                  <div class="relative h-44 shrink-0 bg-gradient-to-br from-emerald-800 to-emerald-950 flex items-center justify-center overflow-hidden">
+                  <div class="relative h-36 sm:h-44 shrink-0 bg-gradient-to-br from-emerald-800 to-emerald-950 flex items-center justify-center overflow-hidden">
                     <img src="{{ .image }}" alt="{{ .title }}"
                          class="absolute inset-0 w-full h-full object-contain p-5 opacity-90 group-hover:scale-105 transition-transform duration-500"
                          loading="lazy">
-                    {{ with .badge }}
-                    <span class="absolute top-3 left-3 text-xs font-bold bg-emerald-400/20 text-emerald-100 border border-emerald-400/30 px-2.5 py-1 rounded-full">{{ . }}</span>
-                    {{ end }}
                   </div>
                   {{ else }}
-                  <div class="relative h-44 shrink-0 overflow-hidden bg-stone-200">
+                  <div class="relative h-36 sm:h-44 shrink-0 overflow-hidden bg-stone-200">
                     <img src="{{ .image }}" alt="{{ .title }}"
                          class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                          loading="lazy">
-                    <div class="absolute inset-0 bg-gradient-to-t from-stone-900/55 via-transparent to-transparent"></div>
-                    {{ with .badge }}
-                    <span class="absolute bottom-3 left-4 text-xs font-bold bg-white/90 backdrop-blur-sm text-amber-900 px-2.5 py-1 rounded-full shadow-sm">{{ . }}</span>
-                    {{ end }}
+                    <div class="absolute inset-0 bg-gradient-to-t from-stone-900/40 via-transparent to-transparent"></div>
                   </div>
                   {{ end }}
                 {{ else }}
-                {{- /* Icon header fallback */}}
-                <div class="relative h-28 shrink-0 bg-amber-50 border-b border-amber-100 flex flex-col items-center justify-center overflow-hidden">
+                {{- /* Icon fallback */}}
+                <div class="relative h-24 shrink-0 bg-amber-50 border-y border-amber-100 flex items-center justify-center overflow-hidden">
                   <div class="absolute inset-0 opacity-[0.05]" aria-hidden="true">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full">
                       <defs><pattern id="hc-b" x="0" y="0" width="28" height="24" patternUnits="userSpaceOnUse">
@@ -89,44 +90,41 @@
                       <rect width="100%" height="100%" fill="url(#hc-b)"/>
                     </svg>
                   </div>
-                  <div class="w-14 h-14 rounded-2xl bg-amber-100 flex items-center justify-center group-hover:bg-amber-200 transition relative z-10">
+                  <div class="w-12 h-12 rounded-2xl bg-amber-100 flex items-center justify-center group-hover:bg-amber-200 transition relative z-10">
                     {{ if eq .icon "swarm" }}
-                    <svg class="w-7 h-7 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <svg class="w-6 h-6 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
                     </svg>
                     {{ else if eq .icon "pollination" }}
-                    <svg class="w-7 h-7 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <svg class="w-6 h-6 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/>
                     </svg>
                     {{ else if eq .icon "hive" }}
-                    <svg class="w-7 h-7 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <svg class="w-6 h-6 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                     </svg>
                     {{ else if eq .icon "city" }}
-                    <svg class="w-7 h-7 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <svg class="w-6 h-6 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
                     </svg>
                     {{ else if eq .icon "health" }}
-                    <svg class="w-7 h-7 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <svg class="w-6 h-6 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
                     </svg>
                     {{ else if eq .icon "trap" }}
-                    <svg class="w-7 h-7 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <svg class="w-6 h-6 text-amber-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
                     </svg>
                     {{ else }}
-                    <svg class="w-7 h-7 text-amber-700" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <svg class="w-6 h-6 text-amber-700" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                         <path d="M12 1.5L2 7.25v9.5L12 22.5l10-5.75v-9.5L12 1.5zm0 2.24 8 4.6v8.32l-8 4.6-8-4.6V8.34l8-4.6z"/>
                     </svg>
                     {{ end }}
                   </div>
-                  {{ with .badge }}
-                  <span class="mt-2 text-xs font-semibold bg-amber-200 text-amber-900 px-2.5 py-0.5 rounded-full relative z-10">{{ . }}</span>
-                  {{ end }}
                 </div>
                 {{ end }}
-                <div class="px-5 pb-5 pt-4 flex flex-col flex-1">
-                    <h3 class="font-bold text-stone-800 mb-1.5 group-hover:text-amber-800 transition leading-snug">{{ .title }}</h3>
+                {{- /* Description + CTA */}}
+                <div class="px-5 pb-5 pt-3 flex flex-col flex-1">
                     <p class="text-stone-500 text-sm leading-relaxed flex-1">{{ .desc }}</p>
                     {{ with .link }}
                     <span class="mt-4 text-amber-600 text-xs font-semibold inline-flex items-center gap-1 group-hover:gap-2 transition-all">
