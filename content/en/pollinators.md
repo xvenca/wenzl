@@ -2,6 +2,9 @@
 title: "Cities for Bees"
 description: "87 of the world's 115 leading food crops depend on animal pollination. A 27-year study in Germany recorded a 75% decline in flying insect biomass. Cities can be part of the answer — one balcony, one rooftop, one unmowed lawn at a time."
 image: "/images/CitiesForBees.png"
+ogImage: "/images/citiesforbees-og.jpg"
+ogImageWidth: 1024
+ogImageHeight: 559
 imageWidth: 410
 imageHeight: 411
 heroContain: true
