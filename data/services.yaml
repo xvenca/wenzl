@@ -2,7 +2,7 @@ nb:
   - icon: swarm
     title: Svermfangst
     badge: "Gratis · Bergen"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Oppdaget en sverm på eiendommen? Kontakt meg umiddelbart — jeg henter biesværmer kostnadsfritt i Bergen og omegn."
     link: "/svermer/#svermfangst-i-bergen"
   - icon: trap
@@ -33,7 +33,7 @@ en:
   - icon: swarm
     title: "Swarm Collection"
     badge: "Free · Bergen"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Spotted a swarm on your property? Contact me immediately — I collect bee swarms free of charge in Bergen and surrounding areas."
     link: "/en/swarms/#swarm-collection-in-bergen"
   - icon: trap
@@ -64,7 +64,7 @@ cs:
   - icon: swarm
     title: "Odchyt rojů"
     badge: "Zdarma · Bergen"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Zaznamenali jste roj? Kontaktujte mě ihned — odchytávám roje zdarma v Bergenu a okolí."
     link: "/cs/roje/#odchyt-rojů-v-bergenu"
   - icon: trap
@@ -95,7 +95,7 @@ uk:
   - icon: swarm
     title: "Відлов роїв"
     badge: "Безкоштовно · Берген"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Помітили рій на своїй ділянці? Зв'яжіться зі мною негайно — я безкоштовно відловлюю бджолині рої в Бергені та околицях."
     link: "/uk/royi/#swarm-collection-in-bergen"
   - icon: trap
@@ -126,7 +126,7 @@ ru:
   - icon: swarm
     title: "Отлов роёв"
     badge: "Бесплатно · Берген"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Заметили рой на своём участке? Свяжитесь со мной сразу — я бесплатно забираю пчелиные рои в Бергене и окрестностях."
     link: "/ru/roi/#swarm-collection-in-bergen"
   - icon: trap
@@ -157,7 +157,7 @@ pl:
   - icon: swarm
     title: "Łapanie rojów"
     badge: "Bezpłatnie · Bergen"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Widzisz rój na swojej posesji? Skontaktuj się ze mną od razu — bezpłatnie odławiam roje w Bergen i okolicy."
     link: "/pl/roje/#swarm-collection-in-bergen"
   - icon: trap
@@ -188,7 +188,7 @@ de:
   - icon: swarm
     title: "Schwarmfang"
     badge: "Kostenlos · Bergen"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Einen Schwarm auf Ihrem Grundstück entdeckt? Melden Sie sich sofort — ich fange Bienenschwärme in Bergen und Umgebung kostenlos ein."
     link: "/de/schwaerme/#swarm-collection-in-bergen"
   - icon: trap
@@ -219,7 +219,7 @@ cu:
   - icon: swarm
     title: "Ловлениѥ роевъ"
     badge: "Без мъзды · Бергенъ"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "Аще рои на имѣнии твоемъ явися, абиѥ ко мнѣ обратися — азъ без мъзды рои въ Бергенѣ и окрѣстъ ловлю."
     link: "/cu/roi/#swarm-collection-in-bergen"
   - icon: trap
@@ -250,7 +250,7 @@ es:
   - icon: swarm
     title: "Recogida de enjambres"
     badge: "Gratis · Bergen"
-    image: "/images/swarm-building-bergen-2025/03.jpg"
+    image: "/images/swarm-playground-bergen-2025/01.jpg"
     desc: "¿Has visto un enjambre en tu propiedad? Contáctame de inmediato — recojo enjambres de abejas de forma gratuita en Bergen y alrededores."
     link: "/es/enjambres/#swarm-collection-in-bergen"
   - icon: trap
