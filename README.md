@@ -65,10 +65,10 @@ Offered to care homes, rehabilitation centres, and wellness projects:
 
 ### Cities for Bees · Urban pollinator movement
 
-**[wenzl.no/en/pollinators/](https://wenzl.no/en/pollinators/)** · [source](content/en/pollinators.md)
+**[wenzl.no/en/CitiesForBees/](https://wenzl.no/en/CitiesForBees/)** · [source](content/en/pollinators.md)
 
 > *"One balcony. One flower. One summer. Then it spreads."*
-> — [wenzl.no/en/pollinators/](https://wenzl.no/en/pollinators/)
+> — [wenzl.no/en/CitiesForBees/](https://wenzl.no/en/CitiesForBees/)
 
 **The numbers behind the movement:**
 
@@ -138,9 +138,9 @@ A swarm settled in a bush on a children's playground in Bergen. Collected and re
 </tr>
 </table>
 
-### Building Facade Swarm · 2025
+### Building Facade Swarm · 15 June 2025
 
-A swarm not collected in time established a colony inside a wooden building facade in Bergen. Removal required a professional beekeeping firm, a specialist construction company with authorisation to dismantle bee-occupied buildings, and a rented aerial work platform. A swarm trap would have prevented this entirely.
+A swarm that had been living in an apartment building for several days had already established a colony inside the wooden facade by the time Martin was called. The queen was not found when the facade was opened. Removal required a professional beekeeping firm, a specialist construction company with authorisation to dismantle bee-occupied buildings, and a truck-mounted aerial work platform. A swarm trap would have prevented this entirely.
 
 **[wenzl.no/en/swarms/#swarm-traps](https://wenzl.no/en/swarms/#swarm-traps)** · [source](content/en/swarms.md)
 
@@ -193,7 +193,7 @@ Now based in **Bergen, Norway**, caring for five colonies, building hives by han
 
 **[wenzl.no/en/membership/](https://wenzl.no/en/membership/)** · [source](content/en/membership.md)
 
-- **[Norges Birøktarlag](https://norbi.no/)** — Norwegian Beekeepers' Association
+- **[Norges Birøkterlag](https://norbi.no/)** — Norwegian Beekeepers' Association
 - **[Bergen Fellesverksted](https://www.bergenfellesverksted.no/)** — open community woodworking workshop in Bergen where the hives are built
 - **[Mendel University in Brno](https://mendelu.cz/)** — alma mater; studied Beekeeping and Bee Product Processing under doc. Přidal
 - **[Czech Beekeepers' Association, Boskovice](https://vceliweb.webnode.cz/o-nas/)** — where Martin first heard doc. Přidal lecture on varroa; his beekeeping roots in the Czech Republic
