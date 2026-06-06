@@ -7,6 +7,7 @@ translationKey: "pollinators"
 slug: "CitiesForBees"
 aliases:
   - /en/pollinators/
+  - /CitiesForBees/
   - /citiesforbees/
   - /en/citiesforbees/
 ---
