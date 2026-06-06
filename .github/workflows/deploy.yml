@@ -34,6 +34,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to FTP server
+        id: ftp1
+        continue-on-error: true
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: wenzl.no
@@ -44,7 +46,20 @@ jobs:
           # domene.no serves this account from /public_html/ (same content was also visible under /www/).
           server-dir: /public_html/
 
+      - name: Deploy to FTP server (retry)
+        id: ftp2
+        if: steps.ftp1.outcome == 'failure'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: wenzl.no
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          local-dir: ./public/
+          server-dir: /public_html/
+
       - name: Refresh Facebook OG cache
+        if: steps.ftp1.outcome == 'success' || steps.ftp2.outcome == 'success'
         run: |
           sleep 20
           TOKEN="${{ secrets.FB_ACCESS_TOKEN }}"
