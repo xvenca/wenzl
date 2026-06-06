@@ -11,7 +11,7 @@
             {{ end }}
         </div>
         {{- /* Photo or icon */}}
-        {{ if .image }}
+        {{ if and .image (fileExists (printf "static%s" .image)) }}
           {{ if eq .icon "city" }}
           <div class="relative h-36 sm:h-44 shrink-0 bg-white flex items-center justify-center overflow-hidden">
             <img src="{{ .image }}" alt="{{ .title }}"
