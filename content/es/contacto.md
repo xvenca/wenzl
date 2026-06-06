@@ -1,6 +1,6 @@
 ---
 title: "Contacto"
-description: "Martín Venclu · Apicultor certificado en Bergen, Noruega · +47 926 20569 · info@wenzl.no — recogida de enjambres, asesoramiento apícola, colmenas artesanales y polinización."
+description: "Apicultor certificado en Bergen, Noruega. ¿Preguntas sobre enjambres, colmenas, polinización o colaboraciones? Respondo rápido."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin trabajando con una colmena sobre Bergen"
 translationKey: "contact"
