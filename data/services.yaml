@@ -28,6 +28,9 @@ nb:
     image: "/images/CitiesForBees.png"
     desc: "Hvert tredje matbitt finnes fordi et insekt besøkte en blomst. Én balkong. Ett tak. Én blomstrende fasade. Slik begynner bevegelsen — #ByerForBier."
     link: "/ByerForBier/"
+  - icon: honey
+    title: Honning
+    desc: "Jeg selger ikke honning — jeg er ikke en kommersiell birøkter, og med det dårlige været i år vil jeg være fornøyd om biene samler nok til seg selv til vinteren. Det regnet mye, været var stygt, og da trærne blomstret, falt det snø."
 
 en:
   - icon: swarm
@@ -59,6 +62,9 @@ en:
     image: "/images/CitiesForBees.png"
     desc: "One in three bites of food exists because an insect visited a flower. One balcony. One rooftop. One unmowed lawn. That is how the movement starts — #CitiesForBees."
     link: "/en/CitiesForBees/"
+  - icon: honey
+    title: "Honey"
+    desc: "I don't sell honey — I'm not a commercial beekeeper, and with this year's poor weather, I'll be glad if the bees gather enough for themselves to survive the winter. It rained a lot, the weather was bad, and when the trees were in bloom, snow fell."
 
 cs:
   - icon: swarm
@@ -90,6 +96,9 @@ cs:
     image: "/images/CitiesForBees.png"
     desc: "Každé třetí sousto jídla existuje proto, že hmyz navštívil květ. Jeden balkon. Jedna střecha. Jedna neposečená louka. Tak začíná hnutí — #MěstaProVčely."
     link: "/cs/MestaProVcely/"
+  - icon: honey
+    title: "Med"
+    desc: "Med neprodávám — jednak nejsem komerční včelař, a navíc kvůli špatnému počasí budu rád, když včely nanosí dostatek pro sebe na zimu. Hodně u nás pršelo, bylo škaredé a když stromy rozkvetly, napadl sníh."
 
 uk:
   - icon: swarm
@@ -121,6 +130,9 @@ uk:
     image: "/images/CitiesForBees.png"
     desc: "Кожен третій шматочок їжі існує тому, що комаха відвідала квітку. Один балкон. Один дах. Один нескошений газон. Так починається рух — #МістаДляБджіл."
     link: "/uk/MistaDlyaBdzhil/"
+  - icon: honey
+    title: "Мед"
+    desc: "Я не продаю мед — я не комерційний бджоляр, і через погану погоду цього року буду радий, якщо бджоли назбирають достатньо для себе на зиму. У нас багато дощило, погода була негарна, а коли дерева зацвіли, випав сніг."
 
 ru:
   - icon: swarm
@@ -152,6 +164,9 @@ ru:
     image: "/images/CitiesForBees.png"
     desc: "Каждый третий кусок еды существует потому, что насекомое посетило цветок. Один балкон. Одна крыша. Один нескошенный газон. Так начинается движение — #ГородаДляПчёл."
     link: "/ru/GorodaDlyaPchel/"
+  - icon: honey
+    title: "Мёд"
+    desc: "Я не продаю мёд — я не коммерческий пчеловод, и с учётом плохой погоды в этом году буду рад, если пчёлы наберут достаточно для себя на зиму. Дождей было много, погода была скверная, а когда деревья зацвели, выпал снег."
 
 pl:
   - icon: swarm
@@ -183,6 +198,9 @@ pl:
     image: "/images/CitiesForBees.png"
     desc: "Każdy trzeci kęs jedzenia istnieje dlatego, że owad odwiedził kwiat. Jeden balkon. Jeden dach. Jeden niekoszony trawnik. Tak zaczyna się ruch — #MiastaDlaPszczół."
     link: "/pl/MiastaDlaPszczol/"
+  - icon: honey
+    title: "Miód"
+    desc: "Nie sprzedaję miodu — nie jestem komercyjnym pszczelarzem, a przy tej złej pogodzie w tym roku będę zadowolony, jeśli pszczoły zbiorą wystarczająco dla siebie na zimę. Dużo padało, pogoda była brzydka, a gdy drzewa zakwitły, spadł śnieg."
 
 de:
   - icon: swarm
@@ -214,6 +232,9 @@ de:
     image: "/images/CitiesForBees.png"
     desc: "Jeder dritte Bissen Essen existiert, weil ein Insekt eine Blume besucht hat. Ein Balkon. Ein Dach. Ein nicht gemähter Rasen. So beginnt die Bewegung — #StädteFürBienen."
     link: "/de/StaedteFuerBienen/"
+  - icon: honey
+    title: "Honig"
+    desc: "Ich verkaufe keinen Honig — ich bin kein kommerzieller Imker, und angesichts des schlechten Wetters in diesem Jahr werde ich froh sein, wenn die Bienen genug für sich selbst für den Winter sammeln. Es regnete viel, das Wetter war schlecht, und als die Bäume blühten, fiel Schnee."
 
 cu:
   - icon: swarm
@@ -245,6 +266,9 @@ cu:
     image: "/images/CitiesForBees.png"
     desc: "Помозѣте пчеламъ, чъмєлємъ, мотыльємъ и инымъ опылителємъ цвѣтꙋщими балконы, кръвами, дворы, врьтикальными садъми и кротъкою попечениѥю о зелени."
     link: "/cu/GradyRadiPchel/"
+  - icon: honey
+    title: "Медъ"
+    desc: "Медъ не продамъ — не єсмь кꙋпьный пчеларь, и за злаго времени сего лѣта радъ бꙋдꙋ, аще пчелы доволно себѣ на зимꙋ наносятъ. Велие дождиѥ бысть, погода зла, и когда дрѣва расцвѣтоша, снѣгъ паде."
 
 es:
   - icon: swarm
@@ -276,3 +300,6 @@ es:
     image: "/images/CitiesForBees.png"
     desc: "Uno de cada tres bocados de comida existe porque un insecto visitó una flor. Un balcón. Un tejado. Un césped sin segar. Así empieza el movimiento — #CiudadesParaAbejas."
     link: "/es/CiudadesParaAbejas/"
+  - icon: honey
+    title: "Miel"
+    desc: "No vendo miel — no soy un apicultor comercial, y con el mal tiempo de este año me dará por satisfecho si las abejas reúnen suficiente para ellas mismas para el invierno. Llovió mucho, el tiempo fue malo, y cuando los árboles florecieron, cayó nieve."
