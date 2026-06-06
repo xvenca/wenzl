@@ -82,7 +82,7 @@ Ozvěte se, pokud hledáte opylování pro vaši zahradu nebo pozemek tuto sezó
 
 ---
 
-## Tradiční dřevěné ležany vlastní výroby
+## Tradiční dřevěné ležany vlastní výroby {#tradiční-dřevěné-ležany}
 
 **Ležany nejsou součástí norské včelařské tradice** — je to něco, co jsem si přinesl a s čím v Norsku experimentuji. Stavím je sám, vlastníma rukama v Bergenu, z masivního dřeva — ukrajinské ležany jsem vyrobil přímo zde. Dřevo dýchá, izoluje a vydrží jako žádný průmyslový materiál:
 

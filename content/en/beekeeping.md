@@ -45,7 +45,7 @@ I work with natural methods where possible: my colonies build freely in empty fr
 
 ---
 
-## Swarm Collection in Bergen and Surrounding Areas
+## Swarm Collection in Bergen and Surrounding Areas {#swarm-collection-in-bergen}
 
 Did you spot a swarm — a cluster of bees in a tree, under a roof edge, or anywhere on your property? **Contact me right away.**
 

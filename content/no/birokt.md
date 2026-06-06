@@ -45,7 +45,7 @@ Jeg arbeider med naturnære metoder der det lar seg gjøre og forvalter bikubene
 
 ---
 
-## Svermfangst i Bergen og omegn
+## Svermfangst i Bergen og omegn {#svermfangst-i-bergen}
 
 Har du sett en sverm — en klynge av bier i et tre, under et takutstikk eller et annet sted på eiendommen? **Kontakt meg umiddelbart.**
 
