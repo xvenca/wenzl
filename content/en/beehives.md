@@ -21,6 +21,8 @@ Built after the tradition of my wife's grandfather, who kept bees in Ukraine. My
 If you would like to have a small bee house on your property, feel free to contact me. I can help plan the project and provide professional guidance for both hive building and beekeeping.
 
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." caption="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." >}}
+
 ## Accessible Horizontal Hive
 
 
@@ -28,11 +30,9 @@ It builds on the proven Gregor horizontal hive, but I use even thicker solid-woo
 
 {{< hive-gallery field="The yellow accessible hive out in the field near Bergen — next to a Gregor hive." front="Built by hand at Bergen Fellesverksted, with an aluminium roof and solid hinges." open="The hinged roof makes the whole hive quick and easy to open." topbars="Easy top access — gentle tending without heavy lifting." >}}
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="The hives in the Bergen garden — June 2025, the garden is in full bloom." caption="The hives in the Bergen garden — June 2025, the garden is in full bloom." >}}
-
 Interest in the hives has already begun to arrive — *get in touch if you would like a hive.*
 
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natural comb in the frame — built freely without foundation." caption="Natural comb in the frame — built freely without foundation." >}}
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." caption="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." >}}
 
 {{< contact >}}
 

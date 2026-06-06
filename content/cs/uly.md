@@ -20,17 +20,17 @@ Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské le�
 
 Pokud byste chtěli mít na svém pozemku apidomek, můžete se na mne obrátit. Můžeme se domluvit na realizaci a rád odborně zajistím výrobu úlů i chov včel.
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukrajinský ležan v zahradě v Bergenu — červen 2025, zahrada právě kvete." caption="Ukrajinský ležan v zahradě v Bergenu — červen 2025, zahrada právě kvete." >}}
+
 ## Bezbariérový ležan
 
 Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silnější stěny z masivního dřeva a standardní norskou rámkovou míru. Mým cílem bylo zpřístupnit včelaření všem a zároveň zachovat kompatibilitu s běžnými norskými rámky, aby úl dobře fungoval i v drsných severských podmínkách a spolu s vybavením ostatních včelařů. To je klíčové ve chvíli, kdy je potřeba slabé včelstvo posílit plodem od jiného včelstva. Jako izolaci do něj lze přidat ovčí vlnu od místních norských ovcí. Nad hlavním včelstvem nemá nástavky, ale lehkou hliníkovou střechu na pantech, aby byl rychle a snadno přístupný. Mohou v něm včelařit i děti, lidé s bolestmi zad nebo lidé na invalidním vozíku. Je to bezbariérový včelařský úl. *(Žlutý úl.)*
 
 {{< hive-gallery field="Žlutý bezbariérový úl v terénu u Bergenu — vedle úlu typu Gregor." front="Vyrobeno ručně v Bergen Fellesverksted, s hliníkovou střechou a pevnými panty." open="Sklopná střecha umožňuje celý úl rychle a snadno otevřít." topbars="Snadný přístup shora — šetrné ošetřování bez těžkého zvedání." >}}
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ležany v zahradě v Bergenu — červen 2025, zahrada právě kvete." caption="Ležany v zahradě v Bergenu — červen 2025, zahrada právě kvete." >}}
-
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
 
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Přirozený plást v rámci — volná stavba bez mezistěny." caption="Přirozený plást v rámci — volná stavba bez mezistěny." >}}
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." caption="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." >}}
 
 {{< contact >}}
 
