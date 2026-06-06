@@ -3,6 +3,7 @@ languageCode = "no"
 title = "wenzl.no"
 defaultContentLanguage = "no"
 disablePathToLower = true
+disableKinds = ["taxonomy", "term"]
 
 [markup]
   [markup.goldmark]
