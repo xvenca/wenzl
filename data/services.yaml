@@ -30,7 +30,7 @@ nb:
     link: "/ByerForBier/"
   - icon: honey
     title: Honning
-    desc: "Jeg selger ikke honning — jeg er ikke en kommersiell birøkter, og med det dårlige været i år vil jeg være fornøyd om biene samler nok til seg selv til vinteren. Det regnet mye, været var stygt, og da trærne blomstret, falt det snø."
+    desc: "Jeg selger ikke honning — mitt mål er biologisk reserve, ikke produksjon. I år vil jeg dessuten, på grunn av dårlig vær, være fornøyd om biene samler nok til seg selv til vinteren."
 
 en:
   - icon: swarm
@@ -64,7 +64,7 @@ en:
     link: "/en/CitiesForBees/"
   - icon: honey
     title: "Honey"
-    desc: "I don't sell honey — I'm not a commercial beekeeper, and with this year's poor weather, I'll be glad if the bees gather enough for themselves to survive the winter. It rained a lot, the weather was bad, and when the trees were in bloom, snow fell."
+    desc: "I don't sell honey — my goal is a biological reserve, not production. This year, with the poor weather on top of that, I'll be glad if the bees gather enough for themselves to last the winter."
 
 cs:
   - icon: swarm
@@ -98,7 +98,7 @@ cs:
     link: "/cs/MestaProVcely/"
   - icon: honey
     title: "Med"
-    desc: "Med neprodávám — jednak nejsem komerční včelař, a navíc kvůli špatnému počasí budu rád, když včely nanosí dostatek pro sebe na zimu. Hodně u nás pršelo, bylo škaredé a když stromy rozkvetly, napadl sníh."
+    desc: "Med neprodávám — mým cílem je biologická rezerva, ne produkce. Letos navíc kvůli špatnému počasí budu rád, když včely nanosí dostatek pro sebe na zimu."
 
 uk:
   - icon: swarm
@@ -132,7 +132,7 @@ uk:
     link: "/uk/MistaDlyaBdzhil/"
   - icon: honey
     title: "Мед"
-    desc: "Я не продаю мед — я не комерційний бджоляр, і через погану погоду цього року буду радий, якщо бджоли назбирають достатньо для себе на зиму. У нас багато дощило, погода була негарна, а коли дерева зацвіли, випав сніг."
+    desc: "Я не продаю мед — моя мета — біологічний резерв, а не виробництво. Цього року до того ж через погану погоду буду радий, якщо бджоли назбирають достатньо для себе на зиму."
 
 ru:
   - icon: swarm
@@ -166,7 +166,7 @@ ru:
     link: "/ru/GorodaDlyaPchel/"
   - icon: honey
     title: "Мёд"
-    desc: "Я не продаю мёд — я не коммерческий пчеловод, и с учётом плохой погоды в этом году буду рад, если пчёлы наберут достаточно для себя на зиму. Дождей было много, погода была скверная, а когда деревья зацвели, выпал снег."
+    desc: "Я не продаю мёд — моя цель — биологический резерв, а не производство. В этом году вдобавок из-за плохой погоды буду рад, если пчёлы наберут достаточно для себя на зиму."
 
 pl:
   - icon: swarm
@@ -200,7 +200,7 @@ pl:
     link: "/pl/MiastaDlaPszczol/"
   - icon: honey
     title: "Miód"
-    desc: "Nie sprzedaję miodu — nie jestem komercyjnym pszczelarzem, a przy tej złej pogodzie w tym roku będę zadowolony, jeśli pszczoły zbiorą wystarczająco dla siebie na zimę. Dużo padało, pogoda była brzydka, a gdy drzewa zakwitły, spadł śnieg."
+    desc: "Nie sprzedaję miodu — moim celem jest rezerwa biologiczna, nie produkcja. W tym roku dodatkowo przez złą pogodę będę zadowolony, jeśli pszczoły zbiorą wystarczająco dla siebie na zimę."
 
 de:
   - icon: swarm
@@ -234,7 +234,7 @@ de:
     link: "/de/StaedteFuerBienen/"
   - icon: honey
     title: "Honig"
-    desc: "Ich verkaufe keinen Honig — ich bin kein kommerzieller Imker, und angesichts des schlechten Wetters in diesem Jahr werde ich froh sein, wenn die Bienen genug für sich selbst für den Winter sammeln. Es regnete viel, das Wetter war schlecht, und als die Bäume blühten, fiel Schnee."
+    desc: "Ich verkaufe keinen Honig — mein Ziel ist eine biologische Reserve, keine Produktion. In diesem Jahr werde ich wegen des schlechten Wetters obendrein froh sein, wenn die Bienen genug für sich selbst für den Winter sammeln."
 
 cu:
   - icon: swarm
@@ -268,7 +268,7 @@ cu:
     link: "/cu/GradyRadiPchel/"
   - icon: honey
     title: "Медъ"
-    desc: "Медъ не продамъ — не єсмь кꙋпьный пчеларь, и за злаго времени сего лѣта радъ бꙋдꙋ, аще пчелы доволно себѣ на зимꙋ наносятъ. Велие дождиѥ бысть, погода зла, и когда дрѣва расцвѣтоша, снѣгъ паде."
+    desc: "Медъ не продамъ — цѣль моя биологична резерва єсть, не промыслъ. Лѣто сеє за злыхъ временъ радъ бꙋдꙋ, аще пчелы доволно себѣ на зимꙋ наносятъ."
 
 es:
   - icon: swarm
@@ -302,4 +302,4 @@ es:
     link: "/es/CiudadesParaAbejas/"
   - icon: honey
     title: "Miel"
-    desc: "No vendo miel — no soy un apicultor comercial, y con el mal tiempo de este año me dará por satisfecho si las abejas reúnen suficiente para ellas mismas para el invierno. Llovió mucho, el tiempo fue malo, y cuando los árboles florecieron, cayó nieve."
+    desc: "No vendo miel — mi objetivo es una reserva biológica, no la producción. Este año, además, con el mal tiempo, me dará por satisfecho si las abejas reúnen suficiente para ellas mismas para el invierno."
