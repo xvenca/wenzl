@@ -27,7 +27,7 @@ nb:
     badge: "Kommuner & nabolag"
     image: "/images/CitiesForBees.png"
     desc: "Hvert tredje matbitt finnes fordi et insekt besøkte en blomst. Én balkong. Ett tak. Én blomstrende fasade. Slik begynner bevegelsen — #ByerForBier."
-    link: "/pollinatorer/"
+    link: "/ByerForBier/"
 
 en:
   - icon: swarm
@@ -58,7 +58,7 @@ en:
     badge: "Cities & neighborhoods"
     image: "/images/CitiesForBees.png"
     desc: "One in three bites of food exists because an insect visited a flower. One balcony. One rooftop. One unmowed lawn. That is how the movement starts — #CitiesForBees."
-    link: "/en/pollinators/"
+    link: "/en/CitiesForBees/"
 
 cs:
   - icon: swarm
@@ -89,7 +89,7 @@ cs:
     badge: "Obce a čtvrti"
     image: "/images/CitiesForBees.png"
     desc: "Každé třetí sousto jídla existuje proto, že hmyz navštívil květ. Jeden balkon. Jedna střecha. Jedna neposečená louka. Tak začíná hnutí — #MěstaProVčely."
-    link: "/cs/opylovaci/"
+    link: "/cs/MestaProVcely/"
 
 uk:
   - icon: swarm
@@ -120,7 +120,7 @@ uk:
     badge: "Міста й громади"
     image: "/images/CitiesForBees.png"
     desc: "Кожен третій шматочок їжі існує тому, що комаха відвідала квітку. Один балкон. Один дах. Один нескошений газон. Так починається рух — #МістаДляБджіл."
-    link: "/uk/zapyliuvachi/"
+    link: "/uk/MistaDlyaBdzhil/"
 
 ru:
   - icon: swarm
@@ -151,7 +151,7 @@ ru:
     badge: "Города и районы"
     image: "/images/CitiesForBees.png"
     desc: "Каждый третий кусок еды существует потому, что насекомое посетило цветок. Один балкон. Одна крыша. Один нескошенный газон. Так начинается движение — #ГородаДляПчёл."
-    link: "/ru/opyliteli/"
+    link: "/ru/GorodaDlyaPchel/"
 
 pl:
   - icon: swarm
@@ -182,7 +182,7 @@ pl:
     badge: "Miasta i dzielnice"
     image: "/images/CitiesForBees.png"
     desc: "Każdy trzeci kęs jedzenia istnieje dlatego, że owad odwiedził kwiat. Jeden balkon. Jeden dach. Jeden niekoszony trawnik. Tak zaczyna się ruch — #MiastaDlaPszczół."
-    link: "/pl/zapylacze/"
+    link: "/pl/MiastaDlaPszczol/"
 
 de:
   - icon: swarm
@@ -213,7 +213,7 @@ de:
     badge: "Städte und Quartiere"
     image: "/images/CitiesForBees.png"
     desc: "Jeder dritte Bissen Essen existiert, weil ein Insekt eine Blume besucht hat. Ein Balkon. Ein Dach. Ein nicht gemähter Rasen. So beginnt die Bewegung — #StädteFürBienen."
-    link: "/de/bestaeuber/"
+    link: "/de/StaedteFuerBienen/"
 
 cu:
   - icon: swarm
@@ -244,7 +244,7 @@ cu:
     badge: "Грады и обитища"
     image: "/images/CitiesForBees.png"
     desc: "Помозѣте пчеламъ, чъмєлємъ, мотыльємъ и инымъ опылителємъ цвѣтꙋщими балконы, кръвами, дворы, врьтикальными садъми и кротъкою попечениѥю о зелени."
-    link: "/cu/opyliteli/"
+    link: "/cu/GradyRadiPchel/"
 
 es:
   - icon: swarm
@@ -275,4 +275,4 @@ es:
     badge: "Municipios y barrios"
     image: "/images/CitiesForBees.png"
     desc: "Uno de cada tres bocados de comida existe porque un insecto visitó una flor. Un balcón. Un tejado. Un césped sin segar. Así empieza el movimiento — #CiudadesParaAbejas."
-    link: "/es/polinizadores/"
+    link: "/es/CiudadesParaAbejas/"
