@@ -3,7 +3,7 @@
 <!-- ── Page hero ─────────────────────────────────────────────── -->
 {{ with .Params.image }}
 {{ $contain := $.Params.heroContain | default false }}
-<div class="relative w-full h-64 md:h-96 overflow-hidden {{ if $contain }}bg-stone-900 flex items-center justify-center{{ else }}bg-stone-900{{ end }}">
+<div class="relative w-full h-64 md:h-96 overflow-hidden {{ if $contain }}bg-white flex items-center justify-center{{ else }}bg-stone-900{{ end }}">
     {{ $imgPath := . }}
     {{ $res := $.Page.Resources.GetMatch $imgPath }}
     {{ if not $res }}{{ $res = resources.GetMatch $imgPath }}{{ end }}
