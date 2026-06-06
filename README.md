@@ -34,7 +34,7 @@ Bee colonies placed in gardens and smallholdings free of charge during the growi
 
 **[wenzl.no/en/beehives/](https://wenzl.no/en/beehives/)** · [source](content/en/beehives.md)
 
-Horizontal hives (leisan / lezhan) are rare in Norway. Three models, all built by hand at Bergen Fellesverksted:
+Horizontal hives are rare in Norway. Three models, all built by hand at Bergen Fellesverksted:
 
 **Gregor hive** — a weatherproofed horizontal hive in Norwegian frame dimensions, adapted for Bergen's rainy climate. Two supers above for winter colony division. Originally designed by Jan Gregor; Martin took over the craft and received permission to continue building them.
 
