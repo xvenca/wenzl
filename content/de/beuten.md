@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Beuten"
 description: "Handgefertigte Holz-Lagerbeuten im norwegischen Rähmchenmaß — Gregor-Beute, ukrainische Lagerbeute und eine barrierearme Beute für naturnahe Imkerei."
 image: "/images/birokt-hero.jpg"
@@ -26,6 +26,10 @@ Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch
 
 {{< hive-gallery field="Die gelbe, barrierearme Beute draußen im Feld bei Bergen — neben einer Gregor-Beute." front="Von Hand bei Bergen Fellesverksted gebaut, mit Aluminiumdach und stabilen Scharnieren." open="Das Klappdach lässt die ganze Beute schnell und einfach öffnen." topbars="Leichter Zugang von oben — schonende Pflege ohne schweres Heben." >}}
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Die Bienenstöcke im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." caption="Die Bienenstöcke im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." >}}
+
 Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natürliche Wabe im Rähmchen — frei gebaut ohne Mittelwand." caption="Natürliche Wabe im Rähmchen — frei gebaut ohne Mittelwand." >}}
 
 {{< contact >}}

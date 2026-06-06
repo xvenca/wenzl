@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Colmenas"
 description: "Colmenas horizontales de madera hechas a mano en medida de cuadro noruega — la colmena Gregor, la colmena ucraniana y una colmena accesible para la apicultura natural."
 image: "/images/birokt-hero.jpg"
@@ -26,7 +26,11 @@ Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesa
 
 {{< hive-gallery field="La colmena amarilla y accesible en el campo cerca de Bergen — junto a una colmena Gregor." front="Construida a mano en Bergen Fellesverksted, con techo de aluminio y bisagras robustas." open="El techo abatible permite abrir toda la colmena de forma rápida y sencilla." topbars="Acceso cómodo desde arriba — manejo suave sin levantar peso." >}}
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Las colmenas en el jardín de Bergen — junio 2025, el jardín está en plena floración." caption="Las colmenas en el jardín de Bergen — junio 2025, el jardín está en plena floración." >}}
+
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Panal natural en el marco — construido libremente sin cera laminada." caption="Panal natural en el marco — construido libremente sin cera laminada." >}}
 
 {{< contact >}}
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Úly"
 description: "Dřevěné ležany vlastní výroby na norskou rámkovou míru — Gregor-ležan, ukrajinský ležan a bezbariérový ležan pro přírodní včelaření."
 image: "/images/birokt-hero.jpg"
@@ -26,7 +26,11 @@ Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silně
 
 {{< hive-gallery field="Žlutý bezbariérový úl v terénu u Bergenu — vedle úlu typu Gregor." front="Vyrobeno ručně v Bergen Fellesverksted, s hliníkovou střechou a pevnými panty." open="Sklopná střecha umožňuje celý úl rychle a snadno otevřít." topbars="Snadný přístup shora — šetrné ošetřování bez těžkého zvedání." >}}
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ležany v zahradě v Bergenu — červen 2025, zahrada právě kvete." caption="Ležany v zahradě v Bergenu — červen 2025, zahrada právě kvete." >}}
+
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Přirozený plást v rámci — volná stavba bez mezistěny." caption="Přirozený plást v rámci — volná stavba bez mezistěny." >}}
 
 {{< contact >}}
 

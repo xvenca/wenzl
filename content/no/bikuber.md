@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bikuber"
 description: "Håndlagde liggebikuber i norsk rammemål — Gregor-kuben, ukrainsk liggebikube og en universelt tilgjengelig kube for naturlig birøkt."
 image: "/images/birokt-hero.jpg"
@@ -25,7 +25,11 @@ Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere v
 
 {{< hive-gallery field="Den gule, universelt tilgjengelige kuben ute i felt nær Bergen — ved siden av en Gregor kube." front="Bygget for hånd ved Bergen Fellesverksted, med aluminiumstak og solide hengsler." open="Det hengslede taket gjør hele kuben rask og enkel å åpne." topbars="Lett topptilgang — skånsom røkting uten tunge løft." >}}
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Kubene i hagen i Bergen — juni 2025, hagen er i full blomst." caption="Kubene i hagen i Bergen — juni 2025, hagen er i full blomst." >}}
+
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturlig kake i rammen — fritt bygget uten kunstkake." caption="Naturlig kake i rammen — fritt bygget uten kunstkake." >}}
 
 {{< contact >}}
 

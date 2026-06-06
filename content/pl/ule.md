@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ule"
 description: "Ręcznie budowane drewniane leżaki na norweski rozmiar ramki — Gregor, ukraiński leżak i bezbarierowy leżak do naturalnej gospodarki pasiecznej."
 image: "/images/birokt-hero.jpg"
@@ -26,6 +26,10 @@ Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ś
 
 {{< hive-gallery field="Żółty, bezbarierowy ul w terenie pod Bergen — obok ula typu Gregor." front="Wykonany ręcznie w Bergen Fellesverksted, z aluminiowym dachem i solidnymi zawiasami." open="Uchylny dach pozwala szybko i łatwo otworzyć cały ul." topbars="Łatwy dostęp od góry — delikatna obsługa bez dźwigania." >}}
 
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ule w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." caption="Ule w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." >}}
+
 Zainteresowanie moimi ulami już się pojawia — *napisz do mnie, jeśli chcesz taki ul.*
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturalny plaster w ramce — zbudowany swobodnie bez węzy." caption="Naturalny plaster w ramce — zbudowany swobodnie bez węzy." >}}
 
 {{< contact >}}
