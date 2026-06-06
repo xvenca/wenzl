@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Kontakt for samarbeid, spørsmål eller interesse for kubene mine"
+description: "Sertifisert birøkter i Bergen — spørsmål om svermfangst, bikuber, bestøvning eller samarbeid? Jeg svarer raskt."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin som arbeider med en bikube over Bergen"
 translationKey: "contact"

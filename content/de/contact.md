@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Kontaktieren Sie mich zu Kooperationen, Anfragen oder Projekten"
+description: "Zertifizierter Imker in Bergen, Norwegen. Fragen zu Schwärmen, Beuten, Bestäubung oder Kooperationen? Ich antworte schnell."
 image: "/images/505953595_122172674996524142_1945694232578200699_n.jpg"
 alt: "Martin bei der Arbeit an einem Bienenstock oberhalb von Bergen"
 translationKey: "contact"

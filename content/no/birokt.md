@@ -27,7 +27,7 @@ services:
     title: "Bikuber"
     badge: "Håndlaget tre"
     image: "/images/hive-yellow-front.jpg"
-    desc: "Liggebikuber (leisan) er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
+    desc: "Liggebikuber (horizontal hive) er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
     link: "#håndlagde-bikuber-og-treprodukter"
   - icon: "city"
     title: "By-birøkt"
@@ -84,7 +84,7 @@ Ta kontakt for å avtale bestøvning av din eiendom denne sesongen.
 
 ## Håndlagde Bikuber og Treprodukter
 
-**Liggebikuber (leisan) er ikke en del av norsk birøkttradisjon** — det er noe jeg har tatt med meg og eksperimenterer med her i Norge. Jeg bygger dem selv, for hånd i Bergen, i massivt tre — mine ukrainske liggebikuber lagde jeg her. Tre puster, isolerer og varer slik intet industrielt materiale kan:
+**Liggebikuber (horizontal hive) er ikke en del av norsk birøkttradisjon** — det er noe jeg har tatt med meg og eksperimenterer med her i Norge. Jeg bygger dem selv, for hånd i Bergen, i massivt tre — mine ukrainske liggebikuber lagde jeg her. Tre puster, isolerer og varer slik intet industrielt materiale kan:
 
 ### Gregor-liggebikube — norsk rammemål
 En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over for vinteroppdeling. Den ble utviklet i Bergen og for forholdene i Bergen, for å beskytte biene i det regnfulle bergensværet og gi dem komfort også om vinteren. Denne typen ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Oppsatsene varmes opp naturlig fra det underliggende bisamfunnet — en løsning som er skånsom mot biene om vinteren.
