@@ -1,1 +1,19 @@
 AddCharset UTF-8 .txt
+
+RewriteEngine On
+
+# CitiesForBees brand URL aliases (case variants + language-prefixed old paths)
+RewriteRule ^citiesforbees/?$ /en/CitiesForBees/ [R=301,L]
+RewriteRule ^CitiesForBees/?$ /en/CitiesForBees/ [R=301,L]
+RewriteRule ^en/citiesforbees/?$ /en/CitiesForBees/ [R=301,L]
+RewriteRule ^en/pollinators/?$ /en/CitiesForBees/ [R=301,L]
+
+# Other language old pollinators URLs
+RewriteRule ^pollinatorer/?$ /ByerForBier/ [R=301,L]
+RewriteRule ^cs/opylovaci/?$ /cs/MestaProVcely/ [R=301,L]
+RewriteRule ^de/bestaeuber/?$ /de/StaedteFuerBienen/ [R=301,L]
+RewriteRule ^pl/zapylacze/?$ /pl/MiastaDlaPszczol/ [R=301,L]
+RewriteRule ^ru/opyliteli/?$ /ru/GorodaDlyaPchel/ [R=301,L]
+RewriteRule ^uk/zapyliuvachi/?$ /uk/MistaDlyaBdzhil/ [R=301,L]
+RewriteRule ^es/polinizadores/?$ /es/CiudadesParaAbejas/ [R=301,L]
+RewriteRule ^cu/opyliteli/?$ /cu/GradyRadiPchel/ [R=301,L]
