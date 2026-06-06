@@ -4,7 +4,7 @@
 
 ---
 
-**[wenzl.no](https://wenzl.no)** is the personal website of **Martin Venclu**, a certified beekeeper based in Bergen, Norway. He practices natural beekeeping, collects swarms for free, protects buildings with swarm traps across all of Norway, places colonies for free pollination, builds handcrafted wooden horizontal hives, and works to bring bees back into cities through the **Cities for Bees** movement. He does not sell honey — bees winter on honey, not sugar. The site is available in 9 languages.
+**[wenzl.no](https://wenzl.no)** is the personal website of **Martin Venclu**, a certified beekeeper based in Bergen, Norway. He practices natural beekeeping, collects swarms for free, protects buildings with swarm traps across all of Norway, places colonies for free pollination, builds handcrafted wooden horizontal hives, and works to bring bees back into cities through the **Cities for Bees** movement. He does not sell honey — the bees keep their honey, and he supplements with sugar only when a colony lacks sufficient stores. The site is available in 9 languages.
 
 ---
 
@@ -115,11 +115,11 @@ Show your support — embed the badge on your website:
 
 **[wenzl.no/en/beekeeping/#apitherapy](https://wenzl.no/en/beekeeping/)** · [source](content/en/beekeeping.md)
 
-Apitherapy is the therapeutic use of bee proximity — hive air, warmth, and vibration. The Ukrainian horizontal hive is the traditional hive type for this purpose: low and wide, designed to stand beneath a resting platform so people lie directly above the colony, breathe the hive air, and feel the warmth and hum of the bees.
+An **apidomek** (apitherapy house) is a small cabin or shelter where people sleep above the hives. You lie or rest directly above a live colony — a calm, unusual way to relax deeply in nature. The Ukrainian horizontal hive is the traditional hive type for this purpose: low and wide, designed to fit beneath a sleeping platform.
 
 Offered to care homes, rehabilitation centres, and wellness projects:
-- Consulting and construction of **apitherapy houses** (apidomki) — a small shelter where people rest above the hives
-- Ukrainian horizontal hives built and operated specifically for apitherapy
+- Consulting and construction of **apidomki** (apitherapy houses) — small cabins where guests sleep above the hives
+- Ukrainian horizontal hives built and operated for apitherapy settings
 - Guidance for facilities considering apitherapy programmes
 
 ---
@@ -136,9 +136,9 @@ If your institution — hospital, care home, school, or workplace — has garden
 
 ### On Honey
 
-Martin does not sell honey. Honey is the bees' food — not a product waiting to be harvested. The goal is a biological reserve, not production. He takes a small portion only when a colony is strong and has genuine surplus. Bees winter on honey, not sugar.
+Martin does not sell honey. Honey is the bees' food — not a product waiting to be harvested. The goal is a biological reserve, not production. He takes a small portion only when a colony is strong and has genuine surplus. He aims to let his bees winter on honey; if a colony does not have enough stores, he supplements with sugar.
 
-In 2026, Bergen had a particularly difficult season: much rain, rough weather, and snow fell while the trees were in bloom. In years like this, the priority is that the bees go into winter with enough honey.
+In 2026, Bergen had a particularly difficult season: much rain, rough weather, and snow fell while the trees were in bloom. In years like this, the priority is that the bees go into winter with enough stores.
 
 ---
 
@@ -211,7 +211,7 @@ Plastic hives are for plastic bees. For millions of years, bees lived in tree ho
 
 ### Honey belongs to the bees
 
-Honey is the bees' food, not a product waiting to be harvested. A healthy, well-tended colony may have surplus honey to share; an exploited colony has none. Martin's default is to leave the honey where it belongs. He takes a small portion only when a colony is strong and has genuine surplus. Bees winter on honey, not sugar.
+Honey is the bees' food, not a product waiting to be harvested. A healthy, well-tended colony may have surplus honey to share; an exploited colony has none. Martin's default is to leave the honey where it belongs. He takes a small portion only when a colony is strong and has genuine surplus. He aims to let bees winter on honey; he supplements with sugar only when a colony lacks sufficient stores.
 
 ### Swarming is reproduction
 

@@ -108,11 +108,11 @@ Jeśli Twoja instytucja — szpital, dom opieki, szkoła lub miejsce pracy — d
 
 ## Apiterapia
 
-Apiterapia to terapeutyczne wykorzystanie bliskości pszczół — powietrza z ula, ciepła i wibracji. Ukraiński leżak to tradycyjny typ ula do tego celu: niski, szeroki, zaprojektowany tak, by stał pod platformą wypoczynkową, nad którą ludzie leżą bezpośrednio nad rodziną pszczeją, wdychają powietrze z ula i czują jego ciepło i brzęczenie.
+**Apidomek** to mały domek lub schronienie, gdzie ludzie śpią bezpośrednio nad ulami — spokojny i niezwykły sposób na głęboki odpoczynek w naturze. Ukraiński leżak to tradycyjny typ ula do tego celu: niski i szeroki, zaprojektowany tak, by mieścił się pod platformą do spania.
 
 Oferuję:
 
-- Doradztwo i budowę **domków do apiterapii** — małego schronienia, gdzie ludzie wypoczywają nad ulami
+- Doradztwo i budowę **apidomków** — małych domków, gdzie goście śpią bezpośrednio nad ulami
 - Ukraińskie leżaki własnej roboty, budowane i obsługiwane specjalnie na potrzeby apiterapii
 - Doradztwo dla placówek opiekuńczych, ośrodków rehabilitacyjnych i projektów wellness rozważających apiterapię
 

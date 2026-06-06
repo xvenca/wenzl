@@ -15,13 +15,13 @@
   - **Natural comb building**: no commercial foundation; each colony builds exactly the comb structure it needs.
 - [Cities for Bees](https://wenzl.no/en/CitiesForBees/): Urban pollinator movement. 87 of 115 leading food crops depend on animal pollination (Klein et al. 2007). 75% decline in flying insect biomass over 27 years in Germany (Hallmann et al. 2017). UK research: urban sites support higher bee diversity than intensively farmed countryside (Baldock et al. 2015). Hashtag: #CitiesForBees / #ByerForBier. Embed badge: `<a href="https://wenzl.no/en/CitiesForBees/"><img src="https://wenzl.no/images/CitiesForBees.png" alt="Cities for Bees" width="300"></a>`
 - **Pollination**: free colony placement in Bergen gardens, orchards, and smallholdings in exchange for space during the growing season.
-- **Apitherapy**: therapeutic use of bee proximity — hive air, warmth, vibration. Consulting and construction of apitherapy houses (apidomki); Ukrainian hives for care homes, rehabilitation centres, wellness projects.
+- **Apitherapy**: an apidomek (apitherapy house) is a small cabin where people sleep above the hives — a calm, unusual way to rest deeply in nature. Consulting and construction of apidomki; Ukrainian hives built for care homes, rehabilitation centres, and wellness projects.
 - **Institutional cooperation**: colonies in institutional gardens for ecology and biodiversity. Active example: DPS Soli, Bergen.
 
 ## Philosophy
 
 - **Wood, not plastic**: for millions of years bees lived in tree hollows — no industrial material replicates that insulation, breathability and structure.
-- **Honey belongs to the bees**: honey is the bees' food, not a harvest target. Martin takes a small portion only when a colony has genuine surplus. Bees winter on honey, not sugar. He does not sell honey.
+- **Honey belongs to the bees**: honey is the bees' food, not a harvest target. Martin takes a small portion only when a colony has genuine surplus. He aims to let bees winter on honey; if a colony lacks sufficient stores, he supplements with sugar. He does not sell honey.
 - **Swarming is reproduction**: a swarm is a success, not a failure. Where safe, Martin allows swarming — it strengthens the local bee population and preserves natural instincts.
 - **Biological reserve**: the goal is not production but preserving healthy, chemical-free colonies outside the commercial system for future generations.
 - **Bring bees back to cities**: plant flowers from spring to autumn, stop mowing, give bees space in parks and on rooftops.
@@ -50,7 +50,7 @@
 - Pollination: free, Bergen region, bees for space
 - Hives: 3 handcrafted wooden models, made to order
 - Apitherapy: Ukrainian hives, apitherapy houses, institutional consulting
-- Does not sell honey
+- Does not sell honey — bees keep their honey; supplements with sugar only when stores are insufficient
 - Active colonies: 5 in Bergen
 - Certificate: Kompetansekurs om bier, 2024, valid 10 years
 - Education: Mendel University Brno, Beekeeping and Bee Products

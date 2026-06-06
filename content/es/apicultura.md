@@ -118,11 +118,11 @@ Si tu institución — hospital, residencia, escuela o lugar de trabajo — tien
 
 ## Apiterapia
 
-La apiterapia es el uso terapéutico de la proximidad de las abejas: el aire de la colmena, el calor y las vibraciones. La colmena horizontal ucraniana es el tipo de colmena tradicional para este propósito: baja, ancha, diseñada para colocarse bajo una plataforma de descanso donde las personas se tumban directamente sobre la colonia, respiran el aire de la colmena y sienten su calor y zumbido.
+Un **apidomek** (casa de apiterapia) es una pequeña cabaña o refugio donde las personas duermen sobre las colmenas — una forma tranquila e inusual de descansar profundamente en la naturaleza. La colmena horizontal ucraniana es el tipo tradicional para este propósito: baja y ancha, diseñada para encajar bajo una plataforma para dormir.
 
 Ofrezco:
 
-- Asesoramiento y construcción de **casas de apiterapia** — un pequeño refugio donde las personas descansan sobre las colmenas
+- Asesoramiento y construcción de **apidomki** — pequeñas cabañas donde los huéspedes duermen directamente sobre las colmenas
 - Colmenas horizontales ucranianas de fabricación propia, construidas y gestionadas específicamente para apiterapia
 - Orientación para centros de cuidados, centros de rehabilitación y proyectos de bienestar que consideren la apiterapia
 
