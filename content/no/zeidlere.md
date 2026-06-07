@@ -29,18 +29,10 @@ I **Basjkortostan** (Russland) holder basjkirene бортничество levend
 
 I **Afrika** er birøkt i trestammer fremdeles den vanligste formen for honningproduksjon i mange land. I **Polen** og **Tyskland** samles grupper av Zeidlere igjen og knytter an til den avbrutte tradisjonen.
 
-## Norge
+## En invitasjon
 
-I Norge finnes ikke denne tradisjonen. Norsk birøkt er ung, moderne og organisert — og det er bra.
+Jeg vil prøve å bringe denne tradisjonen til Norge. Jeg leter etter samarbeidspartnere — birøktere, skogsarbeidere, historieinteresserte eller bare nysgjerrige.
 
-Men nettopp derfor er det plass til noe annet. Til en tilnærming som aldri har slått rot her, og som ikke trenger å avgrense seg mot noe som eksisterer. Dette er ikke et forbund. Det er ikke en konkurrent til Norsk Birøkterlag eller noen annen organisasjon. Det er en idé: at bier har rett til å leve i et hulrom i et tre, og at det finnes mennesker som vil ledsage dem i det.
-
-Norge har gamle skoger. Norge har plass.
-
-## En oppfordring
-
-Jeg ønsker å åpne denne ideen i Norge. Knytte an til en tradisjon med røtter i hele Europa — fra Böhmen gjennom Polen og Tyskland til Basjkortostan.
-
-Sympatiserer du med denne tanken? Eller er du skeptisk — eller direkte imot? I begge tilfeller, ta kontakt. Diskusjon er begynnelsen på alt.
+Interessert, eller har du spørsmål? Ta kontakt.
 
 {{< contact >}}

@@ -29,18 +29,10 @@ En **Bashkortostán** (Rusia), los baskires mantienen el бортничеств�
 
 En **África**, la apicultura en troncos sigue siendo la forma más común de producción de miel en muchos países. En **Polonia** y **Alemania**, grupos de Zeidler vuelven a reunirse y retoman la tradición interrumpida.
 
-## Noruega
-
-En Noruega no existe esta tradición. La apicultura noruega es joven, moderna y bien organizada — y eso está bien.
-
-Pero precisamente por eso hay lugar para algo diferente. Para un enfoque que nunca echó raíces aquí, y que no necesita definirse en oposición a nada que exista. No es una asociación. No es un competidor de Norsk Birøkterlag ni de ninguna otra organización. Es una sola idea: que las abejas tienen derecho a vivir en la oquedad de un árbol, y que hay personas que quieren acompañarlas en eso.
-
-Noruega tiene bosques antiguos. Noruega tiene espacio.
-
 ## Una invitación
 
-Quiero abrir esta idea en Noruega. Conectar con una tradición arraigada en toda Europa — desde Bohemia a través de Polonia y Alemania hasta Bashkortostán.
+Quiero intentar traer esta tradición a Noruega. Busco colaboradores — apicultores, guardabosques, aficionados a la historia o simplemente personas curiosas.
 
-¿Simpatizas con esta idea? ¿O eres escéptico — o directamente estás en contra? En cualquier caso, escríbeme. La discusión es el comienzo de todo.
+¿Te interesa, o tienes preguntas? Escríbeme.
 
 {{< contact >}}

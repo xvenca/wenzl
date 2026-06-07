@@ -29,18 +29,10 @@ V **Baškortostánu** (Rusko) Baškirové udržují бортничество nep
 
 V **Africe** je klátové včelaření v mnoha zemích stále nejběžnější formou chovu. V **Polsku** a **Německu** se skupiny brtníků a Zeidlerů v posledních desetiletích znovu formují a navazují na přerušenou tradici.
 
-## Norsko
-
-V Norsku tato tradice chybí. Norské včelaření je mladé, moderní a organizované — a to je v pořádku.
-
-Ale právě proto je tu místo pro něco jiného. Pro přístup, který tu nikdy nebyl zakořeněn, a který se nemusí vymezovat vůči ničemu, co tu existuje. Nejde o spolek. Nejde o konkurenci Norsk Birøkterlag ani žádné jiné organizaci. Jde o jednu myšlenku: že včely mají právo žít v dutině stromu, a že existují lidé, kteří je v tom chtějí doprovázet.
-
-Norsko má staré lesy. Norsko má místo.
-
 ## Výzva
 
-Chci tu myšlenku v Norsku otevřít. Navázat na tradici, která má kořeny po celé Evropě — od Čech přes Polsko a Německo až po Baškortostán.
+Chci tuto tradici zkusit přinést do Norska. Hledám spolupracovníky — včelaře, lesníky, nadšence do historie nebo prostě zvědavé lidi.
 
-Sympatizujete s touto myšlenkou? Nebo jste skeptičtí — či přímo proti? V obou případech se mi ozvěte. Diskuze je začátek všeho.
+Zajímá tě to, nebo máš otázky? Napiš mi.
 
 {{< contact >}}

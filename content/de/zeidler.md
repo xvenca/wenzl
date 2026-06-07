@@ -29,18 +29,10 @@ In **Baschkortostan** (Russland) pflegen die Baschkiren das бортничест
 
 In **Afrika** ist die Bienenhaltung in Baumstammbeuten in vielen Ländern nach wie vor die häufigste Form der Honiggewinnung. In **Polen** und **Deutschland** finden sich Gruppen von Zeidlern wieder zusammen und knüpfen an die unterbrochene Tradition an.
 
-## Norwegen
-
-In Norwegen gibt es diese Tradition nicht. Die norwegische Imkerei ist jung, modern und organisiert — und das ist gut so.
-
-Aber genau deshalb ist hier Platz für etwas anderes. Für einen Ansatz, der hier nie verwurzelt war, und der sich nicht gegen Bestehendes abgrenzen muss. Dies ist kein Verein. Es ist kein Konkurrent zum Norsk Birøkterlag oder einer anderen Organisation. Es ist eine einzige Idee: dass Bienen das Recht haben, in einer Baumhöhle zu leben, und dass es Menschen gibt, die sie dabei begleiten möchten.
-
-Norwegen hat alte Wälder. Norwegen hat Platz.
-
 ## Eine Einladung
 
-Ich möchte diese Idee in Norwegen eröffnen. An eine Tradition anknüpfen, die in ganz Europa verwurzelt ist — von Böhmen über Polen und Deutschland bis nach Baschkortostan.
+Ich möchte versuchen, diese Tradition nach Norwegen zu bringen. Ich suche Mitstreiter — Imker, Förster, Geschichtsbegeisterte oder einfach neugierige Menschen.
 
-Sympathisieren Sie mit diesem Gedanken? Oder sind Sie skeptisch — oder gar dagegen? In beiden Fällen melden Sie sich. Diskussion ist der Anfang von allem.
+Interessiert, oder haben Sie Fragen? Schreiben Sie mir.
 
 {{< contact >}}

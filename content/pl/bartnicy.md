@@ -29,18 +29,10 @@ W **Baszkortostanie** (Rosja) Baszkirzy kultywują бортничество niep
 
 W **Afryce** pszczelarstwo kłodowe pozostaje najczęstszą formą pozyskiwania miodu w wielu krajach. W **Polsce** i **Niemczech** grupy bartników i Zeidlerów znów się formują i nawiązują do przerwanej tradycji.
 
-## Norwegia
-
-W Norwegii tej tradycji nie ma. Norweskie pszczelarstwo jest młode, nowoczesne i zorganizowane — i to jest w porządku.
-
-Ale właśnie dlatego jest tu miejsce na coś innego. Na podejście, które nigdy tu nie zakorzeniło się, i które nie musi określać się w opozycji do niczego, co istnieje. To nie jest stowarzyszenie. To nie jest konkurent dla Norsk Birøkterlag ani żadnej innej organizacji. To jest jedna prosta idea: że pszczoły mają prawo żyć w dziupli drzewa, i że są ludzie, którzy chcą im w tym towarzyszyć.
-
-Norwegia ma stare lasy. Norwegia ma miejsce.
-
 ## Zaproszenie
 
-Chcę otworzyć tę ideę w Norwegii. Nawiązać do tradycji zakorzenionej w całej Europie — od Czech przez Polskę i Niemcy aż po Baszkortastan.
+Chcę spróbować przywieźć tę tradycję do Norwegii. Szukam współpracowników — pszczelarzy, leśników, miłośników historii lub po prostu ciekawskich ludzi.
 
-Sympatyzujesz z tą myślą? Albo jesteś sceptyczny — czy wręcz przeciwny? W obu przypadkach napisz do mnie. Dyskusja jest początkiem wszystkiego.
+Jesteś zainteresowany, albo masz pytania? Napisz do mnie.
 
 {{< contact >}}

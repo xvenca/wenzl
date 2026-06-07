@@ -29,18 +29,10 @@ In **Bashkortostan** (Russia), the Bashkir people have kept бортничест
 
 In **Africa**, log hive beekeeping remains the most common form of honey production in many countries. In **Poland** and **Germany**, groups of Zeidlers are gathering again and reviving the interrupted tradition.
 
-## Norway
-
-Norway has no such tradition. Norwegian beekeeping is young, modern and well-organised — and that is fine.
-
-But precisely for that reason, there is room for something else. For an approach that has never taken root here, and that need not define itself against anything that exists. This is not an association. It is not a competitor to Norsk Birøkterlag or any other organisation. It is one idea: that bees have the right to live in a hollow tree, and that there are people who want to accompany them in that.
-
-Norway has old forests. Norway has room.
-
 ## An Invitation
 
-I want to open this idea in Norway. To connect with a tradition rooted across all of Europe — from Bohemia through Poland and Germany to Bashkortostan.
+I want to try bringing this tradition to Norway. I'm looking for collaborators — beekeepers, foresters, history enthusiasts, or simply curious people.
 
-Do you sympathise with this idea? Or are you sceptical — or outright against it? Either way, get in touch. Discussion is the beginning of everything.
+Interested, or have questions? Get in touch.
 
 {{< contact >}}
