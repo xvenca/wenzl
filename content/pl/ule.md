@@ -10,7 +10,9 @@ Buduję własne drewniane leżaki w Bergen. Leżaki nie należą do norweskiej t
 
 ## Leżak Gregor
 
-Ocieplany drewniany leżak typu Gregor na norweski rozmiar ramki z dwoma nadstawkami u góry do zimowego podziału rodziny. Został rozwinięty w Bergen i z myślą o warunkach Bergen, aby chronić pszczoły w deszczowej pogodzie i zapewniać im komfort również zimą. Ten typ ula pierwotnie wykonywał mój przyjaciel Jan Gregor, od którego przejąłem pałeczkę i zgodę na dalsze wytwarzanie tych uli; z myślą o deszczowym Bergen ich zewnętrzny płaszcz jest dodatkowo zabezpieczony przed wodą. Nadstawki naturalnie ogrzewają się od rodziny poniżej — to delikatne dla pszczół w chłodnym sezonie.
+Ocieplany drewniany leżak typu Gregor na norweski rozmiar ramki z dwoma nadstawkami u góry do zimowego podziału rodziny. Został rozwinięty w Bergen i z myślą o warunkach Bergen, aby chronić pszczoły w deszczowej pogodzie i zapewniać im komfort również zimą. Nadstawki naturalnie ogrzewają się od rodziny poniżej — to delikatne dla pszczół w chłodnym sezonie; zewnętrzny płaszcz jest dodatkowo zabezpieczony przed wodą z myślą o deszczowym Bergen.
+
+Ten typ nosi imię swojego twórcy — **Jana Gregora**, mojego przyjaciela i pszczelarza, którego staranność i precyzja rzemieślnicza nadały temu ulowi jego charakter. Sam kupiłem cztery ule Gregor bezpośrednio od Jana i jestem z nich bardzo zadowolony. Jan przekazał mi pałeczkę i zgodę na dalsze wytwarzanie tych uli — i staram się szanować jego podejście.
 
 ## Ukraiński leżak
 

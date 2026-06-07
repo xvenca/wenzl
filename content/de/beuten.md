@@ -10,7 +10,9 @@ Ich baue meine eigenen Holz-Lagerbeuten in Bergen. Lagerbeuten gehören nicht zu
 
 ## Gregor-Lagerbeute
 
-Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei Honigräumen darüber für die Überwinterung mit geteilter Volkseinheit. Sie wurde in Bergen und für die Bedingungen in Bergen entwickelt, um die Bienen im regnerischen Bergenwetter zu schützen und ihnen auch im Winter Komfort zu geben. Dieser Typ wurde ursprünglich von meinem Freund Jan Gregor gebaut; von ihm habe ich den Staffelstab und die Erlaubnis übernommen, diese Beuten weiter zu bauen, und für das regnerische Bergen ist die Außenhülle zusätzlich gegen Wasser geschützt. Die Aufsätze werden natürlich vom Volk darunter erwärmt — schonend für die Bienen in der kalten Jahreszeit.
+Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei Honigräumen darüber für die Überwinterung mit geteilter Volkseinheit. Sie wurde in Bergen und für die Bedingungen in Bergen entwickelt, um die Bienen im regnerischen Bergenwetter zu schützen und ihnen auch im Winter Komfort zu geben. Die Aufsätze werden natürlich vom Volk darunter erwärmt — schonend für die Bienen in der kalten Jahreszeit; für das regnerische Bergen ist die Außenhülle zusätzlich gegen Wasser geschützt.
+
+Dieser Typ trägt den Namen seines Schöpfers — **Jan Gregor**, meinem Freund und Imker, dessen Sorgfalt und handwerkliche Präzision dieser Beute ihren Charakter gegeben haben. Ich habe vier Gregor-Beuten direkt von Jan gekauft und bin sehr zufrieden damit. Jan hat mir den Staffelstab übergeben und mir erlaubt, diese Beuten weiterzubauen — und ich versuche, seinen Ansatz zu ehren.
 
 ## Ukrainische Lagerbeute
 

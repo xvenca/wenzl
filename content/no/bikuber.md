@@ -10,7 +10,9 @@ Jeg bygger mine egne liggebikuber i tre i Bergen. Liggebikuber er ikke en del av
 
 ## Gregor-liggebikube
 
-En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over for vinteroppdeling. Den ble utviklet i Bergen og for forholdene i Bergen, for å beskytte biene i det regnfulle bergensværet og gi dem komfort også om vinteren. Denne typen ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Oppsatsene varmes opp naturlig fra det underliggende bisamfunnet — en løsning som er skånsom mot biene om vinteren.
+En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over for vinteroppdeling. Den ble utviklet i Bergen og for forholdene i Bergen, for å beskytte biene i det regnfulle bergensværet og gi dem komfort også om vinteren. Oppsatsene varmes opp naturlig fra det underliggende bisamfunnet — en løsning som er skånsom mot biene om vinteren; for det regnfulle Bergen er ytterkappen dessuten beskyttet mot vann.
+
+Denne typen bærer navnet til skaperen sin — **Jan Gregor**, vennen min og birøkteren, hvis omsorg og håndverksdyktighet ga denne bikuben dens karakter. Jeg kjøpte fire Gregor-bikuber direkte fra Jan og er svært fornøyd med dem. Jan ga meg stafettpinnen og tillatelsen til å fortsette å bygge disse kubene — og jeg forsøker å hedre tilnærmingen hans.
 
 ## Ukrainsk liggebikube
 
