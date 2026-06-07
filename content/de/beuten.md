@@ -32,6 +32,12 @@ Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch
 
 Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
 
+## Freier Wabenbau
+
+Mittelwände geben allen Völkern denselben Ausgangspunkt — wie ein Bauträger, der ein Haus baut, ohne an den Bewohner zu denken. Jedes Volk ist anders, und der freie Wabenbau gibt ihm den Raum, genau das zu gestalten, was es braucht. Außerdem bauen Bienen einfach gern.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." caption="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." >}}
+
 ## Baumstammbeute — mein Traum
 
 Die natürlichste Beute, die es gibt. Ein ausgehöhlter Baumstamm, der das nachahmt, was Bienen in der Natur selbst wählen — eine tiefe Höhle mit dicken Wänden, natürlichem Mikroklima und Platz für freien Wabenbau. Keine rechten Winkel, keine industriellen Materialien — nur Holz, Luft und Bienen.
@@ -41,11 +47,5 @@ Die natürlichste Beute, die es gibt. Ein ausgehöhlter Baumstamm, der das nacha
 Die dicken Wände des Stammes isolieren besser als alles andere. Feuchtigkeit, Temperatur und Belüftung im Inneren der Höhlung regulieren sich auf natürliche Weise — genau so, wie Bienen es brauchen. Eingriffe von außen sind minimal. Freier Wabenbau ist hier eine Selbstverständlichkeit, weil nichts anderes überhaupt möglich ist.
 
 Diese Beute habe ich noch nicht — aber ich träume davon.
-
-## Freier Wabenbau
-
-Mittelwände geben allen Völkern denselben Ausgangspunkt — wie ein Bauträger, der ein Haus baut, ohne an den Bewohner zu denken. Jedes Volk ist anders, und der freie Wabenbau gibt ihm den Raum, genau das zu gestalten, was es braucht. Außerdem bauen Bienen einfach gern.
-
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." caption="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." >}}
 
 {{< contact >}}

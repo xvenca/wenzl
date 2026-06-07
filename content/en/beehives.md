@@ -34,6 +34,12 @@ It builds on the proven Gregor horizontal hive, but I use even thicker solid-woo
 
 Interest in the hives has already begun to arrive — *get in touch if you would like a hive.*
 
+## Natural Comb Building
+
+Commercial foundation gives every colony the same starting point — like a developer who builds a house without considering the person who will live in it. Every colony is different, and natural comb building gives it the space to create exactly what it needs. Besides, bees simply enjoy building.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." caption="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." >}}
+
 ## Log Hive — my dream
 
 The most natural beehive that exists. A hollowed-out tree trunk that mimics what bees choose for themselves in the wild — a deep cavity with thick walls, natural microclimate, and space for free comb building. No right angles, no industrial materials — just wood, air, and bees.
@@ -43,12 +49,6 @@ The most natural beehive that exists. A hollowed-out tree trunk that mimics what
 The thick walls of the trunk insulate better than anything else. Humidity, temperature, and ventilation inside the cavity regulate themselves naturally — exactly as bees need them to. Outside intervention is minimal. Natural comb building is a given here, because nothing else is even possible.
 
 I do not have this hive yet — but I dream of it.
-
-## Natural Comb Building
-
-Commercial foundation gives every colony the same starting point — like a developer who builds a house without considering the person who will live in it. Every colony is different, and natural comb building gives it the space to create exactly what it needs. Besides, bees simply enjoy building.
-
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." caption="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." >}}
 
 {{< contact >}}
 
