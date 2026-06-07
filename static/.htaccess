@@ -8,6 +8,12 @@ RewriteRule ^CitiesForBees/?$ /en/CitiesForBees/ [R=301,L]
 RewriteRule ^en/citiesforbees/?$ /en/CitiesForBees/ [R=301,L]
 RewriteRule ^en/pollinators/?$ /en/CitiesForBees/ [R=301,L]
 
+# Image file redirects — photos taken June 2025, files were originally named with 2026
+RewriteRule ^images/hive-ukrainian-frame-bees-2026-06-06\.jpg$ /images/hive-ukrainian-frame-bees-2025-06-06.jpg [R=301,L]
+RewriteRule ^images/hive-ukrainian-frame-wax-2026-06-06\.jpg$ /images/hive-ukrainian-frame-wax-2025-06-06.jpg [R=301,L]
+RewriteRule ^images/hive-ukrainian-garden-2026-06-06-1\.jpg$ /images/hive-ukrainian-garden-2025-06-06-1.jpg [R=301,L]
+RewriteRule ^images/hive-ukrainian-garden-2026-06-06-2\.jpg$ /images/hive-ukrainian-garden-2025-06-06-2.jpg [R=301,L]
+
 # Other language old pollinators URLs
 RewriteRule ^pollinatorer/?$ /ByerForBier/ [R=301,L]
 RewriteRule ^cs/opylovaci/?$ /cs/MestaProVcely/ [R=301,L]

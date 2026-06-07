@@ -190,12 +190,12 @@ A swarm that had been living in an apartment building for several days had alrea
 <tr>
 <td><img src="static/images/hive-yellow-topbars.jpg" width="220" alt="Top bars of the accessible Gregor hive — gentle tending without heavy lifting"></td>
 <td><img src="static/images/hive-ukrainian.jpg" width="220" alt="Ukrainian horizontal hives in a garden in Bergen — used for apitherapy"></td>
-<td><img src="static/images/hive-ukrainian-garden-2026-06-06-1.jpg" width="220" alt="Ukrainian horizontal hive in the Bergen garden — June 2026, full bloom"></td>
+<td><img src="static/images/hive-ukrainian-garden-2025-06-06-1.jpg" width="220" alt="Ukrainian horizontal hive in the Bergen garden — June 2025, full bloom"></td>
 </tr>
 <tr>
-<td><img src="static/images/hive-ukrainian-garden-2026-06-06-2.jpg" width="220" alt="Ukrainian horizontal hives in the Bergen garden — June 2026"></td>
-<td><img src="static/images/hive-ukrainian-frame-bees-2026-06-06.jpg" width="220" alt="Ukrainian hive frame with bees — June 2026"></td>
-<td><img src="static/images/hive-ukrainian-frame-wax-2026-06-06.jpg" width="220" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation, June 2026"></td>
+<td><img src="static/images/hive-ukrainian-garden-2025-06-06-2.jpg" width="220" alt="Ukrainian horizontal hives in the Bergen garden — June 2025"></td>
+<td><img src="static/images/hive-ukrainian-frame-bees-2025-06-06.jpg" width="220" alt="Ukrainian hive frame with bees — June 2025"></td>
+<td><img src="static/images/hive-ukrainian-frame-wax-2025-06-06.jpg" width="220" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation, June 2025"></td>
 </tr>
 </table>
 
@@ -319,10 +319,10 @@ Norwegian equivalent URLs (default language, no prefix):
 | [hive-yellow-open.jpg](static/images/hive-yellow-open.jpg) | Yellow hive open, hinged aluminium roof |
 | [hive-yellow-topbars.jpg](static/images/hive-yellow-topbars.jpg) | Top bars — gentle tending without heavy lifting |
 | [hive-ukrainian.jpg](static/images/hive-ukrainian.jpg) | Ukrainian horizontal hives in a Bergen garden |
-| [hive-ukrainian-garden-2026-06-06-1.jpg](static/images/hive-ukrainian-garden-2026-06-06-1.jpg) | Ukrainian hive in the Bergen garden — June 2026, full bloom |
-| [hive-ukrainian-garden-2026-06-06-2.jpg](static/images/hive-ukrainian-garden-2026-06-06-2.jpg) | Ukrainian hives in the Bergen garden — June 2026 |
-| [hive-ukrainian-frame-bees-2026-06-06.jpg](static/images/hive-ukrainian-frame-bees-2026-06-06.jpg) | Ukrainian hive frame with bees — June 2026 |
-| [hive-ukrainian-frame-wax-2026-06-06.jpg](static/images/hive-ukrainian-frame-wax-2026-06-06.jpg) | Natural comb in Ukrainian hive — freely drawn without foundation, June 2026 |
+| [hive-ukrainian-garden-2025-06-06-1.jpg](static/images/hive-ukrainian-garden-2025-06-06-1.jpg) | Ukrainian hive in the Bergen garden — June 2025, full bloom |
+| [hive-ukrainian-garden-2025-06-06-2.jpg](static/images/hive-ukrainian-garden-2025-06-06-2.jpg) | Ukrainian hives in the Bergen garden — June 2025 |
+| [hive-ukrainian-frame-bees-2025-06-06.jpg](static/images/hive-ukrainian-frame-bees-2025-06-06.jpg) | Ukrainian hive frame with bees — June 2025 |
+| [hive-ukrainian-frame-wax-2025-06-06.jpg](static/images/hive-ukrainian-frame-wax-2025-06-06.jpg) | Natural comb in Ukrainian hive — freely drawn without foundation, June 2025 |
 | [swarm-playground-bergen-2025/01.jpg](static/images/swarm-playground-bergen-2025/01.jpg) | Bee swarm in a bush at a Bergen playground, 16 May 2025 |
 | [swarm-playground-bergen-2025/02.jpg](static/images/swarm-playground-bergen-2025/02.jpg) | Swarm collection in progress at the playground |
 | [swarm-playground-bergen-2025/03.jpg](static/images/swarm-playground-bergen-2025/03.jpg) | Swarm successfully collected |

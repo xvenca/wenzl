@@ -20,7 +20,7 @@ Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen
 
 Wer auf seinem Grundstück ein Apihäuschen haben möchte, kann sich gern an mich wenden. Ich helfe bei der Umsetzung und begleite fachlich sowohl den Bau der Beuten als auch die Imkerei.
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." caption="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." >}}
+{{< figure src="/images/hive-ukrainian-garden-2025-06-06-1.jpg" alt="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." caption="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." >}}
 
 ## Barrierearme Lagerbeute
 
@@ -34,6 +34,6 @@ Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie e
 
 Mittelwände geben allen Völkern denselben Ausgangspunkt — wie ein Bauträger, der ein Haus baut, ohne an den Bewohner zu denken. Jedes Volk ist anders, und der freie Wabenbau gibt ihm den Raum, genau das zu gestalten, was es braucht. Außerdem bauen Bienen einfach gern.
 
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." caption="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." >}}
+{{< figure src="/images/hive-ukrainian-frame-wax-2025-06-06.jpg" alt="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." caption="Natürlicher Wabenbau in der ukrainischen Lagerbeute — frei gezogene Wabe ohne Mittelwand." >}}
 
 {{< contact >}}

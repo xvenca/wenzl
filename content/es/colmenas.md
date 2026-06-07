@@ -20,7 +20,7 @@ Construida según la tradición del abuelo de mi esposa, que fue apicultor en Uc
 
 Si alguien quisiera tener en su terreno una pequeña casa de apiterapia, puede ponerse en contacto conmigo. Estaré encantado de ayudar con la realización y de aportar respaldo profesional tanto en la fabricación de las colmenas como en el manejo de las abejas.
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." caption="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." >}}
+{{< figure src="/images/hive-ukrainian-garden-2025-06-06-1.jpg" alt="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." caption="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." >}}
 
 ## Colmena horizontal accesible
 
@@ -34,7 +34,7 @@ El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas u
 
 La cera laminada da a todas las colonias el mismo punto de partida — como un promotor que construye una casa sin pensar en quien va a vivir en ella. Cada colonia es distinta, y la construcción libre le da el espacio para crear exactamente lo que necesita. Además, a las abejas simplemente les gusta construir.
 
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." caption="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." >}}
+{{< figure src="/images/hive-ukrainian-frame-wax-2025-06-06.jpg" alt="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." caption="Construcción libre en la colmena ucraniana — panal construido sin cera laminada." >}}
 
 {{< contact >}}
 

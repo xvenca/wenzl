@@ -21,7 +21,7 @@ Built after the tradition of my wife's grandfather, who kept bees in Ukraine. My
 If you would like to have a small bee house on your property, feel free to contact me. I can help plan the project and provide professional guidance for both hive building and beekeeping.
 
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." caption="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." >}}
+{{< figure src="/images/hive-ukrainian-garden-2025-06-06-1.jpg" alt="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." caption="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." >}}
 
 ## Accessible Horizontal Hive
 
@@ -36,7 +36,7 @@ Interest in the hives has already begun to arrive — *get in touch if you would
 
 Commercial foundation gives every colony the same starting point — like a developer who builds a house without considering the person who will live in it. Every colony is different, and natural comb building gives it the space to create exactly what it needs. Besides, bees simply enjoy building.
 
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." caption="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." >}}
+{{< figure src="/images/hive-ukrainian-frame-wax-2025-06-06.jpg" alt="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." caption="Natural comb building in the Ukrainian hive — freely drawn comb without foundation." >}}
 
 {{< contact >}}
 

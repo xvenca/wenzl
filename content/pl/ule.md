@@ -20,7 +20,7 @@ Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukr
 
 Jeśli ktoś chciałby mieć na swojej działce domek do apiterapii, może się ze mną skontaktować. Chętnie pomogę w realizacji i zapewnię fachowe wsparcie przy budowie uli oraz prowadzeniu pasieki.
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." caption="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." >}}
+{{< figure src="/images/hive-ukrainian-garden-2025-06-06-1.jpg" alt="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." caption="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." >}}
 
 ## Bezbarierowy leżak
 
@@ -34,6 +34,6 @@ Zainteresowanie moimi ulami już się pojawia — *napisz do mnie, jeśli chcesz
 
 Węza daje wszystkim rodzinom ten sam punkt wyjścia — jak deweloper, który buduje dom bez myślenia o tym, kto w nim zamieszka. Każda rodzina pszczela jest inna, a wolna budowa plastrów daje jej przestrzeń do stworzenia dokładnie tego, czego potrzebuje. Poza tym pszczoły po prostu lubią budować.
 
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." caption="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." >}}
+{{< figure src="/images/hive-ukrainian-frame-wax-2025-06-06.jpg" alt="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." caption="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." >}}
 
 {{< contact >}}

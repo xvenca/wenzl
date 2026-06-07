@@ -18,7 +18,7 @@ Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine t
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainske liggebikuber i hagen i Bergen." caption="Ukrainske liggebikuber i hagen i Bergen." >}}
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Den ukrainske liggebikuben i hagen i Bergen — juni 2025, hagen er i full blomst." caption="Den ukrainske liggebikuben i hagen i Bergen — juni 2025, hagen er i full blomst." >}}
+{{< figure src="/images/hive-ukrainian-garden-2025-06-06-1.jpg" alt="Den ukrainske liggebikuben i hagen i Bergen — juni 2025, hagen er i full blomst." caption="Den ukrainske liggebikuben i hagen i Bergen — juni 2025, hagen er i full blomst." >}}
 
 ## Universelt tilgjengelig liggebikube
 
@@ -33,7 +33,7 @@ Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du �
 
 Kunstkake gir alle familier det samme utgangspunktet — som en utbygger som bygger et hus uten å tenke på den som skal bo i det. Hver birøktfamilie er forskjellig, og fri vokstavbygging gir den rom til å skape akkurat det den trenger. Dessuten liker biene rett og slett å bygge.
 
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." caption="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." >}}
+{{< figure src="/images/hive-ukrainian-frame-wax-2025-06-06.jpg" alt="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." caption="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." >}}
 
 {{< contact >}}
 
