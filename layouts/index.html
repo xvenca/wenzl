@@ -121,6 +121,28 @@
 </section>
 {{ end }}{{ end }}
 
+<!-- ── Guild ──────────────────────────────────────────────────── -->
+{{ range .Site.Menus.main }}{{ if eq .Identifier "guild" }}
+<section class="bg-amber-950 border-b border-amber-900">
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-12">
+    <a href="{{ .URL }}"
+       class="flex flex-col sm:flex-row items-center gap-8 group">
+      <div class="text-center sm:text-left flex-1">
+        <p class="text-xs font-bold text-amber-400 tracking-[0.2em] uppercase mb-2">{{ i18n "guild_label" }}</p>
+        <h2 class="text-2xl sm:text-3xl font-bold text-white group-hover:text-amber-300 transition mb-3 leading-tight">{{ i18n "guild_title" }}</h2>
+        <p class="text-amber-100/70 text-base sm:text-lg leading-relaxed mb-5 max-w-xl">{{ i18n "guild_tagline" }}</p>
+        <span class="inline-flex items-center gap-2 bg-amber-600 group-hover:bg-amber-500 text-white font-semibold text-sm px-6 py-3 rounded-lg transition shadow-sm">
+          {{ i18n "guild_cta" }}
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </span>
+      </div>
+    </a>
+  </div>
+</section>
+{{ end }}{{ end }}
+
 <!-- ── Services ───────────────────────────────────────────────── -->
 {{ with $services }}
 <section class="bg-white border-b border-amber-100">

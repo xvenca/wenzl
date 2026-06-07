@@ -62,10 +62,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/medlemskap/"
       weight = 7
     [[languages.no.menu.main]]
+      identifier = "guild"
+      name = "Zeidlere"
+      url = "/Zeidlere/"
+      weight = 8
+    [[languages.no.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/kontakt/"
-      weight = 8
+      weight = 9
 
   [languages.en]
     languageName = "English"
@@ -110,10 +115,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/en/membership/"
       weight = 7
     [[languages.en.menu.main]]
+      identifier = "guild"
+      name = "Zeidlers"
+      url = "/en/Zeidlers/"
+      weight = 8
+    [[languages.en.menu.main]]
       identifier = "contact"
       name = "Contact"
       url = "/en/contact/"
-      weight = 8
+      weight = 9
 
   [languages.cs]
     languageName = "Čeština"
@@ -158,10 +168,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/cs/clenstvi/"
       weight = 7
     [[languages.cs.menu.main]]
+      identifier = "guild"
+      name = "Brtníci"
+      url = "/cs/brtnici/"
+      weight = 8
+    [[languages.cs.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/cs/contact/"
-      weight = 8
+      weight = 9
 
   [languages.uk]
     languageName = "Українська"
@@ -206,10 +221,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/uk/membership/"
       weight = 7
     [[languages.uk.menu.main]]
+      identifier = "guild"
+      name = "Бортники"
+      url = "/uk/Bortniky/"
+      weight = 8
+    [[languages.uk.menu.main]]
       identifier = "contact"
       name = "Контакт"
       url = "/uk/contact/"
-      weight = 8
+      weight = 9
 
   [languages.ru]
     languageName = "Русский"
@@ -254,10 +274,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/ru/membership/"
       weight = 7
     [[languages.ru.menu.main]]
+      identifier = "guild"
+      name = "Бортники"
+      url = "/ru/Bortniki/"
+      weight = 8
+    [[languages.ru.menu.main]]
       identifier = "contact"
       name = "Контакт"
       url = "/ru/contact/"
-      weight = 8
+      weight = 9
 
   [languages.pl]
     languageName = "Polski"
@@ -302,10 +327,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/pl/membership/"
       weight = 7
     [[languages.pl.menu.main]]
+      identifier = "guild"
+      name = "Bartnicy"
+      url = "/pl/Bartnicy/"
+      weight = 8
+    [[languages.pl.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/pl/contact/"
-      weight = 8
+      weight = 9
 
   [languages.de]
     languageName = "Deutsch"
@@ -350,10 +380,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/de/membership/"
       weight = 7
     [[languages.de.menu.main]]
+      identifier = "guild"
+      name = "Zeidler"
+      url = "/de/Zeidler/"
+      weight = 8
+    [[languages.de.menu.main]]
       identifier = "contact"
       name = "Kontakt"
       url = "/de/contact/"
-      weight = 8
+      weight = 9
 
   [languages.es]
     languageName = "Español"
@@ -398,10 +433,15 @@ disableKinds = ["taxonomy", "term"]
       url = "/es/afiliaciones/"
       weight = 7
     [[languages.es.menu.main]]
+      identifier = "guild"
+      name = "Zeidler"
+      url = "/es/Zeidler/"
+      weight = 8
+    [[languages.es.menu.main]]
       identifier = "contact"
       name = "Contacto"
       url = "/es/contacto/"
-      weight = 8
+      weight = 9
 
   [languages.cu]
     languageName = "Словѣньскъ"
@@ -446,7 +486,12 @@ disableKinds = ["taxonomy", "term"]
       url = "/cu/membership/"
       weight = 7
     [[languages.cu.menu.main]]
+      identifier = "guild"
+      name = "Бортьници"
+      url = "/cu/Bortnici/"
+      weight = 8
+    [[languages.cu.menu.main]]
       identifier = "contact"
       name = "Контактъ"
       url = "/cu/contact/"
-      weight = 8
+      weight = 9
