@@ -32,6 +32,12 @@ Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ś
 
 Zainteresowanie moimi ulami już się pojawia — *napisz do mnie, jeśli chcesz taki ul.*
 
+## Wolna budowa plastrów
+
+Węza daje wszystkim rodzinom ten sam punkt wyjścia — jak deweloper, który buduje dom bez myślenia o tym, kto w nim zamieszka. Każda rodzina pszczela jest inna, a wolna budowa plastrów daje jej przestrzeń do stworzenia dokładnie tego, czego potrzebuje. Poza tym pszczoły po prostu lubią budować.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." caption="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." >}}
+
 ## Kłodowy ul — moje marzenie
 
 Najbardziej naturalny ul, jaki istnieje. Wydrążony pień drzewa, który naśladuje to, co pszczoły same wybierają w naturze — głęboką dziuplę z grubymi ścianami, naturalnym mikroklimatem i przestrzenią do wolnej budowy plastrów. Żadnych prostych kątów, żadnych przemysłowych materiałów — tylko drewno, powietrze i pszczoły.
@@ -41,11 +47,5 @@ Najbardziej naturalny ul, jaki istnieje. Wydrążony pień drzewa, który naśla
 Grube ściany pnia izolują lepiej niż cokolwiek innego. Wilgotność, temperatura i wentylacja wewnątrz dziupli regulują się naturalnie — tak, jak potrzebują tego pszczoły. Ingerencja z zewnątrz jest minimalna. Wolna budowa plastrów jest tu czymś oczywistym, bo nic innego nawet nie jest możliwe.
 
 Tego ula jeszcze nie mam — ale o nim marzę.
-
-## Wolna budowa plastrów
-
-Węza daje wszystkim rodzinom ten sam punkt wyjścia — jak deweloper, który buduje dom bez myślenia o tym, kto w nim zamieszka. Każda rodzina pszczela jest inna, a wolna budowa plastrów daje jej przestrzeń do stworzenia dokładnie tego, czego potrzebuje. Poza tym pszczoły po prostu lubią budować.
-
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." caption="Naturalna budowa plastrów w ukraińskim leżaku — plaster bez węzy." >}}
 
 {{< contact >}}

@@ -31,6 +31,12 @@ Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere v
 
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
 
+## Fri vokstavbygging
+
+Kunstkake gir alle familier det samme utgangspunktet — som en utbygger som bygger et hus uten å tenke på den som skal bo i det. Hver birøktfamilie er forskjellig, og fri vokstavbygging gir den rom til å skape akkurat det den trenger. Dessuten liker biene rett og slett å bygge.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." caption="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." >}}
+
 ## Kubestokk — min drøm
 
 Den mest naturlige bikuben som finnes. En uthult trestamme som etterligner det biene velger selv i naturen — en dyp hule med tykke vegger, naturlig mikroklima og plass til fri vokstavbygging. Ingen rette vinkler, ingen industrielle materialer — bare tre, luft og bier.
@@ -40,12 +46,6 @@ Den mest naturlige bikuben som finnes. En uthult trestamme som etterligner det b
 Stammens tykke vegger isolerer bedre enn hva som helst. Fuktighet, temperatur og ventilasjon inne i hullet reguleres naturlig — slik biene selv trenger det. Inngrep utenfra er minimale. Fri vokstavbygging er selvsagt her, for ingenting annet er engang mulig.
 
 Denne kuben har jeg ikke ennå — men jeg drømmer om den.
-
-## Fri vokstavbygging
-
-Kunstkake gir alle familier det samme utgangspunktet — som en utbygger som bygger et hus uten å tenke på den som skal bo i det. Hver birøktfamilie er forskjellig, og fri vokstavbygging gir den rom til å skape akkurat det den trenger. Dessuten liker biene rett og slett å bygge.
-
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." caption="Naturlig vokstavbygging i den ukrainske kuben — fritt bygget uten kunstkake." >}}
 
 {{< contact >}}
 

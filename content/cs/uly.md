@@ -32,6 +32,12 @@ Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silně
 
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
 
+## Volná stavba
+
+Komerční mezistěna dává všem rodinám totéž — jako developer, který postaví dům bez ohledu na toho, kdo v něm bude žít. Každá včelí rodina je jiná a volná stavba jí dává prostor budovat přesně to, co potřebuje. A včely stavět prostě baví.
+
+{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." caption="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." >}}
+
 ## Klátový úl — můj sen
 
 Nejpřirozenější úl, jaký existuje. Vydlabaný kmen stromu, který imituje to, co si včely v přírodě volí samy — hlubokou dutinu se silnou stěnou, přirozeným mikroklimatem a prostorem pro volnou stavbu. Žádné pravé úhly, žádný průmyslový materiál — jen dřevo, vzduch a včely.
@@ -41,12 +47,6 @@ Nejpřirozenější úl, jaký existuje. Vydlabaný kmen stromu, který imituje 
 Tlustá stěna kmene izoluje lépe než cokoli jiného. Vlhkost, teplota i větrání se uvnitř dutiny regulují přirozeně — tak, jak to včely samy potřebují. Zásahy zvenčí jsou minimální. Volná stavba je zde samozřejmostí, protože nic jiného ani není možné.
 
 Tento úl zatím nemám — ale sním o něm.
-
-## Volná stavba
-
-Komerční mezistěna dává všem rodinám totéž — jako developer, který postaví dům bez ohledu na toho, kdo v něm bude žít. Každá včelí rodina je jiná a volná stavba jí dává prostor budovat přesně to, co potřebuje. A včely stavět prostě baví.
-
-{{< figure src="/images/hive-ukrainian-frame-wax-2026-06-06.jpg" alt="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." caption="Volná stavba v ukrajinském ležanu — přirozený plást bez mezistěny." >}}
 
 {{< contact >}}
 
