@@ -32,7 +32,7 @@ Vychází z osvědčeného Gregor-ležanu, ale používám u něj ještě silně
 
 Zájem o úly se už začal ozývat — *ozvěte se mi, pokud byste chtěli úl.*
 
-## Klátový úl — sen
+## Klátový úl — můj sen
 
 Nejpřirozenější úl, jaký existuje. Vydlabaný kmen stromu, který imituje to, co si včely v přírodě volí samy — hlubokou dutinu se silnou stěnou, přirozeným mikroklimatem a prostorem pro volnou stavbu. Žádné pravé úhly, žádný průmyslový materiál — jen dřevo, vzduch a včely.
 

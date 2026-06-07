@@ -32,6 +32,16 @@ Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesa
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*
 
+## Colmena de tronco — mi sueño
+
+La colmena más natural que existe. Un tronco vaciado que imita lo que las abejas eligen por sí solas en la naturaleza — una cavidad profunda con paredes gruesas, microclima natural y espacio para la construcción libre. Sin ángulos rectos, sin materiales industriales — solo madera, aire y abejas.
+
+{{< youtube 1h6K_cS0m_w >}}
+
+Las gruesas paredes del tronco aíslan mejor que cualquier otra cosa. La humedad, la temperatura y la ventilación dentro de la cavidad se regulan de forma natural — exactamente como las abejas las necesitan. La intervención desde fuera es mínima. La construcción libre es aquí algo evidente, porque nada más es siquiera posible.
+
+Esta colmena no la tengo todavía — pero sueño con ella.
+
 ## Construcción libre
 
 La cera laminada da a todas las colonias el mismo punto de partida — como un promotor que construye una casa sin pensar en quien va a vivir en ella. Cada colonia es distinta, y la construcción libre le da el espacio para crear exactamente lo que necesita. Además, a las abejas simplemente les gusta construir.
