@@ -14,7 +14,7 @@ Ocieplany drewniany leżak typu Gregor na norweski rozmiar ramki z dwoma nadstaw
 
 ## Ukraiński leżak
 
-Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukrainie. Moje pierwsze dwa ukraińskie leżaki pomógł mi zbudować przyjaciel z Ukrainy. Grubościenne korpusy naśladują naturalną dziuplę i zapewniają świetną izolację. Ten typ ula jest tradycyjnie używany także w apiterapii, często w małym domku do apiterapii, gdzie ule stoją pod leżanką lub łóżkiem, a ludzie odpoczywają lub śpią nad nimi. To świetny sposób na relaks i bycie bliżej natury.
+Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukrainie. Moje pierwsze dwa ukraińskie leżaki pomógł mi zbudować mój przyjaciel **Gordiy Lebediev** z Charkowa na Ukrainie. Grubościenne korpusy naśladują naturalną dziuplę i zapewniają świetną izolację. Ten typ ula jest tradycyjnie używany także w apiterapii, często w małym domku do apiterapii, gdzie ule stoją pod leżanką lub łóżkiem, a ludzie odpoczywają lub śpią nad nimi. To świetny sposób na relaks i bycie bliżej natury.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukraińskie leżaki w ogrodzie w Bergen." caption="Ukraińskie leżaki w ogrodzie w Bergen." >}}
 
