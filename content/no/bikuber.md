@@ -14,7 +14,7 @@ En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over fo
 
 ## Ukrainsk liggebikube
 
-Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine to første ukrainske liggebikuber bygde jeg med hjelp fra en venn fra Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi, ofte i et lite apihus der kubene står under en liggeplass eller seng, slik at folk kan hvile og sove over dem. Det er en rolig måte å slappe av på og komme nærmere naturen. Hvis noen ønsker et apihus på eiendommen sin, kan de gjerne ta kontakt med meg. Jeg kan hjelpe med planleggingen og gi faglig oppfølging av både kubebygging og birøkt.
+Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine to første ukrainske liggebikuber bygde jeg med hjelp fra vennen min **Gordiy Lebediev** fra Kharkiv i Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi, ofte i et lite apihus der kubene står under en liggeplass eller seng, slik at folk kan hvile og sove over dem. Det er en rolig måte å slappe av på og komme nærmere naturen. Hvis noen ønsker et apihus på eiendommen sin, kan de gjerne ta kontakt med meg. Jeg kan hjelpe med planleggingen og gi faglig oppfølging av både kubebygging og birøkt.
 
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainske liggebikuber i hagen i Bergen." caption="Ukrainske liggebikuber i hagen i Bergen." >}}
 
