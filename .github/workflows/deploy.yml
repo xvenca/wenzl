@@ -43,30 +43,3 @@ jobs:
           local-dir: ./public/
           # domene.no serves this account from /public_html/ (same content was also visible under /www/).
           server-dir: /public_html/
-
-      - name: Refresh Facebook OG cache
-        run: |
-          sleep 20
-          TOKEN="${{ secrets.FB_ACCESS_TOKEN }}"
-          AUTH=""
-          [ -n "$TOKEN" ] && AUTH="&access_token=${TOKEN}"
-
-          INDEX=$(curl -s https://wenzl.no/sitemap.xml)
-          if echo "$INDEX" | grep -q '<sitemapindex'; then
-            CHILDREN=$(echo "$INDEX" | grep '<loc>' | sed 's/.*<loc>//;s/<\/loc>.*//')
-            URLS=""
-            for child in $CHILDREN; do
-              CHILD_XML=$(curl -s "$child")
-              URLS="$URLS $(echo "$CHILD_XML" | grep '<loc>' | sed 's/.*<loc>//;s/<\/loc>.*//')"
-            done
-          else
-            URLS=$(echo "$INDEX" | grep '<loc>' | sed 's/.*<loc>//;s/<\/loc>.*//')
-          fi
-
-          COUNT=0
-          for url in $URLS; do
-            CODE=$(curl -s -o /dev/null -w "%{http_code}" -X POST "https://graph.facebook.com/?id=${url}&scrape=true${AUTH}")
-            echo "${CODE} ${url}"
-            COUNT=$((COUNT + 1))
-          done
-          echo "Refreshed ${COUNT} URLs"
