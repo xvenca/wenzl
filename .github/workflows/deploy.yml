@@ -34,6 +34,40 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to FTP server
+        id: deploy1
+        continue-on-error: true
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: wenzl.no
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          local-dir: ./public/
+          server-dir: /public_html/
+
+      - name: Wait before retry 2
+        if: steps.deploy1.outcome == 'failure'
+        run: sleep 30
+
+      - name: Deploy to FTP server (retry 2)
+        id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        continue-on-error: true
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: wenzl.no
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          local-dir: ./public/
+          server-dir: /public_html/
+
+      - name: Wait before retry 3
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        run: sleep 60
+
+      - name: Deploy to FTP server (retry 3)
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: wenzl.no
