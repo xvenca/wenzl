@@ -20,7 +20,7 @@ Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukr
 
 Jeśli ktoś chciałby mieć na swojej działce domek do apiterapii, może się ze mną skontaktować. Chętnie pomogę w realizacji i zapewnię fachowe wsparcie przy budowie uli oraz prowadzeniu pasieki.
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." caption="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2025, ogród właśnie kwitnie." >}}
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2026, ogród właśnie kwitnie." caption="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2026, ogród właśnie kwitnie." >}}
 
 ## Bezbarierowy leżak
 

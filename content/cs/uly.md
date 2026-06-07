@@ -20,7 +20,7 @@ Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské le�
 
 Pokud byste chtěli mít na svém pozemku apidomek, můžete se na mne obrátit. Můžeme se domluvit na realizaci a rád odborně zajistím výrobu úlů i chov včel.
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukrajinský ležan v zahradě v Bergenu — červen 2025, zahrada právě kvete." caption="Ukrajinský ležan v zahradě v Bergenu — červen 2025, zahrada právě kvete." >}}
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukrajinský ležan v zahradě v Bergenu — červen 2026, zahrada právě kvete." caption="Ukrajinský ležan v zahradě v Bergenu — červen 2026, zahrada právě kvete." >}}
 
 ## Bezbariérový ležan
 

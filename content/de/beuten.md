@@ -20,7 +20,7 @@ Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen
 
 Wer auf seinem Grundstück ein Apihäuschen haben möchte, kann sich gern an mich wenden. Ich helfe bei der Umsetzung und begleite fachlich sowohl den Bau der Beuten als auch die Imkerei.
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." caption="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2025, der Garten steht in voller Blüte." >}}
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2026, der Garten steht in voller Blüte." caption="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2026, der Garten steht in voller Blüte." >}}
 
 ## Barrierearme Lagerbeute
 
