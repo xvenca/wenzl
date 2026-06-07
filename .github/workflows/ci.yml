@@ -81,14 +81,17 @@ jobs:
             const prNum = context.issue.number;
             const tagName = `ci-screenshots-pr${prNum}`;
 
-            // Delete previous draft release for this PR (so assets are always fresh)
+            // Delete ALL previous screenshot releases for this PR (so assets are always fresh)
             try {
-              const { data: releases } = await github.rest.repos.listReleases({ owner, repo, per_page: 50 });
-              const old = releases.find(r => r.tag_name === tagName);
-              if (old) {
-                await github.rest.repos.deleteRelease({ owner, repo, release_id: old.id });
-                try { await github.rest.git.deleteRef({ owner, repo, ref: `tags/${tagName}` }); } catch {}
+              const { data: releases } = await github.rest.repos.listReleases({ owner, repo, per_page: 100 });
+              const old = releases.filter(r => r.tag_name === tagName || r.tag_name.startsWith(`untagged-`) && r.name === `CI Screenshots — PR #${prNum}`);
+              for (const r of old) {
+                await github.rest.repos.deleteRelease({ owner, repo, release_id: r.id });
               }
+              // Always attempt to delete the named tag; ignore errors if it doesn't exist
+              try { await github.rest.git.deleteRef({ owner, repo, ref: `tags/${tagName}` }); } catch {}
+              // Give GitHub a moment to process deletions before creating the new tag
+              await new Promise(r => setTimeout(r, 3000));
             } catch {}
 
             // Create a fresh draft release to host the screenshots
