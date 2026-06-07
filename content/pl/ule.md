@@ -32,7 +32,7 @@ Opiera się na sprawdzonym leżaku Gregor, ale stosuję w nim jeszcze grubsze ś
 
 Zainteresowanie moimi ulami już się pojawia — *napisz do mnie, jeśli chcesz taki ul.*
 
-## Kłodowy ul — marzenie
+## Kłodowy ul — moje marzenie
 
 Najbardziej naturalny ul, jaki istnieje. Wydrążony pień drzewa, który naśladuje to, co pszczoły same wybierają w naturze — głęboką dziuplę z grubymi ścianami, naturalnym mikroklimatem i przestrzenią do wolnej budowy plastrów. Żadnych prostych kątów, żadnych przemysłowych materiałów — tylko drewno, powietrze i pszczoły.
 

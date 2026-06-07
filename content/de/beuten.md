@@ -32,7 +32,7 @@ Sie baut auf der bewährten Gregor-Lagerbeute auf, aber ich verwende dafür noch
 
 Das Interesse an meinen Beuten ist bereits da — *schreiben Sie mir, wenn Sie eine solche Beute möchten.*
 
-## Baumstammbeute — ein Traum
+## Baumstammbeute — mein Traum
 
 Die natürlichste Beute, die es gibt. Ein ausgehöhlter Baumstamm, der das nachahmt, was Bienen in der Natur selbst wählen — eine tiefe Höhle mit dicken Wänden, natürlichem Mikroklima und Platz für freien Wabenbau. Keine rechten Winkel, keine industriellen Materialien — nur Holz, Luft und Bienen.
 

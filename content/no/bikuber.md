@@ -31,7 +31,7 @@ Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere v
 
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
 
-## Kubestokk — en drøm
+## Kubestokk — min drøm
 
 Den mest naturlige bikuben som finnes. En uthult trestamme som etterligner det biene velger selv i naturen — en dyp hule med tykke vegger, naturlig mikroklima og plass til fri vokstavbygging. Ingen rette vinkler, ingen industrielle materialer — bare tre, luft og bier.
 

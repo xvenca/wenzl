@@ -32,7 +32,7 @@ Parte de la probada colmena horizontal Gregor, pero uso paredes aún más gruesa
 
 El interés por las colmenas ya ha empezado a llegar — *escríbeme si deseas una colmena.*
 
-## Colmena de tronco — un sueño
+## Colmena de tronco — mi sueño
 
 La colmena más natural que existe. Un tronco vaciado que imita lo que las abejas eligen por sí solas en la naturaleza — una cavidad profunda con paredes gruesas, microclima natural y espacio para la construcción libre. Sin ángulos rectos, sin materiales industriales — solo madera, aire y abejas.
 

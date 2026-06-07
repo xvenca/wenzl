@@ -34,7 +34,7 @@ It builds on the proven Gregor horizontal hive, but I use even thicker solid-woo
 
 Interest in the hives has already begun to arrive — *get in touch if you would like a hive.*
 
-## Log Hive — a dream
+## Log Hive — my dream
 
 The most natural beehive that exists. A hollowed-out tree trunk that mimics what bees choose for themselves in the wild — a deep cavity with thick walls, natural microclimate, and space for free comb building. No right angles, no industrial materials — just wood, air, and bees.
 
