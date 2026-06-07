@@ -10,7 +10,9 @@ Stavím vlastní dřevěné ležany v Bergenu. Ležany nejsou součástí norsk�
 
 ## Gregor-ležan
 
-Zateplený dřevěný ležan typu Gregor na norskou rámkovou míru se dvěma nástavky pro zimování oddělků. Byl vyvinut v Bergenu a pro potřeby Bergenu, aby chránil včely v deštivém bergenském počasí a poskytoval jim komfort i v zimě. Tento typ původně vyráběl můj kamarád Jan Gregor, od kterého jsem převzal štafetu i svolení tyto úly dál vyrábět; pro deštivý Bergen jsou navíc opatřeny ochranou pláště proti vodě. Nástavky se přirozeně zahřívají od hlavního včelstva pod nimi.
+Zateplený dřevěný ležan na norskou rámkovou míru se dvěma nástavky pro zimování oddělků. Byl vyvinut v Bergenu a pro potřeby Bergenu, aby chránil včely v deštivém bergenském počasí a poskytoval jim komfort i v zimě. Nástavky se přirozeně zahřívají od hlavního včelstva pod nimi; pro deštivý Bergen jsou navíc opatřeny ochranou pláště proti vodě.
+
+Tento typ nesie jméno svého tvůrce — **Jana Gregora**, mého kamaráda a včelaře, jehož pečlivost a řemeslná preciznost daly tomuto úlu jeho charakter. Sám jsem od Jana koupil čtyři úly Gregor a jsem s nimi spokojený. Jan mi předal štafetu i svolení tyto úly dál vyrábět — a já se snažím jeho přístup ctít.
 
 ## Ukrajinský ležan
 
