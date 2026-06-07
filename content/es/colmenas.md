@@ -10,7 +10,9 @@ Construyo mis propias colmenas horizontales de madera en Bergen. Las colmenas ho
 
 ## Colmena horizontal Gregor
 
-Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, con dos alzas encima para la división invernal. Fue desarrollada en Bergen y para las condiciones de Bergen, para proteger a las abejas del clima lluvioso de la ciudad y darles confort también en invierno. Este tipo lo fabricaba originalmente mi amigo Jan Gregor, de quien tomé el relevo y recibí permiso para seguir construyéndolas; para el lluvioso Bergen, la carcasa exterior está además protegida contra el agua. Las alzas se calientan de forma natural desde la colonia situada debajo — una solución suave para las abejas durante la estación fría.
+Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, con dos alzas encima para la división invernal. Fue desarrollada en Bergen y para las condiciones de Bergen, para proteger a las abejas del clima lluvioso de la ciudad y darles confort también en invierno. Las alzas se calientan de forma natural desde la colonia situada debajo — una solución suave para las abejas durante la estación fría; para el lluvioso Bergen, la carcasa exterior está además protegida contra el agua.
+
+Este tipo lleva el nombre de su creador — **Jan Gregor**, mi amigo y apicultor, cuya dedicación y precisión artesanal dieron a esta colmena su carácter. Yo mismo compré cuatro colmenas Gregor directamente a Jan y estoy muy satisfecho con ellas. Jan me pasó el testigo y me dio permiso para seguir construyéndolas — y trato de honrar su enfoque.
 
 ## Colmena horizontal ucraniana
 
