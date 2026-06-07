@@ -20,7 +20,7 @@ Construida según la tradición del abuelo de mi esposa, que fue apicultor en Uc
 
 Si alguien quisiera tener en su terreno una pequeña casa de apiterapia, puede ponerse en contacto conmigo. Estaré encantado de ayudar con la realización y de aportar respaldo profesional tanto en la fabricación de las colmenas como en el manejo de las abejas.
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." caption="La colmena horizontal ucraniana en el jardín de Bergen — junio 2025, el jardín está en plena floración." >}}
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="La colmena horizontal ucraniana en el jardín de Bergen — junio 2026, el jardín está en plena floración." caption="La colmena horizontal ucraniana en el jardín de Bergen — junio 2026, el jardín está en plena floración." >}}
 
 ## Colmena horizontal accesible
 

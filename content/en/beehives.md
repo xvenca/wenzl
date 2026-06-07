@@ -21,7 +21,7 @@ Built after the tradition of my wife's grandfather, who kept bees in Ukraine. My
 If you would like to have a small bee house on your property, feel free to contact me. I can help plan the project and provide professional guidance for both hive building and beekeeping.
 
 
-{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." caption="The Ukrainian horizontal hive in the Bergen garden — June 2025, the garden is in full bloom." >}}
+{{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="The Ukrainian horizontal hive in the Bergen garden — June 2026, the garden is in full bloom." caption="The Ukrainian horizontal hive in the Bergen garden — June 2026, the garden is in full bloom." >}}
 
 ## Accessible Horizontal Hive
 
