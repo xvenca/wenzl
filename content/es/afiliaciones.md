@@ -16,7 +16,7 @@ memberships:
   - name: "Norsk Sau og Geit (NSG)"
     role: "Miembro activo"
     location: "Noruega"
-    logo: "/images/nsg-logo.png"
+    logo: "/images/nsg-logo.svg"
     url: "https://nsg.no/"
     desc: "¿Por qué un apicultor está en una asociación de ovejas y cabras? Porque los robots cortacésped están creando desiertos verdes estériles en nuestras ciudades, destruyendo los hábitats de los insectos. Mi visión es reemplazar estos robots de plástico con agentes biológicos autónomos — ovejas y cabras guiadas por collares GPS virtuales (como el sistema noruego NoFence). Los animales que pastan gestionan de forma natural el sobrecrecimiento, fertilizan el suelo y, lo que es crucial, dejan florecer las flores silvestres. Sin pastoreo, el paisaje o se llena de maleza o es segado hasta la muerte, sin dejar alimento para nuestras abejas."
   - name: "Bergen Fellesverksted"

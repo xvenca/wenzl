@@ -16,7 +16,7 @@ memberships:
   - name: "Norsk Sau og Geit (NSG)"
     role: "Aktivt medlem"
     location: "Norge"
-    logo: "/images/nsg-logo.png"
+    logo: "/images/nsg-logo.svg"
     url: "https://nsg.no/"
     desc: "Hvorfor er en birøkter i en sau- og geitforening? Fordi robotgressklippere skaper sterile, grønne ødemarker i byene våre og ødelegger insekthabitater. Min visjon er å erstatte disse plastrobotene med autonome biologiske agenter — sauer og geiter styrt av virtuelle GPS-halsbånd (som det norske NoFence-systemet). Beitende dyr håndterer overveksten naturlig, gjødsler jorda og — avgjørende — lar vildblomsterne blomstre. Uten beiting vil landskapet enten gro igjen eller klippes til døde, og det blir ingenting igjen for biene våre å leve av."
   - name: "Bergen Fellesverksted"

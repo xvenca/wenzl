@@ -16,7 +16,7 @@ memberships:
   - name: "Norsk Sau og Geit (NSG)"
     role: "Aktives Mitglied"
     location: "Norwegen"
-    logo: "/images/nsg-logo.png"
+    logo: "/images/nsg-logo.svg"
     url: "https://nsg.no/"
     desc: "Warum ist ein Imker in einem Schaf- und Ziegenverband? Weil Mähroboter sterile grüne Wüsten in unseren Städten schaffen und Insektenlebensräume zerstören. Meine Vision ist es, diese Plastikroboter durch autonome biologische Akteure zu ersetzen — Schafe und Ziegen, gesteuert durch virtuelle GPS-Halsbänder (wie das norwegische NoFence-System). Weidende Tiere regeln das Überwachsen auf natürliche Weise, düngen den Boden und lassen — entscheidend — die Wildblumen blühen. Ohne Beweidung wächst die Landschaft entweder zu oder wird tot gemäht, und unsere Bienen finden kein Futter mehr."
   - name: "Bergen Fellesverksted"

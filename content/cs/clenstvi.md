@@ -16,7 +16,7 @@ memberships:
   - name: "Norsk Sau og Geit (NSG)"
     role: "Aktivní člen"
     location: "Norsko"
-    logo: "/images/nsg-logo.png"
+    logo: "/images/nsg-logo.svg"
     url: "https://nsg.no/"
     desc: "Proč je včelař v ovčím a kozím sdružení? Protože robotické sekačky vytvářejí sterilní zelené pouště v našich městech a ničí hmyzí stanoviště. Mou vizí je nahradit tyto plastové roboty autonomními biologickými agenty — ovcemi a kozami řízenými virtuálními GPS obojky (jako norský systém NoFence). Pasoucí se zvířata přirozeně zvládají přerůstání, hnojí půdu a — což je klíčové — nechají rozkvést divoké květiny. Bez pastvy se krajina buď zaroste, nebo bude posečena k smrti, a pro naše včely nezbyde žádná potrava."
   - name: "Bergen Fellesverksted"
