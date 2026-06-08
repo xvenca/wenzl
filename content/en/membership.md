@@ -16,7 +16,7 @@ memberships:
   - name: "Norsk Sau og Geit (NSG)"
     role: "Active Member"
     location: "Norway"
-    logo: "/images/nsg-logo.png"
+    logo: "/images/nsg-logo.svg"
     url: "https://nsg.no/"
     desc: "Why is a beekeeper in a sheep and goat association? Because robotic mowers are creating sterile green deserts in our cities, destroying insect habitats. My vision is to replace these plastic robots with autonomous biological agents — sheep and goats guided by virtual GPS collars (like the Norwegian NoFence system). Grazing animals manage the overgrowth naturally, fertilize the soil, and crucially, let the wildflowers bloom. Without grazing, the landscape either overgrows or is mowed to death, leaving no food for our bees."
   - name: "Bergen Fellesverksted"

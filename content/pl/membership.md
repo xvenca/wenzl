@@ -16,7 +16,7 @@ memberships:
   - name: "Norsk Sau og Geit (NSG)"
     role: "Aktywny członek"
     location: "Norwegia"
-    logo: "/images/nsg-logo.png"
+    logo: "/images/nsg-logo.svg"
     url: "https://nsg.no/"
     desc: "Dlaczego pszczelarz jest w związku owiec i kóz? Bo robotyczne kosiarki tworzą sterylne, zielone pustynie w naszych miastach, niszcząc siedliska owadów. Moją wizją jest zastąpienie tych plastikowych robotów autonomicznymi biologicznymi agentami — owcami i kozami prowadzonymi przez wirtualne obroże GPS (jak norweski system NoFence). Zwierzęta pasące się naturalnie radzą sobie z zarośnięciem, nawożą glebę i — co kluczowe — pozwalają kwitnąć dzikim kwiatom. Bez wypasu krajobraz albo zarasta, albo jest koszony na śmierć, nie pozostawiając pożywienia dla naszych pszczół."
   - name: "Bergen Fellesverksted"
