@@ -48,5 +48,7 @@ Tlustá stěna kmene izoluje lépe než cokoli jiného. Vlhkost, teplota i větr
 
 Tento úl zatím nemám — ale sním o něm.
 
+> Tato stránka je součástí historie ležanů v Norsku — a ta historie se teprve píše. Rád bych ji dokumentoval co nejúplněji. Pokud včelaříte v ležanu nebo jiném dřevěném či přírodním úlu, nebo o takovém úlu v Norsku víte, prosím ozvěte se.
+
 {{< contact >}}
 
