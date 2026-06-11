@@ -50,6 +50,8 @@ The thick walls of the trunk insulate better than anything else. Humidity, tempe
 
 I do not have this hive yet — but I dream of it.
 
+This page is part of the history of horizontal hives in Norway — and that history is still being written. I would like to document it as fully as possible. If you keep bees in a horizontal hive, or know someone who does in Norway, please get in touch.
+
 {{< contact >}}
 
 

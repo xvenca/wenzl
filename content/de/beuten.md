@@ -48,4 +48,6 @@ Die dicken Wände des Stammes isolieren besser als alles andere. Feuchtigkeit, T
 
 Diese Beute habe ich noch nicht — aber ich träume davon.
 
+Diese Seite ist Teil der Geschichte der Lagerbeuten in Norwegen — und diese Geschichte wird noch geschrieben. Ich möchte sie so vollständig wie möglich dokumentieren. Wenn Sie in einer Lagerbeute imkern oder jemanden kennen, der das in Norwegen tut, melden Sie sich bitte.
+
 {{< contact >}}

@@ -48,5 +48,7 @@ Las gruesas paredes del tronco aíslan mejor que cualquier otra cosa. La humedad
 
 Esta colmena no la tengo todavía — pero sueño con ella.
 
+Esta página forma parte de la historia de las colmenas horizontales en Noruega — y esa historia todavía se está escribiendo. Me gustaría documentarla lo más completamente posible. Si cuidas abejas en una colmena horizontal, o conoces a alguien que lo haga en Noruega, por favor ponte en contacto.
+
 {{< contact >}}
 
