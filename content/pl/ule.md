@@ -48,6 +48,6 @@ Grube ściany pnia izolują lepiej niż cokolwiek innego. Wilgotność, temperat
 
 Tego ula jeszcze nie mam — ale o nim marzę.
 
-Ta strona jest częścią historii leżaków w Norwegii — i ta historia wciąż się pisze. Chciałbym ją dokumentować jak najdokładniej. Jeśli pszczelarysz w leżaku lub znasz kogoś, kto robi to w Norwegii, proszę — odezwij się.
+> Ta strona jest częścią historii leżaków w Norwegii — i ta historia wciąż się pisze. Chciałbym ją dokumentować jak najdokładniej. Jeśli pszczelarysz w leżaku lub innym drewnianym czy naturalnym ulu, albo wiesz o takim ulu w Norwegii, proszę — odezwij się.
 
 {{< contact >}}

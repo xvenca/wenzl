@@ -47,7 +47,7 @@ Stammens tykke vegger isolerer bedre enn hva som helst. Fuktighet, temperatur og
 
 Denne kuben har jeg ikke ennå — men jeg drømmer om den.
 
-Denne siden er en del av historien om liggebikuber i Norge — og den historien skrives fortsatt. Jeg vil gjerne dokumentere den så fullstendig som mulig. Hvis du holder bier i en liggebikube, eller kjenner noen som gjør det i Norge, ta gjerne kontakt.
+> Denne siden er en del av historien om liggebikuber i Norge — og den historien skrives fortsatt. Jeg vil gjerne dokumentere den så fullstendig som mulig. Hvis du holder bier i en liggebikube eller en annen bikube av tre eller naturmateriale, eller vet om en slik bikube i Norge, ta gjerne kontakt.
 
 {{< contact >}}
 
