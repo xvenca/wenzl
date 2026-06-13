@@ -1,6 +1,6 @@
 ﻿---
 title: "Birøkt i Norge"
-description: "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde tradisjonelle bikuber"
+description: "Sertifisert birøkter i Bergen — svermfangst og svermfeller i Vestland, bestøvning, håndlagde bikuber i tre. Gratis innfanging av bisværmer i Bergen og omegn."
 image: "/images/birokt-hero.jpg"
 alt: "Birøkter ved bikubene i Bergen"
 layout: "birokt"

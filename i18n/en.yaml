@@ -58,6 +58,8 @@
   translation: "homepage"
 - id: "terms_listing"
   translation: "Listing of terms."
+- id: "call_now"
+  translation: "Call now"
 - id: "certificate"
   translation: "Certificate"
 - id: "course_info"
