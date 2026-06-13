@@ -5,7 +5,7 @@ layout: "membership"
 translationKey: "membership"
 memberships:
   - name: "Norges Birøkterlag"
-    role: "Член"
+    role: "Действующий член"
     location: "Норвегия"
     logo: "/images/norbi-logo.svg"
     url: "https://norbi.no/"
