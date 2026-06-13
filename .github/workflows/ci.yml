@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -25,9 +25,9 @@ jobs:
           hugo-version: 'latest'
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '18'
+          node-version: '22'
 
       - name: Install dependencies
         run: npm ci
@@ -44,7 +44,7 @@ jobs:
           if [ -d public ]; then echo "public exists"; ls -la public | sed -n '1,20p'; else echo "public missing"; exit 1; fi
 
       - name: Run Lighthouse audit
-        uses: treosh/lighthouse-ci-action@v10
+        uses: treosh/lighthouse-ci-action@v12
         with:
           configPath: .lighthouserc.json
           uploadArtifacts: false
