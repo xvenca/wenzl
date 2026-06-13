@@ -1,6 +1,6 @@
 ---
 title: "wenzl.no"
-description: "Sertifisert birøkter i Bergen — naturlig birøkt, svermfangst og svermfeller i Vestland, bestøvning og håndlagde bikuber i tre. Gratis sverminnfanging i Bergen og omegn."
+description: "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde bikuber i tre"
 image: "/images/hero.jpg"
 ogImage: "/images/hive-yellow-field.jpg"
 ogImageWidth: 1288

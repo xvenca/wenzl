@@ -56,8 +56,6 @@
   translation: "головну сторінку"
 - id: "terms_listing"
   translation: "Список термінів."
-- id: "call_now"
-  translation: "Зателефонуйте"
 - id: "certificate"
   translation: "Свідоцтво"
 - id: "course_info"
