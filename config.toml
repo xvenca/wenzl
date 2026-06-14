@@ -34,7 +34,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.no.menu.main]]
       identifier = "beekeeping"
       name = "Birøkt"
-      url = "/birokt/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.no.menu.main]]
       identifier = "swarms"
@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.en.menu.main]]
       identifier = "beekeeping"
       name = "Beekeeping"
-      url = "/en/beekeeping/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.en.menu.main]]
       identifier = "swarms"
@@ -130,7 +130,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.cs.menu.main]]
       identifier = "beekeeping"
       name = "Včelaření"
-      url = "/cs/beekeeping/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.cs.menu.main]]
       identifier = "swarms"
@@ -178,7 +178,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.uk.menu.main]]
       identifier = "beekeeping"
       name = "Бджільництво"
-      url = "/uk/beekeeping/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.uk.menu.main]]
       identifier = "swarms"
@@ -226,7 +226,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.ru.menu.main]]
       identifier = "beekeeping"
       name = "Пчеловодство"
-      url = "/ru/beekeeping/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.ru.menu.main]]
       identifier = "swarms"
@@ -274,7 +274,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.pl.menu.main]]
       identifier = "beekeeping"
       name = "Pszczelarstwo"
-      url = "/pl/beekeeping/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.pl.menu.main]]
       identifier = "swarms"
@@ -322,7 +322,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.de.menu.main]]
       identifier = "beekeeping"
       name = "Imkerei"
-      url = "/de/beekeeping/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.de.menu.main]]
       identifier = "swarms"
@@ -370,7 +370,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.es.menu.main]]
       identifier = "beekeeping"
       name = "Apicultura"
-      url = "/es/apicultura/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.es.menu.main]]
       identifier = "swarms"
@@ -418,7 +418,7 @@ disableKinds = ["taxonomy", "term"]
     [[languages.cu.menu.main]]
       identifier = "beekeeping"
       name = "Пчеларьство"
-      url = "/cu/beekeeping/"
+      url = "https://wenzl.no"
       weight = 2
     [[languages.cu.menu.main]]
       identifier = "swarms"
