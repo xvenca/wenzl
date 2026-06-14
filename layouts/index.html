@@ -121,11 +121,13 @@
 </section>
 {{ end }}{{ end }}
 
-<!-- ── Children's Book ───────────────────────────────────────── -->
-{{ $blogLang := "en" }}
+<!-- ── Children's Book (NO / CS / EN only) ───────────────────── -->
+{{ $lang := .Site.Language.Lang }}
+{{ if or (eq $lang "no") (eq $lang "cs") (eq $lang "en") }}
+{{ $blogLang := $lang }}
 {{ $bookImg := "/images/eneboer-eventyr-en.png" }}
-{{ if eq .Site.Language.Lang "no" }}{{ $blogLang = "no" }}{{ $bookImg = "/images/eneboer-eventyr-no.png" }}{{ end }}
-{{ if eq .Site.Language.Lang "cs" }}{{ $blogLang = "cs" }}{{ $bookImg = "/images/eneboer-eventyr-cs.png" }}{{ end }}
+{{ if eq $lang "no" }}{{ $bookImg = "/images/eneboer-eventyr-no.png" }}{{ end }}
+{{ if eq $lang "cs" }}{{ $bookImg = "/images/eneboer-eventyr-cs.png" }}{{ end }}
 <section class="bg-white border-b border-amber-100">
   <div class="max-w-5xl mx-auto px-4 sm:px-6 py-12">
     <a href="https://blog.wenzl.no/{{ $blogLang }}/"
@@ -147,6 +149,7 @@
     </a>
   </div>
 </section>
+{{ end }}
 
 <!-- ── Services ───────────────────────────────────────────────── -->
 {{ with $services }}
