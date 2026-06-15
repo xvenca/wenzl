@@ -36,7 +36,7 @@ jobs:
       - name: Deploy to FTP server
         id: deploy1
         continue-on-error: true
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: wenzl.no
           username: ${{ secrets.FTP_USERNAME }}
@@ -53,7 +53,7 @@ jobs:
         id: deploy2
         if: steps.deploy1.outcome == 'failure'
         continue-on-error: true
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: wenzl.no
           username: ${{ secrets.FTP_USERNAME }}
@@ -68,7 +68,7 @@ jobs:
 
       - name: Deploy to FTP server (retry 3)
         if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: wenzl.no
           username: ${{ secrets.FTP_USERNAME }}
