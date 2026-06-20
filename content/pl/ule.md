@@ -16,6 +16,12 @@ Ten typ nosi imię swojego twórcy — **Jana Gregora** z Malinca na Słowacji, 
 
 {{< jan-gregor-gallery caption="Jan Gregor — twórca leżaka Gregor" >}}
 
+{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — twórca leżaka Gregor" caption="Jan Gregor — twórca leżaka Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
 ## Ukraiński leżak
 
 Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukrainie. Moje pierwsze dwa ukraińskie leżaki pomógł mi zbudować mój przyjaciel **Gordiy Lebediev** z Charkowa na Ukrainie. Grubościenne korpusy naśladują naturalną dziuplę i zapewniają świetną izolację. Ten typ ula jest tradycyjnie używany także w apiterapii, często w małym domku do apiterapii, gdzie ule stoją pod leżanką lub łóżkiem, a ludzie odpoczywają lub śpią nad nimi. To świetny sposób na relaks i bycie bliżej natury.

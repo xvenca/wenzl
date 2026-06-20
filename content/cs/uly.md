@@ -16,6 +16,12 @@ Tento typ nesie jméno svého tvůrce — **Jana Gregora** z Málince na Slovens
 
 {{< jan-gregor-gallery caption="Jan Gregor — tvůrce Gregor-ležanu" >}}
 
+{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — tvůrce Gregor-ležanu" caption="Jan Gregor — tvůrce Gregor-ležanu" >}}
+
+{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
 ## Ukrajinský ležan
 
 Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské ležany mi pomohl vyrobit kamarád **Gordiy Lebediev** z Charkova na Ukrajině. Tlustostěnné krabice imitující přírodní dutinu stromu s výbornou izolací. Tradiční typ pro apiterapii, často v apidomku, což je malá chata, kde úly stojí pod lehátkem nebo postelí a lidé nad nimi odpočívají či spí. Je to skvělý způsob relaxace a toho, jak být blíže přírodě.
