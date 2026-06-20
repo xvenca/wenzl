@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.LanguageCode | default .Site.Language.Lang }}">
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CVNQZF6HCP"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-CVNQZF6HCP');
-    </script>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{/* ── Social sharing variables ──────────────────────────── */}}
     {{ $pagetitle := .Title | default .Site.Title }}
