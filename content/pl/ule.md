@@ -30,7 +30,7 @@ Jeśli ktoś chciałby mieć na swojej działce domek do apiterapii, może się 
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2026, ogród właśnie kwitnie." caption="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2026, ogród właśnie kwitnie." >}}
 
-*Jan ze Słowacji, Gordiy z Ukrainy, Bergen — trzech pszczelarzy z trzech krajów.*
+*Jan ze Słowacji, Gordiy z Ukrainy, ja z Czech — trzech pszczelarzy z trzech krajów.*
 
 ## Bezbarierowy leżak
 

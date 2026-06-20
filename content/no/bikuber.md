@@ -28,7 +28,7 @@ Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine t
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Den ukrainske liggebikuben i hagen i Bergen — juni 2026, hagen er i full blomst." caption="Den ukrainske liggebikuben i hagen i Bergen — juni 2026, hagen er i full blomst." >}}
 
-*Jan fra Slovakia, Gordiy fra Ukraina, Bergen — tre birøktere fra tre land.*
+*Jan fra Slovakia, Gordiy fra Ukraina, jeg fra Tsjekkia — tre birøktere fra tre land.*
 
 ## Universelt tilgjengelig liggebikube
 

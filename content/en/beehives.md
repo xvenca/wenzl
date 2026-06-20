@@ -31,7 +31,7 @@ If you would like to have a small bee house on your property, feel free to conta
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="The Ukrainian horizontal hive in the Bergen garden — June 2026, the garden is in full bloom." caption="The Ukrainian horizontal hive in the Bergen garden — June 2026, the garden is in full bloom." >}}
 
-*Jan from Slovakia, Gordiy from Ukraine, Bergen — three beekeepers from three countries.*
+*Jan from Slovakia, Gordiy from Ukraine, I from Czechia — three beekeepers from three countries.*
 
 ## Accessible Horizontal Hive
 

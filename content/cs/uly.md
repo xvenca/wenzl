@@ -30,7 +30,7 @@ Pokud byste chtěli mít na svém pozemku apidomek, můžete se na mne obrátit.
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukrajinský ležan v zahradě v Bergenu — červen 2026, zahrada právě kvete." caption="Ukrajinský ležan v zahradě v Bergenu — červen 2026, zahrada právě kvete." >}}
 
-*Jan ze Slovenska, Gordiy z Ukrajiny, Bergen — tři včelaři ze tří zemí.*
+*Jan ze Slovenska, Gordiy z Ukrajiny, já z Čech — tři včelaři ze tří zemí.*
 
 ## Bezbariérový ležan
 
