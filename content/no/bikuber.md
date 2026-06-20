@@ -14,11 +14,7 @@ En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over fo
 
 Denne typen bærer navnet til skaperen sin — **Jan Gregor** fra Málinec i Slovakia, vennen min og birøkteren, hvis omsorg og håndverksdyktighet ga denne bikuben dens karakter. Jeg kjøpte fire Gregor-bikuber direkte fra Jan og er svært fornøyd med dem. Jan ga meg stafettpinnen og tillatelsen til å fortsette å bygge disse kubene — og jeg forsøker å hedre tilnærmingen hans.
 
-{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — skaperen av Gregor-kuben" caption="Jan Gregor — skaperen av Gregor-kuben" >}}
-
-{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+{{< jan-gregor-gallery caption="Jan Gregor — skaperen av Gregor-kuben" >}}
 
 ## Ukrainsk liggebikube
 

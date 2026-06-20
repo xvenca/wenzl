@@ -14,11 +14,7 @@ Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, c
 
 Este tipo lleva el nombre de su creador — **Jan Gregor** de Málinec (Eslovaquia), mi amigo y apicultor, cuya dedicación y precisión artesanal dieron a esta colmena su carácter. Yo mismo compré cuatro colmenas Gregor directamente a Jan y estoy muy satisfecho con ellas. Jan me pasó el testigo y me dio permiso para seguir construyéndolas — y trato de honrar su enfoque.
 
-{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — el creador de la colmena Gregor" caption="Jan Gregor — el creador de la colmena Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+{{< jan-gregor-gallery caption="Jan Gregor — el creador de la colmena Gregor" >}}
 
 ## Colmena horizontal ucraniana
 

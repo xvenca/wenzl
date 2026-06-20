@@ -14,11 +14,7 @@ Zateplený dřevěný ležan na norskou rámkovou míru se dvěma nástavky pro 
 
 Tento typ nesie jméno svého tvůrce — **Jana Gregora** z Málince na Slovensku, mého kamaráda a včelaře, jehož pečlivost a řemeslná preciznost daly tomuto úlu jeho charakter. Sám jsem od Jana koupil čtyři úly Gregor a jsem s nimi spokojený. Jan mi předal štafetu i svolení tyto úly dál vyrábět — a já se snažím jeho přístup ctít.
 
-{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — tvůrce Gregor-ležanu" caption="Jan Gregor — tvůrce Gregor-ležanu" >}}
-
-{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+{{< jan-gregor-gallery caption="Jan Gregor — tvůrce Gregor-ležanu" >}}
 
 ## Ukrajinský ležan
 

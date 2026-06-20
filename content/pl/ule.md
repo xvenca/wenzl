@@ -14,11 +14,7 @@ Ocieplany drewniany leżak typu Gregor na norweski rozmiar ramki z dwoma nadstaw
 
 Ten typ nosi imię swojego twórcy — **Jana Gregora** z Malinca na Słowacji, mojego przyjaciela i pszczelarza, którego staranność i precyzja rzemieślnicza nadały temu ulowi jego charakter. Sam kupiłem cztery ule Gregor bezpośrednio od Jana i jestem z nich bardzo zadowolony. Jan przekazał mi pałeczkę i zgodę na dalsze wytwarzanie tych uli — i staram się szanować jego podejście.
 
-{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — twórca leżaka Gregor" caption="Jan Gregor — twórca leżaka Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+{{< jan-gregor-gallery caption="Jan Gregor — twórca leżaka Gregor" >}}
 
 ## Ukraiński leżak
 

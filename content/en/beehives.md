@@ -14,11 +14,7 @@ An insulated wooden Gregor-type horizontal hive in Norwegian frame dimensions wi
 
 This type carries the name of its creator — **Jan Gregor** from Málinec in Slovakia, my friend and beekeeper, whose care and craftsmanship gave this hive its character. I bought four Gregor hives directly from Jan and am very happy with them. Jan passed me the baton and gave me permission to keep building these hives — and I try to honour his approach.
 
-{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — creator of the Gregor hive" caption="Jan Gregor — creator of the Gregor hive" >}}
-
-{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+{{< jan-gregor-gallery caption="Jan Gregor — creator of the Gregor hive" >}}
 
 ## Ukrainian Horizontal Hive
 

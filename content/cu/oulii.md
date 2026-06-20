@@ -14,11 +14,7 @@ translationKey: "hives"
 
 Сей родъ носитъ имѧ творца своєго — **Яна Gregor** отъ Малинца въ Словациѥ, друга моєго и пчеларѧ, єгоже тщаниє и мастерьство сему улию характеръ єго дали. Самъ азъ четыри лежаки Gregor непосредьственно отъ Яна купихъ и зѣло ими доволенъ єсмь. Янъ предастъ мнѣ стафетѫ и позволи ми таковыѥ ульи далѣє творити — и азъ подходъ єго чтити тщаниємъ стараюсѧ.
 
-{{< figure src="/images/Jan Gregor.jfif" alt="Янъ Gregor — творецъ лежака Gregor" caption="Янъ Gregor — творецъ лежака Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 2.jfif" alt="Янъ Gregor" caption="Янъ Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 3.jfif" alt="Янъ Gregor" caption="Янъ Gregor" >}}
+{{< jan-gregor-gallery caption="Янъ Gregor — творецъ лежака Gregor" >}}
 
 ## Украиньскый лежакъ
 

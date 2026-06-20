@@ -14,11 +14,7 @@ Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei H
 
 Dieser Typ trägt den Namen seines Schöpfers — **Jan Gregor** aus Málinec in der Slowakei, meinem Freund und Imker, dessen Sorgfalt und handwerkliche Präzision dieser Beute ihren Charakter gegeben haben. Ich habe vier Gregor-Beuten direkt von Jan gekauft und bin sehr zufrieden damit. Jan hat mir den Staffelstab übergeben und mir erlaubt, diese Beuten weiterzubauen — und ich versuche, seinen Ansatz zu ehren.
 
-{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — Schöpfer der Gregor-Beute" caption="Jan Gregor — Schöpfer der Gregor-Beute" >}}
-
-{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
-
-{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+{{< jan-gregor-gallery caption="Jan Gregor — Schöpfer der Gregor-Beute" >}}
 
 ## Ukrainische Lagerbeute
 
