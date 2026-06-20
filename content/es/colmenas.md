@@ -12,7 +12,7 @@ Construyo mis propias colmenas horizontales de madera en Bergen. Las colmenas ho
 
 Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, con dos alzas encima para la división invernal. Fue desarrollada en Bergen y para las condiciones de Bergen, para proteger a las abejas del clima lluvioso de la ciudad y darles confort también en invierno. Las alzas se calientan de forma natural desde la colonia situada debajo — una solución suave para las abejas durante la estación fría; para el lluvioso Bergen, la carcasa exterior está además protegida contra el agua.
 
-Este tipo lleva el nombre de su creador — **Jan Gregor**, mi amigo y apicultor, cuya dedicación y precisión artesanal dieron a esta colmena su carácter. Yo mismo compré cuatro colmenas Gregor directamente a Jan y estoy muy satisfecho con ellas. Jan me pasó el testigo y me dio permiso para seguir construyéndolas — y trato de honrar su enfoque.
+Este tipo lleva el nombre de su creador — **Jan Gregor** de Málinec (Eslovaquia), mi amigo y apicultor, cuya dedicación y precisión artesanal dieron a esta colmena su carácter. Yo mismo compré cuatro colmenas Gregor directamente a Jan y estoy muy satisfecho con ellas. Jan me pasó el testigo y me dio permiso para seguir construyéndolas — y trato de honrar su enfoque.
 
 {{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — el creador de la colmena Gregor" caption="Jan Gregor — el creador de la colmena Gregor" >}}
 
@@ -29,6 +29,8 @@ Construida según la tradición del abuelo de mi esposa, que fue apicultor en Uc
 Si alguien quisiera tener en su terreno una pequeña casa de apiterapia, puede ponerse en contacto conmigo. Estaré encantado de ayudar con la realización y de aportar respaldo profesional tanto en la fabricación de las colmenas como en el manejo de las abejas.
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="La colmena horizontal ucraniana en el jardín de Bergen — junio 2026, el jardín está en plena floración." caption="La colmena horizontal ucraniana en el jardín de Bergen — junio 2026, el jardín está en plena floración." >}}
+
+*Jan de Eslovaquia, Gordiy de Ucrania, Bergen — tres apicultores de tres países.*
 
 ## Colmena horizontal accesible
 

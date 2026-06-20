@@ -12,7 +12,7 @@ Stavím vlastní dřevěné ležany v Bergenu. Ležany nejsou součástí norsk�
 
 Zateplený dřevěný ležan na norskou rámkovou míru se dvěma nástavky pro zimování oddělků. Byl vyvinut v Bergenu a pro potřeby Bergenu, aby chránil včely v deštivém bergenském počasí a poskytoval jim komfort i v zimě. Nástavky se přirozeně zahřívají od hlavního včelstva pod nimi; pro deštivý Bergen jsou navíc opatřeny ochranou pláště proti vodě.
 
-Tento typ nesie jméno svého tvůrce — **Jana Gregora**, mého kamaráda a včelaře, jehož pečlivost a řemeslná preciznost daly tomuto úlu jeho charakter. Sám jsem od Jana koupil čtyři úly Gregor a jsem s nimi spokojený. Jan mi předal štafetu i svolení tyto úly dál vyrábět — a já se snažím jeho přístup ctít.
+Tento typ nesie jméno svého tvůrce — **Jana Gregora** z Málince na Slovensku, mého kamaráda a včelaře, jehož pečlivost a řemeslná preciznost daly tomuto úlu jeho charakter. Sám jsem od Jana koupil čtyři úly Gregor a jsem s nimi spokojený. Jan mi předal štafetu i svolení tyto úly dál vyrábět — a já se snažím jeho přístup ctít.
 
 {{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — tvůrce Gregor-ležanu" caption="Jan Gregor — tvůrce Gregor-ležanu" >}}
 
@@ -29,6 +29,8 @@ Vyrobený podle tradice dědečka mé manželky. Moje první dva ukrajinské le�
 Pokud byste chtěli mít na svém pozemku apidomek, můžete se na mne obrátit. Můžeme se domluvit na realizaci a rád odborně zajistím výrobu úlů i chov včel.
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukrajinský ležan v zahradě v Bergenu — červen 2026, zahrada právě kvete." caption="Ukrajinský ležan v zahradě v Bergenu — červen 2026, zahrada právě kvete." >}}
+
+*Jan ze Slovenska, Gordiy z Ukrajiny, Bergen — tři včelaři ze tří zemí.*
 
 ## Bezbariérový ležan
 

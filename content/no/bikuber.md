@@ -12,7 +12,7 @@ Jeg bygger mine egne liggebikuber i tre i Bergen. Liggebikuber er ikke en del av
 
 En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over for vinteroppdeling. Den ble utviklet i Bergen og for forholdene i Bergen, for å beskytte biene i det regnfulle bergensværet og gi dem komfort også om vinteren. Oppsatsene varmes opp naturlig fra det underliggende bisamfunnet — en løsning som er skånsom mot biene om vinteren; for det regnfulle Bergen er ytterkappen dessuten beskyttet mot vann.
 
-Denne typen bærer navnet til skaperen sin — **Jan Gregor**, vennen min og birøkteren, hvis omsorg og håndverksdyktighet ga denne bikuben dens karakter. Jeg kjøpte fire Gregor-bikuber direkte fra Jan og er svært fornøyd med dem. Jan ga meg stafettpinnen og tillatelsen til å fortsette å bygge disse kubene — og jeg forsøker å hedre tilnærmingen hans.
+Denne typen bærer navnet til skaperen sin — **Jan Gregor** fra Málinec i Slovakia, vennen min og birøkteren, hvis omsorg og håndverksdyktighet ga denne bikuben dens karakter. Jeg kjøpte fire Gregor-bikuber direkte fra Jan og er svært fornøyd med dem. Jan ga meg stafettpinnen og tillatelsen til å fortsette å bygge disse kubene — og jeg forsøker å hedre tilnærmingen hans.
 
 {{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — skaperen av Gregor-kuben" caption="Jan Gregor — skaperen av Gregor-kuben" >}}
 
@@ -27,6 +27,8 @@ Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine t
 {{< figure src="/images/hive-ukrainian.jpg" alt="Ukrainske liggebikuber i hagen i Bergen." caption="Ukrainske liggebikuber i hagen i Bergen." >}}
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Den ukrainske liggebikuben i hagen i Bergen — juni 2026, hagen er i full blomst." caption="Den ukrainske liggebikuben i hagen i Bergen — juni 2026, hagen er i full blomst." >}}
+
+*Jan fra Slovakia, Gordiy fra Ukraina, Bergen — tre birøktere fra tre land.*
 
 ## Universelt tilgjengelig liggebikube
 

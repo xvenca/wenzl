@@ -12,7 +12,7 @@ Ich baue meine eigenen Holz-Lagerbeuten in Bergen. Lagerbeuten gehören nicht zu
 
 Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei Honigräumen darüber für die Überwinterung mit geteilter Volkseinheit. Sie wurde in Bergen und für die Bedingungen in Bergen entwickelt, um die Bienen im regnerischen Bergenwetter zu schützen und ihnen auch im Winter Komfort zu geben. Die Aufsätze werden natürlich vom Volk darunter erwärmt — schonend für die Bienen in der kalten Jahreszeit; für das regnerische Bergen ist die Außenhülle zusätzlich gegen Wasser geschützt.
 
-Dieser Typ trägt den Namen seines Schöpfers — **Jan Gregor**, meinem Freund und Imker, dessen Sorgfalt und handwerkliche Präzision dieser Beute ihren Charakter gegeben haben. Ich habe vier Gregor-Beuten direkt von Jan gekauft und bin sehr zufrieden damit. Jan hat mir den Staffelstab übergeben und mir erlaubt, diese Beuten weiterzubauen — und ich versuche, seinen Ansatz zu ehren.
+Dieser Typ trägt den Namen seines Schöpfers — **Jan Gregor** aus Málinec in der Slowakei, meinem Freund und Imker, dessen Sorgfalt und handwerkliche Präzision dieser Beute ihren Charakter gegeben haben. Ich habe vier Gregor-Beuten direkt von Jan gekauft und bin sehr zufrieden damit. Jan hat mir den Staffelstab übergeben und mir erlaubt, diese Beuten weiterzubauen — und ich versuche, seinen Ansatz zu ehren.
 
 {{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — Schöpfer der Gregor-Beute" caption="Jan Gregor — Schöpfer der Gregor-Beute" >}}
 
@@ -29,6 +29,8 @@ Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen
 Wer auf seinem Grundstück ein Apihäuschen haben möchte, kann sich gern an mich wenden. Ich helfe bei der Umsetzung und begleite fachlich sowohl den Bau der Beuten als auch die Imkerei.
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2026, der Garten steht in voller Blüte." caption="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2026, der Garten steht in voller Blüte." >}}
+
+*Jan aus der Slowakei, Gordiy aus der Ukraine, Bergen — drei Imker aus drei Ländern.*
 
 ## Barrierearme Lagerbeute
 
