@@ -12,7 +12,9 @@ Buduję własne drewniane leżaki w Bergen. Leżaki nie należą do norweskiej t
 
 Ocieplany drewniany leżak typu Gregor na norweski rozmiar ramki z dwoma nadstawkami u góry do zimowego podziału rodziny. Został rozwinięty w Bergen i z myślą o warunkach Bergen, aby chronić pszczoły w deszczowej pogodzie i zapewniać im komfort również zimą. Nadstawki naturalnie ogrzewają się od rodziny poniżej — to delikatne dla pszczół w chłodnym sezonie; zewnętrzny płaszcz jest dodatkowo zabezpieczony przed wodą z myślą o deszczowym Bergen.
 
-Ten typ nosi imię swojego twórcy — **Jana Gregora**, mojego przyjaciela i pszczelarza, którego staranność i precyzja rzemieślnicza nadały temu ulowi jego charakter. Sam kupiłem cztery ule Gregor bezpośrednio od Jana i jestem z nich bardzo zadowolony. Jan przekazał mi pałeczkę i zgodę na dalsze wytwarzanie tych uli — i staram się szanować jego podejście.
+Ten typ nosi imię swojego twórcy — **Jana Gregora** z Malinca na Słowacji, mojego przyjaciela i pszczelarza, którego staranność i precyzja rzemieślnicza nadały temu ulowi jego charakter. Sam kupiłem cztery ule Gregor bezpośrednio od Jana i jestem z nich bardzo zadowolony. Jan przekazał mi pałeczkę i zgodę na dalsze wytwarzanie tych uli — i staram się szanować jego podejście.
+
+{{< jan-gregor-gallery caption="Jan Gregor — twórca leżaka Gregor" >}}
 
 ## Ukraiński leżak
 
@@ -23,6 +25,8 @@ Zbudowany według tradycji dziadka mojej żony, który trzymał pszczoły na Ukr
 Jeśli ktoś chciałby mieć na swojej działce domek do apiterapii, może się ze mną skontaktować. Chętnie pomogę w realizacji i zapewnię fachowe wsparcie przy budowie uli oraz prowadzeniu pasieki.
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2026, ogród właśnie kwitnie." caption="Ukraiński leżak w ogrodzie w Bergen — czerwiec 2026, ogród właśnie kwitnie." >}}
+
+*Jan ze Słowacji, Gordiy z Ukrainy, ja z Moraw — trzech pszczelarzy z trzech ziem.*
 
 ## Bezbarierowy leżak
 

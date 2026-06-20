@@ -12,7 +12,9 @@ I build my own wooden horizontal hives in Bergen. Horizontal hives are not part 
 
 An insulated wooden Gregor-type horizontal hive in Norwegian frame dimensions with two supers above for winter colony division. It was developed in Bergen and for Bergen's conditions, to protect bees in the city's rainy weather and give them comfort through the winter as well. The supers warm up naturally from the colony below — gentle on the bees through the cold season; for rainy Bergen, the outer shell is additionally protected against water.
 
-This type carries the name of its creator — **Jan Gregor**, my friend and beekeeper, whose care and craftsmanship gave this hive its character. I bought four Gregor hives directly from Jan and am very happy with them. Jan passed me the baton and gave me permission to keep building these hives — and I try to honour his approach.
+This type carries the name of its creator — **Jan Gregor** from Málinec in Slovakia, my friend and beekeeper, whose care and craftsmanship gave this hive its character. I bought four Gregor hives directly from Jan and am very happy with them. Jan passed me the baton and gave me permission to keep building these hives — and I try to honour his approach.
+
+{{< jan-gregor-gallery caption="Jan Gregor — creator of the Gregor hive" >}}
 
 ## Ukrainian Horizontal Hive
 
@@ -24,6 +26,8 @@ If you would like to have a small bee house on your property, feel free to conta
 
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="The Ukrainian horizontal hive in the Bergen garden — June 2026, the garden is in full bloom." caption="The Ukrainian horizontal hive in the Bergen garden — June 2026, the garden is in full bloom." >}}
+
+*Jan from Slovakia, Gordiy from Ukraine, I from Moravia — three beekeepers from three lands.*
 
 ## Accessible Horizontal Hive
 

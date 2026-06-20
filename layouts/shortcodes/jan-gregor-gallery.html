@@ -1,0 +1,18 @@
+{{- $cap := .Get "caption" -}}
+{{- $imgs := slice "/images/Jan Gregor.jfif" "/images/Jan Gregor 2.jfif" "/images/Jan Gregor 3.jfif" -}}
+{{- $shown := slice -}}
+{{- range $imgs }}{{ if fileExists (printf "static%s" .) }}{{ $shown = $shown | append . }}{{ end }}{{- end -}}
+{{- with $shown }}
+<figure class="not-prose my-8">
+  <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+    {{- range . }}
+    <div class="overflow-hidden rounded-xl border border-amber-100 bg-white shadow-sm">
+      <img src="{{ . }}" alt="{{ $cap | default "Jan Gregor" }}" loading="lazy" decoding="async" class="w-full aspect-square object-cover">
+    </div>
+    {{- end }}
+  </div>
+  {{- with $cap }}
+  <figcaption class="text-sm text-stone-600 mt-3 text-center">{{ . }}</figcaption>
+  {{- end }}
+</figure>
+{{- end -}}
