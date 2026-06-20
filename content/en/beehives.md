@@ -14,6 +14,12 @@ An insulated wooden Gregor-type horizontal hive in Norwegian frame dimensions wi
 
 This type carries the name of its creator — **Jan Gregor**, my friend and beekeeper, whose care and craftsmanship gave this hive its character. I bought four Gregor hives directly from Jan and am very happy with them. Jan passed me the baton and gave me permission to keep building these hives — and I try to honour his approach.
 
+{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — creator of the Gregor hive" caption="Jan Gregor — creator of the Gregor hive" >}}
+
+{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
 ## Ukrainian Horizontal Hive
 
 Built after the tradition of my wife's grandfather, who kept bees in Ukraine. My first two Ukrainian horizontal hives were built with help from my friend **Gordiy Lebediev** from Kharkiv, Ukraine. Thick-walled boxes that mimic a natural hollow tree, providing excellent insulation. This hive type is traditionally used in apitherapy, often in a small bee house, where the hives stand beneath a bed or resting platform so people can relax and sleep above them. It is a calm way to unwind and feel closer to nature.

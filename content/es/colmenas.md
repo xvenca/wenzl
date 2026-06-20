@@ -14,6 +14,12 @@ Una colmena horizontal Gregor de madera, aislada, en medida de cuadro noruega, c
 
 Este tipo lleva el nombre de su creador — **Jan Gregor**, mi amigo y apicultor, cuya dedicación y precisión artesanal dieron a esta colmena su carácter. Yo mismo compré cuatro colmenas Gregor directamente a Jan y estoy muy satisfecho con ellas. Jan me pasó el testigo y me dio permiso para seguir construyéndolas — y trato de honrar su enfoque.
 
+{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — el creador de la colmena Gregor" caption="Jan Gregor — el creador de la colmena Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
 ## Colmena horizontal ucraniana
 
 Construida según la tradición del abuelo de mi esposa, que fue apicultor en Ucrania. Las dos primeras colmenas horizontales ucranianas las construí con la ayuda de mi amigo **Gordiy Lebediev** de Járkov, Ucrania. Cajas de paredes gruesas que imitan el hueco natural de un árbol y ofrecen un excelente aislamiento. Este tipo de colmena se usa tradicionalmente en la apiterapia, a menudo en una pequeña casa de apiterapia donde las colmenas se colocan bajo una cama o plataforma de descanso para que la gente pueda relajarse y dormir sobre ellas. Es una forma excelente de relajarse y sentirse más cerca de la naturaleza.

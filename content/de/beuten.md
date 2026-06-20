@@ -14,6 +14,12 @@ Eine gedämmte Holzbeute vom Typ Gregor im norwegischen Rähmchenmaß mit zwei H
 
 Dieser Typ trägt den Namen seines Schöpfers — **Jan Gregor**, meinem Freund und Imker, dessen Sorgfalt und handwerkliche Präzision dieser Beute ihren Charakter gegeben haben. Ich habe vier Gregor-Beuten direkt von Jan gekauft und bin sehr zufrieden damit. Jan hat mir den Staffelstab übergeben und mir erlaubt, diese Beuten weiterzubauen — und ich versuche, seinen Ansatz zu ehren.
 
+{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — Schöpfer der Gregor-Beute" caption="Jan Gregor — Schöpfer der Gregor-Beute" >}}
+
+{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
 ## Ukrainische Lagerbeute
 
 Gebaut nach der Tradition des Großvaters meiner Frau, der in der Ukraine Bienen hielt. Meine ersten zwei ukrainischen Lagerbeuten habe ich mit Hilfe meines Freundes **Gordiy Lebediev** aus Charkiw in der Ukraine gebaut. Die dickwandigen Kästen ahmen einen natürlichen Baumhohlraum nach und bieten hervorragende Isolierung. Dieser Beutentyp wird traditionell auch in der Apitherapie verwendet, oft in einem kleinen Apihäuschen, in dem die Beuten unter einer Liege oder einem Bett stehen, sodass Menschen darüber ruhen oder schlafen können. Das ist eine wunderbare Form der Entspannung und eine Möglichkeit, der Natur näher zu sein.
