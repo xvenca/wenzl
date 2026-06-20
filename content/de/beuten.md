@@ -30,7 +30,7 @@ Wer auf seinem Grundstück ein Apihäuschen haben möchte, kann sich gern an mic
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2026, der Garten steht in voller Blüte." caption="Die ukrainische Lagerbeute im Garten in Bergen — Juni 2026, der Garten steht in voller Blüte." >}}
 
-*Jan aus der Slowakei, Gordiy aus der Ukraine, ich aus Tschechien — drei Imker aus drei Ländern.*
+*Jan aus der Slowakei, Gordiy aus der Ukraine, ich aus Mähren — drei Imker aus drei Ländern.*
 
 ## Barrierearme Lagerbeute
 

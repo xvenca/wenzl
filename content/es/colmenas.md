@@ -30,7 +30,7 @@ Si alguien quisiera tener en su terreno una pequeña casa de apiterapia, puede p
 
 {{< figure src="/images/hive-ukrainian-garden-2026-06-06-1.jpg" alt="La colmena horizontal ucraniana en el jardín de Bergen — junio 2026, el jardín está en plena floración." caption="La colmena horizontal ucraniana en el jardín de Bergen — junio 2026, el jardín está en plena floración." >}}
 
-*Jan de Eslovaquia, Gordiy de Ucrania, yo de la República Checa — tres apicultores de tres países.*
+*Jan de Eslovaquia, Gordiy de Ucrania, yo de Moravia — tres apicultores de tres tierras.*
 
 ## Colmena horizontal accesible
 
