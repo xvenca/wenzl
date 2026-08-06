@@ -16,6 +16,12 @@ Denne typen bærer navnet til skaperen sin — **Jan Gregor** fra Málinec i Slo
 
 {{< jan-gregor-gallery caption="Jan Gregor — skaperen av Gregor-kuben" >}}
 
+{{< figure src="/images/Jan Gregor.jfif" alt="Jan Gregor — skaperen av Gregor-kuben" caption="Jan Gregor — skaperen av Gregor-kuben" >}}
+
+{{< figure src="/images/Jan Gregor 2.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
+{{< figure src="/images/Jan Gregor 3.jfif" alt="Jan Gregor" caption="Jan Gregor" >}}
+
 ## Ukrainsk liggebikube
 
 Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine to første ukrainske liggebikuber bygde jeg med hjelp fra vennen min **Gordiy Lebediev** fra Kharkiv i Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi, ofte i et lite apihus der kubene står under en liggeplass eller seng, slik at folk kan hvile og sove over dem. Det er en rolig måte å slappe av på og komme nærmere naturen. Hvis noen ønsker et apihus på eiendommen sin, kan de gjerne ta kontakt med meg. Jeg kan hjelpe med planleggingen og gi faglig oppfølging av både kubebygging og birøkt.
