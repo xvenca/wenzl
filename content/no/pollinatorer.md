@@ -1,6 +1,6 @@
 ---
 title: "Byer for bier"
-description: "87 av verdens 115 viktigste matplanter er avhengige av dyrebasert bestøvning. En 27-årig tysk studie registrerte 75 % nedgang i flygende insektbiomasse. Byer kan være en del av svaret — én balkong, ett tak, én ubleklipt plen om gangen."
+description: "87 av verdens 115 viktigste matplanter er avhengige av dyrebasert pollinering. En 27-årig tysk studie registrerte 75 % nedgang i flygende insektbiomasse. Byer kan være en del av svaret — én balkong, ett tak, én ubleklipt plen om gangen."
 image: "/images/CitiesForBees.png"
 ogImage: "/images/citiesforbees-og.jpg"
 ogImageWidth: 1024
