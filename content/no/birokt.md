@@ -1,6 +1,6 @@
 ﻿---
 title: "Birøkt i Norge"
-description: "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde tradisjonelle bikuber"
+description: "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, pollinering og håndlagde tradisjonelle bikuber"
 image: "/images/birokt-hero.jpg"
 alt: "Birøkter ved bikubene i Bergen"
 layout: "birokt"
@@ -18,16 +18,16 @@ services:
     desc: "Beskytt bygningen din mot bisværmer — jeg setter ut lokkekasser som fanger svermer før de slår seg ned i skorstein eller fasade. Gratis, i hele Norge."
     link: "#svermfeller"
   - icon: "pollination"
-    title: "Bestøvning"
+    title: "Pollinering"
     badge: "Bier mot plass"
     image: "/images/hive-ukrainian.jpg"
     desc: "Jeg plasserer bisamfunn i din hage gratis i sesongen. Du gir bibestanden mat og rom — de sørger for avlingen din."
-    link: "#bestøvningstjeneste"
+    link: "#pollineringstjeneste"
   - icon: "hive"
     title: "Bikuber"
     badge: "Håndlaget tre"
     image: "/images/hive-yellow-front.jpg"
-    desc: "Liggebikuber (horizontal hive) er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
+    desc: "Horisontale bikuber er uvanlig i Norge — jeg bygger dem selv og eksperimenterer med dem. Solide kuber i tre for naturlig birøkt."
     link: "#håndlagde-bikuber-og-treprodukter"
   - icon: "city"
     title: "By-birøkt"
@@ -67,7 +67,7 @@ Fanger fellen en sverm, henter jeg den, behandler biene profesjonelt i mitt **«
 
 ---
 
-## Bestøvningstjeneste
+## Pollineringstjeneste
 
 Bier er den viktigste pollineringsagenten for frukt, bær og grønnsaker. **Uten bier, ingen avling.**
 
@@ -76,7 +76,7 @@ Har du en hage, et gartneri eller et parsellhagedyrelag i Bergensregionen? Jeg t
 **Hva du får:** Kraftig pollinering gjennom sesongen.
 **Hva jeg får:** Et sted for mine bier å trives.
 
-Ta kontakt for å avtale bestøvning av din eiendom denne sesongen.
+Ta kontakt for å avtale pollinering av din eiendom denne sesongen.
 
 {{< contact >}}
 
@@ -84,16 +84,16 @@ Ta kontakt for å avtale bestøvning av din eiendom denne sesongen.
 
 ## Håndlagde Bikuber og Treprodukter
 
-**Liggebikuber (horizontal hive) er ikke en del av norsk birøkttradisjon** — det er noe jeg har tatt med meg og eksperimenterer med her i Norge. Jeg bygger dem selv, for hånd i Bergen, i massivt tre — mine ukrainske liggebikuber lagde jeg her. Tre puster, isolerer og varer slik intet industrielt materiale kan:
+**Horisontale bikuber er ikke en del av norsk birøkttradisjon** — det er noe jeg har tatt med meg og eksperimenterer med her i Norge. Jeg bygger dem selv, for hånd i Bergen, i massivt tre — mine ukrainske horisontale bikuber lagde jeg her. Tre puster, isolerer og varer slik intet industrielt materiale kan:
 
-### Gregor-liggebikube — norsk rammemål
-En isolert Gregor-liggebikube i tre på norsk rammemål med to oppsatser over for vinteroppdeling. Den ble utviklet i Bergen og for forholdene i Bergen, for å beskytte biene i det regnfulle bergensværet og gi dem komfort også om vinteren. Denne typen ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Oppsatsene varmes opp naturlig fra det underliggende bisamfunnet — en løsning som er skånsom mot biene om vinteren.
+### Horisontal Gregor-bikube — norsk rammemål
+En isolert horisontal Gregor-bikube i tre på norsk rammemål med to oppsatser over for vinteroppdeling. Den ble utviklet i Bergen og for forholdene i Bergen, for å beskytte biene i det regnfulle bergensværet og gi dem komfort også om vinteren. Denne typen ble opprinnelig laget av vennen min Jan Gregor, som jeg har overtatt stafettpinnen fra og fått tillatelse av til å bygge videre; for det regnfulle klimaet i Bergen er ytterkappen dessuten beskyttet mot vann. Oppsatsene varmes opp naturlig fra det underliggende bisamfunnet — en løsning som er skånsom mot biene om vinteren.
 
-### Ukrainsk liggebikube — familietradisjon
-Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine to første ukrainske liggebikuber bygde jeg med hjelp fra en venn fra Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi.
+### Ukrainsk horisontal bikube — familietradisjon
+Bygget etter tradisjonen til min kones bestefar, som birøktet i Ukraina. Mine to første ukrainske horisontale bikuber bygde jeg med hjelp fra en venn fra Ukraina. Tykkveggede kasser som etterligner en naturlig trehuling og gir utmerket isolasjon. Disse kubene brukes tradisjonelt til apiterapi.
 
-### Universelt tilgjengelig liggebikube
-Den bygger på den velprøvde Gregor-liggebikuben, men jeg bruker enda tykkere vegger i massivt tre og standard norsk rammemål. Målet mitt var å gjøre birøkt tilgjengelig for alle og samtidig sørge for at kuben bruker vanlige norske rammer, slik at den er kompatibel med andre birøktere også under harde nordlige forhold. Det er avgjørende når et svakt samfunn må styrkes med yngel fra et annet samfunn. Som isolasjon kan den fylles med ull fra lokale norske sauer. I stedet for oppsatser over hovedsamfunnet har den et lett aluminiumstak på hengsler, slik at kuben er rask og enkel å åpne. Både barn, mennesker med ryggsmerter og til og med rullestolbrukere kan røkte bier i den. Det er en universelt tilgjengelig bikube. *(Den gule kuben.)*
+### Universelt tilgjengelig horisontal bikube
+Den bygger på den velprøvde horisontale Gregor-bikuben, men jeg bruker enda tykkere vegger i massivt tre og standard norsk rammemål. Målet mitt var å gjøre birøkt tilgjengelig for alle og samtidig sørge for at kuben bruker vanlige norske rammer, slik at den er kompatibel med andre birøktere også under harde nordlige forhold. Det er avgjørende når et svakt samfunn må styrkes med yngel fra et annet samfunn. Som isolasjon kan den fylles med ull fra lokale norske sauer. I stedet for oppsatser over hovedsamfunnet har den et lett aluminiumstak på hengsler, slik at kuben er rask og enkel å åpne. Både barn, mennesker med ryggsmerter og til og med rullestolbrukere kan røkte bier i den. Det er en universelt tilgjengelig bikube. *(Den gule kuben.)*
 
 Interessen for kubene har allerede begynt å melde seg — *ta kontakt hvis du ønsker en kube.*
 
@@ -120,12 +120,12 @@ Har institusjonen din — sykehus, omsorgssenter, skole eller arbeidsplass — h
 
 ## Apiterapi
 
-Et **apidomki** (apiterapihus) er en liten hytte eller bygning der folk sover over bikubene — en rolig, uvanlig måte å hvile dypt i naturen. Den ukrainske liggebikuben er den tradisjonelle kubetypen til dette formålet: lav og bred, utformet for å passe under en sengeplattform.
+Et **apidomki** (apiterapihus) er en liten hytte eller bygning der folk sover over bikubene — en rolig, uvanlig måte å hvile dypt i naturen. Den ukrainske horisontale bikuben er den tradisjonelle kubetypen til dette formålet: lav og bred, utformet for å passe under en sengeplattform.
 
 Jeg tilbyr:
 
 - Rådgivning og bygging av **apidomki** (apiterapihytter) — små hytter der gjestene sover rett over bikubene
-- Ukrainske liggebikuber bygget og driftet spesielt for apiterapi
+- Ukrainske horisontale bikuber bygget og driftet spesielt for apiterapi
 - Veiledning for omsorgsinstitusjoner, rehabiliteringssentre og velværeprosjekter som vurderer apiterapi
 
 ---
@@ -167,7 +167,7 @@ I Norge er jeg **sertifisert birøkter** med sertifikat utstedt i **Bergen**.
 
 ### Familietradisjon
 
-Birøkt er ikke bare faget mitt — det er familiehistorien min. Min oldefar birøktet i **Voderade ved Kunštát**. Min kones bestefar birøktet i **Ukraina** — hans tradisjon lever videre i de ukrainske liggebikubene jeg selv bygger. Josef Stejskal, som lærte meg birøkt i Obora, er dessuten en fjern slektning av meg. Jeg viderefører altså en levende familietradisjon på begge sider.
+Birøkt er ikke bare faget mitt — det er familiehistorien min. Min oldefar birøktet i **Voděrady ved Kunštát**. Min kones bestefar birøktet i **Ukraina** — hans tradisjon lever videre i de ukrainske horisontale bikubene jeg selv bygger. Josef Stejskal, som lærte meg birøkt i Obora, er dessuten en fjern slektning av meg. Jeg viderefører altså en levende familietradisjon på begge sider.
 
 {{< figure src="/images/roj.png" alt="Roj av bier" caption="Sværm etter fangst" >}}
 

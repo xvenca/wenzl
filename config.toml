@@ -25,7 +25,7 @@ disableKinds = ["taxonomy", "term"]
     contentDir = "content/no"
     weight = 1
     [languages.no.params]
-      description = "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, bestøvning og håndlagde bikuber i tre"
+      description = "Sertifisert birøkter i Norge med base i Bergen — naturlig birøkt, svermfangst, pollinering og håndlagde bikuber i tre"
     [[languages.no.menu.main]]
       identifier = "home"
       name = "Hjem"
